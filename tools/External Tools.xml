@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="re-deploy-only" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="start.sh -r" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/work/bash/abakus-deployment" />
+    </exec>
+  </tool>
+  <tool name="maven install" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mvn" />
+      <option name="PARAMETERS" value="-T 1C clean install -am -pl web -Dmaven.test.skip=true" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
