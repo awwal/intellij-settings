@@ -23,9 +23,7 @@
         <mark key="." line="186" column="87" />
         <mark key="^" line="172" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-core/2.0.6/abakus-erp-core-2.0.6-sources.jar!/fi/abakus/erp/services/jbpm/AbstractJbpmConnector.java" timestamp="1535356146266" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/test/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" timestamp="1535216247390" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-core/2.0.6/abakus-erp-core-2.0.6-sources.jar!/fi/abakus/erp/services/impl/GenericJobServiceImpl.java" timestamp="1535353088143" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/WorkerServiceImpl.java" timestamp="1535011632111">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -42,7 +40,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-core/2.0.6/abakus-erp-core-2.0.6-sources.jar!/fi/abakus/erp/services/jbpm/JbpmCommandInvokerImpl.java" timestamp="1535356002010" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/service-diary-entries/edit.jsp" timestamp="1535113497354">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="31" column="14" />
@@ -79,6 +76,12 @@
       </file>
       <file name="/fragment.java" timestamp="1535356095060">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/styles/application.css" timestamp="1535357869488">
+        <mark key="[" line="859" column="16" />
+        <mark key="]" line="859" column="15" />
+        <mark key="." line="859" column="15" />
+        <mark key="^" line="859" column="15" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" timestamp="1535033296951">
         <mark key="[" line="264" column="165" />
@@ -195,11 +198,11 @@
       <jump line="542" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxjb2xncm91cD4KICAgICAgPGNvbCBzdHlsZT0id2lkdGg6NjAlIj4KICAgICAgPGNvbCBzdHlsZT0id2lkdGg6NDAlIj4KICAgIDwvY29sZ3JvdXA+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>other</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>other</text>
       </register>
       <register name="/" type="4">
         <text>ContactPerson</text>
