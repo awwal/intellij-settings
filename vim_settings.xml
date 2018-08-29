@@ -21,6 +21,7 @@
         <mark key="." line="186" column="87" />
         <mark key="^" line="172" column="33" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork-integration/src/main/resources/META-INF/camel/camel-context.xml" timestamp="1535529800646" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/test/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" timestamp="1535527262436" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/WorkerServiceImpl.java" timestamp="1535011632111">
         <mark key="[" line="72" column="0" />
@@ -42,6 +43,7 @@
         <mark key="." line="97" column="34" />
         <mark key="^" line="97" column="31" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork-integration/pom.xml" timestamp="1535530597419" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/commands/assignJob.jsp" timestamp="1535457426896">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -151,6 +153,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork-integration/src/main/resources/META-INF/spring/osgi-context.xml" timestamp="1535529971355" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/11.sql" timestamp="1535465533712">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
