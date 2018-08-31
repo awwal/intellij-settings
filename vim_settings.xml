@@ -40,6 +40,7 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1535626031728" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job.jsp" timestamp="1535627738856" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceCardServiceImpl.java" timestamp="1535626039154" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" timestamp="1535708563303" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobService.java" timestamp="1535627716911">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -111,10 +112,10 @@
         <mark key="^" line="73" column="24" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1535630730199">
-        <mark key="[" line="859" column="54" />
-        <mark key="]" line="858" column="62" />
-        <mark key="^" line="858" column="62" />
-        <mark key="." line="859" column="62" />
+        <mark key="[" line="860" column="54" />
+        <mark key="]" line="859" column="62" />
+        <mark key="^" line="859" column="62" />
+        <mark key="." line="860" column="62" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/EditJobController.java" timestamp="1535628908389">
         <mark key="'" line="0" column="0" />
