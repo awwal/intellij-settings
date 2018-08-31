@@ -72,6 +72,11 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/camel/camel-core/2.16.5/camel-core-2.16.5-sources.jar!/org/apache/camel/impl/DefaultShutdownStrategy.java" timestamp="1535733628867" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1535626031728" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job.jsp" timestamp="1535627738856" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DefaultManagerSelectionStrategy.java" timestamp="1535736225696">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/log4j.xml" timestamp="1535734948972">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
@@ -332,11 +337,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/README.md" timestamp="1535710501757">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/README.md" timestamp="1535736473502">
+        <mark key="[" line="61" column="55" />
+        <mark key="]" line="61" column="55" />
+        <mark key="^" line="61" column="55" />
+        <mark key="." line="61" column="55" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/security/BusinessObjectSecurity.java" timestamp="1535010892031">
         <mark key="[" line="75" column="49" />
@@ -465,10 +470,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ContactPerson</text>
