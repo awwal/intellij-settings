@@ -51,6 +51,7 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="28" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-web/2.0.6/abakus-erp-web-2.0.6-sources.jar!/fi/abakus/erp/client/web/EditJobController.java" timestamp="1535715711329" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/calendar/DhtmlxCalModifier.java" timestamp="1535012400041">
         <mark key="[" line="336" column="49" />
         <mark key="]" line="336" column="49" />
@@ -79,6 +80,7 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/EditObjectController.java" timestamp="1535715758345" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" timestamp="1535708563303" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobService.java" timestamp="1535627716911">
         <mark key="[" line="51" column="0" />
@@ -145,6 +147,12 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/EditJobForm.java" timestamp="1535716224023">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="1" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/pom.xml" timestamp="1535711335107">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -204,6 +212,7 @@
         <mark key="^" line="875" column="14" />
         <mark key="." line="865" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/EditEntityController.java" timestamp="1535715731041" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" timestamp="1535441408870">
         <mark key="[" line="264" column="165" />
         <mark key="]" line="264" column="165" />
@@ -227,13 +236,14 @@
         <mark key="^" line="859" column="62" />
         <mark key="." line="860" column="62" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/EditJobController.java" timestamp="1535628908389">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/EditJobController.java" timestamp="1535716623077">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="301" column="11" />
         <mark key="]" line="302" column="93" />
         <mark key="^" line="302" column="93" />
         <mark key="." line="302" column="93" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/AbstractEditJobController.java" timestamp="1535715709137" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobCategoryDAO.java" timestamp="1535456727207">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
