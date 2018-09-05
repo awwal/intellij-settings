@@ -27,6 +27,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-impl/2.2.8/abakus-core-impl-2.2.8-sources.jar!/fi/abakus/core/services/impl/PersonServiceImpl.java" timestamp="1536148650859" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/java/com/optiscangroup/processors/CharacterEncodingProcessor.java" timestamp="1536056847408">
         <mark key="[" line="49" column="12" />
         <mark key="]" line="49" column="15" />
@@ -52,12 +53,7 @@
         <mark key="^" line="15" column="45" />
         <mark key="." line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" timestamp="1536147069587">
-        <mark key="[" line="194" column="44" />
-        <mark key="]" line="194" column="44" />
-        <mark key="." line="194" column="44" />
-        <mark key="^" line="162" column="34" />
-      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" timestamp="1536148786318" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/calendar/DhtmlxCalDAO.java" timestamp="1535216393516">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -183,6 +179,9 @@
         <mark key="^" line="56" column="82" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/crm/abakus-crm-model/3.1.17/abakus-crm-model-3.1.17-sources.jar!/fi/abakus/crm/services/CustomerService.java" timestamp="1536146056403" />
+      <file name="/fragment.java" timestamp="1536148104318">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="428" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobQuery.java" />
@@ -288,43 +287,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(removeExistingContactPerson</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>(removeExistingContactPerson</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>ContactPerson</text>
       </register>
-      <register name="0" type="4">
-        <text>removeStaleCustomerContacts(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuZXF1YWxzSWdub3JlQ2FzZShwZXJzb25XcmFwcGVyLmdldEVtYWlsQWRkcmVzcygpLCBlbWFpbEFkZHJlc3MpKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBib29sZWFuIHNhbWVGaXJzdE5hbWUgPSBTdHJpbmdVdGlscy5lcXVhbHNJZ25vcmVDYXNlKGZpcnN0TmFtZSwgcGVyc29uV3JhcHBlci5nZXRGaXJzdE5hbWUoKSk7CiAgICAgICAgYm9vbGVhbiBzYW1lTGFzdE5hbWUgPSBTdHJpbmdVdGlscy5lcXVhbHNJZ25vcmVDYXNlKGxhc3ROYW1lLCBwZXJzb25XcmFwcGVyLmdldExhc3ROYW1lKCkpOwogICAgICAgIHJldHVybiBzYW1lRmlyc3ROYW1lICYmIHNhbWVMYXN0TmFtZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc2FtZUZpcnN0TmFtZSAmJiBzYW1lTGFzdE5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocGVyc29uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZihTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoY29udGFjdFdpdGhFbWFpbE9yTmFtZUV4aXN0KHBlcnNvbldyYXBwZXIsKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCA9IGN1c3RvbWVyLmdldENvbnRhY3RQZXJzb25zKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvUmVtb3ZlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcnNvblNlcnZpY2UuZGVsZXRlUGVyc29uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyc29uU2VydmljZS5kZWxldGVQZXJzb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJzb24gcGVyc29uID0gbmV3IFBlcnNvbigpOwogICAgICAgIHNldFBlcnNvbkF0dHJpYnV0ZXMoY29udGFjdFBlcnNvbldyYXBwZXIsIHBlcnNvbik7CiAgICAgICAgcGVyc29uID0gcGVyc29uU2VydmljZS5zdG9yZVBlcnNvbihwZXJzb24pOwogICAgICAgIGxvZy5pbmZvKCJDcmVhdGluZyBuZXcgY3VzdG9tZXIgY29udGFjdCBwZXJzb24gIiArIHBlcnNvbi5nZXRJZCgpKTsKICAgICAgICBjdXN0b21lci5hZGRDb250YWN0UGVyc29uKHBlcnNvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAhY29udGFjdFdpdGhFbWFpbE9yTmFtZUV4aXN0KGNvbnRhY3RQZXJzb25XcmFwcGVyLCBjb250YWN0UGVyc29uLmdldEZpcnN0TmFtZSgpLCBjb250YWN0UGVyc29uLmdldExhc3ROYW1lKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250YWN0UGVyc29uLmdldEVtYWlsQWRkcmVzcygpKSkgewogICAgICAgICAgICAgICAgdG9SZW1vdmUuYWRkKGNvbnRhY3RQZXJzb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjb250YWN0UGVyc29ucy5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgcGVyc29uSWRzW2ldPSBjb250YWN0UGVyc29ucy4KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChQZXJzb24gcGVyc29uIDogY29udGFjdFBlcnNvbnMpIHsKICAgICAgICAgICAgICAgIHBlcnNvbklkcy5hZGQocGVyc29uLmdldElkKCkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gcGVyc29uSWRzID0gbmV3IEhhc2hTZXQ8SW50ZWdlcj4oKTsKICAgICAgICBmb3IgKFBlcnNvbiBwZXJzb24gOiBjb250YWN0UGVyc29ucykgewogICAgICAgICAgIHBlcnNvbklkcy5hZGQocGVyc29uLmdldElkKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>340</text>
