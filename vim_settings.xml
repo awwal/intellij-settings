@@ -11,6 +11,9 @@
         <mark key="." line="186" column="87" />
         <mark key="^" line="172" column="33" />
       </file>
+      <file name="/a.dummy" timestamp="1536138178869">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/device_card_in.xml" timestamp="1536230472318">
         <mark key="[" line="10" column="265" />
         <mark key="]" line="10" column="251" />
@@ -131,6 +134,9 @@
         <mark key="^" line="226" column="60" />
         <mark key="." line="226" column="60" />
       </file>
+      <file name="$USER_HOME$/work/java/abakus-core-api/src/main/java/fi/abakus/core/model/Phone.java" timestamp="1536237670476">
+        <mark key="[" line="40" column="5" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork-integration/src/main/java/com/optiscangroup/processors/CharacterEncodingProcessor.java" timestamp="1535611941700">
         <mark key="[" line="46" column="16" />
         <mark key="]" line="46" column="20" />
@@ -215,6 +221,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1536148104318">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
