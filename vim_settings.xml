@@ -56,7 +56,7 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1536233389804" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceCardServiceImpl.java" timestamp="1536230712145" />
       <file name="$USER_HOME$/work/java/abakus-core-api/pom.xml" timestamp="1536238910599">
-        <mark key="[" line="15" column="18" />
+        <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="40" />
