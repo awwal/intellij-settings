@@ -5,6 +5,12 @@
       <mark key="M" line="12" column="44" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/test/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/fi/abakus/fajanssi/mobile/util/Converter.java" timestamp="1536245170258">
+        <mark key="[" line="245" column="85" />
+        <mark key="]" line="245" column="94" />
+        <mark key="." line="245" column="94" />
+        <mark key="^" line="245" column="94" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/sitemap/abakus-menu.jsp" timestamp="1535032910850">
         <mark key="[" line="186" column="87" />
         <mark key="]" line="186" column="87" />
@@ -47,11 +53,6 @@
         <mark key="." line="336" column="49" />
         <mark key="^" line="335" column="83" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/viewContactPersons.jsp" timestamp="1536235468640">
-        <mark key="[" line="69" column="70" />
-        <mark key="]" line="69" column="70" />
-        <mark key="." line="69" column="70" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1536233389804" />
       <file name="/Objects.toStringHelper (Guava)" timestamp="1536243832111">
         <mark key="[" line="0" column="0" />
@@ -69,11 +70,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/PhoneNumberParser.java" timestamp="1536242783584">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-      </file>
       <file name="/String concat (+)" timestamp="1536243832085">
         <mark key="[" line="0" column="0" />
       </file>
@@ -85,11 +81,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="118" column="86" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1536230491523">
-        <mark key="[" line="13" column="72" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/ViewEntityController.java" timestamp="1536235624192" />
       <file name="/StringBuffer" timestamp="1536243832093">
@@ -219,6 +210,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/view.jsp" timestamp="1536245671367">
+        <mark key="'" line="141" column="70" />
+        <mark key="[" line="124" column="40" />
+        <mark key="]" line="124" column="40" />
+        <mark key="." line="124" column="40" />
+        <mark key="^" line="124" column="45" />
+      </file>
       <file name="/StringBuilder (JDK 1.5)" timestamp="1536243832097">
         <mark key="[" line="0" column="0" />
       </file>
@@ -227,11 +225,6 @@
         <mark key="]" line="56" column="82" />
         <mark key="." line="56" column="82" />
         <mark key="^" line="56" column="82" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceCardDAO.java" timestamp="1536230760769">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/security/BusinessObjectSecurity.java" timestamp="1535010892031">
         <mark key="[" line="75" column="49" />
@@ -375,10 +368,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgaWYgKCFpc0NvbXBsZXRlKCkpIHsKICAgICAgICAgICAgcmV0dXJuICIiOwogICAgICAgIH0KCiAgICAgICAgU3RyaW5nQnVmZmVyIHN0cmluZyA9IG5ldyBTdHJpbmdCdWZmZXIoKTsKCiAgICAgICAgaWYgKHRoaXMuY291bnRyeUNvZGUgIT0gbnVsbCAmJiAhREVGQVVMVF9DT1VOVFJZX0NPREUuZXF1YWxzKHRoaXMuY291bnRyeUNvZGUpKSB7CiAgICAgICAgICAgIHN0cmluZy5hcHBlbmQoJysnKTsKICAgICAgICAgICAgc3RyaW5nLmFwcGVuZCh0aGlzLmNvdW50cnlDb2RlKTsKCiAgICAgICAgICAgIGlmICh0aGlzLmFyZWFDb2RlICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHN0cmluZy5hcHBlbmQoJyAnKTsKICAgICAgICAgICAgICAgIHN0cmluZy5hcHBlbmQodGhpcy5hcmVhQ29kZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgZWxzZSBpZiAodGhpcy5hcmVhQ29kZSAhPSBudWxsKSB7CiAgICAgICAgICAgIHN0cmluZy5hcHBlbmQoJzAnKTsKICAgICAgICAgICAgc3RyaW5nLmFwcGVuZCh0aGlzLmFyZWFDb2RlKTsKICAgICAgICB9CgogICAgICAgIGlmICh0aGlzLmxvY2FsTnVtYmVyICE9IG51bGwpIHsKICAgICAgICAgICAgaWYgKHN0cmluZy5sZW5ndGgoKSA+IDApIHsKICAgICAgICAgICAgICAgIHN0cmluZy5hcHBlbmQoJyAnKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBzdHJpbmcuYXBwZW5kKHRoaXMubG9jYWxOdW1iZXIpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHN0cmluZy50b1N0cmluZygpOwogICAgfQ==</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>getAsString</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>ContactPerson</text>
