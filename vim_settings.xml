@@ -19,14 +19,15 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-impl/2.2.8/abakus-core-impl-2.2.8-sources.jar!/fi/abakus/core/services/impl/PersonServiceImpl.java" timestamp="1536150735413" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/PartnerType.java" timestamp="1536141347519" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" timestamp="1536214964410">
-        <mark key="'" line="168" column="11" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeImpl.java" timestamp="1536217222907" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" timestamp="1536217170597">
+        <mark key="'" line="259" column="8" />
         <mark key="j" line="54" column="0" />
-        <mark key="[" line="215" column="43" />
-        <mark key="]" line="215" column="41" />
+        <mark key="[" line="271" column="15" />
+        <mark key="]" line="271" column="19" />
         <mark key="m" line="54" column="0" />
-        <mark key="^" line="215" column="41" />
-        <mark key="." line="215" column="41" />
+        <mark key="^" line="271" column="19" />
+        <mark key="." line="271" column="19" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/abakus-home/log4j.properties" timestamp="1536140046174">
         <mark key="[" line="11" column="58" />
@@ -52,15 +53,15 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/crm/abakus-crm-core/3.1.17/abakus-crm-core-3.1.17-sources.jar!/fi/abakus/crm/services/impl/CustomerServiceImpl.java" timestamp="1536146061089" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/partner.xsl" timestamp="1536212655512" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15/abakus-core-api-2.2.15-sources.jar!/fi/abakus/core/model/Phone.java" timestamp="1536215606219">
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15/abakus-core-api-2.2.15-sources.jar!/fi/abakus/core/model/Phone.java" timestamp="1536217179131">
         <mark key="'" line="146" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/crm/abakus-crm-model/3.1.17/abakus-crm-model-3.1.17-sources.jar!/fi/abakus/crm/model/Customer.java" timestamp="1536215243707" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/BusinessObject.java" timestamp="1536146318878" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/ProductCatalogFacade.java" timestamp="1536063345475" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/view.jsp" timestamp="1536215150018">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/view.jsp" timestamp="1536217136126">
         <mark key="'" line="141" column="70" />
-        <mark key="[" line="124" column="46" />
+        <mark key="[" line="124" column="45" />
         <mark key="]" line="124" column="46" />
         <mark key="." line="124" column="46" />
         <mark key="^" line="156" column="75" />
@@ -71,9 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="54" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/AddDeviceController.java" />
-      <jump line="59" column="10" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceServiceLogImplTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceServiceLogImplTest.java" />
       <jump line="40" column="47" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" />
       <jump line="28" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dao/hibernate/HibernateBusinessObjectDAO-dataset.xml" />
       <jump line="111" column="113" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dao/hibernate/HibernateBusinessObjectDAO-dataset.xml" />
@@ -171,13 +169,16 @@
       <jump line="303" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" />
       <jump line="168" column="11" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" />
       <jump line="146" column="4" filename="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15/abakus-core-api-2.2.15-sources.jar!/fi/abakus/core/model/Phone.java" />
+      <jump line="270" column="8" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" />
+      <jump line="256" column="8" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" />
+      <jump line="259" column="8" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>asString</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>asString</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>ContactPerson</text>
@@ -186,31 +187,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzRW1wdHkocGVyc29uV3JhcHBlci5nZXRFbWFpbEFkZHJlc3MoKSkgJiYKICAgICAgICAgICAgICAgICAgICBTdHJpbmdVdGlscy5pc0VtcHR5KHBlcnNvbldyYXBwZXIuZ2V0UGhvbmVOdW1iZXIoKSkgJiYKICAgICAgICAgICAgICAgICAgICBTdHJpbmdVdGlscy5pc0VtcHR5KHBlcnNvbldyYXBwZXIuZ2V0Rmlyc3ROYW1lKCkpICYmCiAgICAgICAgICAgICAgICAgICAgU3RyaW5nVXRpbHMuaXNFbXB0eShwZXJzb25XcmFwcGVyLmdldExhc3ROYW1lKCkpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gUGhvbmUucGFyc2UocGhvbmVOdW1iZXIpOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCJJZ25vcmluZyBpbnZhbGlkIHBob25lIG51bWJlcjogIiArIHBob25lTnVtYmVyLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdVdGlscy5pc0VtcHR5KHBlcnNvbldyYXBwZXIuZ2V0UGhvbmVOdW1iZXIoKSkgJiYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocGVyc29uLmdldEZpcnN0TmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdVdGlscy5pc0VtcHR5KHBlcnNvbldyYXBwZXIuZ2V0UGhvbmVOdW1iZXIoKSkgJiYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocGVyc29uLmdldEZpcnN0TmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGN1c3RvbWVyU2VydmljZS5hZGRDb250YWN0UGVyc29ucyhjdXN0b21lci5nZXRJZCgpLCBuZXcgaW50W10geyBwZXJzb24uZ2V0SWQoKSB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgbG9nQWN0aW9uKFBlcnNvbiBwZXJzb24pIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGN1c3RvbWVyU2VydmljZS5hZGRDb250YWN0UGVyc29ucyhjdXN0b21lci5nZXRJZCgpLCBuZXcgaW50W10geyBwZXJzb24uZ2V0SWQoKSB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nQWN0aW9uKHBlcnNvbik7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgbG9nQWN0aW9uKFBlcnNvbiBwZXJzb24pIHsKCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGlzTmV3ID0gcGVyc29uLmdldElkKCkgPT0gbnVsbDsKICAgICAgICBpZihpc05ldykKICAgICAgICAgICAgbG9nLmluZm8oIkNyZWF0aW5nIGN1c3RvbWVyIGNvbnRhY3QgcGVyc29uIik7CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIGxvZy5pbmZvKCJ1cGRhdGluZyBjdXN0b21lciBjb250YWN0IHBlcnNvbiAiK3BlcnNvbi5nZXRJZCgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nQWN0aW9uKHBlcnNvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oKHBlcnNvbi5nZXRJZCgpID09IG51bGwgPyAiQ3JlYXRpbmciIDogIlVwZGF0aW5nIikgKyAiIGN1c3RvbWVyIGNvbnRhY3QgcGVyc29uICIKICAgICAgICAgICAgICAgICAgICArIHBlcnNvbi5nZXRFbWFpbEFkZHJlc3MoKSArICIgIiArIHBlcnNvbi5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGlzTmV3ID0gcGVyc29uLmdldElkKCkgPT0gbnVsbDsKICAgICAgICBpZihpc05ldykKICAgICAgICAgICAgbG9nLmluZm8oIkNyZWF0aW5nIGN1c3RvbWVyIGNvbnRhY3QgcGVyc29uIik7CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIGxvZy5pbmZvKCJ1cGRhdGluZyBjdXN0b21lciBjb250YWN0IHBlcnNvbiAiK3BlcnNvbi5nZXRJZCgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>340</text>
