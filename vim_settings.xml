@@ -20,15 +20,28 @@
         <mark key="." line="103" column="85" />
         <mark key="^" line="103" column="85" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/META-INF/camel/camel-context.xml" timestamp="1536315669769" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/com.optiscangroup.fieldwork.integration.chiller.cfg" timestamp="1536323868911">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1536312951889">
         <mark key="[" line="39" column="85" />
         <mark key="]" line="39" column="85" />
         <mark key="." line="39" column="85" />
         <mark key="^" line="39" column="93" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" timestamp="1536315690911" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1536315680536" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" timestamp="1536322387493">
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="0" />
+        <mark key="." line="305" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/META-INF/spring/osgi-context.xml" timestamp="1536323524525">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/Config.java" timestamp="1536308130183">
         <mark key="'" line="11" column="31" />
         <mark key="[" line="11" column="91" />
@@ -36,7 +49,6 @@
         <mark key="." line="11" column="98" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0-sources.jar!/org/apache/commons/lang3/Range.java" timestamp="1536309101549" />
       <file name="$USER_HOME$/work/java/excel-transformer/README.md" timestamp="1536310327279">
         <mark key="[" line="20" column="56" />
         <mark key="]" line="20" column="73" />
@@ -50,8 +62,6 @@
         <mark key="." line="51" column="12" />
         <mark key="^" line="20" column="77" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/customer-servlet.xml" timestamp="1536314007856" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" timestamp="1536314290624" />
       <file name="/fragment.java" timestamp="1536310233426">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,44 +74,49 @@
         <text encoding="base64">ICAgICAgICBSYW5nZSByID0gUmFuZ2UuYmV0d2VlbigxLEludGVnZXIuTUFYX1ZBTFVFKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvbmZpZy5nZXRSYW5nZSgpLmdldE1heGltdW0oKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0Lm91dC50cmFjZS5kaXJlY3RvcnkudXJpPWZpbGU6Ly8vb3B0L2FiYWt1cy9pbnRlZ3JhdGlvbi90cmFjZS9pbXBvcnQvb3V0Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0Lm91dC50cmFjZS5kaXJlY3RvcnkudXJpPWZpbGU6Ly8vb3B0L2FiYWt1cy9pbnRlZ3JhdGlvbi90cmFjZS9pbXBvcnQvb3V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgaW50IHJvd051bWJlciA9IGkgKyAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbihjb25maWcuZ2V0UmFuZ2UoKS5nZXRNYXhpbXVtKCkpOwogICAgICAgICAgICBpZihyb3dOdW1iZXIgPmNvbmZpZy5nZXRSYW5nZSgpLmdldE1heGltdW0oKSApewogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0LnRyYWNlLmRpcmVjdG9yeS51cmk9ZmlsZTovLy9vcHQvYWJha3VzL2ludGVncmF0aW9uL3RyYWNlL2ltcG9ydC9pbgppbXBvcnQub3V0LnRyYWNlLmRpcmVjdG9yeS51cmk9ZmlsZTovLy9vcHQvYWJha3VzL2ludGVncmF0aW9uL3RyYWNlL2ltcG9ydC9vdXQKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBJbnRlZ2VyIG1heEludGVnZXIgPSBnZXRJbnQoc3BsaXRbMV0pOwo=</text>
+        <text encoding="base64">ZXhwb3J0LmZyb20uZGlyZWN0b3J5LnVyaT1maWxlOi8vL29wdC9hYmFrdXMvaW50ZWdyYXRpb24vb3V0P21vdmU9YXJjaGl2ZSZhbXA7bW92ZUZhaWxlZD1mYWlsZWQmYW1wO2luY2x1ZGU9LipcLnhtbApleHBvcnQudG8udXJpPWh0dHA0Oi8vbG9jYWxob3N0OjgwODgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBnZXRJbnQoU3RyaW5nIHMsIGludCBkKSB7IH0K</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA8cHJvcCBrZXk9ImV4cG9ydC5mcm9tLmRpcmVjdG9yeS51cmkiPmZpbGU6L2FiYWt1cy9ob21lL1NlcnZpY2VNaXgvb3V0P21vdmU9YXJjaGl2ZSZhbXA7bW92ZUZhaWxlZD1mYWlsZWQmYW1wO2luY2x1ZGU9LipcLnhtbDwvcHJvcD4KICAgICAgICA8cHJvcCBrZXk9ImV4cG9ydC50by51cmkiPmh0dHA0Oi8vbG9jYWxob3N0OjgwODgvPC9wcm9wPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcCBrZXk9IndlYnNlcnZpY2UuZm9yLmluY29taW5nLnRvLmNyZWF0ZS51cmwiPmpldHR5Omh0dHA6Ly8wLjAuMC4wOjkwMDAvaW4/Y29udGludWF0aW9uVGltZW91dD0wPC9wcm9wPgogICAgICAgIDwhLS0gVGhpcyBvbmUgaXMgZm9yIGxvY2FsIGRlYnVnZ2luZyAtLT4KICAgICAgICA8cHJvcCBrZXk9ImltcG9ydC5mcm9tLmRpcmVjdG9yeS51cmkiPmZpbGU6L2FiYWt1cy9ob21lL1NlcnZpY2VNaXgvaW4/bW92ZT1hcmNoaXZlJmFtcDttb3ZlRmFpbGVkPWZhaWxlZCZhbXA7aW5jbHVkZT0uKlwueG1sPC9wcm9wPgoKICAgICAgICA8cHJvcCBrZXk9ImV4cG9ydC50cmFjZS5kaXJlY3RvcnkudXJpIj5maWxlOi8vL29wdC9hYmFrdXMvaW50ZWdyYXRpb24vdHJhY2UvZXhwb3J0PC9wcm9wPgogICAgICAgIDxwcm9wIGtleT0iaW1wb3J0LnRyYWNlLmRpcmVjdG9yeS51cmkiPmZpbGU6Ly8vb3B0L2FiYWt1cy9pbnRlZ3JhdGlvbi90cmFjZS9pbXBvcnQ8L3Byb3A+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBnZXRJbnQoU3RyaW5nIHMpIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
@@ -117,6 +132,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
