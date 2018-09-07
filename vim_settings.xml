@@ -14,6 +14,12 @@
         <mark key="^" line="35" column="52" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/RowLine.java" timestamp="1536313014943">
+        <mark key="[" line="103" column="65" />
+        <mark key="]" line="103" column="85" />
+        <mark key="." line="103" column="85" />
+        <mark key="^" line="103" column="85" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0-sources.jar!/org/apache/commons/lang3/Range.java" timestamp="1536309101549" />
       <file name="$USER_HOME$/work/java/excel-transformer/README.md" timestamp="1536310327279">
         <mark key="[" line="20" column="56" />
@@ -29,7 +35,7 @@
         <mark key="^" line="20" column="77" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/customer-servlet.xml" timestamp="1536308447734" />
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1536311368074">
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1536312951889">
         <mark key="[" line="39" column="85" />
         <mark key="]" line="39" column="85" />
         <mark key="." line="39" column="85" />
@@ -57,7 +63,7 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvbmZpZy5nZXRSYW5nZSgpLmdldE1heGltdW0oKSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmluYWwgaW50IHJvd051bWJlciA9IGkgKyAxOwo=</text>
@@ -84,7 +90,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBnZXRJbnQoU3RyaW5nIHMpIHsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
     </registers>
     <search>
@@ -101,6 +107,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
