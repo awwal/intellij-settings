@@ -14,11 +14,15 @@
         <mark key="^" line="35" column="52" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/AbstractJob.java" timestamp="1536559051938" />
       <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/RowLine.java" timestamp="1536313014943">
         <mark key="[" line="103" column="65" />
         <mark key="]" line="103" column="85" />
         <mark key="." line="103" column="85" />
         <mark key="^" line="103" column="85" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1536561042607">
+        <mark key="[" line="1328" column="67" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/com.optiscangroup.fieldwork.integration.chiller.cfg" timestamp="1536331313886">
         <mark key="[" line="8" column="48" />
@@ -26,18 +30,15 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" timestamp="1536333248850">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="100" column="57" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-card/view.jsp" timestamp="1536561495938">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="44" />
+        <mark key="." line="24" column="44" />
+        <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/README.md" timestamp="1536310327279">
-        <mark key="[" line="20" column="56" />
-        <mark key="]" line="20" column="73" />
-        <mark key="^" line="20" column="73" />
-        <mark key="." line="20" column="73" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" timestamp="1536330792655" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/PhoneNumberParser.java" timestamp="1536333100742" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15.2-SNAPSHOT/abakus-core-api-2.2.15.2-20180906.143333-2.jar!/fi/abakus/core/model/RecurrencePattern.class" timestamp="1536558734695" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/FieldworkConfig.java" timestamp="1536559557303" />
       <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1536312951889">
         <mark key="[" line="39" column="85" />
         <mark key="]" line="39" column="85" />
@@ -55,61 +56,74 @@
         <mark key="^" line="62" column="35" />
         <mark key="." line="62" column="35" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" timestamp="1536560931589">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="100" column="57" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/META-INF/spring/osgi-context.xml" timestamp="1536323524525">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PersonFacadeImpl.java" timestamp="1536333067956" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/view.jsp" timestamp="1536333924456">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" timestamp="1536559362997" />
+      <file name="$USER_HOME$/work/java/excel-transformer/README.md" timestamp="1536310327279">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="20" column="73" />
+        <mark key="^" line="20" column="73" />
+        <mark key="." line="20" column="73" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/RecurringJob.java" timestamp="1536558877201" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/view.jsp" timestamp="1536558571018">
         <mark key="[" line="79" column="20" />
         <mark key="]" line="79" column="23" />
         <mark key="." line="79" column="23" />
         <mark key="^" line="79" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15.2-SNAPSHOT/abakus-core-api-2.2.15.2-20180906.143333-2.jar!/fi/abakus/core/model/Person.class" timestamp="1536333087862" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/layout/abakus-layout-default/1.3.10/abakus-layout-default-1.3.10.war!/WEB-INF/tags/layout/h1.tagx" timestamp="1536561400912" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" timestamp="1536559957877" />
     </filemarks>
     <jumps>
       <jump line="10" column="31" filename="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/Config.java" />
       <jump line="100" column="57" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-card/view.jsp" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YzpvdXQgdmFsdWU9IiR7cGVyc29uLm1vYmlsZU51bWJlci5sb2NhbE51bWJlcn0iIC8+Cg==</text>
+      <register name="0" type="4">
+        <text>deviceCard.id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxzcHJpbmc6bWVzc2FnZSBjb2RlPSAiZGV2aWNlQ2FyZC52aWV3LnRpdGxlImFyZ3VtZW50cz0iJHtkZXZpY2VDYXJkLmlkfSIgLz4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>!loop.last</text>
+        <text>view.title</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2ViL3NyYy9tYWluL2phdmEvZmkvYWJha3VzL2ZhamFuc3NpL2NsaWVudC93ZWIvVmlld0pvYkNvbnRyb2xsZXIuamF2YQo=</text>
+        <text encoding="base64">CTxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDYXJkLnNlcmlhbE51bWJlciIgYXJndW1lbnRzPSIke2RldmljZUNhcmQuaWR9IiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0Mi5zZXRMYXN0TmFtZSgiY29udGFjdDIiKTsK</text>
+        <text encoding="base64">CTxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDYXJkLnZpZXcudGl0bGUiIGFyZ3VtZW50cz0iJHtkZXZpY2VDYXJkLmlkfSIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0Mi5zZXRGaXJzdE5hbWUoImNvbnRhY3QyIik7Cg==</text>
+        <text encoding="base64">CTxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDYXJkLnZpZXcudGl0bGUiIGFyZ3VtZW50cz0iJHtkZXZpY2VDYXJkLmlkfSIgLz4KPC9sOmgxPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0MS5zZXRMYXN0TmFtZSgiY29udGFjdDEiKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0MS5zZXRGaXJzdE5hbWUoImNvbnRhY3QxIik7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnNldEFkZHJlc3MoIlRpZSAxIik7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnNldE5hbWUoIktvaGRlIDIiKTsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">d2ViL3NyYy9tYWluL2phdmEvZmkvYWJha3VzL2ZhamFuc3NpL2NsaWVudC93ZWIvVmlld0pvYkNvbnRyb2xsZXIuamF2YQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb250YWN0Mi5zZXRMYXN0TmFtZSgiY29udGFjdDIiKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb250YWN0Mi5zZXRGaXJzdE5hbWUoImNvbnRhY3QyIik7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb250YWN0MS5zZXRMYXN0TmFtZSgiY29udGFjdDEiKTsK</text>
+      </register>
       <register name="-" type="4">
-        <text>!loop.last</text>
+        <text>view.title</text>
       </register>
     </registers>
     <search>
@@ -143,6 +157,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
