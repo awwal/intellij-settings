@@ -16,16 +16,18 @@
       <file name="/Dummy.txt" timestamp="1536434443504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/ApplicationInsights.xml" timestamp="1536601864012" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/BeanConfiguration.java" timestamp="1536601881395" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/AccessCheckerService.scala" timestamp="1536605510891">
+        <mark key="[" line="124" column="70" />
+        <mark key="]" line="124" column="53" />
+        <mark key="^" line="124" column="53" />
+        <mark key="." line="124" column="53" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/quiz/AddedQuestionTable.scala" timestamp="1536602597796">
         <mark key="[" line="128" column="84" />
         <mark key="]" line="128" column="84" />
         <mark key="." line="128" column="84" />
         <mark key="^" line="128" column="84" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuizService.java" timestamp="1536601603230" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/application-prod.properties" timestamp="1536601814910" />
     </filemarks>
     <jumps>
       <jump line="13" column="52" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamInfoService.java" />
