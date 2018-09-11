@@ -23,11 +23,12 @@
         <mark key="]" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" timestamp="1536687170081">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" timestamp="1536687313678">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="8" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuizService.java" timestamp="1536683258634">
         <mark key="[" line="210" column="24" />
@@ -35,7 +36,7 @@
         <mark key="^" line="210" column="24" />
         <mark key="." line="210" column="24" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" timestamp="1536684661452">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" timestamp="1536691836365">
         <mark key="'" line="47" column="11" />
         <mark key="j" line="151" column="0" />
         <mark key="[" line="156" column="69" />
@@ -43,7 +44,7 @@
         <mark key="." line="156" column="70" />
         <mark key="^" line="156" column="70" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1536686797178">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1536691776482">
         <mark key="'" line="301" column="15" />
         <mark key="[" line="204" column="127" />
         <mark key="]" line="204" column="127" />
@@ -62,12 +63,12 @@
         <mark key="." line="128" column="84" />
         <mark key="^" line="128" column="84" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" timestamp="1536686418497">
-        <mark key="'" line="863" column="0" />
-        <mark key="[" line="514" column="0" />
-        <mark key="]" line="514" column="0" />
-        <mark key="^" line="506" column="79" />
-        <mark key="." line="514" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" timestamp="1536691854600">
+        <mark key="'" line="864" column="0" />
+        <mark key="[" line="283" column="64" />
+        <mark key="]" line="515" column="0" />
+        <mark key="^" line="507" column="79" />
+        <mark key="." line="515" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/UserNameValidator.java" timestamp="1536683180600" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/ExceptionConverter.scala" timestamp="1536606127176">
@@ -99,8 +100,8 @@
       <register name="1" type="2">
         <text encoding="base64">IHMgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IHMgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>alreadyExist</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBlbHNlIHsKICAgICAgZmFsc2UKICAgIH0K</text>
@@ -127,7 +128,7 @@
         <text encoding="base64">ICAgIEBRdWVyeSgic2VsZWN0IGlkIGZyb20gVXNlciB1IHdoZXJlIGxvd2VyKGVtYWlsKSA9IGxvd2VyKD8xKSIpCiAgICBMb25nIGZpbmRJZEJ5RW1haWxJZ25vcmVDYXNlKFN0cmluZyBlbWFpbCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>alreadyExist</text>
       </register>
     </registers>
     <search>
