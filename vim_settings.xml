@@ -18,17 +18,16 @@
       <file name="/Dummy.txt" timestamp="1536434443504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/repository/UserRepository.java" timestamp="1536685113848">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/repository/UserRepository.java" timestamp="1536686388658">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" timestamp="1536685162935">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" timestamp="1536687170081">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="57" />
-        <mark key="." line="12" column="57" />
-        <mark key="^" line="12" column="57" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuizService.java" timestamp="1536683258634">
         <mark key="[" line="210" column="24" />
@@ -44,11 +43,11 @@
         <mark key="." line="156" column="70" />
         <mark key="^" line="156" column="70" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1536685217082">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1536686797178">
         <mark key="'" line="301" column="15" />
-        <mark key="[" line="204" column="63" />
-        <mark key="]" line="307" column="49" />
-        <mark key="." line="307" column="49" />
+        <mark key="[" line="204" column="127" />
+        <mark key="]" line="204" column="127" />
+        <mark key="." line="204" column="127" />
         <mark key="^" line="307" column="49" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/AccessCheckerService.scala" timestamp="1536605510891">
@@ -63,12 +62,12 @@
         <mark key="." line="128" column="84" />
         <mark key="^" line="128" column="84" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" timestamp="1536685084581">
-        <mark key="'" line="867" column="0" />
-        <mark key="[" line="506" column="68" />
-        <mark key="]" line="506" column="79" />
-        <mark key="." line="506" column="79" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" timestamp="1536686418497">
+        <mark key="'" line="863" column="0" />
+        <mark key="[" line="514" column="0" />
+        <mark key="]" line="514" column="0" />
         <mark key="^" line="506" column="79" />
+        <mark key="." line="514" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/UserNameValidator.java" timestamp="1536683180600" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/ExceptionConverter.scala" timestamp="1536606127176">
@@ -98,37 +97,37 @@
         <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHVzZXJOYW1lRXhpc3QoU3RyaW5nIHVzZXJuYW1lLCBVc2VyIGV4Y2VwdEZvclRoaXMpIHsKICAgICAgICBVc2VyIGZvdW5kID0gdXNlclJlcG9zaXRvcnkuZmluZE9uZUJ5VXNlck5hbWVJZ25vcmVDYXNlKHVzZXJuYW1lKTsKICAgICAgICBpZiAoZm91bmQgPT0gbnVsbCkgcmV0dXJuIGZhbHNlOwogICAgICAgIGlmIChleGNlcHRGb3JUaGlzID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmb3VuZC5nZXRJZCgpICE9IGV4Y2VwdEZvclRoaXMuZ2V0SWQoKTsKCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IHMgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>userByEmailAddressExist(value)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IHMgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSgic2VsZWN0IGlkIGZyb20gVXNlciB1IHdoZXJlIGxvd2VyKGVtYWlsKSA9IGxvd2VyKD8xKSIpCiAgICBMb25nIGZpbmRJZEJ5RW1haWxJZ25vcmVDYXNlKFN0cmluZyBlbWFpbCk7Cg==</text>
+        <text encoding="base64">ICBlbHNlIHsKICAgICAgZmFsc2UKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIHVzZXJCeUVtYWlsQWRkcmVzc0V4aXN0KFN0cmluZyBlbWFpbEFkZHJlc3MpIHsKICAgICAgICByZXR1cm4gdXNlclJlcG9zaXRvcnkuZXhpc3RzQnlFbWFpbElnbm9yZUNhc2UoZW1haWxBZGRyZXNzKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgIWFscmVhZHlFeGlzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gZXhpc3RzID0gdXNlclNlcnZpY2UudXNlckJ5RW1haWxBZGRyZXNzRXhpc3QoZW1haWwuZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICBpZihleGlzdHMgJiYgbW9kZT09RWRpdC5pbnN0YW5jZSgpKXsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbGVhbiB1c2VyQnlFbWFpbEFkZHJlc3NFeGlzdChTdHJpbmcgZW1haWxBZGRyZXNzKSB7CiAgICAgICAgcmV0dXJuIHVzZXJSZXBvc2l0b3J5LmV4aXN0c0J5RW1haWxJZ25vcmVDYXNlKGVtYWlsQWRkcmVzcyk7CiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChzdHJ1Y3R1cmFsbHlWYWxpZCkgewogICAgfQogICAgZmFsc2UK</text>
+        <text encoding="base64">ICAgIFVzZXIgZmluZE9uZUJ5RW1haWxBZGRyZXNzSWdub3JlQ2FzZShTdHJpbmcgZW1haWxBZGRyZXNzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIWFscmVhZHlFeGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsICBhbHJlYWR5RXhpc3QgPSB1c2VyU2VydmljZS51c2VyQnlFbWFpbEFkZHJlc3NFeGlzdCh2YWx1ZSkKICAgICAgcmV0dXJuICFhbHJlYWR5RXhpc3QK</text>
+        <text encoding="base64">ICAgIEBRdWVyeSgic2VsZWN0IGlkIGZyb20gVXNlciB1IHdoZXJlIGxvd2VyKGVtYWlsKSA9IGxvd2VyKD8xKSIpCiAgICBMb25nIGZpbmRJZEJ5RW1haWxJZ25vcmVDYXNlKFN0cmluZyBlbWFpbCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>userByEmailAddressExist(value)</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
