@@ -2,10 +2,10 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="M" line="151" column="27" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" protocol="file" />
+      <mark key="M" line="150" column="27" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.java" timestamp="1536602998193">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.java" timestamp="1536693895867">
         <mark key="'" line="857" column="37" />
         <mark key="[" line="856" column="0" />
         <mark key="]" line="856" column="0" />
@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamInfoService.java" timestamp="1536298119979">
         <mark key="'" line="13" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536434443504">
+      <file name="/Dummy.txt" timestamp="1536692639392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/repository/UserRepository.java" timestamp="1536686388658">
@@ -38,18 +38,23 @@
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" timestamp="1536691836365">
         <mark key="'" line="47" column="11" />
-        <mark key="j" line="151" column="0" />
-        <mark key="[" line="156" column="69" />
-        <mark key="]" line="156" column="70" />
-        <mark key="." line="156" column="70" />
-        <mark key="^" line="156" column="70" />
+        <mark key="j" line="150" column="0" />
+        <mark key="[" line="155" column="69" />
+        <mark key="]" line="155" column="70" />
+        <mark key="." line="155" column="70" />
+        <mark key="^" line="155" column="70" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1536691776482">
-        <mark key="'" line="301" column="15" />
-        <mark key="[" line="204" column="127" />
-        <mark key="]" line="204" column="127" />
-        <mark key="." line="204" column="127" />
-        <mark key="^" line="307" column="49" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1536692589390">
+        <mark key="'" line="299" column="15" />
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="0" />
+        <mark key="." line="305" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/SystemSettingsUI.java" timestamp="1536694175758">
+        <mark key="[" line="118" column="8" />
+        <mark key="]" line="118" column="20" />
+        <mark key="." line="118" column="20" />
+        <mark key="^" line="118" column="20" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/AccessCheckerService.scala" timestamp="1536605510891">
         <mark key="[" line="124" column="70" />
@@ -63,12 +68,12 @@
         <mark key="." line="128" column="84" />
         <mark key="^" line="128" column="84" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" timestamp="1536691854600">
-        <mark key="'" line="864" column="0" />
-        <mark key="[" line="283" column="64" />
-        <mark key="]" line="515" column="0" />
-        <mark key="^" line="507" column="79" />
-        <mark key="." line="515" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" timestamp="1536693547023">
+        <mark key="'" line="823" column="0" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="^" line="466" column="79" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/UserNameValidator.java" timestamp="1536683180600" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/ExceptionConverter.scala" timestamp="1536606127176">
@@ -95,40 +100,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHVzZXJOYW1lRXhpc3QoU3RyaW5nIHVzZXJuYW1lLCBVc2VyIGV4Y2VwdEZvclRoaXMpIHsKICAgICAgICBVc2VyIGZvdW5kID0gdXNlclJlcG9zaXRvcnkuZmluZE9uZUJ5VXNlck5hbWVJZ25vcmVDYXNlKHVzZXJuYW1lKTsKICAgICAgICBpZiAoZm91bmQgPT0gbnVsbCkgcmV0dXJuIGZhbHNlOwogICAgICAgIGlmIChleGNlcHRGb3JUaGlzID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmb3VuZC5nZXRJZCgpICE9IGV4Y2VwdEZvclRoaXMuZ2V0SWQoKTsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbC5zZXRTcGFjaW5nKHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IHMgIH0K</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25zTGF5b3V0LnNldFdpZHRoKDEwMCxVbml0LlBFUkNFTlRBR0UpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>alreadyExist</text>
+        <text>pl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbHNlIHsKICAgICAgZmFsc2UKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwbC5zZXRXaWR0aCgxMDAsVW5pdC5QRVJDRU5UQUdFKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIWFscmVhZHlFeGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBwbC5zZXRXaWR0aCgxMDAsVW5pdC5QRVJDRU5UQUdFKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25zTGF5b3V0LnNldFNwYWNpbmcodHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbC5zZXRTcGFjaW5nKHRydWUpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbGVhbiB1c2VyQnlFbWFpbEFkZHJlc3NFeGlzdChTdHJpbmcgZW1haWxBZGRyZXNzKSB7CiAgICAgICAgcmV0dXJuIHVzZXJSZXBvc2l0b3J5LmV4aXN0c0J5RW1haWxJZ25vcmVDYXNlKGVtYWlsQWRkcmVzcyk7CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gY2hhbmdlc0J0biA9IG5ldyBCdXR0b24oIlVzZXJtZ3QgY2hhbmdlcyAiLCBlbC0+ewogICAgICAgICAgICAgdXNlclNlcnZpY2UuZml4VXNlclN0YXRlSXNzdWVzKCk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFVzZXIgZmluZE9uZUJ5RW1haWxBZGRyZXNzSWdub3JlQ2FzZShTdHJpbmcgZW1haWxBZGRyZXNzKTsK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCiAgICAvL1RPRE8gUkVNT1ZFIExBVEVSCiAgICBwdWJsaWMgdm9pZCBmaXhVc2VyU3RhdGVJc3N1ZXMoKSB7CiAgICAgICAgTGlzdDxVc2VyPiBhbGx1c2VycyA9IGVtLmNyZWF0ZVF1ZXJ5KCJmcm9tIFVzZXIiKS5nZXRSZXN1bHRMaXN0KCk7CiAgICAgICAgZm9yIChVc2VyIHVzZXIgOiBhbGx1c2VycykgewoKICAgICAgICAgICAgaWYgKHVzZXIuZ2V0QWN0aXZhdGlvbktleSgpID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHVzZXIuc2V0QWN0aXZhdGlvbktleShSYW5kb21VdGlsLmdlbmVyYXRlQWN0aXZhdGlvbktleSgpKTsKCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHVzZXIuZ2V0UGFzc3dvcmRSZXNldEtleSgpID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHVzZXIuc2V0UGFzc3dvcmRSZXNldEtleShSYW5kb21VdGlsLmdlbmVyYXRlUmVzZXRLZXkoKSk7CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVtLnBlcnNpc3QodXNlcik7CgogICAgICAgIH0KICAgICAgICBBdG9taWNJbnRlZ2VyIGNudCA9IG5ldyBBdG9taWNJbnRlZ2VyKDApOwogICAgICAgIFNldDxTdHJpbmc+IHNlZW4gPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgZm9yIChVc2VyIHVzZXIgOiBhbGx1c2VycykgewogICAgICAgICAgICBVc2VySW5mbyB1aSA9IHVzZXIuZ2V0VXNlckluZm8oKTsKICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzRW1wdHkodWkuZ2V0RW1haWxBZGRyZXNzKCkpKSB7CiAgICAgICAgICAgICAgICB1aS5zZXRFbWFpbEFkZHJlc3MoImZpcnN0bmFtZUBhY2FkYS5uZyIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICh1aS5nZXRFbWFpbEFkZHJlc3MoKS5jb250YWlucygiZmlyc3RuYW1lIikpIHsKICAgICAgICAgICAgICAgIHVzZXIuc2V0RW1haWwoY250LmluY3JlbWVudEFuZEdldCgpICsgdXNlci5nZXRVc2VySW5mbygpLmdldEVtYWlsQWRkcmVzcygpKTsKICAgICAgICAgICAgICAgIGVtLm1lcmdlKHVzZXIpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgU3RyaW5nIGVtYWlsID0gdWkuZ2V0RW1haWxBZGRyZXNzKCk7CiAgICAgICAgICAgICAgICBpZiAoc2Vlbi5jb250YWlucyh1aS5nZXRFbWFpbEFkZHJlc3MoKSkpIHsKICAgICAgICAgICAgICAgICAgICBlbWFpbCA9IGNudC5pbmNyZW1lbnRBbmRHZXQoKSArIGVtYWlsOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgc2Vlbi5hZGQodWkuZ2V0RW1haWxBZGRyZXNzKCkpOwogICAgICAgICAgICAgICAgdXNlci5zZXRFbWFpbChlbWFpbCk7CiAgICAgICAgICAgICAgICBlbS5tZXJnZSh1c2VyKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCgogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSgic2VsZWN0IGlkIGZyb20gVXNlciB1IHdoZXJlIGxvd2VyKGVtYWlsKSA9IGxvd2VyKD8xKSIpCiAgICBMb25nIGZpbmRJZEJ5RW1haWxJZ25vcmVDYXNlKFN0cmluZyBlbWFpbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>alreadyExist</text>
+        <text>pl</text>
       </register>
     </registers>
     <search>
