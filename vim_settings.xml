@@ -18,10 +18,17 @@
       <file name="/Dummy.txt" timestamp="1536434443504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" timestamp="1536648095922">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/repository/UserRepository.java" timestamp="1536685113848">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" timestamp="1536685162935">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="57" />
+        <mark key="." line="12" column="57" />
+        <mark key="^" line="12" column="57" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuizService.java" timestamp="1536683258634">
         <mark key="[" line="210" column="24" />
@@ -29,7 +36,7 @@
         <mark key="^" line="210" column="24" />
         <mark key="." line="210" column="24" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" timestamp="1536606434435">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" timestamp="1536684661452">
         <mark key="'" line="47" column="11" />
         <mark key="j" line="151" column="0" />
         <mark key="[" line="156" column="69" />
@@ -37,11 +44,12 @@
         <mark key="." line="156" column="70" />
         <mark key="^" line="156" column="70" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1536607001938">
-        <mark key="[" line="204" column="78" />
-        <mark key="]" line="204" column="78" />
-        <mark key="." line="204" column="78" />
-        <mark key="^" line="204" column="78" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1536685217082">
+        <mark key="'" line="301" column="15" />
+        <mark key="[" line="204" column="63" />
+        <mark key="]" line="307" column="49" />
+        <mark key="." line="307" column="49" />
+        <mark key="^" line="307" column="49" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/AccessCheckerService.scala" timestamp="1536605510891">
         <mark key="[" line="124" column="70" />
@@ -55,17 +63,19 @@
         <mark key="." line="128" column="84" />
         <mark key="^" line="128" column="84" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" timestamp="1536606929651">
-        <mark key="[" line="506" column="23" />
-        <mark key="]" line="506" column="37" />
-        <mark key="." line="506" column="37" />
-        <mark key="^" line="506" column="37" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" timestamp="1536685084581">
+        <mark key="'" line="867" column="0" />
+        <mark key="[" line="506" column="68" />
+        <mark key="]" line="506" column="79" />
+        <mark key="." line="506" column="79" />
+        <mark key="^" line="506" column="79" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/UserNameValidator.java" timestamp="1536683180600" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/ExceptionConverter.scala" timestamp="1536606127176">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="53" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CaptionedLabel.java" timestamp="1536684525153" />
     </filemarks>
     <jumps>
       <jump line="13" column="52" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamInfoService.java" />
@@ -74,37 +84,51 @@
       <jump line="146" column="27" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" />
       <jump line="150" column="70" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" />
       <jump line="45" column="11" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" />
+      <jump line="301" column="15" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" />
+      <jump line="16" column="2" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" />
+      <jump line="492" column="8" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" />
+      <jump line="858" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" />
+      <jump line="18" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdGhyb3cgbmV3IEFwcFNlcnZpY2VFeGNlcHRpb24oIlF1ZXN0aW9uICIgKyBxdWl6UXVlc3Rpb24gKyAiIHN1Ym1pdHRlZCBjYW4ndCBiZSBmb3VuZCBmb3IgcXVpeiAiICsKLy8gICAgICAgICAgICAgICAgICAgICAgICBxdWl6UmVzdWx0RFRPLnF1aXpJZCgpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHVzZXJOYW1lRXhpc3QoU3RyaW5nIHVzZXJuYW1lLCBVc2VyIGV4Y2VwdEZvclRoaXMpIHsKICAgICAgICBVc2VyIGZvdW5kID0gdXNlclJlcG9zaXRvcnkuZmluZE9uZUJ5VXNlck5hbWVJZ25vcmVDYXNlKHVzZXJuYW1lKTsKICAgICAgICBpZiAoZm91bmQgPT0gbnVsbCkgcmV0dXJuIGZhbHNlOwogICAgICAgIGlmIChleGNlcHRGb3JUaGlzID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmb3VuZC5nZXRJZCgpICE9IGV4Y2VwdEZvclRoaXMuZ2V0SWQoKTsKCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChzdHJ1Y3R1cmFsbHlWYWxpZCkgewogICAgfQogICAgZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>submitted</text>
+        <text>userByEmailAddressExist(value)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIWFscmVhZHlFeGlzdAo=</text>
+        <text encoding="base64">ICAgIEBRdWVyeSgic2VsZWN0IGlkIGZyb20gVXNlciB1IHdoZXJlIGxvd2VyKGVtYWlsKSA9IGxvd2VyKD8xKSIpCiAgICBMb25nIGZpbmRJZEJ5RW1haWxJZ25vcmVDYXNlKFN0cmluZyBlbWFpbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsICBhbHJlYWR5RXhpc3QgPSB1c2VyU2VydmljZS51c2VyQnlFbWFpbEFkZHJlc3NFeGlzdCh2YWx1ZSkKICAgICAgcmV0dXJuICFhbHJlYWR5RXhpc3QK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIHVzZXJCeUVtYWlsQWRkcmVzc0V4aXN0KFN0cmluZyBlbWFpbEFkZHJlc3MpIHsKICAgICAgICByZXR1cm4gdXNlclJlcG9zaXRvcnkuZXhpc3RzQnlFbWFpbElnbm9yZUNhc2UoZW1haWxBZGRyZXNzKTsKICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIGZvdW5kID0gdXNlclJlcG9zaXRvcnkuZmluZE9uZUJ5RW1haWxBZGRyZXNzSWdub3JlQ2FzZShlbWFpbEFkZHJlc3MpOwogICAgICAgIGlmIChmb3VuZCA9PSBudWxsKSByZXR1cm4gZmFsc2U7CiAgICAgICAgaWYgKGV4Y2VwdEZvclRoaXMgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZvdW5kLmdldElkKCkgIT0gZXhjZXB0Rm9yVGhpcy5nZXRJZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gZXhpc3RzID0gdXNlclNlcnZpY2UudXNlckJ5RW1haWxBZGRyZXNzRXhpc3QoZW1haWwuZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICBpZihleGlzdHMgJiYgbW9kZT09RWRpdC5pbnN0YW5jZSgpKXsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlc3Rpb24uZ2V0T3B0aW9ucygpLnNpemUoKTsKICAgICAgICAgICAgcXVlc3Rpb24uZ2V0VG9waWNzKCkuc2l6ZSgpOwogICAgICAgICAgICBxdWVzdGlvbi5nZXRUYWdzKCkuc2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChzdHJ1Y3R1cmFsbHlWYWxpZCkgewogICAgfQogICAgZmFsc2UK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIWFscmVhZHlFeGlzdAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdmFsICBhbHJlYWR5RXhpc3QgPSB1c2VyU2VydmljZS51c2VyQnlFbWFpbEFkZHJlc3NFeGlzdCh2YWx1ZSkKICAgICAgcmV0dXJuICFhbHJlYWR5RXhpc3QK</text>
       </register>
       <register name="-" type="4">
-        <text>submitted</text>
+        <text>userByEmailAddressExist(value)</text>
       </register>
     </registers>
     <search>
@@ -129,6 +153,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
