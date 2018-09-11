@@ -18,18 +18,16 @@
       <file name="/Dummy.txt" timestamp="1536434443504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/repository/UserRepository.java" timestamp="1536606876179" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" timestamp="1536648095922">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/Quiz.java" timestamp="1536607875580" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuizService.java" timestamp="1536608520554">
-        <mark key="[" line="210" column="11" />
-        <mark key="]" line="206" column="11" />
-        <mark key="^" line="206" column="11" />
-        <mark key="." line="206" column="11" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuizService.java" timestamp="1536683258634">
+        <mark key="[" line="210" column="24" />
+        <mark key="]" line="210" column="24" />
+        <mark key="^" line="210" column="24" />
+        <mark key="." line="210" column="24" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" timestamp="1536606434435">
         <mark key="'" line="47" column="11" />
@@ -63,6 +61,7 @@
         <mark key="." line="506" column="37" />
         <mark key="^" line="506" column="37" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/UserNameValidator.java" timestamp="1536683180600" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/ExceptionConverter.scala" timestamp="1536606127176">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="53" />
