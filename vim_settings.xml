@@ -9,11 +9,6 @@
         <mark key="^" line="35" column="52" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/pom.xml" timestamp="1536307478372">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="5" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-card/browse.jsp" timestamp="1536740409815">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="32" column="23" />
@@ -31,16 +26,71 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" timestamp="1536589388010">
-        <mark key="[" line="110" column="35" />
-        <mark key="]" line="110" column="35" />
-        <mark key="." line="110" column="35" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/DeviceCardService.java" timestamp="1536589492992">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="50" />
         <mark key="." line="12" column="52" />
         <mark key="^" line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeTest.java" timestamp="1536749144332">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1536739563178">
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="^" line="159" column="15" />
+        <mark key="." line="190" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/recurring/view-job.jsp" timestamp="1536750479639">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="85" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" timestamp="1536322387493">
+        <mark key="[" line="304" column="0" />
+        <mark key="]" line="304" column="0" />
+        <mark key="." line="304" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeTest.java" timestamp="1536331091329">
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="62" column="35" />
+        <mark key="^" line="62" column="35" />
+        <mark key="." line="62" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1536737648256" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/abakus-home/system.properties" timestamp="1536748135311">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/view.jsp" timestamp="1536566823071">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="84" column="65" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/excel-transformer/pom.xml" timestamp="1536307478372">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="5" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" timestamp="1536751101076">
+        <mark key="[" line="61" column="20" />
+        <mark key="]" line="61" column="20" />
+        <mark key="." line="61" column="20" />
+        <mark key="^" line="66" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" timestamp="1536749206383">
+        <mark key="[" line="110" column="35" />
+        <mark key="]" line="110" column="35" />
+        <mark key="." line="110" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" timestamp="1536749757552">
+        <mark key="'" line="378" column="42" />
+        <mark key="[" line="609" column="0" />
+        <mark key="]" line="609" column="100" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" timestamp="1536738870559">
         <mark key="[" line="120" column="52" />
@@ -59,20 +109,17 @@
         <mark key="^" line="20" column="73" />
         <mark key="." line="20" column="73" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1536739563178">
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="^" line="159" column="15" />
-        <mark key="." line="190" column="0" />
-      </file>
       <file name="$USER_HOME$/work/java/abakus-core-api/src/main/java/fi/abakus/core/model/Phone.java" timestamp="1536574216728">
         <mark key="[" line="85" column="15" />
         <mark key="]" line="85" column="15" />
         <mark key="^" line="85" column="31" />
         <mark key="." line="85" column="15" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceCardServiceImpl.java" timestamp="1536589471797">
-        <mark key="'" line="48" column="46" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/12.sql" timestamp="1536748843134">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="55" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1536739387879">
         <mark key="[" line="0" column="0" />
@@ -83,35 +130,24 @@
         <mark key="." line="879" column="58" />
         <mark key="^" line="2040" column="52" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-card/view.jsp" timestamp="1536577001025">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceContract.xsl" timestamp="1536742667262" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" timestamp="1536322387493">
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
-      </file>
       <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1536312951889">
         <mark key="[" line="39" column="85" />
         <mark key="]" line="39" column="85" />
         <mark key="." line="39" column="85" />
         <mark key="^" line="39" column="93" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeTest.java" timestamp="1536331091329">
-        <mark key="[" line="62" column="36" />
-        <mark key="]" line="62" column="35" />
-        <mark key="^" line="62" column="35" />
-        <mark key="." line="62" column="35" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/BusinessObject.java" timestamp="1536734340193">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceContract.java" timestamp="1536751168917">
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="0" />
+        <mark key="^" line="265" column="21" />
+        <mark key="." line="265" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/META-INF/spring/osgi-context.xml" timestamp="1536323524525">
         <mark key="[" line="48" column="0" />
@@ -123,7 +159,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1536737648256" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeTest.java" timestamp="1536738004893">
         <mark key="[" line="112" column="45" />
         <mark key="]" line="101" column="30" />
@@ -135,15 +170,6 @@
         <mark key="]" line="28" column="3" />
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="3" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceCardDAO.java" timestamp="1536589634416">
-        <mark key="'" line="51" column="37" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/view.jsp" timestamp="1536566823071">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="84" column="65" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1536739387985">
         <mark key="[" line="0" column="0" />
@@ -162,40 +188,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEZXZpY2VDYXJkV3JhcHBlci5Nb2RlbFdyYXBwZXIgbW9kZWwgPSBuZXcgRGV2aWNlQ2FyZFdyYXBwZXIuTW9kZWxXcmFwcGVyKCk7CiAgICAgICAgbW9kZWwuc2V0Q29kZSgiVEVTVCIpOwo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgIDx0ZD48YzpvdXQgdmFsdWU9IiR7d2ViOnRvSHRtbChqb2IudGl0bGUpfSIgZXNjYXBlWG1sPSJmYWxzZSIgLz48L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bDpxdWVyeUZpZWxkIGxhYmVsS2V5PSJkZXZpY2VDYXJkcy5icm93c2Uuc2VhcmNoLmJ5VGFyZ2V0S2V5Ij4KICAgICAgICAgICAgPGZvcm06aW5wdXQgcGF0aD0idGFyZ2V0S2V5IiAvPgogICAgICAgIDwvbDpxdWVyeUZpZWxkPgogICAgICAgIDxsOnF1ZXJ5RmllbGQgbGFiZWxLZXk9ImRldmljZUNhcmRzLmJyb3dzZS5zZWFyY2guYnlUYXJnZXROYW1lIj4KICAgICAgICAgICAgPGZvcm06aW5wdXQgcGF0aD0idGFyZ2V0TmFtZSIgLz4KICAgICAgICA8L2w6cXVlcnlGaWVsZD4K</text>
+        <text encoding="base64">CQkJCSAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bDpxdWVyeUZpZWxkIGxhYmVsS2V5PSJkZXZpY2VDYXJkcy5icm93c2Uuc2VhcmNoLmJ5VGFyZ2V0S2V5Ij4KICAgICAgICAgICAgPGZvcm06aW5wdXQgcGF0aD0idGFyZ2V0S2V5IiAvPgogICAgICAgIDwvbDpxdWVyeUZpZWxkPgogICAgICAgIDxsOnF1ZXJ5RmllbGQgbGFiZWxLZXk9ImRldmljZUNhcmRzLmJyb3dzZS5zZWFyY2guYnlUYXJnZXROYW1lIj4KICAgICAgICAgICAgPGZvcm06aW5wdXQgcGF0aD0idGFyZ2V0TmFtZSIgLz4KICAgICAgICA8L2w6cXVlcnlGaWVsZD4K</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bDpxdWVyeUZpZWxkIGxhYmVsS2V5PSJkZXZpY2VDYXJkcy5icm93c2Uuc2VhcmNoLmJ5RGV2aWNlTW9kZWxOYW1lIj4KICAgICAgICAgICAgPGZvcm06aW5wdXQgcGF0aD0iZGV2aWNlTW9kZWxOYW1lIiAvPgogICAgICAgIDwvbDpxdWVyeUZpZWxkPgo=</text>
+        <text encoding="base64">CQkJCTx0ZD48YzpvdXQgdmFsdWU9IiIgLz48L3RkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bDpxdWVyeUZpZWxkIGxhYmVsS2V5PSJkZXZpY2VDYXJkcy5icm93c2Uuc2VhcmNoLmJ5RGV2aWNlU2VyaWFsTnVtYmVyUGFydCI+CiAgICAgICAgICAgIDxmb3JtOmlucHV0IHBhdGg9InBhcnRpYWxEZXZpY2VTZXJpYWxOdW1iZXIiIC8+CiAgICAgICAgPC9sOnF1ZXJ5RmllbGQ+Cg==</text>
+        <text encoding="base64">dG9IdG1sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV2aWNlQ2FyZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGM6b3V0IHZhbHVlPSIiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgS2V5KCk7Cg==</text>
+        <text encoding="base64">CQkJCWsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2VDYXJkU2VydmljZS51cGRhdGVEZXZpY2VDYXJkVGFyZ2V0KGRldmljZUNhcmQuZ2V0SWQoKSwgdGFyZ2V0LmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlQ29udHJhY3RXcmFwcGVyLnNldEV4dHJhSW5mbyhVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlQ29udHJhY3RXcmFwcGVyLnNldEV4dHJhSW5mbyhSYW5kb21TdHJpbmdVdGlscy5yYW5kb20oNDAwMDApKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGV2aWNlQ2FyZCBjcmVhdGVEZXZpY2VDYXJkKERldmljZUNhcmQgZGV2aWNlQ2FyZCwgRGV2aWNlQ2FyZFdyYXBwZXIgd3JhcHBlcikgeyAKICAgICAgICByZXR1cm4gc2V0RGV2aWNlQ2FyZEF0dHJpYnV0ZXMoZGV2aWNlQ2FyZCwgd3JhcHBlcik7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEZXZpY2VNb2RlbCBtb2RlbCA9IGdldERldmljZU1vZGVsKHdyYXBwZXIuZ2V0TW9kZWwoKSk7CiAgICAgICAgZGV2aWNlQ2FyZC5zZXRNb2RlbChtb2RlbCk7CiAgICAgICAgCiAgICAgICAgRGV2aWNlQ2FyZENvbmZpZ3VyYXRpb24gY29uZmlndXJhdGlvbiA9IG5ldyBEZXZpY2VDYXJkQ29uZmlndXJhdGlvbigpOwogICAgICAgIGRldmljZUNhcmQuc2V0Q29uZmlndXJhdGlvbihjb25maWd1cmF0aW9uKTsKCiAgICAgICAgZm9yIChEZXZpY2VDYXJkV3JhcHBlci5Db21wb25lbnRXcmFwcGVyIGNvbXBvbmVudFdyYXBwZXIgOiB3cmFwcGVyLmdldENvbXBvbmVudHMoKSkgewogICAgICAgICAgICBEZXZpY2VDYXJkQ29uZkNvbXBvbmVudCBjb21wb25lbnQgPSBuZXcgRGV2aWNlQ2FyZENvbmZDb21wb25lbnQoKTsKICAgICAgICAgICAgY29tcG9uZW50LnNldFByb2R1Y3QoZ2V0UHJvZHVjdFR5cGUoY29tcG9uZW50V3JhcHBlci5nZXRQcm9kdWN0Q29kZSgpKSk7CiAgICAgICAgICAgIGNvbXBvbmVudC5zZXRRdWFudGl0eShjb21wb25lbnRXcmFwcGVyLmdldFF1YW50aXR5KCkuaW50VmFsdWUoKSk7CiAgICAgICAgICAgIGNvbmZpZ3VyYXRpb24uZ2V0Q29tcG9uZW50cygpLmFkZChjb21wb25lbnQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ZW1haWwuc210cC5ob3N0PXNtdHAub2ZmaWNlMzY1LmNvbQoKbWFpbC5mcm9tPXJlcG9ydHNAY2hpbGxlci5maQptYWlsLnVzZXJuYW1lPXJlcG9ydHNAY2hpbGxlci5maQptYWlsLnBhc3N3b3JkPVc0JmtyOSFtdDVoCm1haWwuc210cC5ob3N0PXNtdHAub2ZmaWNlMzY1LmNvbQptYWlsLnNtdHAucG9ydD01ODcKbWFpbC5zbXRwLmF1dGg9dHJ1ZQptYWlsLnNtdHAuc3RhcnR0bHMuZW5hYmxlPXRydWUKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>DeviceCard</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
@@ -238,6 +264,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
