@@ -82,10 +82,11 @@
         <mark key="." line="61" column="20" />
         <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" timestamp="1536749206383">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" timestamp="1536751807204">
         <mark key="[" line="110" column="35" />
         <mark key="]" line="110" column="35" />
         <mark key="." line="110" column="35" />
+        <mark key="^" line="110" column="25" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" timestamp="1536749757552">
         <mark key="'" line="378" column="42" />
@@ -194,7 +195,7 @@
         <text encoding="base64">CQkJCSAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>true</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJCTx0ZD48YzpvdXQgdmFsdWU9IiIgLz48L3RkPgo=</text>
@@ -221,7 +222,7 @@
         <text encoding="base64">ZW1haWwuc210cC5ob3N0PXNtdHAub2ZmaWNlMzY1LmNvbQoKbWFpbC5mcm9tPXJlcG9ydHNAY2hpbGxlci5maQptYWlsLnVzZXJuYW1lPXJlcG9ydHNAY2hpbGxlci5maQptYWlsLnBhc3N3b3JkPVc0JmtyOSFtdDVoCm1haWwuc210cC5ob3N0PXNtdHAub2ZmaWNlMzY1LmNvbQptYWlsLnNtdHAucG9ydD01ODcKbWFpbC5zbXRwLmF1dGg9dHJ1ZQptYWlsLnNtdHAuc3RhcnR0bHMuZW5hYmxlPXRydWUKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>true</text>
       </register>
     </registers>
     <search>
