@@ -76,11 +76,11 @@
         <mark key="]" line="41" column="5" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" timestamp="1536751101076">
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="61" column="20" />
-        <mark key="." line="61" column="20" />
-        <mark key="^" line="66" column="27" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" timestamp="1536757975437">
+        <mark key="[" line="77" column="64" />
+        <mark key="]" line="77" column="64" />
+        <mark key="." line="77" column="64" />
+        <mark key="^" line="65" column="16" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" timestamp="1536751807204">
         <mark key="[" line="110" column="35" />
@@ -98,7 +98,7 @@
         <mark key="]" line="120" column="52" />
         <mark key="." line="120" column="52" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeImpl.java" timestamp="1536741350370" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeImpl.java" timestamp="1536757616582" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/DeviceCardDAO.java" timestamp="1536589462094">
         <mark key="[" line="35" column="32" />
         <mark key="]" line="35" column="32" />
@@ -144,7 +144,7 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceContract.java" timestamp="1536751168917">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceContract.java" timestamp="1536757605062">
         <mark key="[" line="265" column="0" />
         <mark key="]" line="265" column="0" />
         <mark key="^" line="265" column="21" />
