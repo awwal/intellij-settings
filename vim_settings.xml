@@ -115,6 +115,13 @@
         <mark key="]" line="185" column="54" />
         <mark key="." line="185" column="58" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.scala" timestamp="1536854433029">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="130" column="38" />
+        <mark key="]" line="130" column="72" />
+        <mark key="." line="130" column="38" />
+        <mark key="^" line="119" column="67" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/QuestionBankView.java" timestamp="1536780969550">
         <mark key="[" line="524" column="33" />
         <mark key="]" line="524" column="33" />
@@ -255,43 +262,49 @@
       <jump line="200" column="71" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/OtherUsersListing.java" />
       <jump line="186" column="54" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/TeacherListing.java" />
       <jump line="195" column="22" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.scala" />
+      <jump line="71" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.scala" />
+      <jump line="76" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.scala" />
+      <jump line="89" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.scala" />
+      <jump line="137" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.scala" />
+      <jump line="75" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByb3RlY3RlZCBFeGFtSW5mb1NlcnZpY2UgZXhhbUluZm9TZXJ2aWNlOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IG5ldyB1dGlsLkFycmF5TGlzdFtFeGFtU3ViamVjdF0oKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9ycwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>InfoService</text>
+        <text>Collections.emptyList</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAocSA8LSBxV2l0aFRvcGljKSB7CiAgICAgIHZhbCBmaWx0ID0gcS5nZXRUb3BpY3Muc3RyZWFtLmZpbHRlcigodDogVG9waWMpID0+IHQuZ2V0SWQgIT0gdG9waWMuZ2V0SWQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCkKICAgICAgcS5zZXRUb3BpY3MoZmlsdCkKICAgICAgZW0ubWVyZ2UocSkKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGZpbHQgPSBxLmdldFRvcGljcy5maWx0ZXIoKHQ6IFRvcGljKSA9PiB0LmdldElkICE9IHRvcGljLmdldElkKS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoZXhhbUluZm8gPC0gZWlzKSB7CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IEBUcmFuc2FjdGlvbmFsCiAgICBwdWJsaWMgRXhhbVN1YmplY3QgY3JlYXRlRXhhbVN1YmplY3QoU3RyaW5nIGV4YW0sIFN0cmluZyBzdWJqZWN0LCBTY2hvb2xJZCBzaWQpIHsKCiAgICAgICAgRXhhbVN1YmplY3QgZXMgPSBuZXdFeGFtU3ViamVjdChleGFtLCBzdWJqZWN0LCBzaWQpOwogICAgICAgIG5ld0V4YW1JbmZvKCJkZWZhdWx0IiwgZXMuZ2V0U2Nob29sKCksIGVzKTsKICAgICAgICByZXR1cm4gZXM7CgogICAgfQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdXNlclNlcnZpY2UucmVtb3ZlQWNlc3NGcm9tQWxsdXNlcnMoZXhhbUluZm8pCiAgICAgIHF1ZXN0aW9uU2VydmljZS5kZWxldGVBbGxRdWVzdGlvbnMoZXhhbUluZm8uZ2V0SWQoKSkKICAgICAgZW0ucmVtb3ZlKGV4YW1JbmZvKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCiAgICBwdWJsaWMgdm9pZCBkZWxldGVTdWJqZWN0QW5kQWxsRXhhbXMoRXhhbVN1YmplY3QgZXhhbVN1YmplY3QpIHsKCiAgICAgICAgZXhhbVN1YmplY3QgPSBlbS5maW5kKEV4YW1TdWJqZWN0LmNsYXNzLCBleGFtU3ViamVjdC5nZXRJZCgpKTsKCiAgICAgICAgaWYgKCFhY2Nlc3NDaGVja2VyU2VydmljZS5pc1NjaG9vbEFkbWluKFNjaG9vbElkLm9mKGV4YW1TdWJqZWN0LmdldFNjaG9vbCgpKSkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIkluc3VmZmljaWVudCByaWdodCB0byBjYXJyeSBvdXQgdGhpcyBvcGVyYXRpb24uIENvbnRhY3QgeW91ciBhZG1pbmlzdHJhdG9yIik7CiAgICAgICAgfQoKICAgICAgICBTZXNzaW9uIHNlc3Npb24gPSAoU2Vzc2lvbikgZW0uZ2V0RGVsZWdhdGUoKTsKICAgICAgICBDcml0ZXJpYSBjciA9IHNlc3Npb24uY3JlYXRlQ3JpdGVyaWEoUmFuZG9tUXVpelF1ZXN0aW9uLmNsYXNzKQogICAgICAgICAgICAgICAgLmNyZWF0ZUFsaWFzKCJleGFtU3ViamVjdCIsICJlcyIpOwogICAgICAgIGNyLmFkZChSZXN0cmljdGlvbnMuZXEoImVzLmlkIiwgZXhhbVN1YmplY3QuZ2V0SWQoKSkpOwogICAgICAgIGNyLnNldFByb2plY3Rpb24oUHJvamVjdGlvbnMucm93Q291bnQoKSk7CgoKICAgICAgICBMaXN0IGxpc3QgPSBjci5saXN0KCk7CiAgICAgICAgaWYoKExvbmcpbGlzdC5nZXQoMCk+MEwpewogICAgICAgICAgICB0aHJvdyBuZXcgQXBwU2VydmljZUV4Y2VwdGlvbigiUmFuZG9tIFF1aXogcXVlc3Rpb25zIGhhcyBiZWVuIGNyZWF0ZWQgZm9yIHRoaXMgc3ViamVjdCIpOwogICAgICAgIH0KCiAgICAgICAgQ29sbGVjdGlvbjxFeGFtSW5mbz4gZWlzID0gZXhhbVJlcG9zaXRvcnkuZmluZEFsbEJ5RXhhbVN1YmplY3QoZXhhbVN1YmplY3QpOwoKICAgICAgICBmb3IgKEV4YW1JbmZvIGV4YW1JbmZvIDogZWlzKSB7CiAgICAgICAgICAgIHVzZXJTZXJ2aWNlLnJlbW92ZUFjZXNzRnJvbUFsbHVzZXJzKGV4YW1JbmZvKTsKICAgICAgICAgICAgcXVlc3Rpb25TZXJ2aWNlLmRlbGV0ZUFsbFF1ZXN0aW9ucyhleGFtSW5mby5nZXRJZCgpKTsKICAgICAgICAgICAgZW0ucmVtb3ZlKGV4YW1JbmZvKTsKICAgICAgICB9CgoKICAgICAgICBlbS5yZW1vdmUoZXhhbVN1YmplY3QpOwoKICAgIH0K</text>
+        <text encoding="base64">ICAgIGVpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT3B0aW9uYWw8RXhhbVN1YmplY3Q+IGZpbmRFeGFtU3ViamVjdChTdHJpbmcgZXhhbSwgU3RyaW5nIHN1YmplY3QsIFNjaG9vbCBzKSB7CiAgICAgICAgT3B0aW9uYWw8RXhhbVN1YmplY3Q+IG9wdEVzID0gZXhhbVN1YmplY3RSZXBvc2l0b3J5LmZpbmRPbmVCeU5hbWVJZ25vcmVDYXNlQW5kU3ViamVjdElnbm9yZUNhc2VBbmRTY2hvb2wKICAgICAgICAgICAgICAgIChleGFtLCBzdWJqZWN0LCBzKTsKICAgICAgICBpZiAob3B0RXMuaXNQcmVzZW50KCkpIHJldHVybiBvcHRFczsKCiAgICAgICAgTGlzdCByZXN1bHRMaXN0ID0gZW0uY3JlYXRlUXVlcnkoInNlbGVjdCBlcyBmcm9tIEV4YW1TdWJqZWN0QWxpYXMgYXMgYWwgaW5uZXIgam9pbiBhbC5leGFtU3ViamVjdCBhcyBlcyB3aGVyZSB1cHBlcihhbC52YWx1ZSkgPSA/MSBhbmQgdXBwZXIoZXMubmFtZSk9ID8yIikKICAgICAgICAgICAgICAgIC5zZXRQYXJhbWV0ZXIoMSwgc3ViamVjdC50b1VwcGVyQ2FzZSgpKQogICAgICAgICAgICAgICAgLnNldFBhcmFtZXRlcigyLCBleGFtLnRvVXBwZXJDYXNlKCkpCiAgICAgICAgICAgICAgICAuZ2V0UmVzdWx0TGlzdCgpOwogICAgICAgIGlmIChyZXN1bHRMaXN0LmlzRW1wdHkoKSkgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7CiAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKChFeGFtU3ViamVjdCkgcmVzdWx0TGlzdC5pdGVyYXRvcigpLm5leHQoKSk7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJzaW9ucy5fCg==</text>
       </register>
       <register name="-" type="4">
-        <text>InfoService</text>
+        <text>Collections.emptyList</text>
       </register>
     </registers>
     <search>
@@ -325,6 +338,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
