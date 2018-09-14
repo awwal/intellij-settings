@@ -26,6 +26,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/device_card_in.xml" timestamp="1536933104275" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/device_card_out.xml" timestamp="1536915425235">
         <mark key="[" line="30" column="48" />
       </file>
@@ -48,10 +49,10 @@
         <mark key="." line="153" column="40" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeTest.java" timestamp="1536931857494">
-        <mark key="[" line="125" column="60" />
-        <mark key="]" line="125" column="64" />
-        <mark key="^" line="125" column="64" />
-        <mark key="." line="125" column="64" />
+        <mark key="[" line="119" column="60" />
+        <mark key="]" line="119" column="64" />
+        <mark key="^" line="119" column="64" />
+        <mark key="." line="119" column="64" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/java/com/optiscangroup/fieldwork/integration/chiller/DeviceCardTest.java" timestamp="1536915910049">
         <mark key="[" line="34" column="8" />
