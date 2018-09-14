@@ -35,7 +35,7 @@
         <mark key="." line="184" column="116" />
         <mark key="^" line="184" column="116" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1536930297761">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1536930997797">
         <mark key="[" line="75" column="50" />
         <mark key="]" line="75" column="50" />
         <mark key="^" line="75" column="58" />
@@ -176,6 +176,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
