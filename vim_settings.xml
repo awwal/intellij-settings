@@ -5,7 +5,7 @@
       <mark key="M" line="150" column="27" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamInfoService.java" timestamp="1536949952828">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamInfoService.java" timestamp="1536954466186">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -67,11 +67,11 @@
         <mark key="^" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/QuestionBankExport.java" timestamp="1536855184329">
-        <mark key="[" line="67" column="47" />
-        <mark key="]" line="67" column="64" />
-        <mark key="^" line="67" column="64" />
-        <mark key="." line="67" column="64" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/QuestionBankExport.java" timestamp="1536955216384">
+        <mark key="[" line="116" column="16" />
+        <mark key="]" line="116" column="21" />
+        <mark key="^" line="116" column="21" />
+        <mark key="." line="116" column="21" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.java" timestamp="1536781855539">
         <mark key="'" line="196" column="22" />
@@ -115,11 +115,11 @@
         <mark key="." line="66" column="23" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/nugget/NuggetZipper.scala" timestamp="1536857707984" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamInfoService.scala" timestamp="1536951577213">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="122" />
-        <mark key="." line="300" column="29" />
-        <mark key="^" line="300" column="29" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamInfoService.scala" timestamp="1536955251903">
+        <mark key="[" line="251" column="92" />
+        <mark key="]" line="251" column="92" />
+        <mark key="." line="251" column="92" />
+        <mark key="^" line="251" column="91" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/QuizResourceAssembler.scala" timestamp="1536703132469">
         <mark key="[" line="14" column="0" />
@@ -201,11 +201,23 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/ExamSubjectRequest.scala" timestamp="1536955228286">
+        <mark key="[" line="12" column="72" />
+        <mark key="]" line="12" column="77" />
+        <mark key="." line="12" column="77" />
+        <mark key="^" line="12" column="77" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/AccessCheckerService.scala" timestamp="1536951681173">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="40" />
         <mark key="^" line="124" column="53" />
         <mark key="." line="124" column="53" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/ExamQuestionController.scala" timestamp="1536955375791">
+        <mark key="[" line="137" column="39" />
+        <mark key="]" line="137" column="39" />
+        <mark key="^" line="137" column="63" />
+        <mark key="." line="137" column="39" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" timestamp="1536779253847">
         <mark key="'" line="760" column="0" />
@@ -275,7 +287,7 @@
         <text encoding="base64">ICAgIGFzc2VydEVxdWFscygyLCBkdXBsaWNhdGVzLml0ZXJhdG9yKCkubmV4dCgpLmludFZhbHVlKCkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Lm1hcChpID0+IG5ldyBJbnRlZ2VyKGkpKS5hc0phdmFDb2xsZWN0aW9u</text>
+        <text>test</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">aXRlcmF0b3IoKS5uZXh0KCkuaW50VmFsdWUoKSkKICB9CgoK</text>
@@ -302,7 +314,7 @@
         <text encoding="base64">ICAgICAgZGVmIGZvbyhxOiBBbnN3ZXJVbml0KSA9IHsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lm1hcChpID0+IG5ldyBJbnRlZ2VyKGkpKS5hc0phdmFDb2xsZWN0aW9u</text>
+        <text>test</text>
       </register>
     </registers>
     <search>
