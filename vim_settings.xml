@@ -9,43 +9,6 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/device_card_in.xml" timestamp="1536915590320" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/device_card_out.xml" timestamp="1536915425235">
-        <mark key="[" line="30" column="48" />
-      </file>
-      <file name="$USER_HOME$/work/java/is/intersport-integration/src/test/java/com/optiscangroup/integation/CrasmanTest.java" timestamp="1536907816689">
-        <mark key="[" line="154" column="15" />
-        <mark key="]" line="153" column="40" />
-        <mark key="^" line="153" column="40" />
-        <mark key="." line="153" column="40" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/java/com/optiscangroup/fieldwork/integration/chiller/DeviceCardTest.java" timestamp="1536915910049">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="34" column="8" />
-        <mark key="." line="34" column="8" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1536916598677">
-        <mark key="[" line="17" column="59" />
-        <mark key="]" line="17" column="59" />
-        <mark key="^" line="17" column="47" />
-        <mark key="." line="17" column="59" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/viewContactPersons.jsp" timestamp="1536844591403">
-        <mark key="[" line="78" column="42" />
-        <mark key="]" line="78" column="42" />
-        <mark key="." line="78" column="42" />
-        <mark key="^" line="78" column="41" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/DeviceCardWrapper.java" timestamp="1536915023799">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="18" column="109" />
-        <mark key="]" line="133" column="3" />
-        <mark key="^" line="133" column="3" />
-        <mark key="." line="133" column="3" />
-      </file>
-      <file name="$USER_HOME$/work/java/is/intersport-integration/src/main/resources/META-INF/spring/osgi-context.xml" timestamp="1536905198689" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1536912584567" />
-      <file name="$USER_HOME$/work/java/is/intersport-integration/src/main/resources/META-INF/camel/camel-context.xml" timestamp="1536907701703" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/AbaBooleanUtil.java" timestamp="1536916610794">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="15" column="28" />
@@ -63,17 +26,26 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/device_card_out.xml" timestamp="1536915425235">
+        <mark key="[" line="30" column="48" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/browse.jsp" timestamp="1536845807211">
         <mark key="[" line="184" column="114" />
         <mark key="]" line="184" column="116" />
         <mark key="." line="184" column="116" />
         <mark key="^" line="184" column="116" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1536915839736">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1536930297761">
         <mark key="[" line="75" column="50" />
         <mark key="]" line="75" column="50" />
         <mark key="^" line="75" column="58" />
         <mark key="." line="75" column="50" />
+      </file>
+      <file name="$USER_HOME$/work/java/is/intersport-integration/src/test/java/com/optiscangroup/integation/CrasmanTest.java" timestamp="1536907816689">
+        <mark key="[" line="154" column="15" />
+        <mark key="]" line="153" column="40" />
+        <mark key="^" line="153" column="40" />
+        <mark key="." line="153" column="40" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeTest.java" timestamp="1536916010990">
         <mark key="[" line="94" column="38" />
@@ -81,11 +53,28 @@
         <mark key="^" line="94" column="64" />
         <mark key="." line="94" column="64" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/java/com/optiscangroup/fieldwork/integration/chiller/DeviceCardTest.java" timestamp="1536915910049">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="8" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/mass-import/devicecard-template.xml" timestamp="1536917158197">
         <mark key="[" line="33" column="1" />
         <mark key="]" line="33" column="1" />
         <mark key="." line="33" column="1" />
         <mark key="^" line="22" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1536916598677">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="59" />
+        <mark key="^" line="17" column="47" />
+        <mark key="." line="17" column="59" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/viewContactPersons.jsp" timestamp="1536844591403">
+        <mark key="[" line="78" column="42" />
+        <mark key="]" line="78" column="42" />
+        <mark key="." line="78" column="42" />
+        <mark key="^" line="78" column="41" />
       </file>
       <file name="$USER_HOME$/work/java/is/intersport-integration/src/test/resources/Crasman/salesOrderWithHyrylaLines.xml" timestamp="1536907386557">
         <mark key="'" line="63" column="37" />
@@ -99,7 +88,13 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="63" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/BooleanUtils.java" timestamp="1536916367462" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/DeviceCardWrapper.java" timestamp="1536915023799">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="18" column="109" />
+        <mark key="]" line="133" column="3" />
+        <mark key="^" line="133" column="3" />
+        <mark key="." line="133" column="3" />
+      </file>
       <file name="/fragment.java" timestamp="1536915007103">
         <mark key="[" line="0" column="0" />
       </file>
