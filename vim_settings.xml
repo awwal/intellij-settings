@@ -164,6 +164,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/QuestionSectionUI.scala" timestamp="1537013157813">
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="50" />
+        <mark key="." line="54" column="50" />
+        <mark key="^" line="54" column="50" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/quiz/QuestionSelectionList.scala" timestamp="1536780698853">
         <mark key="[" line="44" column="41" />
         <mark key="]" line="44" column="59" />
@@ -295,25 +301,25 @@
         <text encoding="base64">ICAgIGFzc2VydEVxdWFscygyLCBkdXBsaWNhdGVzLml0ZXJhdG9yKCkubmV4dCgpLmludFZhbHVlKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0LnVpLmNvbXBvbmVudC5JbWFnZUZpZWxkLkltYWdlUHJldmlld0ZpZWxkMgo=</text>
+        <text encoding="base64">b2JqZWN0IFF1ZXN0aW9uU2VjdGlvblVJIHsKfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0LnVpLmNvbXBvbmVudC5JbWFnZUZpZWxkLkltYWdlUHJldmlld0ZpZWxkMgo=</text>
+      <register name="&quot;" type="4">
+        <text>Unit.PIXELS</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b2JqZWN0IEltYWdlRmllbGQgewoKCn0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBkZWxQcm9wID0gImRlbGV0ZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvYmplY3QgSW1hZ2VQcmV2aWV3RmllbGQyIGV4dGVuZHMgSW1hZ2VQcmV2aWV3RmllbGQgewogICAgb3ZlcnJpZGUgZGVmIHVwZGF0ZURpc3BsYXlDb21wb25lbnQoKTogVW5pdCA9IHsKICAgICAgc3VwZXIudXBkYXRlRGlzcGxheUNvbXBvbmVudCgpCiAgICAgIHN1cGVyLmFkZERlbGV0ZUJ1dHRvbigpCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0LnVpLmNvbXBvbmVudC5JbWFnZUZpZWxkLkltYWdlUHJldmlld0ZpZWxkMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCB1cGxvYWRGaWVsZCA9IG5ldyBJbWFnZUZpZWxkLkltYWdlUHJldmlld0ZpZWxkMgo=</text>
+        <text encoding="base64">b2JqZWN0IEltYWdlRmllbGQgewoKCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvYmplY3QgSW1hZ2VQcmV2aWV3RmllbGQyIGV4dGVuZHMgSW1hZ2VQcmV2aWV3RmllbGQgewogICAgb3ZlcnJpZGUgZGVmIHVwZGF0ZURpc3BsYXlDb21wb25lbnQoKTogVW5pdCA9IHsKICAgICAgc3VwZXIudXBkYXRlRGlzcGxheUNvbXBvbmVudCgpCiAgICAgIHN1cGVyLmFkZERlbGV0ZUJ1dHRvbigpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCB1cGxvYWRGaWVsZCA9IG5ldyBJbWFnZUZpZWxkLkltYWdlUHJldmlld0ZpZWxkMgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -325,7 +331,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>Unit.PIXELS</text>
       </register>
     </registers>
     <search>
