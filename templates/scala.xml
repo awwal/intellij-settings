@@ -4,4 +4,9 @@
     <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
     <context />
   </template>
+  <template name="jc" value="import scala.collection.JavaConverters._" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
 </templateSet>

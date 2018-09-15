@@ -5,4 +5,10 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
+  <template name="asi" value="asInstanceOf[Property[$TYPE$]]." toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
 </templateSet>
