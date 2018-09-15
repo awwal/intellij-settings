@@ -1,0 +1,8 @@
+<templateSet group="vaadin">
+  <template name="px" value="Sizeable.Unit.PIXELS" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+</templateSet>
