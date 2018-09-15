@@ -39,7 +39,6 @@
         <mark key="^" line="36" column="19" />
         <mark key="." line="36" column="19" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/resources/voyage-sa2.csv" timestamp="1537009490643" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExamInfoServiceTest.scala" timestamp="1536781548197">
         <mark key="[" line="74" column="10" />
         <mark key="]" line="74" column="10" />
@@ -72,7 +71,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/UserCreatePost.scala" timestamp="1537009482130" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/QuestionBankView.java" timestamp="1536780969550">
         <mark key="[" line="524" column="33" />
         <mark key="]" line="524" column="33" />
@@ -108,7 +106,11 @@
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/ClassListings.java" timestamp="1537027297883">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/OtherUsersListing.scala" timestamp="1537031064245" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/OtherUsersListing.scala" timestamp="1537032804465">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/UIFactory.java" timestamp="1537021026145">
         <mark key="'" line="0" column="0" />
       </file>
@@ -413,34 +415,34 @@
         <text>OtherUsersListing</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzYi5fCg==</text>
+        <text encoding="base64">c2NhbGEuY29sbGVjdGlvbi5KYXZhQ29udmVydGVycy5fCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>OtherUsersListing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2NhbGEuY29sbGVjdGlvbi5KYXZhQ29udmVydGVycy5fCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5kb21haW4uUGFnZWFibGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5hc1NjYWxhLkNvbGxlY3RvcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X2ltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJ0ZXJzLl9pbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5KYXZhQ29udmVydGVycy5faW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuX2ltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJ0ZXJzLl8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLl8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLl8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJzaW9ucy5fCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBzYi5fCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgdGFibGUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0ZW1JZC5pc0luc3RhbmNlT2ZbRXhhbVN1YmplY3RdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>//View for SchoolAdmin</text>
