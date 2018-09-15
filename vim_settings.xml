@@ -154,11 +154,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="26" column="126" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/ClassListings.scala" timestamp="1537025401044">
-        <mark key="[" line="139" column="40" />
-        <mark key="]" line="139" column="44" />
-        <mark key="^" line="139" column="44" />
-        <mark key="." line="139" column="44" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/ClassListings.scala" timestamp="1537026478972">
+        <mark key="'" line="117" column="26" />
+        <mark key="[" line="117" column="62" />
+        <mark key="]" line="117" column="87" />
+        <mark key="." line="117" column="36" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/DBTest.java" timestamp="1536781534487">
         <mark key="[" line="61" column="37" />
@@ -268,7 +268,7 @@
         <mark key="." line="12" column="77" />
         <mark key="^" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/AccessCheckerService.scala" timestamp="1537019694256">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/AccessCheckerService.scala" timestamp="1537026319347">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="40" />
         <mark key="^" line="124" column="53" />
@@ -378,40 +378,41 @@
       <jump line="19" column="3" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/AccessSelection.scala" />
       <jump line="21" column="34" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/AccessSelection.java" />
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/AccessSelection.java" />
+      <jump line="118" column="26" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/ClassListings.scala" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>.asInstanceOf[Property[Component]]</text>
+        <text>.collect(Collectors.toSet)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5hc1NjYWxhLkNvbGxlY3RvcnMK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>.collect(Collectors.toSet)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmaW5hbCBwcml2YXRlW3ZpZXddIHZhbCBDQVBUSU9OID0gImV4YW0iCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCB3ID0gbmV3IFdpbmRvdygiQWNjZXNzIEVkaXQiKQo=</text>
+        <text encoding="base64">ICBmaW5hbCBwcml2YXRlW3ZpZXddIHZhbCBDQVBUSU9OID0gImV4YW0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCB3ID0gbmV3IFdpbmRvdygiQWNjZXNzIEVkaXQiKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLl8K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
