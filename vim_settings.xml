@@ -123,12 +123,12 @@
         <mark key="." line="36" column="50" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" timestamp="1537125399703">
-        <mark key="'" line="471" column="50" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="456" column="73" />
-        <mark key="^" line="456" column="73" />
-        <mark key="." line="456" column="73" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" timestamp="1537126208624">
+        <mark key="'" line="149" column="37" />
+        <mark key="[" line="265" column="18" />
+        <mark key="]" line="263" column="32" />
+        <mark key="^" line="263" column="32" />
+        <mark key="." line="263" column="32" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/NuggetConverter.scala" timestamp="1536859203687">
         <mark key="[" line="20" column="22" />
@@ -351,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="52" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamInfoService.java" />
       <jump line="640" column="35" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.java" />
       <jump line="857" column="37" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.java" />
       <jump line="146" column="27" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.java" />
@@ -451,43 +450,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" />
       <jump line="474" column="50" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" />
       <jump line="689" column="10" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.java" />
+      <jump line="149" column="37" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIH0KICAgIG9wdGlvblRvSW1hZ2VzLmFzU2NhbGEuZm9yZWFjaCgocGFpcjogUGFpcltRdWVzdGlvbiwgT3B0aW9uXSwgaW1hZ2U6IEJ5dGVTdG9yZSkgPT4gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5hc1NjYWxhLm1hcCggYXJyID0+IG5ldyBDaGlsZHJlbkNvdW50KGFycigwKS4pKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9wdGlvblRvSW1hZ2VzLmFzU2NhbGEuZm9yZWFjaCgocGFpcjogUGFpcltRdWVzdGlvbiwgT3B0aW9uXSwgaW1hZ2U6IEJ5dGVTdG9yZSkgPT4gewoKICAgIH0KCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgbGlzdC5mb3JFYWNoKChxaTogUXVpelF1ZXN0aW9uSW5zdGFuY2UpID0+IHsKICAgICAgCgogICAgICBlbS5yZW1vdmUocWkpCgoKICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHFzID0gcGFpci5nZXRLZXkKICAgICAgcXMuc2V0TW9kaWZpZWRCeSh1c2VyKQogICAgICBlbS5tZXJnZShxcykKICAgICAgdmFsIHEgPSBwYWlyLmdldFZhbHVlCiAgICAgIHEuc2V0SW1hZ2UoaW1hZ2UpCiAgICAgIGVtLm1lcmdlKHEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9wdGlvblRvSW1hZ2VzLmFzU2NhbGEuZm9yZWFjaCgocGFpcjogUGFpcltRdWVzdGlvbiwgT3B0aW9uXSwgaW1hZ2U6IEJ5dGVTdG9yZSkgPT4gewoKICAgIH0KCiAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHFzID0gcGFpci5nZXRLZXkKICAgICAgcXMuc2V0TW9kaWZpZWRCeSh1c2VyKQogICAgICBlbS5tZXJnZShxcykKICAgICAgdmFsIHEgPSBwYWlyLmdldFZhbHVlCiAgICAgIHEuc2V0SW1hZ2UoaW1hZ2UpCiAgICAgIGVtLm1lcmdlKHEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>forEach</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
