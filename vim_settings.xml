@@ -123,12 +123,12 @@
         <mark key="." line="36" column="50" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" timestamp="1537126208624">
-        <mark key="'" line="149" column="37" />
-        <mark key="[" line="265" column="18" />
-        <mark key="]" line="263" column="32" />
-        <mark key="^" line="263" column="32" />
-        <mark key="." line="263" column="32" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" timestamp="1537126938691">
+        <mark key="'" line="150" column="37" />
+        <mark key="[" line="560" column="0" />
+        <mark key="]" line="560" column="0" />
+        <mark key="^" line="559" column="72" />
+        <mark key="." line="560" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/NuggetConverter.scala" timestamp="1536859203687">
         <mark key="[" line="20" column="22" />
@@ -233,7 +233,7 @@
         <mark key="." line="79" column="126" />
         <mark key="^" line="79" column="126" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.java" timestamp="1537125261493">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.java" timestamp="1537126301438">
         <mark key="'" line="689" column="10" />
         <mark key="[" line="668" column="60" />
         <mark key="]" line="668" column="69" />
@@ -457,37 +457,37 @@
         <text encoding="base64">ICAgIH0KICAgIG9wdGlvblRvSW1hZ2VzLmFzU2NhbGEuZm9yZWFjaCgocGFpcjogUGFpcltRdWVzdGlvbiwgT3B0aW9uXSwgaW1hZ2U6IEJ5dGVTdG9yZSkgPT4gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5hc1NjYWxhLm1hcCggYXJyID0+IG5ldyBDaGlsZHJlbkNvdW50KGFycigwKS4pKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGlzdC5mb3JFYWNoKChxaTogUXVpelF1ZXN0aW9uSW5zdGFuY2UpID0+IHsKICAgICAgCgogICAgICBlbS5yZW1vdmUocWkpCgoKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgaW5pdGlhbGl6ZShxdWVzdGlvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAocXVlc3Rpb24gPC0gbGlzdC5hc1NjYWxhKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpc3QuYXNTY2FsYS5tYXAobyA9PiBvLmFzSW5zdGFuY2VPZltRdWVzdGlvbl0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wdGlvblRvSW1hZ2VzLmFzU2NhbGEuZm9yZWFjaCgocGFpcjogUGFpcltRdWVzdGlvbiwgT3B0aW9uXSwgaW1hZ2U6IEJ5dGVTdG9yZSkgPT4gewoKICAgIH0KCiAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHFzID0gcGFpci5nZXRLZXkKICAgICAgcXMuc2V0TW9kaWZpZWRCeSh1c2VyKQogICAgICBlbS5tZXJnZShxcykKICAgICAgdmFsIHEgPSBwYWlyLmdldFZhbHVlCiAgICAgIHEuc2V0SW1hZ2UoaW1hZ2UpCiAgICAgIGVtLm1lcmdlKHEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5hc1NjYWxhLm1hcCggYXJyID0+IG5ldyBDaGlsZHJlbkNvdW50KGFycigwKS4pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGlzdC5mb3JFYWNoKChxaTogUXVpelF1ZXN0aW9uSW5zdGFuY2UpID0+IHsKICAgICAgCgogICAgICBlbS5yZW1vdmUocWkpCgoKICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>Question</text>
       </register>
     </registers>
     <search>
