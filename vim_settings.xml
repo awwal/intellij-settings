@@ -39,6 +39,7 @@
         <mark key="." line="78" column="42" />
         <mark key="^" line="78" column="41" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/jbpm/handlers/ExportJobHandler.java" timestamp="1537181752998" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/PhoneNumberParser.java" timestamp="1536840419308">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -46,13 +47,10 @@
         <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/EditServiceDiaryEntryForm.java" timestamp="1537166676058" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1537164434623">
-        <mark key="[" line="75" column="50" />
-        <mark key="]" line="75" column="50" />
-        <mark key="^" line="75" column="58" />
-        <mark key="." line="75" column="50" />
-      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1537164434623" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/abakus-home/processDefinition.xml" timestamp="1537181001468" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/resources/fi/abakus/fajanssi/services/impl/checklist-to-xslfo.xsl" timestamp="1537165904650" />
+      <file name="$MAVEN_REPOSITORY$/com/optiscangroup/integration/toolkit/server-tools/2.0.2/server-tools-2.0.2-sources.jar!/com/optiscangroup/integration/export/DefaultObjectExporter.java" timestamp="1537181807430" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/view.jsp" timestamp="1537172908700">
         <mark key="[" line="77" column="56" />
         <mark key="]" line="77" column="66" />
@@ -76,7 +74,9 @@
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/service-diary/browse.jsp" timestamp="1537170089422" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FOPJobReportPrintService.java" timestamp="1537171088949" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/workQueueContext.xml" timestamp="1537180931256" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServiceDiaryServiceImpl.java" timestamp="1537170169570" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/commands/ExportJobCommand.java" timestamp="1537180646561" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1537175254762">
         <mark key="[" line="868" column="29" />
         <mark key="]" line="868" column="28" />
@@ -126,17 +126,20 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacade-dataset.xml" timestamp="1537176703387">
         <mark key="[" line="36" column="158" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/event/handlers/ExportEventHandler.java" timestamp="1537181889182" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/resources/fi/abakus/fajanssi/businessApplicationContext.xml" timestamp="1537171181075">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/commands/impl/ExportDelegate.java" timestamp="1537181779514" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/mass-import/devicecard-template.xml" timestamp="1536917158197">
         <mark key="[" line="33" column="1" />
         <mark key="]" line="33" column="1" />
         <mark key="." line="33" column="1" />
         <mark key="^" line="22" column="5" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1537181855915" />
       <file name="/fragment.java" timestamp="1536915007103">
         <mark key="[" line="0" column="0" />
       </file>
