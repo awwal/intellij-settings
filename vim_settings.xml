@@ -21,22 +21,18 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/fajanssi/address.tag" timestamp="1536844978068">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="23" column="3" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/device_card_in.xml" timestamp="1536933104275" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/device_card_out.xml" timestamp="1536915425235">
         <mark key="[" line="30" column="48" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" timestamp="1537164228684" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/browse.jsp" timestamp="1536845807211">
         <mark key="[" line="184" column="114" />
         <mark key="]" line="184" column="116" />
         <mark key="." line="184" column="116" />
         <mark key="^" line="184" column="116" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1536930997797">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1537164434623">
         <mark key="[" line="75" column="50" />
         <mark key="]" line="75" column="50" />
         <mark key="^" line="75" column="58" />
@@ -83,11 +79,6 @@
         <mark key="]" line="63" column="37" />
         <mark key="." line="63" column="37" />
         <mark key="^" line="63" column="37" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/edit-full.jsp" timestamp="1536845573905">
-        <mark key="'" line="88" column="22" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="63" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/DeviceCardWrapper.java" timestamp="1536915023799">
         <mark key="'" line="37" column="0" />
