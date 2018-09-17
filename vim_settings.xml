@@ -82,8 +82,8 @@
         <mark key="^" line="116" column="21" />
         <mark key="." line="116" column="21" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/HierarchicalSelection.scala" timestamp="1537042791208">
-        <mark key="'" line="69" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/HierarchicalSelection.scala" timestamp="1537214495705">
+        <mark key="'" line="113" column="35" />
         <mark key="[" line="113" column="28" />
         <mark key="]" line="113" column="35" />
         <mark key="^" line="113" column="35" />
@@ -123,12 +123,12 @@
         <mark key="." line="36" column="50" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" timestamp="1537202657180">
-        <mark key="'" line="553" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="553" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" timestamp="1537214816352">
+        <mark key="'" line="555" column="0" />
+        <mark key="[" line="283" column="22" />
+        <mark key="]" line="283" column="31" />
+        <mark key="^" line="283" column="31" />
+        <mark key="." line="283" column="31" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/NuggetConverter.scala" timestamp="1536859203687">
         <mark key="[" line="20" column="22" />
@@ -155,11 +155,11 @@
         <mark key="^" line="55" column="25" />
       </file>
       <file name="/QuestionBankExport.java" timestamp="1537042854958" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/QuizResourceAssembler.scala" timestamp="1537203731907">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="26" column="126" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/QuizResourceAssembler.scala" timestamp="1537214255677">
+        <mark key="[" line="27" column="111" />
+        <mark key="]" line="27" column="111" />
+        <mark key="." line="27" column="111" />
+        <mark key="^" line="27" column="126" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/ClassListings.scala" timestamp="1537043048967">
         <mark key="'" line="118" column="26" />
@@ -351,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="2" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" />
       <jump line="492" column="8" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" />
       <jump line="858" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.java" />
@@ -451,6 +450,7 @@
       <jump line="183" column="31" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/SchoolListings.java" />
       <jump line="198" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/SchoolListings.java" />
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/SchoolListings.java" />
+      <jump line="113" column="35" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/HierarchicalSelection.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -459,8 +459,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgdmFyIGV4YW1TdWJqZWN0U2VydmljZTogRXhhbVN1YmplY3RTZXJ2aWNlID0gXwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgdmFyIGV4YW1TdWJqZWN0U2VydmljZTogRXhhbVN1YmplY3RTZXJ2aWNlID0gXwo=</text>
+      <register name="&quot;" type="4">
+        <text>closed</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgdmFyIGV4YW1TdWJqZWN0UmVwb3NpdG9yeTogRXhhbVN1YmplY3RSZXBvc2l0b3J5ID0gXwo=</text>
@@ -487,7 +487,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>closed</text>
       </register>
     </registers>
     <search>
@@ -530,6 +530,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
