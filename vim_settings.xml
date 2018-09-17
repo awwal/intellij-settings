@@ -10,6 +10,12 @@
         <mark key="." line="13" column="45" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/device_card_in.xml" timestamp="1536933104275" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_fi.properties" timestamp="1537175286711">
+        <mark key="[" line="871" column="52" />
+        <mark key="]" line="871" column="52" />
+        <mark key="." line="871" column="52" />
+        <mark key="^" line="871" column="26" />
+      </file>
       <file name="$USER_HOME$/work/java/is/intersport-integration/src/test/java/com/optiscangroup/integation/CrasmanTest.java" timestamp="1536907816689">
         <mark key="[" line="154" column="15" />
         <mark key="]" line="153" column="40" />
@@ -18,10 +24,11 @@
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/ServiceDiaryEntry.java" timestamp="1537166169028" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/print/FajanssiJobXMLReader.java" timestamp="1537171157725" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1537171998735">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1537175343371">
+        <mark key="[" line="179" column="22" />
+        <mark key="]" line="179" column="23" />
+        <mark key="^" line="179" column="29" />
+        <mark key="." line="179" column="23" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/viewContactPersons.jsp" timestamp="1536844591403">
         <mark key="[" line="78" column="42" />
@@ -36,8 +43,14 @@
         <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/EditServiceDiaryEntryForm.java" timestamp="1537166676058" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" timestamp="1537164434623">
+        <mark key="[" line="75" column="50" />
+        <mark key="]" line="75" column="50" />
+        <mark key="^" line="75" column="58" />
+        <mark key="." line="75" column="50" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/resources/fi/abakus/fajanssi/services/impl/checklist-to-xslfo.xsl" timestamp="1537165904650" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/view.jsp" timestamp="1537171405945">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/view.jsp" timestamp="1537172908700">
         <mark key="[" line="77" column="56" />
         <mark key="]" line="77" column="66" />
         <mark key="." line="77" column="66" />
@@ -45,16 +58,41 @@
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/JobType.java" timestamp="1537170781915" />
       <file name="$USER_HOME$/work/java/cramo/fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FOPPrintService.java" timestamp="1537171062978" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" timestamp="1537172031155" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" timestamp="1537175360487">
+        <mark key="'" line="243" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/13.sql" timestamp="1537166922647">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/service-diary/browse.jsp" timestamp="1537170089422" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FOPJobReportPrintService.java" timestamp="1537171088949" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServiceDiaryServiceImpl.java" timestamp="1537170169570" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1537175254762">
+        <mark key="[" line="868" column="29" />
+        <mark key="]" line="868" column="28" />
+        <mark key="." line="868" column="28" />
+        <mark key="^" line="868" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-card/view.jsp" timestamp="1537175312497">
+        <mark key="'" line="94" column="38" />
+        <mark key="[" line="110" column="43" />
+        <mark key="]" line="110" column="43" />
+        <mark key="." line="110" column="60" />
+        <mark key="^" line="108" column="66" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/AbaBooleanUtil.java" timestamp="1536916610794">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="15" column="28" />
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceContract.xsl" timestamp="1537175118039" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/servicediary/ServiceDiaryPDFController.java" timestamp="1537170107209" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FOPPrintService.java" timestamp="1537170809739" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/browse.jsp" timestamp="1536845807211">
@@ -63,7 +101,13 @@
         <mark key="." line="184" column="116" />
         <mark key="^" line="184" column="116" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeTest.java" timestamp="1536931857494">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/AbaStringUtils.java" timestamp="1537173513163">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="443" column="0" />
+        <mark key="." line="443" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeTest.java" timestamp="1537175044126">
         <mark key="[" line="125" column="60" />
         <mark key="]" line="125" column="64" />
         <mark key="^" line="125" column="64" />
@@ -98,43 +142,47 @@
       <jump line="76" column="71" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceCard.xsl" />
       <jump line="38" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/DeviceCardWrapper.java" />
       <jump line="96" column="38" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-card/view.jsp" />
+      <jump line="49" column="15" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/AbaStringUtils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/AbaStringUtils.java" />
+      <jump line="243" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" />
+      <jump line="244" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>drop table if exists service_diaries;</text>
+        <text>externalContractId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyLmdldENvbnRyYWN0SWQoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBleHRlcm5hbENvbnRyYWN0SWQ7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyLmdldENvbnRyYWN0SWQoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBleHRlcm5hbENvbnRyYWN0SWQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEV4dGVybmFsQ29udHJhY3RJZChJbnRlZ2VyIGV4dGVybmFsQ29udHJhY3RJZCkgewogICAgICAgIHRoaXMuZXh0ZXJuYWxDb250cmFjdElkID0gZXh0ZXJuYWxDb250cmFjdElkOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldEV4dGVybmFsQ29udHJhY3RJZCgpIHsKICAgICAgICByZXR1cm4gZXh0ZXJuYWxDb250cmFjdElkOwogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgeG1sID0gZW50aXR5LmdldEludGVybmFsUERGU3R5bGVzaGVldCgpOyBpZiAoeG1sID09IG51bGwpIHsKICAgICAgICAgICAgZW50aXR5LnNldEludGVybmFsUERGU3R5bGVzaGVldChsb2FkUmVzb3VyY2UoImRlZmF1bHQtam9iLWludGVybmFsLXRlbXBsYXRlLnhzbCIpKTsKICAgICAgICB9CgogICAgICAgIHhtbCA9IGVudGl0eS5nZXRFeHRlcm5hbFBERlN0eWxlc2hlZXQoKTsKICAgICAgICBpZiAoeG1sID09IG51bGwpIHsKICAgICAgICAgICAgZW50aXR5LnNldEV4dGVybmFsUERGU3R5bGVzaGVldChsb2FkUmVzb3VyY2UoImRlZmF1bHQtam9iLWV4dGVybmFsLXRlbXBsYXRlLnhzbCIpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBjb250cmFjdElkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldENvbnRyYWN0SWQoKSB7IHJldHVybiBjb250cmFjdElkOyB9CgogICAgcHVibGljIHZvaWQgc2V0Q29udHJhY3RJZChJbnRlZ2VyIGNvbnRyYWN0SWQpIHsKICAgICAgICB0aGlzLmNvbnRyYWN0SWQgPSBjb250cmFjdElkOwogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgeG1sID0gZW50aXR5LmdldEludGVybmFsUERGU3R5bGVzaGVldCgpOwogICAgICAgIGlmICh4bWwgPT0gbnVsbCkgewogICAgICAgICAgICBlbnRpdHkuc2V0SW50ZXJuYWxQREZTdHlsZXNoZWV0KGxvYWRSZXNvdXJjZSgiZGVmYXVsdC1qb2ItaW50ZXJuYWwtdGVtcGxhdGUueHNsIikpOwogICAgICAgIH0KCiAgICAgICAgeG1sID0gZW50aXR5LmdldEV4dGVybmFsUERGU3R5bGVzaGVldCgpOwogICAgICAgIGlmICh4bWwgPT0gbnVsbCkgewogICAgICAgICAgICBlbnRpdHkuc2V0RXh0ZXJuYWxQREZTdHlsZXNoZWV0KGxvYWRSZXNvdXJjZSgiZGVmYXVsdC1qb2ItZXh0ZXJuYWwtdGVtcGxhdGUueHNsIikpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENvbnRyYWN0SWQoSW50ZWdlciBjb250cmFjdElkKSB7CgogICAgICAgIHRoaXMuY29udHJhY3RJZCA9IGNvbnRyYWN0SWQ7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJmYWphbnNzaVByaW50U2VydmljZSIgY2xhc3M9ImZpLmFiYWt1cy5mYWphbnNzaS5zZXJ2aWNlcy5pbXBsLkZPUFByaW50U2VydmljZSI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9ImxvZ28iIHZhbHVlPSIiLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iam9iU2VydmljZSIgcmVmPSJqb2JTZXJ2aWNlIi8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InJlYWRlciI+CiAgICAgICAgICAgIDxiZWFuIGNsYXNzPSJmaS5hYmFrdXMuZmFqYW5zc2kucHJpbnQuRmFqYW5zc2lKb2JYTUxSZWFkZXIiPgogICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImJpbGxpbmdEZXRhaWxzUmVzb2x2ZXIiIHJlZj0iYmlsbGluZ0RldGFpbHNSZXNvbHZlciIvPgogICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImV4Y2x1ZGVkUHJvcGVydGllcyI+CiAgICAgICAgICAgICAgICAgICAgPG1hcD4KICAgICAgICAgICAgICAgICAgICAgICAgPGVudHJ5IGtleT0iZmkuYWJha3VzLmNvcmUubW9kZWwuUGVyc29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaXN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx2YWx1ZT5yb2xlczwvdmFsdWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHZhbHVlPmdyb3VwczwvdmFsdWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpc3Q+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZW50cnk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxlbnRyeSBrZXk9ImZpLmFiYWt1cy5mYWphbnNzaS5tb2RlbC5Kb2IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpc3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHZhbHVlPnByZWNlZWRpbmdKb2JzPC92YWx1ZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmFsdWU+Zm9sbG93aW5nSm9iczwvdmFsdWU+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saXN0PgogICAgICAgICAgICAgICAgICAgICAgICA8L2VudHJ5PgogICAgICAgICAgICAgICAgICAgIDwvbWFwPgogICAgICAgICAgICAgICAgPC9wcm9wZXJ0eT4KICAgICAgICAgICAgPC9iZWFuPgogICAgICAgIDwvcHJvcGVydHk+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InRlbXBsYXRlcyI+CiAgICAgICAgICAgIDxtYXA+CiAgICAgICAgICAgICAgICA8ZW50cnkga2V5PSJkZWZhdWx0Ij4KICAgICAgICAgICAgICAgICAgICA8YmVhbiBjbGFzcz0iZmkuYWJha3VzLmVycC5zZXJ2aWNlcy5wcmludC5GT1BQcmludFNlcnZpY2UkVGVtcGxhdGUiPgogICAgICAgICAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iY29udGVudFR5cGUiIHZhbHVlPSJhcHBsaWNhdGlvbi9wZGYiLz4KICAgICAgICAgICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFjY2VwdE11bHRpcGxlIiB2YWx1ZT0iZmFsc2UiLz4KICAgICAgICAgICAgICAgICAgICA8L2JlYW4+CiAgICAgICAgICAgICAgICA8L2VudHJ5PgogICAgICAgICAgICAgICAgPGVudHJ5IGtleT0ieG1sIj4KICAgICAgICAgICAgICAgICAgICA8YmVhbiBjbGFzcz0iZmkuYWJha3VzLmVycC5zZXJ2aWNlcy5wcmludC5GT1BQcmludFNlcnZpY2UkVGVtcGxhdGUiPgogICAgICAgICAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iY29udGVudFR5cGUiIHZhbHVlPSJ0ZXh0L3htbCIvPgogICAgICAgICAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iYWNjZXB0TXVsdGlwbGUiIHZhbHVlPSJmYWxzZSIvPgogICAgICAgICAgICAgICAgICAgIDwvYmVhbj4KICAgICAgICAgICAgICAgIDwvZW50cnk+CiAgICAgICAgICAgIDwvbWFwPgogICAgICAgIDwvcHJvcGVydHk+CiAgICA8L2JlYW4+Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bDpxdWVyeUZpZWxkIGxhYmVsS2V5PSJkZXZpY2VDYXJkcy5icm93c2Uuc2VhcmNoLmJ5VGFyZ2V0S2V5Ij4KICAgICAgICAgICAgPGZvcm06aW5wdXQgcGF0aD0idGFyZ2V0S2V5IiAvPgogICAgICAgIDwvbDpxdWVyeUZpZWxkPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciB0b0ludGVnZXIoU3RyaW5nIHN0cikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmYXVsdFZhbHVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>asString</text>
+        <text>ExternalContractId</text>
       </register>
     </registers>
     <search>
@@ -174,6 +222,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
