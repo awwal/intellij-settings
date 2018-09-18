@@ -3,6 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
@@ -13,12 +15,12 @@
     <mask>*.jsp,*.xml,*.properties</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
-    <mask>*.properties</mask>
     <mask>messages_en.properties</mask>
     <mask>messages_fi.properties</mask>
     <mask>*.jsp</mask>
-    <mask>*.java</mask>
     <mask>*.xsl</mask>
     <mask>*.java,*.jsp,*.xml</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
