@@ -1,11 +1,11 @@
 <templateSet group="vaadin">
-  <template name="px" value="Sizeable.Unit.PIXELS" toReformat="false" toShortenFQNames="true">
+  <template name="px" value="Sizeable.Unit.PIXELS" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="SCALA" value="true" />
     </context>
   </template>
-  <template name="asi" value="asInstanceOf[Property[$TYPE$]]." toReformat="false" toShortenFQNames="true">
+  <template name="asi" value="asInstanceOf[Property[$TYPE$]]." description="" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="SCALA" value="true" />
