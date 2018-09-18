@@ -3,7 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/fi/abakus/fajanssi/mobile/util/Converter.java" timestamp="1537259558860">
+        <mark key="[" line="929" column="59" />
+        <mark key="]" line="929" column="74" />
+        <mark key="." line="929" column="74" />
+        <mark key="^" line="929" column="74" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" timestamp="1537177030247">
+        <mark key="'" line="243" column="0" />
+        <mark key="[" line="244" column="6" />
+        <mark key="]" line="244" column="107" />
+        <mark key="." line="244" column="76" />
+        <mark key="^" line="244" column="76" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeImpl.java" timestamp="1537258469581" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/shared-model/src/main/java/com/optiscangroup/mobile/shybase/model/organization/APerson.java" timestamp="1537259485370" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/13.sql" timestamp="1537259860362">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="69" />
+        <mark key="^" line="4" column="69" />
+        <mark key="." line="4" column="69" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/PartnerFacadeImpl.java" timestamp="1537252380968" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-card/view.jsp" timestamp="1537177118410">
+        <mark key="'" line="94" column="38" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15.2-SNAPSHOT/abakus-core-api-2.2.15.2-20180910.101039-3.jar!/fi/abakus/core/model/Phone.class" timestamp="1537252252464" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/settings/job-type-edit.jsp" timestamp="1537188111868">
         <mark key="[" line="533" column="0" />
@@ -31,43 +60,45 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/AbaStringUtils.java" />
       <jump line="243" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" />
       <jump line="244" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCard.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/13.sql" />
+      <jump line="57" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/13.sql" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text encoding="base64">VGhpcyBhdHRyaWJ1dGUgaXMgc2F2ZWQgYXMgaXQgaXMuIEl0IGlzIG5vdCBjdXJyZW50bHkgdmFsaWRhdGVkIGFnYWluc3QgdGhlIERldmljZUNvbnRyYWN0LmV4dGVybmFsSWQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0lPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0lPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">c2VsZWN0IGlkLHBob25lX2NvdW50cnlfY29kZSxwaG9uZV9hcmVhX2NvZGUsIHBob25lX2xvY2FsX251bWJlcixwaG9uZV9hc19zdHJpbmcsCiBmcm9tIGNvbXBhbmllcyB3aGVyZSBwaG9uZV9sb2NhbF9udW1iZXIgaXMgbnVsbCBhbmQgcGhvbmVfYXNfc3RyaW5nIGlzIG5vdCBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0lPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PHRyPgoJCQk8dGg+PHNwcmluZzptZXNzYWdlIGNvZGU9ImRldmljZUNhcmQuY29udHJhY3RFeHRlcm5hbElkIiAvPjwvdGg+CgkJCTx0ZD4KCQkJCTxjOm91dCB2YWx1ZT0iJHtkZXZpY2VDYXJkLmNvbnRyYWN0RXh0ZXJuYWxJZH0iIC8+CgkJCTwvdGQ+CgkJPC90cj4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CgpzZWxlY3QgbW9iaWxlX251bWJlcl9hc19zdHJpbmcsIG1vYmlsZV9udW1iZXJfY291bnRyeV9jb2RlLG1vYmlsZV9udW1iZXJfYXJlYV9jb2RlLCBtb2JpbGVfbnVtYmVyX2xvY2FsX251bWJlcixtb2JpbGVfbnVtYmVyX2FzX3N0cmluZyBmcm9tIHBlcnNvbnMgd2hlcmUgY2hhcl9sZW5ndGgobW9iaWxlX251bWJlcl9sb2NhbF9udW1iZXIpPjAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8dHI+CgkJCTx0aD48c3ByaW5nOm1lc3NhZ2UgY29kZT0iZGV2aWNlQ2FyZC5jb250cmFjdEV4dGVybmFsSWQiIC8+PC90aD4KCQkJPHRkPgoJCQkJPGM6b3V0IHZhbHVlPSIke2RldmljZUNhcmQuY29udHJhY3RFeHRlcm5hbElkIiAvPgoJCQk8L3RkPgoJCTwvdHI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBleHRlcm5hbENvbnRyYWN0SWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEV4dGVybmFsQ29udHJhY3RJZChJbnRlZ2VyIGV4dGVybmFsQ29udHJhY3RJZCkgewogICAgICAgIHRoaXMuZXh0ZXJuYWxDb250cmFjdElkID0gZXh0ZXJuYWxDb250cmFjdElkOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldEV4dGVybmFsQ29udHJhY3RJZCgpIHsKICAgICAgICByZXR1cm4gZXh0ZXJuYWxDb250cmFjdElkOwogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>deviceCard</text>
+        <text>toString</text>
       </register>
     </registers>
     <search>
