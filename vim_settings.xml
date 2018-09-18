@@ -61,6 +61,7 @@
         <mark key="." line="70" column="31" />
         <mark key="^" line="70" column="31" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1537278536144" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/persons/edit.jsp" timestamp="1537266741413">
         <mark key="'" line="163" column="27" />
         <mark key="[" line="157" column="68" />
@@ -68,7 +69,8 @@
         <mark key="." line="163" column="27" />
         <mark key="^" line="163" column="27" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1537263524591" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" timestamp="1537278588127" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1537277961946" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/devices/services/UtilTest.java" timestamp="1537265403289" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceContract.xsl" timestamp="1537273277852" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceContract.java" timestamp="1537273310816" />
