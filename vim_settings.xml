@@ -86,6 +86,13 @@
         <mark key="^" line="116" column="21" />
         <mark key="." line="116" column="21" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" timestamp="1537330898820">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="307" column="23" />
+        <mark key="]" line="307" column="23" />
+        <mark key="^" line="307" column="23" />
+        <mark key="." line="307" column="23" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/HierarchicalSelection.scala" timestamp="1537214495705">
         <mark key="'" line="113" column="35" />
         <mark key="[" line="113" column="28" />
@@ -350,11 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/AcadaEmailValidator.scala" />
-      <jump line="26" column="42" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/QuizResourceAssembler.scala" />
-      <jump line="70" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/QuestionController.scala" />
-      <jump line="53" column="63" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/QuestionController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/QuestionController.java" />
       <jump line="139" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/ExamQuestionController.scala" />
       <jump line="56" column="1" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/ExamQuestionController.scala" />
@@ -450,43 +452,48 @@
       <jump line="78" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/SpringAppUserService.scala" />
       <jump line="51" column="49" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/SpringAppUserService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/SpringAppUserService.java" />
+      <jump line="461" column="23" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" />
+      <jump line="75" column="54" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" />
+      <jump line="96" column="37" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" />
+      <jump line="481" column="4" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBpbWFnZVN0cmVhbSA9IFRocmVhZC5jdXJyZW50VGhyZWFkLmdldENvbnRleHRDbGFzc0xvYWRlci5nZXRSZXNvdXJjZUFzU3RyZWFtKCJ0ZXN0LmpwZyIpCiAgICB2YWwgaW1hZ2VCeXRlcyA9IElPVXRpbHMudG9CeXRlQXJyYXkoaW1hZ2VTdHJlYW0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBudWdnZXQ6IEFycmF5W0J5dGVdID0gYnVmZmVyZWRTb3VyY2UudG9BcnJheS5tYXAoXy50b0J5dGUpCg==</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VycyA9IGFsbFByaW5jaXBhbHMuYXNTY2FsYS5maWx0ZXIoKHA6IEFueSkgPT4gcC5pc0luc3RhbmNlT2ZbQ0JUVXNlckRldGFpbHNdKQogICAgICAuZmlsdGVyKChwOiBBbnkpID0+IHNlc3Npb25SZWdpc3RyeS5nZXRBbGxTZXNzaW9ucyhwLCBmYWxzZSkuc2l6ZSA+IDApLm1hcCgocDogQW55KSA9PiBwLmFzSW5zdGFuY2VPZltDQlRVc2VyRGV0YWlsc10pLm1hcChDQlRVc2VyRGV0YWlscy5nZXRVc2VyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>test.jpg</text>
+        <text>$</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBidWZmZXJlZFNvdXJjZTogQnVmZmVyZWRTb3VyY2UgPSBTb3VyY2UuZnJvbVJlc291cmNlKCIxNDk2NTMwNjg0MjYwSkFNQiBHb3Zlcm5tZW50LmFjYWRhIikK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5hc1NjYWxhLkNvbGxlY3RvcnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBudWdnZXQ6IEFycmF5W0J5dGVdID0gRmlsZXMucmVhZEFsbEJ5dGVzKFBhdGhzLmdldCgiL2hvbWUvbGF3YWwvcHJvai9DQlRTZXJ2ZXIvc2VydmljZS9zcmMvdGVzdC9yZXNvdXJjZXMvMTQ5NjUzMDY4NDI2MEpBTUIgR292ZXJubWVudC5hY2FkYSIpKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBudWdnZXQ6IEFycmF5W0J5dGVdID0gYnVmZmVyZWRTb3VyY2UudG9BcnJheS5tYXAoXy50b0J5dGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAgQElnbm9yZQo=</text>
+        <text encoding="base64">ICAgIHZhbCBidWZmZXJlZFNvdXJjZTogQnVmZmVyZWRTb3VyY2UgPSBTb3VyY2UuZnJvbVJlc291cmNlKCIxNDk2NTMwNjg0MjYwSkFNQiBHb3Zlcm5tZW50LmFjYWRhIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nZ2luZy5sZXZlbC5uZXQudHRkZHl5PUVSUk9SCg==</text>
+        <text encoding="base64">ICAgIHZhbCBudWdnZXQ6IEFycmF5W0J5dGVdID0gRmlsZXMucmVhZEFsbEJ5dGVzKFBhdGhzLmdldCgiL2hvbWUvbGF3YWwvcHJvai9DQlRTZXJ2ZXIvc2VydmljZS9zcmMvdGVzdC9yZXNvdXJjZXMvMTQ5NjUzMDY4NDI2MEpBTUIgR292ZXJubWVudC5hY2FkYSIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nZ2luZy5sZXZlbC5uZXQudHRkZHl5PUVSUk9SCg==</text>
+        <text encoding="base64">ICAvLyAgQElnbm9yZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">bG9nZ2luZy5sZXZlbC5uZXQudHRkZHl5PUVSUk9SCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHVzZXI6IFVzZXIgPSAgICAgdXNlclNlcnZpY2UubG9hZFVzZXIoImNidCIpCg==</text>
+        <text encoding="base64">bG9nZ2luZy5sZXZlbC5uZXQudHRkZHl5PUVSUk9SCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgc2lkID05Cg==</text>
+        <text encoding="base64">bG9nZ2luZy5sZXZlbC5uZXQudHRkZHl5PUVSUk9SCg==</text>
       </register>
       <register name="-" type="4">
-        <text>test.jpg</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
