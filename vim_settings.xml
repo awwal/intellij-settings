@@ -112,7 +112,7 @@
         <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/abakus-core-api/pom.xml" timestamp="1537266171707" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-core/2.0.6/abakus-erp-core-2.0.6-sources.jar!/fi/abakus/erp/services/jbpm/TransientJbpmConnector.java" timestamp="1537343272827" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-core/2.0.6/abakus-erp-core-2.0.6-sources.jar!/fi/abakus/erp/services/jbpm/TransientJbpmConnector.java" timestamp="1537349622633" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/resources/fi/abakus/fajanssi/processDefinitionContext.xml" timestamp="1537338596260" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-util/2.2.15/abakus-core-util-2.2.15-sources.jar!/fi/abakus/core/util/LazyMap.java" timestamp="1537337843662" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/resources/fi/abakus/fajanssi/processDefinitionContext-handlers.xml" timestamp="1537346822693" />
@@ -121,10 +121,10 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/job-commands-servlet.xml" timestamp="1537335332762" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/crm/abakus-crm-core/3.1.17/abakus-crm-core-3.1.17-sources.jar!/fi/abakus/crm/services/impl/CustomerServiceImpl.java" timestamp="1537265424669" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-core/2.0.6/abakus-erp-core-2.0.6.jar!/fi/abakus/erp/processDefinitionContext-handlers.xml" timestamp="1537345033901" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-core/2.0.6/abakus-erp-core-2.0.6-sources.jar!/fi/abakus/erp/services/jbpm/AbstractJbpmConnector.java" timestamp="1537348074633" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1537348327404">
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-core/2.0.6/abakus-erp-core-2.0.6-sources.jar!/fi/abakus/erp/services/jbpm/AbstractJbpmConnector.java" timestamp="1537349593497" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1537349784501">
         <mark key="'" line="305" column="23" />
-        <mark key="[" line="314" column="19" />
+        <mark key="[" line="314" column="50" />
         <mark key="]" line="314" column="36" />
         <mark key="." line="314" column="36" />
         <mark key="^" line="314" column="36" />
@@ -137,7 +137,12 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/StubCommandInvoker.java" timestamp="1537344024083" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/devices/services/UtilTest.java" timestamp="1537265403289" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-core/2.0.6/abakus-erp-core-2.0.6-sources.jar!/fi/abakus/erp/services/jbpm/HibernateJbpmConnector.java" timestamp="1537338995292" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/jbpm/FieldWorkTransientJbpmConnector.java" timestamp="1537348946241" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/jbpm/FieldWorkTransientJbpmConnector.java" timestamp="1537350223609">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="26" column="41" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/deviceContract.xsl" timestamp="1537273277852" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceContract.java" timestamp="1537273310816" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15.2-SNAPSHOT/abakus-core-api-2.2.15.2-20180910.101039-3.jar!/fi/abakus/core/model/Phone.class" timestamp="1537265619334" />
@@ -190,34 +195,34 @@
         <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iYXV0aGVudGljYXRpb25TZXJ2aWNlIiByZWY9ImF1dGhlbnRpY2F0aW9uU2VydmljZSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>authenticationService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGZvcm1zQWxsRG9uZSA9IGpvYlJlcG9ydFNlcnZpY2UucmVwb3J0Rm9ybXNBbGxEb25lKGpvYi5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9nLmlzRGVidWdFbmFibGVkKCkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGZvcm1zQWxsRG9uZSA9IGpvYlJlcG9ydFNlcnZpY2UucmVwb3J0Rm9ybXNBbGxEb25lKGpvYi5nZXRJZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKb2JTZXJ2aWNlIGdldEpvYlNlcnZpY2UoKSB7CiAgICAgICAgcmV0dXJuIGpvYlNlcnZpY2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Sm9iU2VydmljZShKb2JTZXJ2aWNlIGpvYlNlcnZpY2UpIHsKICAgICAgICB0aGlzLmpvYlNlcnZpY2UgPSBqb2JTZXJ2aWNlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGZvcm1zQWxsRG9uZSA9IGpvYlJlcG9ydFNlcnZpY2UucmVwb3J0Rm9ybXNBbGxEb25lKGpvYi5nZXRJZCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSm9iU2VydmljZSBqb2JTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGZvcm1zQWxsRG9uZSA9IGpvYlJlcG9ydFNlcnZpY2UucmVwb3J0Rm9ybXNBbGxEb25lKGpvYi5nZXRJZCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGdldEFsbEpvYlJlcG9ydHMoKSAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBKb2JTZXJ2aWNlIGdldEpvYlNlcnZpY2UoKSB7CiAgICAgICAgcmV0dXJuIGpvYlNlcnZpY2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Sm9iU2VydmljZShKb2JTZXJ2aWNlIGpvYlNlcnZpY2UpIHsKICAgICAgICB0aGlzLmpvYlNlcnZpY2UgPSBqb2JTZXJ2aWNlOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0SW5zdGFuY2Uuc2V0VHJhbnNpZW50VmFyaWFibGUoImpvYlNlcnZpY2UiLCBuZXcgVXNlclByb3h5KGF1dGhlbnRpY2F0aW9uU2VydmljZSkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSm9iU2VydmljZSBqb2JTZXJ2aWNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NwYXRoOmZpL2FiYWt1cy9mYWphbnNzaS9wcm9jZXNzRGVmaW5pdGlvbkNvbnRleHQtdHJhbnNpZW50LnhtbAo=</text>
+        <text encoding="base64">ICAgICAgIGdldEFsbEpvYlJlcG9ydHMoKSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBYbWxFbGVtZW50KG5pbGxhYmxlID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0SW5zdGFuY2Uuc2V0VHJhbnNpZW50VmFyaWFibGUoImpvYlNlcnZpY2UiLCBuZXcgVXNlclByb3h5KGF1dGhlbnRpY2F0aW9uU2VydmljZSkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>authenticationService</text>
