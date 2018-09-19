@@ -143,11 +143,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.1.13/jaxb-impl-2.1.13-sources.jar!/com/sun/xml/bind/DatatypeConverterImpl.java" timestamp="1537274703524" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/jbpm/handlers/MarkJobDoneHandler.java" timestamp="1537343851231" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/dao/hibernate/HibernateJobReportDAO.java" timestamp="1537360807255">
-        <mark key="[" line="106" column="56" />
-        <mark key="]" line="106" column="65" />
-        <mark key="." line="106" column="65" />
-        <mark key="^" line="106" column="65" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/dao/hibernate/HibernateJobReportDAO.java" timestamp="1537389051778">
+        <mark key="[" line="111" column="31" />
+        <mark key="]" line="111" column="31" />
+        <mark key="." line="111" column="31" />
+        <mark key="^" line="106" column="59" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/job-commands-servlet.xml" timestamp="1537335332762" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/crm/abakus-crm-core/3.1.17/abakus-crm-core-3.1.17-sources.jar!/fi/abakus/crm/services/impl/CustomerServiceImpl.java" timestamp="1537265424669" />
@@ -243,13 +243,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IGdldFNlc3Npb24oKS5jcmVhdGVDcml0ZXJpYShKb2IuY2xhc3MpOwogICAgICAgIGNyaXRlcmlhLmNyZWF0ZUFsaWFzKCJyZXBvcnRGb3JtcyIsICJyZXEiKTsKICAgICAgICBjcml0ZXJpYS5hZGQoUmVzdHJpY3Rpb25zLmVxKCJpZCIsam9iSWQpKTsKICAgICAgICBjcml0ZXJpYS5hZGQoU3VicXVlcmllcy5wcm9wZXJ0eUluKCJyZXEuaWQiLCBmaWxsZWRGb3JtRm9ySm9iKSk7CiAgICAgICAgY3JpdGVyaWEuc2V0UHJvamVjdGlvbihQcm9qZWN0aW9ucy5wcm9wZXJ0eSgicmVwb3J0Rm9ybXMiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcml0ZXJpYS5zZXRQcm9qZWN0aW9uKFByb2plY3Rpb25zLnByb3BlcnR5KCJyZXBvcnRGb3JtcyIpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>J</text>
+        <text>Projections.property(&quot;reportForms&quot;)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBjcml0ZXJpYS5hZGQoUmVzdHJpY3Rpb25zLmluKCJpZCIsIGZpbGxlZEZvcm1Gb3JKb2IpKQo=</text>
@@ -276,7 +276,7 @@
         <text encoding="base64">ICAgICAgICBjcml0ZXJpYS5jcmVhdGUK</text>
       </register>
       <register name="-" type="4">
-        <text>J</text>
+        <text>Projections.property(&quot;reportForms&quot;)</text>
       </register>
     </registers>
     <search>
