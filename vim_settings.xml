@@ -32,11 +32,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="28" column="43" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1537638449078">
-        <mark key="'" line="134" column="45" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1537639422526">
+        <mark key="'" line="188" column="8" />
+        <mark key="[" line="188" column="7" />
+        <mark key="]" line="188" column="9" />
+        <mark key="." line="188" column="9" />
+        <mark key="^" line="188" column="9" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1537597137204">
         <mark key="'" line="0" column="0" />
@@ -50,7 +51,7 @@
         <mark key="^" line="52" column="24" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.java" timestamp="1537638064101" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.java" timestamp="1537638912056" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" timestamp="1537480580424">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -123,43 +124,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" />
       <jump line="233" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" />
       <jump line="115" column="45" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" />
+      <jump line="187" column="8" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGdldENoZWNrYm94VmFsdWUoaWQscW4pLAo=</text>
+        <text encoding="base64">ICAgICAgTGlzdChxQ2hlY2tlZCxvcHRBQ2hlY2tlZCxvcHRCQ2hlY2tlZCxvcHRDQ2hlY2tlZCxvcHREQ2hlY2tlZCxvcHRFQ2hlY2tlZCkuY291bnQoXz09dHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHF1ZXN0aW9uSW1hZ2VzLgo=</text>
+        <text encoding="base64">ICAgIHZhbCBpbnRUb1R1cGxlczogUHJlZGVmLk1hcFtJbnQsIEl0ZXJhYmxlWyhJbnQsIEJ5dGVTdG9yZSldXSA9IHF1ZXN0aW9uSW1hZ2VzLmdyb3VwQnkocj0+ci5fMSkuY291Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHF1ZXN0aW9uSW1hZ2VzLgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHF1ZXN0aW9uSW1hZ2VzLgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCByb3dBbmRTZWxlY3Rpb25Db3VudCA9IHJvd0FuZFZhbHVlLm1hcChyID0+IGNoZWNrZWRDb3VudChyLl8xKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCByb3dBbmRTZWxlY3Rpb25Db3VudCA9IHJvd0FuZFZhbHVlLm1hcChyID0+IGNoZWNrZWRDb3VudChyLl8xKSkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHZhbCByb3dBbmRWYWx1ZTogSXRlcmFibGVbKEl0ZW0sIEludCldID0gaXRlbUlkcy5tYXAoaWQgPT4gZ2V0Q2hlY2tib3hWYWx1ZShpZCkpLmZpbHRlcihfLmlzRGVmaW5lZCkubWFwKF8uZ2V0KQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBkZWYgY2hlY2tlZENvdW50KGl0ZW06IEl0ZW0pOiBJbnQgPSB7CiAgICAgIHZhbCBxbmIgPSBpdGVtLmdldEl0ZW1Qcm9wZXJ0eShxbikuZ2V0VmFsdWUuYXNJbnN0YW5jZU9mW0NoZWNrQm94XQogICAgICB2YWwgcWFiID0gaXRlbS5nZXRJdGVtUHJvcGVydHkocWEpLmdldFZhbHVlLmFzSW5zdGFuY2VPZltDaGVja0JveF0KICAgICAgdmFsIHFiYiA9IGl0ZW0uZ2V0SXRlbVByb3BlcnR5KHFiKS5nZXRWYWx1ZS5hc0luc3RhbmNlT2ZbQ2hlY2tCb3hdCiAgICAgIHZhbCBxY2IgPSBpdGVtLmdldEl0ZW1Qcm9wZXJ0eShxYykuZ2V0VmFsdWUuYXNJbnN0YW5jZU9mW0NoZWNrQm94XQogICAgICB2YWwgcWRiID0gaXRlbS5nZXRJdGVtUHJvcGVydHkocWQpLmdldFZhbHVlLmFzSW5zdGFuY2VPZltDaGVja0JveF0KICAgICAgdmFsIHFlYiA9IGl0ZW0uZ2V0SXRlbVByb3BlcnR5KHFlKS5nZXRWYWx1ZS5hc0luc3RhbmNlT2ZbQ2hlY2tCb3hdCiAgICAgIC8vYmFkIGNvZGUKICAgICAgdmFsIGlzUXVlc3Rpb24gPSBxbmIuZ2V0VmFsdWUKICAgICAgdmFsIGlzT3B0QUltYWdlID0gcWFiLmdldFZhbHVlCiAgICAgIHZhbCBpc09wdEJJbWFnZSA9IHFiYi5nZXRWYWx1ZQogICAgICB2YWwgaXNPcHRDSW1hZ2UgPSBxY2IuZ2V0VmFsdWUKICAgICAgdmFsIGlzT3B0REltYWdlID0gcWRiLmdldFZhbHVlCiAgICAgIHZhbCBpc09wdEVJbWFnZSA9IHFlYi5nZXRWYWx1ZQogICAgICB2YWwgb3B0SW1hZ2VzID0gQXJyYXlbQm9vbGVhbl0ocWFiLmdldFZhbHVlLCBxYmIuZ2V0VmFsdWUsIHFjYi5nZXRWYWx1ZSwgcWNiLmdldFZhbHVlLCBxZGIuZ2V0VmFsdWUsIHFlYi5nZXRWYWx1ZSkKICAgICAgdmFsIHRydWVDb3VudCA9IGNvdW50VHJ1ZXMoaXNRdWVzdGlvbiwgaXNPcHRBSW1hZ2UsIGlzT3B0QkltYWdlLCBpc09wdENJbWFnZSwgaXNPcHRESW1hZ2UsIGlzT3B0RUltYWdlKQogICAgICB0cnVlQ291bnQKICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCh0ID0+dC5wcm9kdWN0SXRlcmF0b3IudG9MaXN0KS4K</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">KHI9PnIuKQ==</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
