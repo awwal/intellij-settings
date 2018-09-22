@@ -32,11 +32,11 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="28" column="43" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1537642674579">
-        <mark key="[" line="226" column="3" />
-        <mark key="]" line="226" column="4" />
-        <mark key="^" line="226" column="4" />
-        <mark key="." line="226" column="4" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1537643330817">
+        <mark key="[" line="216" column="29" />
+        <mark key="]" line="216" column="35" />
+        <mark key="." line="216" column="35" />
+        <mark key="^" line="216" column="35" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1537597137204">
         <mark key="'" line="0" column="0" />
@@ -132,37 +132,37 @@
         <text encoding="base64">ICAgICAgICAgIHZhbCBvcHRpb24gPSBnZXRPcHRpb24oaywgcXVlc3Rpb25zKQogICAgICAgICAgdmFsIHEgPSBnZXRRdWVzdGlvbihrLnF1ZXN0aW9uTnVtYmVyLCBxdWVzdGlvbnMpCiAgICAgICAgICBvcHRpb25Ub0ltYWdlcy5wdXQoUGFpci5vZihxLCBvcHRpb24pLCB2KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICBmaXJzdC5vckVsc2UobnVsbCkK</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICBxdWVzdGlvbiA9IHF1ZXN0aW9uU2VydmljZS5sb2FkUXVlc3Rpb24ocXVlc3Rpb24uZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>first</text>
+        <text>filter</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUGFpci5vZihxLCBvcHRpb24pCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">dG9NYXAKICAgIA==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIChmaXJzdC5pc1ByZXNlbnQpIHJldHVybiBmaXJzdC5nZXQKICAgIHZhbCBhbnN3ZXJPcHRpb25hbCA9IHF1ZXN0aW9uLmdldE9wdGlvbnMuYXNTY2FsYS5maWx0ZXIoT3B0aW9uLmlzQW5zd2VyKS5maWx0ZXIoKG86IE9wdGlvbikgPT4gby5nZXRFbnRyeVBvc2l0aW9uID09IG9wdC5vcHRpb25OdW1iZXIpLmZpbmRGaXJzdAogICAgcmV0dXJuIGFuc3dlck9wdGlvbmFsLm9yRWxzZShudWxsKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBmaXJzdCA9IHF1ZXN0aW9uLmdldE9wdGlvbnMuYXNTY2FsYS5maWx0ZXIoKG86IE9wdGlvbikgPT4gby5nZXRFbnRyeVBvc2l0aW9uID09IG9wdC5vcHRpb25OdW1iZXIpLmZpbmRGaXJzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNvbWUocXVlc3RpbykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHEgPSBwYWlyLmdldFZhbHVlCg==</text>
+        <text encoding="base64">ICAgIGlmIChxdWVzdGlvbiA9PSBudWxsKSByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHFzID0gcGFpci5nZXRLZXkK</text>
+        <text encoding="base64">ICAgICBmaXJzdC5vckVsc2UobnVsbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgUGFpci5vZihxLCBvcHRpb24pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>filter</text>
       </register>
     </registers>
     <search>
