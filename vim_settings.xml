@@ -32,11 +32,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="28" column="43" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1537602075895">
-        <mark key="'" line="121" column="45" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1537603569930">
+        <mark key="'" line="129" column="45" />
+        <mark key="[" line="141" column="5" />
+        <mark key="]" line="134" column="16" />
+        <mark key="." line="134" column="16" />
+        <mark key="^" line="134" column="16" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1537597137204">
         <mark key="'" line="0" column="0" />
@@ -50,7 +51,7 @@
         <mark key="^" line="52" column="24" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.java" timestamp="1537602181824" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.java" timestamp="1537603323926" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" timestamp="1537480580424">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -125,14 +126,14 @@
       <jump line="115" column="45" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>w.addCloseShortcut(KeyCode.ESCAPE, Array(-1):_*)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIG9wdERDaGVja2VkOiBCb29sZWFuLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdHJ1ZUNvdW50ID0gY2hlY2tlZENvdW50KGl0ZW0pCgogICAgICAgIGlmICh0cnVlQ291bnQgPT0gMCkgY29udGludWUgLy90b2RvOiBjb250aW51ZSBpcyBub3Qgc3VwcG9ydGVkCiAgICAgICAgaWYgKHRydWVDb3VudCA+IDEpIHsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHJ1ZUNvdW50ID0gY2hlY2tlZENvdW50KGl0ZW0pCgogICAgICAgIGlmICh0cnVlQ291bnQgPT0gMCkgY29udGludWUgLy90b2RvOiBjb250aW51ZSBpcyBub3Qgc3VwcG9ydGVkCiAgICAgICAgaWYgKHRydWVDb3VudCA+IDEpIHsKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -159,7 +160,7 @@
         <text encoding="base64">ICAgICAgCiAgICAKICAKCiAgICBmb3IgKGl0ZW1JZCA8LSBpdGVtSWRzKSB7CiAgICAgIGlmIChudW1iZXIgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>tuples</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
