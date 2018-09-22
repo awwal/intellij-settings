@@ -32,12 +32,9 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="28" column="43" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1537600308351">
-        <mark key="'" line="117" column="45" />
-        <mark key="[" line="67" column="50" />
-        <mark key="]" line="67" column="50" />
-        <mark key="^" line="67" column="50" />
-        <mark key="." line="67" column="50" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1537601279395">
+        <mark key="'" line="121" column="45" />
+        <mark key="[" line="157" column="111" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.java" timestamp="1537597137204">
         <mark key="'" line="0" column="0" />
@@ -130,37 +127,37 @@
         <text>w.addCloseShortcut(KeyCode.ESCAPE, Array(-1):_*)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5hc1NjYWxhLkNvbGxlY3RvcnMK</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZSAvL3RvZG86IGNvbnRpbnVlIGlzIG5vdCBzdXBwb3J0ZWR9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(qNos.asJava)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb250aW51ZSAvL3RvZG86IGNvbnRpbnVlIGlzIG5vdCBzdXBwb3J0ZWR9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihjbGFzc09mW0ltYWdlRXh0cmFjdG9yVmlld10pCg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAKICAKCiAgICBmb3IgKGl0ZW1JZCA8LSBpdGVtSWRzKSB7CiAgICAgIGlmIChudW1iZXIgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gaXRlbUlkcy5mb3JlYWNoIHsgaXRlbUlkID0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0ZW1JZHMuZm9yZWFjaChnZXRDaGVja2JveFZhbHVlKF8pKS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGl0ZW0gPSB0YWJsZS5nZXRJdGVtKGl0ZW1JZCkKICAgICAgdmFsIGNiID0gaXRlbS5nZXRJdGVtUHJvcGVydHkobnVtYmVyUHB0KS5nZXRWYWx1ZS5hc0luc3RhbmNlT2ZbQ29tYm9Cb3hdCiAgICAgIHZhbCBudW1iZXIgPSBjYi5nZXRWYWx1ZS5hc0luc3RhbmNlT2ZbSW50ZWdlcl0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHFOb3MuZm9yRWFjaCgocTogSW50ZWdlcikgPT4gewo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5hc1NjYWxhLkNvbGxlY3RvcnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyAgcHJpdmF0ZSB2YXIgcHJldkJ0biA6QnV0dG9uPSBudWxsCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihjbGFzc09mW0ltYWdlRXh0cmFjdG9yVmlld10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyAgcHJpdmF0ZSB2YXIgbmV4dEJ0bjpCdXR0b24gPSBudWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyAgcHJpdmF0ZSB2YXIgbGFiZWw6TGFiZWwgPSBudWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(qNos.asJava)</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
