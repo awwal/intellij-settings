@@ -57,12 +57,12 @@
         <mark key="^" line="67" column="81" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/resources/default-process-definition.xml" timestamp="1537770520862" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" timestamp="1537783933511">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" timestamp="1537786683244">
         <mark key="'" line="183" column="0" />
-        <mark key="[" line="137" column="38" />
-        <mark key="]" line="137" column="45" />
-        <mark key="." line="137" column="45" />
-        <mark key="^" line="137" column="45" />
+        <mark key="[" line="137" column="29" />
+        <mark key="]" line="133" column="33" />
+        <mark key="." line="137" column="38" />
+        <mark key="^" line="133" column="33" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job-info.jsp" timestamp="1537437630026">
         <mark key="[" line="15" column="24" />
@@ -146,8 +146,8 @@
         <mark key="^" line="61" column="17" />
         <mark key="." line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/util/SortField.java" timestamp="1537783737526">
-        <mark key="[" line="5" column="5" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/util/SortField.java" timestamp="1537786557486">
+        <mark key="[" line="25" column="5" />
         <mark key="]" line="5" column="5" />
         <mark key="^" line="4" column="38" />
         <mark key="." line="5" column="5" />
@@ -188,11 +188,11 @@
         <mark key="[" line="121" column="0" />
         <mark key="]" line="131" column="35" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/util/SortFieldUtil.java" timestamp="1537783594522">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="15" column="23" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="23" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/util/SortFieldUtil.java" timestamp="1537786821981">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="57" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/BusinessObject.java" timestamp="1537780151844">
         <mark key="[" line="75" column="5" />
@@ -277,40 +277,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldENyaXRlcmlhLmFkZE9yZGVyKHNvcnRGaWVsZC5pc0Rlc2MoKSA/IE9yZGVyLmRlc2MocHJvcGVydHlOYW1lKSwgT3JkZXIuYXNjKHByb3BlcnR5TmFtZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgaW5kZXggID0gc29ydEZpZWxkLmluZGV4T2YoInByZWZpeCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>propertyName</text>
+        <text>sortField</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgaW5kZXggID0gc29ydEZpZWxkLmluZGV4T2YoInByZWZpeCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0Q3JpdGVyaWEuYWRkT3JkZXIoT3JkZXIuZGVzYygidGFyZ2V0Q29tcGFueS5tYWlsaW5nQWRkcmVzcy5saW5lIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIE9yZGVyIG9yZGVyID0gT3JkZXIuYXNjKHNvcnRGaWVsZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0Q3JpdGVyaWEuYWRkT3JkZXIoT3JkZXIuZGVzYygidGFyZ2V0Q29tcGFueS5tYWlsaW5nQWRkcmVzcy5saW5lIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9yZGVyIG9yZGVyID0gbmV3IE9yZGVyKHNvcnRGaWVsZCwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIE9yZGVyIG9yZGVyID0gT3JkZXIuYXNjKHNvcnRGaWVsZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9yZGVyIG9yZGVyID0gbmV3IE9yZGVyKHNvcnRGaWVsZCwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>propertyName</text>
+        <text>sortField</text>
       </register>
     </registers>
     <search>
