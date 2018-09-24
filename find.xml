@@ -17,8 +17,8 @@
     <mask>*.jsp</mask>
     <mask>*.xsl</mask>
     <mask>*.java,*.jsp,*.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
