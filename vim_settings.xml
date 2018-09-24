@@ -188,11 +188,17 @@
         <mark key="[" line="121" column="0" />
         <mark key="]" line="131" column="35" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/util/SortFieldUtil.java" timestamp="1537786821981">
-        <mark key="[" line="20" column="56" />
-        <mark key="]" line="20" column="57" />
-        <mark key="." line="20" column="57" />
-        <mark key="^" line="20" column="57" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/devices/services/UtilTest.java" timestamp="1537791513699">
+        <mark key="[" line="37" column="38" />
+        <mark key="]" line="37" column="51" />
+        <mark key="." line="37" column="51" />
+        <mark key="^" line="37" column="51" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/util/SortFieldUtil.java" timestamp="1537792811476">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="26" />
+        <mark key="^" line="43" column="20" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/BusinessObject.java" timestamp="1537780151844">
         <mark key="[" line="75" column="5" />
@@ -200,7 +206,7 @@
         <mark key="." line="74" column="32" />
         <mark key="^" line="74" column="32" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/AbaStringUtils.java" timestamp="1537781915039">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/AbaStringUtils.java" timestamp="1537790653364">
         <mark key="[" line="460" column="30" />
         <mark key="]" line="460" column="35" />
         <mark key="." line="460" column="35" />
@@ -277,40 +283,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgaW5kZXggID0gc29ydEZpZWxkLmluZGV4T2YoInByZWZpeCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gZGVzYyA9IHNvcnRGaWVsZC50b0xvd2VyQ2FzZSgpLmVuZHNXaXRoKCIgZGVzYyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjaGVjayBhbGwgb2NjdXJhbmNlCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sortField</text>
+        <text>w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgaW5kZXggID0gc29ydEZpZWxkLmluZGV4T2YoInByZWZpeCIpOwo=</text>
+        <text encoding="base64">ICAgICAgIHNvcnQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGFzYyA9IHNvcnRGaWVsZC5lbmRzV2l0aCgiIGFzYyIpOwogICAgICAgIGlmKGFzYyl7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ydEZpZWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0Q3JpdGVyaWEuYWRkT3JkZXIoT3JkZXIuZGVzYygidGFyZ2V0Q29tcGFueS5tYWlsaW5nQWRkcmVzcy5saW5lIikpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gYXNjID0gc29ydEZpZWxkLmVuZHNXaXRoKCIgYXNjIik7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIE9yZGVyIG9yZGVyID0gT3JkZXIuYXNjKHNvcnRGaWVsZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGQpICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBzb3J0RmllbGQuaW5kZXhPZigiIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9yZGVyIG9yZGVyID0gbmV3IE9yZGVyKHNvcnRGaWVsZCwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gZGVzYyA9IHNvcnRGaWVsZC50b0xvd2VyQ2FzZSgpLmVuZHNXaXRoKCIgZGVzYyIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>sortField</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
