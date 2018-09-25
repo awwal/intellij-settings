@@ -235,7 +235,12 @@
         <mark key="." line="22" column="11" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl-dataset.xml" timestamp="1537864400369" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_fi.properties" timestamp="1537771882230" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_fi.properties" timestamp="1537879522398">
+        <mark key="[" line="1399" column="67" />
+        <mark key="]" line="1399" column="67" />
+        <mark key="^" line="1399" column="67" />
+        <mark key="." line="1399" column="67" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/dao/hibernate/BusinessObjectQueryTest.java" timestamp="1537865219527" />
       <file name="/HibernateJobDAO-dataset.xml" timestamp="1537777192840" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl.java" timestamp="1537443699553">
@@ -358,7 +363,12 @@
         <mark key="^" line="259" column="45" />
         <mark key="." line="259" column="45" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1537875130119" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1537879340532">
+        <mark key="[" line="1338" column="0" />
+        <mark key="]" line="1340" column="90" />
+        <mark key="^" line="1339" column="73" />
+        <mark key="." line="1340" column="4" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/com/optiscangroup/devices/services/UtilTest.java" timestamp="1537864742572">
         <mark key="[" line="49" column="47" />
         <mark key="]" line="49" column="47" />
@@ -475,13 +485,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CUBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0UXVlcnlKb2JzX2RlbGl2ZXJ5QWRkcmVzcygpIHsKICAgIAlKb2JRdWVyeSBxdWVyeSA9IG5ldyBKb2JRdWVyeSgpOwogICAgCXF1ZXJ5LnNldFBhZ2VTaXplKDApOwogICAgCXF1ZXJ5LnNldFRhcmdldExvY2F0aW9uKCJrdWphIik7CiAgICAJcXVlcnkuc2V0U29ydCgidGFyZ2V0LmN1c3RvbWVyLmNvbXBhbnkubWFpbGluZ0FkZHJlc3MubmFtZSBkZXNjIik7CiAgICAJTGlzdDxKb2I+IGpvYnMgPSB0aGlzLmpvYkRBTy5nZXRKb2JzKHF1ZXJ5KS5nZXRQYWdlRWxlbWVudHMoKTsKICAgIAlBc3NlcnRVdGlscy5jaGVja0VudGl0eU9yZGVyKEFycmF5cy5hc0xpc3QoNiw5LDEwKSwgam9icywgImpvYiIpOwogICAgfQo=</text>
+        <text encoding="base64">am9iLnRhcmdldGN1c3RvbWVyICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9IFBhcnRuZXIKam9iLnRhcmdldGN1c3RvbWVyLmFkZHJlc3MgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9IEFkZHJlc3MKam9iLm1vcmVpbmZvbG9jYXRpb24gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9IEFkZGl0aW9uYWwgbG9jYXRpb24gaW5mbwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">QFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RRdWVyeUpvYnNfYWRkaXRpb25Mb2NhdGlvbkluZm8oKSB7CgkJSm9iUXVlcnkgcXVlcnkgPSBuZXcgSm9iUXVlcnkoKTsKCQlxdWVyeS5zZXRQYWdlU2l6ZSgwKTsKCQlxdWVyeS5zZXRUYXJnZXRMb2NhdGlvbigiZmxvb3IiKTsKCQlMaXN0PEpvYj4gam9icyA9IHRoaXMuam9iREFPLmdldEpvYnMocXVlcnkpLmdldFBhZ2VFbGVtZW50cygpOwoJCWFzc2VydEVxdWFscygxLGpvYnMuc2l6ZSgpKTsKCX0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RRdWVyeUpvYnNfYWRkaXRpb25Mb2NhdGlvbkluZm8oKSB7CgkJSm9iUXVlcnkgcXVlcnkgPSBuZXcgSm9iUXVlcnkoKTsKCQlxdWVyeS5zZXRQYWdlU2l6ZSgwKTsKCQlxdWVyeS5zZXRUYXJnZXRMb2NhdGlvbigiZmxvb3IiKTsKCQlMaXN0PEpvYj4gam9icyA9IHRoaXMuam9iREFPLmdldEpvYnMocXVlcnkpLmdldFBhZ2VFbGVtZW50cygpOwoJCWFzc2VydEVxdWFscygxLGpvYnMuc2l6ZSgpKTsKCX0=</text>
+        <text>Tarkempi</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3IuYWRkKFJlc3RyaWN0aW9ucy5pbGlrZSgibG9jYXRpb24iLCBhZGRyZXNzLCBNYXRjaE1vZGUuQU5ZV0hFUkUpKTsK</text>
@@ -508,7 +518,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>deliveryAddress</text>
+        <text>Tarkempi</text>
       </register>
     </registers>
     <search>
