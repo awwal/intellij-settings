@@ -25,6 +25,12 @@
         <mark key="." line="56" column="7" />
         <mark key="^" line="56" column="7" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.scala" timestamp="1537935031816">
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+        <mark key="." line="6" column="35" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/quiz/QuizQuestionEditComponent.scala" timestamp="1537815544959">
         <mark key="[" line="39" column="82" />
         <mark key="]" line="39" column="64" />
@@ -87,12 +93,6 @@
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/WebSecurityConfig.java" timestamp="1537817206992">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/PersistenceJPAConfig.java" timestamp="1537812092083">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/quiz/QzQuestion.scala" timestamp="1537815705123">
         <mark key="[" line="27" column="23" />
         <mark key="]" line="27" column="23" />
@@ -118,10 +118,13 @@
         <mark key="^" line="29" column="15" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/BeanConfiguration.scala" timestamp="1537817841241">
-        <mark key="[" line="43" column="64" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="44" column="3" />
-        <mark key="^" line="44" column="3" />
+        <mark key="[" line="34" column="64" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.java" timestamp="1537935039705">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.java" timestamp="1537765599105">
         <mark key="'" line="0" column="0" />
@@ -200,6 +203,8 @@
       <jump line="81" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/ClassListings.scala" />
       <jump line="147" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/BeanConfiguration.java" />
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/BeanConfiguration.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
