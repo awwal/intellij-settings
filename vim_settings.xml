@@ -3,54 +3,48 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/static/app/report/form/fill/report-form-fill.js" timestamp="1538036239498" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/commands/impl/AddJobReportCommand-dataset.xml" timestamp="1538042490530" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportDelegate.java" timestamp="1538043011978" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportDelegate.java" timestamp="1538044620677">
+        <mark key="[" line="83" column="84" />
+        <mark key="]" line="88" column="34" />
+        <mark key="." line="103" column="118" />
+        <mark key="^" line="88" column="34" />
+      </file>
       <file name="/a.dummy" timestamp="1538043245885">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/static/app/report/form/edit/report-form-edit.js" timestamp="1538036602739" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/TranslationsController.java" timestamp="1538036009025">
-        <mark key="'" line="43" column="41" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/TranslationServiceImpl.java" timestamp="1538035370226" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/report/model/ReportFormValue.java" timestamp="1538030835707" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/static/app/report/report-service.js" timestamp="1538036644693" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/static/app/report/form/fill/report-form-fill.html" timestamp="1538035218839" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportCommand.java" timestamp="1538042399249" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/abakus/2.0.4/abakus-2.0.4.pom" timestamp="1538026836513" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/report/model/JobReport.java" timestamp="1538040583745" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/static/app/report/form/browse/report-forms-browse.js" timestamp="1538034581206" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/commands/impl/AddJobReportCommandTest.java" timestamp="1538042503450" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/ReportFormValueParser.java" timestamp="1538043373772">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="69" />
-        <mark key="." line="14" column="69" />
-        <mark key="^" line="14" column="69" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/pom.xml" timestamp="1538026754132">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="33" />
         <mark key="." line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1538043349051">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1538044865493">
         <mark key="[" line="346" column="0" />
         <mark key="]" line="346" column="0" />
         <mark key="." line="346" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/com/optiscangroup/fieldwork/client/mobile/FieldWorkServiceImpl.java" timestamp="1538035329013" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/report/model/ReportItemGroup.java" timestamp="1538033593401" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/pdf/ReportToPdfConverter.java" timestamp="1538034148762" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ReportFormsController.java" timestamp="1538040683810">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="46" />
-        <mark key="^" line="151" column="7" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/TranslationsController.java" timestamp="1538036009025">
+        <mark key="'" line="43" column="41" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/ReportFormServiceImpl.java" timestamp="1538041999245" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/dao/hibernate/HibernateReportFormDAO.java" timestamp="1538042004566" />
-      <file name="/fragment.java" timestamp="1538035420334">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" timestamp="1538045081472" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ReportFormsController.java" timestamp="1538044121724">
+        <mark key="[" line="143" column="8" />
+        <mark key="]" line="143" column="98" />
+        <mark key="^" line="146" column="7" />
+        <mark key="." line="143" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/JobReportService.java" timestamp="1538043655870">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1538045265853">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/ReportFormValueParser.java" timestamp="1538043740570">
+        <mark key="[" line="14" column="91" />
+        <mark key="]" line="14" column="90" />
+        <mark key="." line="14" column="90" />
+        <mark key="^" line="14" column="90" />
       </file>
     </filemarks>
     <jumps>
@@ -140,38 +134,38 @@
       <register name="0" type="2">
         <text encoding="base64">YWx0ZXIgdGFibGUgY29tcGFuaWVzIGRyb3AgY29sdW1uIGlmIGV4aXN0cyBiaWxsaW5nX2FkZHJlc3NfbGluZTsKYWx0ZXIgdGFibGUgY29tcGFuaWVzIGRyb3AgY29sdW1uIGlmIGV4aXN0cyBiaWxsaW5nX2FkZHJlc3NfbmFtZTsKYWx0ZXIgdGFibGUgY29tcGFuaWVzIGRyb3AgY29sdW1uIGlmIGV4aXN0cyBiaWxsaW5nX2FkZHJlc3NfemlwX2NvZGVfaWQ7CgphbHRlciB0YWJsZSBjb21wYW5pZXMgZHJvcCBjb2x1bW4gaWYgZXhpc3RzIHZpc2l0aW5nX2FkZHJlc3NfbGluZTsKYWx0ZXIgdGFibGUgY29tcGFuaWVzIGRyb3AgY29sdW1uIGlmIGV4aXN0cyB2aXNpdGluZ19hZGRyZXNzX25hbWU7CmFsdGVyIHRhYmxlIGNvbXBhbmllcyBkcm9wIGNvbHVtbiBpZiBleGlzdHMgdmlzaXRpbmdfYWRkcmVzc196aXBfY29kZV9pZDsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgTWFwPEludGVnZXIsIFJlcG9ydEl0ZW0+IGNvbGxlY3RSZXBvcnRJdGVtcyhSZXBvcnRGb3JtIHJlcG9ydEZvcm0pIHsKICAgICAgICBNYXA8SW50ZWdlciwgUmVwb3J0SXRlbT4gaXRlbXNNYXAgPSBuZXcgSGFzaE1hcDxJbnRlZ2VyLCBSZXBvcnRJdGVtPigpOwogICAgICAgIGZvciAoUmVwb3J0SXRlbSBpdGVtIDogcmVwb3J0Rm9ybS5nZXRJdGVtcygpKSB7CiAgICAgICAgICAgIGl0ZW1zTWFwLnB1dChpdGVtLmdldElkKCksIGl0ZW0pOwogICAgICAgICAgICBjb2xsZWN0UmVwb3J0SXRlbXMoaXRlbSwgaXRlbXNNYXApOwogICAgICAgIH0KICAgICAgICByZXR1cm4gaXRlbXNNYXA7CiAgICB9CgogICAgcHJpdmF0ZSAgc3RhdGljIHZvaWQgY29sbGVjdFJlcG9ydEl0ZW1zKFJlcG9ydEl0ZW0gcmVwb3J0SXRlbSwgTWFwPEludGVnZXIsIFJlcG9ydEl0ZW0+IGl0ZW1zTWFwKSB7CiAgICAgICAgaWYgKCFSZXBvcnRJdGVtVHlwZS5HUk9VUC5lcXVhbHMocmVwb3J0SXRlbS5nZXRUeXBlKCkpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgUmVwb3J0SXRlbUdyb3VwIGdyb3VwID0gKFJlcG9ydEl0ZW1Hcm91cClyZXBvcnRJdGVtOwogICAgICAgIGZvciAoUmVwb3J0SXRlbSBpdGVtIDogZ3JvdXAuZ2V0SXRlbXMoKSkgewogICAgICAgICAgICBpdGVtc01hcC5wdXQoaXRlbS5nZXRJZCgpLCBpdGVtKTsKICAgICAgICAgICAgY29sbGVjdFJlcG9ydEl0ZW1zKGl0ZW0sIGl0ZW1zTWFwKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmaS5hYmFrdXMuZmFqYW5zc2kubW9kZWwuSm9iIGpvYiA9IChmaS5hYmFrdXMuZmFqYW5zc2kubW9kZWwuSm9iKWpvYlNlcnZpY2UuZ2V0Sm9iKGpvYklkKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>JobReportServiceImpl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmaS5hYmFrdXMuZmFqYW5zc2kubW9kZWwuSm9iIGpvYiA9IChmaS5hYmFrdXMuZmFqYW5zc2kubW9kZWwuSm9iKWpvYlNlcnZpY2UuZ2V0Sm9iKGpvYklkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JSZXBvcnQgam9iUmVwb3J0ID0gbmV3IEpvYlJlcG9ydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBqb2JTZXJ2aWNlLnN0b3JlSm9iKGpvYik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JSZXBvcnQgam9iUmVwb3J0ID0gbmV3IEpvYlJlcG9ydCgpOwogICAgICAgIGpvYlJlcG9ydC5zZXRGb3JtKGZvcm0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBjcmVhdGVKb2JSZXBvcnROYW1lKFN0cmluZyByZXBvcnROYW1lLCBpbnQgam9iSWQsIFN0cmluZyBzZXJpYWxOdW1iZXIpewogICAgICAgU3RyaW5nIHJlcG9ydE5hbWVDbGVhbmVkID0gcmVwb3J0TmFtZS5yZXBsYWNlQWxsKCIgIiwiXyIpOwogICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXBvcnRGb3JtIGZvcm0gPSByZXBvcnRGb3JtU2VydmljZS5nZXRSZXBvcnRGb3JtKGlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gb3V0ID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCTwhLS08ZW50cnkga2V5PSJiaWxsaW5nSW5mby5iaWxsaW5nQWRkcmVzcy56aXBDb2RlIiB2YWx1ZT0iZmkuYWJha3VzLmNvcmUubW9kZWwuWmlwQ29kZSIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBQZXJzb24gYWN0b3IgPSBhdXRoZW50aWNhdGlvblNlcnZpY2UuZ2V0QWN0b3IoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTwhLS08ZW50cnkga2V5PSJiaWxsaW5nSW5mby5iaWxsaW5nQWRkcmVzcyIgdmFsdWU9ImZpLmFiYWt1cy5jb3JlLm1vZGVsLkFkZHJlc3MiLz4tLT4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPEludGVnZXIsIFJlcG9ydEl0ZW0+IGNvbGxlY3RSZXBvcnRJdGVtcyhSZXBvcnRGb3JtIHJlcG9ydEZvcm0pIHsKICAgICAgICBNYXA8SW50ZWdlciwgUmVwb3J0SXRlbT4gaXRlbXNNYXAgPSBuZXcgSGFzaE1hcDxJbnRlZ2VyLCBSZXBvcnRJdGVtPigpOwogICAgICAgIGZvciAoUmVwb3J0SXRlbSBpdGVtIDogcmVwb3J0Rm9ybS5nZXRJdGVtcygpKSB7CiAgICAgICAgICAgIGl0ZW1zTWFwLnB1dChpdGVtLmdldElkKCksIGl0ZW0pOwogICAgICAgICAgICBjb2xsZWN0UmVwb3J0SXRlbXMoaXRlbSwgaXRlbXNNYXApOwogICAgICAgIH0KICAgICAgICByZXR1cm4gaXRlbXNNYXA7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGNvbGxlY3RSZXBvcnRJdGVtcyhSZXBvcnRJdGVtIHJlcG9ydEl0ZW0sIE1hcDxJbnRlZ2VyLCBSZXBvcnRJdGVtPiBpdGVtc01hcCkgewogICAgICAgIGlmICghUmVwb3J0SXRlbVR5cGUuR1JPVVAuZXF1YWxzKHJlcG9ydEl0ZW0uZ2V0VHlwZSgpKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIFJlcG9ydEl0ZW1Hcm91cCBncm91cCA9IChSZXBvcnRJdGVtR3JvdXApcmVwb3J0SXRlbTsKICAgICAgICBmb3IgKFJlcG9ydEl0ZW0gaXRlbSA6IGdyb3VwLmdldEl0ZW1zKCkpIHsKICAgICAgICAgICAgaXRlbXNNYXAucHV0KGl0ZW0uZ2V0SWQoKSwgaXRlbSk7CiAgICAgICAgICAgIGNvbGxlY3RSZXBvcnRJdGVtcyhpdGVtLCBpdGVtc01hcCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTwhLS08ZW50cnkga2V5PSJ2aXNpdGluZ0FkZHJlc3MuemlwQ29kZSIgdmFsdWU9ImZpLmFiYWt1cy5jb3JlLm1vZGVsLlppcENvZGUiLz4tLT4K</text>
+        <text encoding="base64">ICAgIC8qKiAqIEdldCByZXBvcnQgZm9ybSB2YWx1ZXMgZnJvbSBjb21tYW5kLgogICAgICoKICAgICAqIEBwYXJhbSBjbWQgY29tbWFuZCByZWNlaXZlZAogICAgICogQHBhcmFtIHJlcG9ydEZvcm0gcmVwb3J0IGZvcm0KICAgICAqIEByZXR1cm4gcmVwb3J0IGZyb20gdmFsdWVzLgogICAgICovCiAgICBwcml2YXRlIExpc3Q8UmVwb3J0Rm9ybVZhbHVlPiBnZXRSZXBvcnRGb3JtVmFsdWVzKEFkZEpvYlJlcG9ydENvbW1hbmQgY21kLCBSZXBvcnRGb3JtIHJlcG9ydEZvcm0pIHsKCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>JobReportServiceImpl</text>
+        <text>());</text>
       </register>
     </registers>
     <search>
