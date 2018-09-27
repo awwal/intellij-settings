@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/TopicService.scala" timestamp="1537813842570">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/TopicService.scala" timestamp="1538062485218">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
@@ -44,6 +44,9 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
+      <file name="/Dummy.scala" timestamp="1538062126289">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/BeanConfiguration.java" timestamp="1537817717991">
         <mark key="'" line="0" column="0" />
       </file>
@@ -74,6 +77,9 @@
         <mark key="]" line="18" column="3" />
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537767201168">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/QuizServiceTest.scala" timestamp="1537815644431">
         <mark key="[" line="154" column="86" />
@@ -135,6 +141,11 @@
         <mark key="]" line="36" column="5" />
         <mark key="^" line="36" column="5" />
         <mark key="." line="36" column="5" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/PublicApiUserService.scala" timestamp="1538062629775">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidatorConstraint.java" timestamp="1537812268616">
         <mark key="'" line="0" column="0" />
@@ -213,25 +224,25 @@
         <text>asInstanceOf[Property[Component]].</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>abstract</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9iamVjdE1hcHBlci5yZWdpc3Rlck1vZHVsZShuZXcgRGVmYXVsdFNjYWxhTW9kdWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb252ZXJ0ZXIgPSBuZXcgTWFwcGluZ0phY2tzb24ySHR0cE1lc3NhZ2VDb252ZXJ0ZXIK</text>
+        <text encoding="base64">ICAgIG9iamVjdE1hcHBlci5yZWdpc3Rlck1vZHVsZShuZXcgRGVmYXVsdFNjYWxhTW9kdWxlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb252ZXJ0ZXIgPSBuZXcgTWFwcGluZ0phY2tzb24ySHR0cE1lc3NhZ2VDb252ZXJ0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzdWJqZWN0QWNjZXNzOiBQcmVkZWYuTWFwW0V4YW1TdWJqZWN0LCBCb29sZWFuXSA9IG5ld0FjY2Vzc2VzLm1hcCB7IGNhc2UgKGs6IEV4YW1TdWJqZWN0LCB2KSA9PiAoaywgdikgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBzdWJqZWN0QWNjZXNzOiBQcmVkZWYuTWFwW0V4YW1TdWJqZWN0LCBCb29sZWFuXSA9IG5ld0FjY2Vzc2VzLm1hcCB7IGNhc2UgKGs6IEV4YW1TdWJqZWN0LCB2KSA9PiAoaywgdikgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
