@@ -15,6 +15,7 @@
         <mark key="." line="303" column="18" />
         <mark key="^" line="303" column="18" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/static/app/report/form/fill/report-form-fill.js" timestamp="1538035233988" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/fi/abakus/fajanssi/mobile/util/Converter.java" timestamp="1537882482581">
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="0" />
@@ -26,7 +27,10 @@
         <mark key="." line="32" column="46" />
         <mark key="^" line="32" column="46" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/TranslationsController.java" timestamp="1538035338620" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/TranslationServiceImpl.java" timestamp="1538035370226" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/report/model/ReportFormValue.java" timestamp="1538030835707" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/static/app/report/form/fill/report-form-fill.html" timestamp="1538035218839" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/model/ProductType.java" timestamp="1537978723294">
         <mark key="'" line="463" column="0" />
         <mark key="[" line="128" column="15" />
@@ -55,6 +59,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/static/app/report/form/browse/report-forms-browse.js" timestamp="1538034581206" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/recurring/edit-job.jsp" timestamp="1537443992136">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -131,6 +136,7 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/com/optiscangroup/fieldwork/client/mobile/FieldWorkServiceImpl.java" timestamp="1538035329013" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" timestamp="1537983089186">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -166,7 +172,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/report/model/ReportItemGroup.java" timestamp="1538030892055" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/report/model/ReportItemGroup.java" timestamp="1538033593401" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/pdf/ReportToPdfConverter.java" timestamp="1538034148762" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ReportFormsController.java" timestamp="1538033649587" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/AbstractEditJobController.java" timestamp="1537982726084">
         <mark key="[" line="332" column="8" />
         <mark key="]" line="332" column="8" />
@@ -215,6 +223,9 @@
         <mark key="]" line="223" column="35" />
         <mark key="." line="223" column="35" />
         <mark key="^" line="222" column="61" />
+      </file>
+      <file name="/fragment.java" timestamp="1538035420334">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
