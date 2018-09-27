@@ -7,8 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.jsp,*.xml</mask>
@@ -22,5 +22,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.js</mask>
   </component>
 </application>
