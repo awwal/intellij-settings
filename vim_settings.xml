@@ -25,11 +25,11 @@
         <mark key="." line="56" column="7" />
         <mark key="^" line="56" column="7" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.scala" timestamp="1537935031816">
-        <mark key="[" line="8" column="69" />
-        <mark key="]" line="9" column="49" />
-        <mark key="^" line="9" column="49" />
-        <mark key="." line="6" column="35" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.scala" timestamp="1538060150142">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/quiz/QuizQuestionEditComponent.scala" timestamp="1537815544959">
         <mark key="[" line="39" column="82" />
@@ -99,6 +99,7 @@
         <mark key="." line="62" column="57" />
         <mark key="^" line="23" column="21" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupForm.scala" timestamp="1538060377780" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/LoggingAspectConfiguration.scala" timestamp="1537813582186">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="15" column="1" />
@@ -123,7 +124,7 @@
         <mark key="." line="35" column="3" />
         <mark key="^" line="35" column="3" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.java" timestamp="1537935039705">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.java" timestamp="1538060310077">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.java" timestamp="1537765599105">
@@ -204,6 +205,7 @@
       <jump line="147" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/BeanConfiguration.java" />
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/BeanConfiguration.java" />
       <jump line="26" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.java" />
+      <jump line="20" column="1" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/SignUpValidator.java" />
     </jumps>
     <registers>
@@ -213,8 +215,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>abstract</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIG9iamVjdE1hcHBlci5yZWdpc3Rlck1vZHVsZShuZXcgRGVmYXVsdFNjYWxhTW9kdWxlKQo=</text>
@@ -241,7 +243,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>abstract</text>
       </register>
     </registers>
     <search>
