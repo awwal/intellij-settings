@@ -50,6 +50,9 @@
         <mark key="^" line="23" column="65" />
         <mark key="." line="23" column="70" />
       </file>
+      <file name="$USER_HOME$/work/java/abakus-crm/model/src/main/java/fi/abakus/crm/model/Customer.java" timestamp="1538146912389">
+        <mark key="[" line="140" column="44" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/JobReportService.java" timestamp="1538047948073">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -61,6 +64,13 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/abakus-crm/pom.xml" timestamp="1538147022164">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="12" column="16" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/JobType.java" timestamp="1538144969925" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" timestamp="1538145115005">
@@ -224,6 +234,9 @@
       <jump line="216" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/AbstractEditJobController.java" />
       <jump line="132" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/pom.xml" />
       <jump line="20" column="17" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/java/abakus-crm/pom.xml" />
+      <jump line="10" column="19" filename="$USER_HOME$/work/java/abakus-crm/pom.xml" />
+      <jump line="9" column="19" filename="$USER_HOME$/work/java/abakus-crm/pom.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
