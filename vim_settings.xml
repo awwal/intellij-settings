@@ -100,11 +100,11 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAOTest.java" timestamp="1538493673121">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAOTest.java" timestamp="1538496950057">
         <mark key="'" line="168" column="31" />
-        <mark key="[" line="238" column="51" />
-        <mark key="]" line="239" column="69" />
-        <mark key="." line="239" column="69" />
+        <mark key="[" line="53" column="42" />
+        <mark key="]" line="53" column="43" />
+        <mark key="." line="53" column="43" />
         <mark key="^" line="239" column="69" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/test/java/fi/abakus/fajanssi/client/web/AbstractEditJobFormTest.java" timestamp="1538121853516">
@@ -147,12 +147,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" timestamp="1538494530593">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" timestamp="1538497397205">
         <mark key="'" line="126" column="48" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="^" line="106" column="35" />
-        <mark key="." line="228" column="0" />
+        <mark key="[" line="667" column="28" />
+        <mark key="]" line="667" column="28" />
+        <mark key="." line="667" column="28" />
+        <mark key="^" line="707" column="54" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job-info.jsp" timestamp="1538491698851">
         <mark key="[" line="37" column="39" />
@@ -340,37 +340,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBIaWJlcm5hdGUuaW5pdGlhbGl6ZShkZXZpY2VDYXJkLmdldENvbmZpZ3VyYXRpb24oKS5nZXRDb21wb25lbnRzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JRdWVyeS5zZXRJZExpc3QoQ29sbGVjdGlvbnMuc2luZ2xldG9uKGpvYklkKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>b</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBKb2Igam9iID0gam9iU2VydmljZS5nZXRKb2JXaXRoV29ya2Vycyhqb2JJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZighcXVlcnkuc2tpcENvdW50KCkpewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEpvYiBnZXRKb2JXaXRoV29ya2VycyhpbnQgam9iSWQpIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBqb2JRdWVyeS5zZXRJZExpc3QoQ29sbGVjdGlvbnMuc2luZ2xldG9uKGpvYklkKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKb2Igam9iID0gam9iU2VydmljZS5nZXRKb2JXaXRoV29ya2Vycyhqb2JJZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JRdWVyeSBqb2JRdWVyeSA9IG5ldyBKb2JRdWVyeSgpOwogICAgICAgIGpvYlF1ZXJ5LnNldElkTGlzdChDb2xsZWN0aW9ucy5zaW5nbGV0b24oam9iSWQpKTsKICAgICAgICBqb2JRdWVyeS5zZXRGZXRjaFdvcmtlcnModHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIEpvYiBnZXRKb2JXaXRoV29ya2VycyhpbnQgam9iSWQpIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKb2IgZ2V0Sm9iV2l0aFdvcmtlcnMoaW50IGpvYklkKSB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb24gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>b</text>
       </register>
     </registers>
     <search>
