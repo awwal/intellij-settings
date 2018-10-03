@@ -67,8 +67,10 @@
         <mark key="." line="176" column="42" />
         <mark key="^" line="176" column="42" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/EditPersonController.java" timestamp="1538551865462" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/mapper/JobToExportJobMapper.java" timestamp="1538504732076" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" timestamp="1538548171940" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/persons-servlet.xml" timestamp="1538551904973" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceCardServiceImpl.java" timestamp="1538507458145">
         <mark key="'" line="154" column="63" />
         <mark key="[" line="52" column="0" />
@@ -168,6 +170,7 @@
         <mark key="." line="651" column="55" />
         <mark key="^" line="651" column="55" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/EditPersonController.java" timestamp="1538551892069" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job-info.jsp" timestamp="1538491698851">
         <mark key="[" line="37" column="39" />
         <mark key="]" line="37" column="39" />
