@@ -62,16 +62,21 @@
         <mark key="." line="21" column="19" />
         <mark key="^" line="66" column="29" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/ImageField.scala" timestamp="1538763764687">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="28" column="44" />
-        <mark key="^" line="28" column="44" />
-        <mark key="." line="28" column="44" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/ImageField.scala" timestamp="1538766083201">
+        <mark key="[" line="56" column="47" />
+        <mark key="]" line="57" column="31" />
+        <mark key="." line="57" column="31" />
+        <mark key="^" line="57" column="31" />
       </file>
       <file name="/Dummy.scala" timestamp="1538062126289">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/DataEntryQuestionView.scala" timestamp="1538763562724" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/DataEntryQuestionView.scala" timestamp="1538766166488">
+        <mark key="[" line="481" column="38" />
+        <mark key="]" line="481" column="56" />
+        <mark key="^" line="481" column="56" />
+        <mark key="." line="481" column="56" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" timestamp="1537480580424">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -315,37 +320,37 @@
         <text encoding="base64">ICBkZWYgZ2V0RXhhbXNJbmZvRm9yU3ViamVjdChleGFtU3ViamVjdElkOiBMb25nLCB5ZWFyRmlsdGVyczogSXRlcmFibGVbU3RyaW5nXSk6IGphdmEudXRpbC5Db2xsZWN0aW9uW0V4YW1JbmZvXSA9IHsKICAgIGlmICh5ZWFyRmlsdGVycy5pc0VtcHR5KQogICAgICByZXR1cm4gZW0uY3JlYXRlUXVlcnkoInNlbGVjdCBkaXN0aW5jdCBlaSBmcm9tIEV4YW1JbmZvIGVpIHdoZXJlIGVpLmV4YW1TdWJqZWN0LmlkPT8xIiwgY2xhc3NPZltFeGFtSW5mb10pCiAgICAgICAgLnNldFBhcmFtZXRlcigxLCBleGFtU3ViamVjdElkKS5nZXRSZXN1bHRMaXN0CiAgICBlbS5jcmVhdGVRdWVyeSgic2VsZWN0IGRpc3RpbmN0IGVpIGZyb20gRXhhbUluZm8gZWkgIiArICJ3aGVyZSBlaS5leGFtU3ViamVjdC5pZD0/MSBhbmQgZWkueWVhciBpbiAoPzIpIiwgY2xhc3NPZltFeGFtSW5mb10pCiAgICAgIC5zZXRQYXJhbWV0ZXIoMSwgZXhhbVN1YmplY3RJZCkKICAgICAgLnNldFBhcmFtZXRlcigyLCB5ZWFyRmlsdGVycy5hc0phdmFDb2xsZWN0aW9uKS5nZXRSZXN1bHRMaXN0CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPFN0cmluZz4gZmlsdGVycyA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwo=</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb24uZm9yZWFjaChwb3MgPT4gcG9zaXRpb25GaWVsZC5zZXRWYWx1ZShwb3MpKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPFN0cmluZz4gZmlsdGVycyA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Some</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh5ZWFyRmlsdGVycy5pc0VtcHR5KQogICAgICByZXR1cm4gZW0uY3JlYXRlUXVlcnkoInNlbGVjdCBkaXN0aW5jdCBlaSBmcm9tIEV4YW1JbmZvIGVpIHdoZXJlIGVpLmV4YW1TdWJqZWN0LmlkPT8xIiwgY2xhc3NPZltFeGFtSW5mb10pCiAgICAgICAgLnNldFBhcmFtZXRlcigxLCBleGFtU3ViamVjdElkKS5nZXRSZXN1bHRMaXN0CiAgICBlbS5jcmVhdGVRdWVyeSgic2VsZWN0IGRpc3RpbmN0IGVpIGZyb20gRXhhbUluZm8gZWkgIiArICJ3aGVyZSBlaS5leGFtU3ViamVjdC5pZD0/MSBhbmQgZWkueWVhciBpbiAoPzIpIiwgY2xhc3NPZltFeGFtSW5mb10pCiAgICAgIC5zZXRQYXJhbWV0ZXIoMSwgZXhhbVN1YmplY3RJZCkKICAgICAgLnNldFBhcmFtZXRlcigyLCB5ZWFyRmlsdGVycy5hc0phdmFDb2xsZWN0aW9uKS5nZXRSZXN1bHRMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb25GaWVsZC5zZXRWYWx1ZShwb3NpdGlvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuKgo=</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb24uaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ICAgICAgc2V0UG9zaXRpb24ocG9zaXRpb249PW51bGwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCXJldHVybiAgbmV3IExhYmVsKGV4YW1JbmZvSWQuZ2V0WWVhcigpKyIiKTsKLy8JCSBCdXR0b24gYnRuID0gbmV3IEJ1dHRvbihleGFtSW5mb0lkLmdldFllYXIoKSsiIiwgZXZlbnQgLT4gewovLwkJCSAKLy8JCQkgZWRpdEV4YW1JbmZvRGlhbG9nKGV4YW1JbmZvSWQpOwovLwkJCi8vCQkgfSk7Ci8vCQkgYnRuLmFkZFN0eWxlTmFtZShWYWxvVGhlbWUuQlVUVE9OX0xJTkspOwovLwkJIGJ0bi5zZXRJY29uKEZvbnRBd2Vzb21lLkVESVQpOwovLwkJcmV0dXJuIGJ0bjsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihjbGFzc09mW0ltYWdlRmllbGRdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoZXhhbUluZm9EVE8gPC0gcXVpelNldCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPFN0cmluZz4gZmlsdGVycyA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh5ZWFyRmlsdGVycy5pc0VtcHR5KQogICAgICByZXR1cm4gZW0uY3JlYXRlUXVlcnkoInNlbGVjdCBkaXN0aW5jdCBlaSBmcm9tIEV4YW1JbmZvIGVpIHdoZXJlIGVpLmV4YW1TdWJqZWN0LmlkPT8xIiwgY2xhc3NPZltFeGFtSW5mb10pCiAgICAgICAgLnNldFBhcmFtZXRlcigxLCBleGFtU3ViamVjdElkKS5nZXRSZXN1bHRMaXN0CiAgICBlbS5jcmVhdGVRdWVyeSgic2VsZWN0IGRpc3RpbmN0IGVpIGZyb20gRXhhbUluZm8gZWkgIiArICJ3aGVyZSBlaS5leGFtU3ViamVjdC5pZD0/MSBhbmQgZWkueWVhciBpbiAoPzIpIiwgY2xhc3NPZltFeGFtSW5mb10pCiAgICAgIC5zZXRQYXJhbWV0ZXIoMSwgZXhhbVN1YmplY3RJZCkKICAgICAgLnNldFBhcmFtZXRlcigyLCB5ZWFyRmlsdGVycy5hc0phdmFDb2xsZWN0aW9uKS5nZXRSZXN1bHRMaXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHcuYWRkQ2xvc2VTaG9ydGN1dChLZXlDb2RlLkVTQ0FQRSwgbnVsbCkK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="-" type="4">
-        <text>filters</text>
+        <text>Some</text>
       </register>
     </registers>
     <search>
