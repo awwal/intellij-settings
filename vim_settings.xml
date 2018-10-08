@@ -34,12 +34,6 @@
         <mark key="]" line="77" column="24" />
         <mark key="." line="77" column="24" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl.java" timestamp="1538980982144">
-        <mark key="[" line="612" column="43" />
-        <mark key="]" line="612" column="44" />
-        <mark key="^" line="612" column="43" />
-        <mark key="." line="612" column="43" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job.jsp" timestamp="1538459935690">
         <mark key="[" line="119" column="50" />
         <mark key="]" line="176" column="42" />
@@ -52,11 +46,10 @@
         <mark key="^" line="0" column="87" />
         <mark key="." line="0" column="87" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/JobReportServiceImpl-dataset.xml" timestamp="1538729448618">
-        <mark key="[" line="57" column="145" />
-        <mark key="]" line="57" column="163" />
-        <mark key="." line="57" column="145" />
-        <mark key="^" line="66" column="91" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/JobReportServiceImpl-dataset.xml" timestamp="1538988003879">
+        <mark key="[" line="57" column="131" />
+        <mark key="]" line="57" column="131" />
+        <mark key="." line="57" column="131" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/filemanager/filemanager-api/2.0.14/filemanager-api-2.0.14-sources.jar!/fi/abakus/filemanager/FileMetadata.java" timestamp="1538735174034" />
       <file name="$USER_HOME$/work/java/abakus-core-api/src/main/java/fi/abakus/core/model/BillingInfo.java" timestamp="1538567971696">
@@ -96,12 +89,6 @@
         <mark key="]" line="99" column="78" />
         <mark key="^" line="61" column="11" />
         <mark key="." line="61" column="12" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/report/model/JobReport.java" timestamp="1538728255090">
-        <mark key="'" line="54" column="30" />
-        <mark key="[" line="79" column="7" />
-        <mark key="]" line="79" column="7" />
-        <mark key="." line="79" column="7" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/dao/JobReportDAO.java" timestamp="1538595815794">
         <mark key="[" line="18" column="31" />
@@ -164,11 +151,8 @@
         <mark key="^" line="8" column="114" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" timestamp="1538980966262">
-        <mark key="'" line="721" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" timestamp="1538988142287">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job-info.jsp" timestamp="1538979519077">
         <mark key="[" line="26" column="67" />
@@ -328,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/JobProduct.java" />
       <jump line="46" column="17" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateProductTypeDAOTest.java" />
       <jump line="49" column="24" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/model/services/ProductTypeQuery.java" />
       <jump line="295" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/model/services/ProductTypeQuery.java" />
@@ -362,7 +345,6 @@
       <jump line="89" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl-dataset.xml" />
       <jump line="54" column="37" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl-dataset.xml" />
       <jump line="828" column="98" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" />
       <jump line="686" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" />
       <jump line="209" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobQuery.java" />
       <jump line="95" column="29" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobQuery.java" />
@@ -428,6 +410,8 @@
       <jump line="20" column="33" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFiles.java" />
       <jump line="190" column="63" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ReportFormsController.java" />
       <jump line="126" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" />
+      <jump line="103" column="8" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -437,7 +421,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>reportLocale</text>
+        <text encoding="base64">ZD0iMSIg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -464,7 +448,7 @@
         <text encoding="base64">ICAgICAgICBKb2Igam9iID0gKEpvYiltYXYuZ2V0TW9kZWwoKS5nZXQoQVRUUklCVVRFX05BTUVfSk9CKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>reportLocale</text>
+        <text encoding="base64">ZD0iMSIg</text>
       </register>
     </registers>
     <search>
