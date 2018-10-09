@@ -81,7 +81,7 @@
         <mark key="[" line="186" column="47" />
         <mark key="]" line="186" column="99" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" timestamp="1539068284555">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" timestamp="1539071985751">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="106" column="63" />
         <mark key="]" line="41" column="56" />
@@ -231,12 +231,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="29" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobReportDownloadController.java" timestamp="1539068379537">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobReportDownloadController.java" timestamp="1539071952850">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="56" column="30" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="50" column="83" />
+        <mark key="]" line="51" column="7" />
+        <mark key="^" line="51" column="7" />
+        <mark key="." line="51" column="7" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/attachments.jsp" timestamp="1539066725354">
         <mark key="[" line="20" column="0" />
@@ -362,28 +362,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vcGRmIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgam9icmVwb3J0ID0gImpvYnJlcG9ydCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm0uc2V0SWRlbnRpZmllcigiZmlsZSIrZmlsZS5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vcGRmIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZighaWRlbnRpZmllci5zdGFydHNXaXRoKEpPQl9SRVBPUlRfSURfUFJFRklYKSkgewogICAgICAgICAgICB0aHJvdyAgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlVua25vd24gaWRlbnRpZmllciIpOwogICAgICAgIH0KICAgICAgICBpbnQgaWQgPSBJbnRlZ2VyLnBhcnNlSW50KGlkZW50aWZpZXIuc3Vic3RyaW5nKEpPQl9SRVBPUlRfSURfUFJFRklYLmxlbmd0aCgpKSk7CiAgICAgICAgcmV0dXJuIGlkOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgam9icmVwb3J0ID0gImpvYnJlcG9ydCI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm0uc2V0SWRlbnRpZmllcigiZmlsZSIrZmlsZS5nZXRJZCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZighaWRlbnRpZmllci5zdGFydHNXaXRoKEpPQl9SRVBPUlRfSURfUFJFRklYKSkgewogICAgICAgICAgICB0aHJvdyAgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlVua25vd24gaWRlbnRpZmllciIpOwogICAgICAgIH0KICAgICAgICBpbnQgaWQgPSBJbnRlZ2VyLnBhcnNlSW50KGlkZW50aWZpZXIuc3Vic3RyaW5nKEpPQl9SRVBPUlRfSURfUFJFRklYLmxlbmd0aCgpKSk7CiAgICAgICAgcmV0dXJuIGlkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaWQgPSBJbnRlZ2VyLnBhcnNlSW50KGlkZW50aWZpZXIuc3Vic3RyaW5nKEpPQl9SRVBPUlRfSURfUFJFRklYLmxlbmd0aCgpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>id</text>
