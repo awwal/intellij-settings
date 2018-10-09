@@ -4,11 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/filemanager/filemanager-web/2.0.14/filemanager-web-2.0.14-sources.jar!/fi/abakus/filemanager/client/web/DownloadFileController.java" timestamp="1538751780001" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFiles.java" timestamp="1539066780356">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFiles.java" timestamp="1539067463532">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/core/reportFiles.tagf" timestamp="1539067369332">
         <mark key="'" line="249" column="29" />
@@ -82,11 +81,12 @@
         <mark key="[" line="186" column="47" />
         <mark key="]" line="186" column="99" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" timestamp="1539067254171">
-        <mark key="[" line="42" column="60" />
-        <mark key="]" line="43" column="53" />
-        <mark key="^" line="43" column="53" />
-        <mark key="." line="43" column="53" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" timestamp="1539068284555">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="106" column="63" />
+        <mark key="]" line="41" column="56" />
+        <mark key="." line="41" column="56" />
+        <mark key="^" line="41" column="56" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/settings/BrowseJobReportsController.java" timestamp="1538635496286">
         <mark key="[" line="35" column="0" />
@@ -231,12 +231,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="29" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobReportDownloadController.java" timestamp="1539023294116">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobReportDownloadController.java" timestamp="1539068343554">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="97" column="25" />
-        <mark key="." line="97" column="0" />
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="56" column="30" />
+        <mark key="^" line="56" column="30" />
+        <mark key="." line="56" column="30" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/attachments.jsp" timestamp="1539066725354">
         <mark key="[" line="20" column="0" />
@@ -250,10 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/AbstractEditJobForm.java" />
-      <jump line="216" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/AbstractEditJobController.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/pom.xml" />
-      <jump line="20" column="17" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/java/abakus-crm/pom.xml" />
       <jump line="10" column="19" filename="$USER_HOME$/work/java/abakus-crm/pom.xml" />
       <jump line="9" column="19" filename="$USER_HOME$/work/java/abakus-crm/pom.xml" />
@@ -350,43 +346,47 @@
       <jump line="62" column="19" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
       <jump line="283" column="69" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" />
       <jump line="205" column="46" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
+      <jump line="20" column="58" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihQcm9kdWN0Q2F0YWxvZ0ZhY2FkZUltcGwuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAgc3RhdGljIFN0cmluZyBjcmVhdGVKb2JSZXBvcnRJZGVudGlmaWVyKGludCBqb2JSZXBvcnRJZCl7CiAgICAgICByZXR1cm4gSk9CX1JFUE9SVF9JRF9QUkVGSVgram9iUmVwb3J0SWQ7IAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgam9icmVwb3J0ID0gImpvYnJlcG9ydCI7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ProductCatalogFacadeImpl</text>
+        <text>id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGRhdGVQYXR0ZXJuID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm0uc2V0SWRlbnRpZmllcigiZmlsZSIrZmlsZS5nZXRJZCgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlVGltZS5ub3coKS4K</text>
+        <text encoding="base64">ICAgICAgICBpZighaWRlbnRpZmllci5zdGFydHNXaXRoKEpPQl9SRVBPUlRfSURfUFJFRklYKSkgewogICAgICAgICAgICB0aHJvdyAgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlVua25vd24gaWRlbnRpZmllciIpOwogICAgICAgIH0KICAgICAgICBpbnQgaWQgPSBJbnRlZ2VyLnBhcnNlSW50KGlkZW50aWZpZXIuc3Vic3RyaW5nKEpPQl9SRVBPUlRfSURfUFJFRklYLmxlbmd0aCgpKSk7CiAgICAgICAgcmV0dXJuIGlkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBwcm9wZXJ0aWVzID0gZmlsZS5nZXRQcm9wZXJ0aWVzKCk7CiAgICAgICAgICAgIFN0cmluZyBzZW50RGF0ZSA9IHByb3BlcnRpZXMuZ2V0KCJzZW50RGF0ZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JRdWVyeS5zZXRGZXRjaEQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEpvYlJlcG9ydCBqb2JSZXBvcnQgPSBqb2JSZXBvcnRTZXJ2aWNlLmdldEpvYlJlcG9ydChpZCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iUmVwb3J0LmdldEpvYigpLmdldFRhcmdldCgpLmdldEN1c3RvbWVyKCkuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaWQgPSBJbnRlZ2VyLnBhcnNlSW50KGlkZW50aWZpZXIuc3Vic3RyaW5nKEpPQl9SRVBPUlRfSURfUFJFRklYLmxlbmd0aCgpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JRdWVyeS5zZXRGZXRjaFJlcG9ydEZvcm1zKHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ProductCatalogFacadeImpl</text>
+        <text>id</text>
       </register>
     </registers>
     <search>
