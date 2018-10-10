@@ -169,6 +169,12 @@
         <mark key="^" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/ReportFormServiceImpl.java" timestamp="1538984275814" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/fajanssi/customerlink.tag" timestamp="1539152482252">
+        <mark key="[" line="9" column="76" />
+        <mark key="]" line="9" column="78" />
+        <mark key="." line="9" column="78" />
+        <mark key="^" line="9" column="78" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/BrowseJobsController.java" timestamp="1538981224620">
         <mark key="[" line="131" column="43" />
         <mark key="]" line="132" column="43" />
@@ -225,15 +231,12 @@
         <mark key="." line="798" column="18" />
         <mark key="^" line="798" column="18" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/fajanssi/customer.tag" timestamp="1539088928521">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="62" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/fajanssi/customer.tag" timestamp="1539151890913">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job.jsp" timestamp="1538459935690">
-        <mark key="[" line="119" column="50" />
-        <mark key="]" line="176" column="42" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job.jsp" timestamp="1539151964633">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="100" />
         <mark key="." line="176" column="42" />
         <mark key="^" line="176" column="42" />
       </file>
@@ -298,12 +301,12 @@
         <mark key="." line="386" column="115" />
         <mark key="^" line="392" column="75" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" timestamp="1539089012511">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" timestamp="1539152537853">
         <mark key="'" line="26" column="8" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="33" column="12" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="157" column="46" />
+        <mark key="]" line="157" column="46" />
+        <mark key="^" line="157" column="5" />
+        <mark key="." line="157" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/filemanager/filemanager-core/2.0.14/filemanager-core-2.0.14-sources.jar!/fi/abakus/filemanager/impl/FileManagerImpl.java" timestamp="1539080395479" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/JobReportQuery.java" timestamp="1539083315282">
@@ -507,40 +510,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCTxmYWphbnNzaTpjdXN0b21lcnR5cGUgdmFsdWU9IiR7Y3VzdG9tZXIuY3VzdG9tZXJUeXBlfSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZmFqYW5zc2k6Y3VzdG9tZXJsaW5rIHZhbHVlID0gIiR7am9iLmJpbGxpbmdDdXN0b21lcn0iIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>billingCustomer</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJIDxmYWphbnNzaTpjdXN0b21lcnR5cGUgdmFsdWU9IiR7Y3VzdG9tZXIuY3VzdG9tZXJUeXBlfSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IiR7am9iLm1haW50ZW5hbmNlQ29tcGFueS5jdXN0b21lcklkfSIvPjo8YzpvdXQgdmFsdWU9IiR7am9iLm1haW50ZW5hbmNlQ29tcGFueS5uYW1lfSIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGM6b3V0IHZhbHVlPSIke2pvYi5vcmRlcmVyLmN1c3RvbWVySWR9Ii8+OjxjOm91dCB2YWx1ZT0iJHtqb2Iub3JkZXJlci5uYW1lfSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IiR7am9iLmJpbGxpbmdDdXN0b21lci5jdXN0b21lcklkfSIvPjo8YzpvdXQgdmFsdWU9IiR7am9iLmJpbGxpbmdDdXN0b21lci5uYW1lfSIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdj4K</text>
+        <text encoding="base64">PC9hPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICR7dmFsdWUubmFtZX0K</text>
+        <text encoding="base64">ICA8YzpvdXQgdmFsdWU9IiIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgICA8ZmFqYW5zc2k6YWRkcmVzcyB2YWx1ZT0iJHt2YWx1ZS5hZGRyZXNzfSIgLz4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICIvPgogICAgICAgICAgPGM6b3V0IHZhbHVlPSI6Ii8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIGZpbmFsIFN0cmluZyBTRU5UX0RBVEVfUEFUVEVSTiA9ICJkZC5NTS55eXl5IEhIOm1tIjsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxjOm91dCB2YWx1ZT0iJHt2YWx1ZS5jdXN0b21lcklkfSAiLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNFTlRfREFURV9QQVRURVJOID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.address</text>
+        <text>billingCustomer</text>
       </register>
     </registers>
     <search>
