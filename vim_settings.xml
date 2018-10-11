@@ -349,6 +349,12 @@
         <mark key="^" line="23" column="53" />
         <mark key="." line="23" column="53" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/item_in.xml" timestamp="1539255618237">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="94" />
+        <mark key="]" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServiceDiaryServiceImpl.java" timestamp="1539178449031">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
@@ -450,8 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="48" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/BrowseJobsController.java" />
       <jump line="131" column="66" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceCardDAO.java" />
       <jump line="48" column="15" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceCardServiceImpl.java" />
       <jump line="159" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceCardServiceImpl.java" />
@@ -550,6 +554,8 @@
       <jump line="75" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/RemoveReportAndFileController.java" />
       <jump line="25" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/RemoveReportAndFileController.java" />
       <jump line="70" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/RemoveReportAndFileController.java" />
+      <jump line="82" column="34" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/item_in.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/item_in.xml" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -558,8 +564,8 @@
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBIaWJlcm5hdGUuaW5pdGlhbGl6ZShqb2JSZXBvckpvYigpLmdldERldmljZUNhcmQoKS5nZXRNb2RlbCgpKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBIaWJlcm5hdGUuaW5pdGlhbGl6ZShqb2JSZXBvckpvYigpLmdldERldmljZUNhcmQoKS5nZXRNb2RlbCgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aHR0cHM6Ly9wb3J0YWFsaS5jaGlsbGVyLmZpL2dyb3VwL2NoaWxsZXItb3kvcGRtLz9fcHZpZXc9b2JqZWN0Jm9ial9pZD1pdGVtJTNBQzAyNzAwMDQ1JTJGQQ==</text>
       </register>
       <register name="2" type="4">
         <text>t.getJob().getDeviceCard().getTarget().getCustomer());
@@ -588,7 +594,7 @@
         <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>public.</text>
+        <text encoding="base64">aHR0cHM6Ly9wb3J0YWFsaS5jaGlsbGVyLmZpL2dyb3VwL2NoaWxsZXItb3kvcGRtLz9fcHZpZXc9b2JqZWN0Jm9ial9pZD1pdGVtJTNBQzAyNzAwMDQ1JTJGQQ==</text>
       </register>
     </registers>
     <search>
