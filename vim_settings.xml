@@ -37,6 +37,12 @@
         <mark key="^" line="58" column="52" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/shared-model/src/main/java/com/optiscangroup/mobile/shybase/model/common/IdValuePair.java" timestamp="1539285792781" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/17.sql" timestamp="1539338409788">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="32" column="77" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/report/model/ReportFormValue.java" timestamp="1539328791865" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/MailConfigurationService.java" timestamp="1539337379947" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServiceDiaryServiceImplTest.java" timestamp="1539284383079">
@@ -253,6 +259,11 @@
         <mark key="^" line="70" column="78" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15.3-SNAPSHOT/abakus-core-api-2.2.15.3-20181003.120900-3.jar!/fi/abakus/core/model/Entity.class" timestamp="1539329186564" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/filemanager/filemanager-web/2.0.14/filemanager-web-2.0.14-sources.jar!/fi/abakus/filemanager/client/web/RemoveFilesController.java" timestamp="1539241522254">
+        <mark key="'" line="44" column="24" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="24" column="38" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/fi/abakus/fajanssi/mobile/util/Converter.java" timestamp="1539335218182">
         <mark key="[" line="447" column="52" />
         <mark key="]" line="448" column="47" />
@@ -264,6 +275,11 @@
         <mark key="]" line="75" column="102" />
         <mark key="." line="75" column="102" />
         <mark key="^" line="75" column="102" />
+      </file>
+      <file name="/16.sql" timestamp="1539338398804">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="76" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobAttachmentEmailHandler.java" timestamp="1539239281930">
         <mark key="[" line="53" column="61" />
@@ -292,12 +308,6 @@
         <mark key="[" line="786" column="0" />
         <mark key="]" line="786" column="0" />
         <mark key="." line="786" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/16.sql" timestamp="1539235501426">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/java/fi/abakus/fajanssi/mail/MailSessionFactory.java" timestamp="1539336630119" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/RomoveReportAndFileController.java" timestamp="1539241555012">
@@ -523,9 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="783" column="21" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl.java" />
-      <jump line="691" column="30" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" />
-      <jump line="297" column="12" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" />
       <jump line="65" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" />
       <jump line="138" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" />
       <jump line="338" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view-job.jsp" />
@@ -623,16 +630,19 @@
       <jump line="632" column="56" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/com/optiscangroup/fieldwork/client/mobile/FieldWorkServiceImpl.java" />
       <jump line="663" column="75" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/com/optiscangroup/fieldwork/client/mobile/FieldWorkServiceImpl.java" />
       <jump line="187" column="42" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/JobReportServiceImplTest.java" />
+      <jump line="17" column="8" filename="/16.sql" />
+      <jump line="31" column="20" filename="/16.sql" />
+      <jump line="0" column="0" filename="/16.sql" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CTxyZXBvcnRfZm9ybV92YWx1ZXMgaWQ9IjEiIHZlcnNpb249IjEiIGNyZWF0ZWQ9IjIwMDctMTAtMzEgMDc6NDU6MDAiIHJlcG9ydF9pZD0iMiIgaXRlbV9pZD0iMiIgdmFsdWU9InR2YWx1ZSIgLz4K</text>
+        <text encoding="base64">d2l0aCBsYXRlc3RfcmVwb3J0cyBhcyAoCglzZWxlY3QganIuaWQgYXMgaWQKCWZyb20gam9iX3JlcG9ydHMganIKCWlubmVyIGpvaW4gKAoJICAgIHNlbGVjdCBqci5qb2JfaWQsIGpyLmZvcm1faWQsIG1heChqci5sYXN0X21vZGlmaWVkKSBhcyBsYXN0X21vZGlmaWVkCgkgICAgZnJvbSBqb2JfcmVwb3J0cyBqcgoJICAgIGdyb3VwIGJ5IGpyLmpvYl9pZCwganIuZm9ybV9pZAoJKSBqcl90ZW1wIG9uCgkJanIubGFzdF9tb2RpZmllZCA9IGpyX3RlbXAubGFzdF9tb2RpZmllZAoJCWFuZCBqci5qb2JfaWQgPSBqcl90ZW1wLmpvYl9pZAoJCWFuZCBqci5mb3JtX2lkID0ganJfdGVtcC5mb3JtX2lkCiksIG9sZF9yZXBvcnRfdmFsdWVzIGFzKAoJc2VsZWN0IHJmdi5pZAoJZnJvbSBqb2JfcmVwb3J0cyBqcgoJbGVmdCBqb2luIHJlcG9ydF9mb3JtX3ZhbHVlcyByZnYgb24gcmZ2LnJlcG9ydF9pZCA9IGpyLmlkCgl3aGVyZSBqci5pZCBub3QgaW4gKHNlbGVjdCAqIGZyb20gbGF0ZXN0X3JlcG9ydHMpCglvcmRlciBieSBqci5qb2JfaWQsIGpyLmZvcm1faWQpCmRlbGV0ZSBmcm9tIHJlcG9ydF9mb3JtX3ZhbHVlcyByZnYgd2hlcmUgcmZ2LmlkIGluIChzZWxlY3QgKiBmcm9tIG9sZF9yZXBvcnRfdmFsdWVzKTsKCndpdGggbGF0ZXN0X3JlcG9ydHMgYXMgKAoJc2VsZWN0IGpyLmlkIGFzIGlkCglmcm9tIGpvYl9yZXBvcnRzIGpyCglpbm5lciBqb2luICgKCSAgICBzZWxlY3QganIuam9iX2lkLCBqci5mb3JtX2lkLCBtYXgoanIubGFzdF9tb2RpZmllZCkgYXMgbGFzdF9tb2RpZmllZAoJICAgIGZyb20gam9iX3JlcG9ydHMganIKCSAgICBncm91cCBieSBqci5qb2JfaWQsIGpyLmZvcm1faWQKCSkganJfdGVtcCBvbgoJCWpyLmxhc3RfbW9kaWZpZWQgPSBqcl90ZW1wLmxhc3RfbW9kaWZpZWQKCQlhbmQganIuam9iX2lkID0ganJfdGVtcC5qb2JfaWQKCQlhbmQganIuZm9ybV9pZCA9IGpyX3RlbXAuZm9ybV9pZAopCmRlbGV0ZSBmcm9tIGpvYl9yZXBvcnRzIGpyIHdoZXJlIGpyLmlkIG5vdCBpbiAoc2VsZWN0ICogZnJvbSBsYXRlc3RfcmVwb3J0cyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZmlsZU1hbmFnZXIgIT0gbnVsbCkgewo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2l0aCBsYXRlc3RfcmVwb3J0cyBhcyAoCglzZWxlY3QganIuaWQgYXMgaWQKCWZyb20gam9iX3JlcG9ydHMganIKCWlubmVyIGpvaW4gKAoJICAgIHNlbGVjdCBqci5qb2JfaWQsIGpyLmZvcm1faWQsIG1heChqci5sYXN0X21vZGlmaWVkKSBhcyBsYXN0X21vZGlmaWVkCgkgICAgZnJvbSBqb2JfcmVwb3J0cyBqcgoJICAgIGdyb3VwIGJ5IGpyLmpvYl9pZCwganIuZm9ybV9pZAoJKSBqcl90ZW1wIG9uCgkJanIubGFzdF9tb2RpZmllZCA9IGpyX3RlbXAubGFzdF9tb2RpZmllZAoJCWFuZCBqci5qb2JfaWQgPSBqcl90ZW1wLmpvYl9pZAoJCWFuZCBqci5mb3JtX2lkID0ganJfdGVtcC5mb3JtX2lkCiksIG9sZF9yZXBvcnRfdmFsdWVzIGFzKAoJc2VsZWN0IHJmdi5pZAoJZnJvbSBqb2JfcmVwb3J0cyBqcgoJbGVmdCBqb2luIHJlcG9ydF9mb3JtX3ZhbHVlcyByZnYgb24gcmZ2LnJlcG9ydF9pZCA9IGpyLmlkCgl3aGVyZSBqci5pZCBub3QgaW4gKHNlbGVjdCAqIGZyb20gbGF0ZXN0X3JlcG9ydHMpCglvcmRlciBieSBqci5qb2JfaWQsIGpyLmZvcm1faWQpCmRlbGV0ZSBmcm9tIHJlcG9ydF9mb3JtX3ZhbHVlcyByZnYgd2hlcmUgcmZ2LmlkIGluIChzZWxlY3QgKiBmcm9tIG9sZF9yZXBvcnRfdmFsdWVzKTsKCndpdGggbGF0ZXN0X3JlcG9ydHMgYXMgKAoJc2VsZWN0IGpyLmlkIGFzIGlkCglmcm9tIGpvYl9yZXBvcnRzIGpyCglpbm5lciBqb2luICgKCSAgICBzZWxlY3QganIuam9iX2lkLCBqci5mb3JtX2lkLCBtYXgoanIubGFzdF9tb2RpZmllZCkgYXMgbGFzdF9tb2RpZmllZAoJICAgIGZyb20gam9iX3JlcG9ydHMganIKCSAgICBncm91cCBieSBqci5qb2JfaWQsIGpyLmZvcm1faWQKCSkganJfdGVtcCBvbgoJCWpyLmxhc3RfbW9kaWZpZWQgPSBqcl90ZW1wLmxhc3RfbW9kaWZpZWQKCQlhbmQganIuam9iX2lkID0ganJfdGVtcC5qb2JfaWQKCQlhbmQganIuZm9ybV9pZCA9IGpyX3RlbXAuZm9ybV9pZAopCmRlbGV0ZSBmcm9tIGpvYl9yZXBvcnRzIGpyIHdoZXJlIGpyLmlkIG5vdCBpbiAoc2VsZWN0ICogZnJvbSBsYXRlc3RfcmVwb3J0cyk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CTx2ZXJzaW9uPjMuNS4xLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
