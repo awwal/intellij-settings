@@ -16,6 +16,9 @@
         <mark key="^" line="97" column="22" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/jbpm/handlers/BeginJobHandlerTest.java" timestamp="1539254316765" />
+      <file name="/a.dummy" timestamp="1539332454614">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/jbpm/handlers/BeginJobHandler.java" timestamp="1539254339254" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/DeviceCardQuery.java" timestamp="1538500123254">
         <mark key="[" line="145" column="19" />
@@ -56,6 +59,9 @@
         <mark key="]" line="43" column="9" />
         <mark key="^" line="43" column="9" />
         <mark key="." line="43" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportCommand.java" timestamp="1539583355073">
+        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/jbpm/handlers/test-processDefinition-beginHandler.xml" timestamp="1539254334468" />
       <file name="$USER_HOME$/work/java/abakus-core-api/src/main/java/fi/abakus/core/model/BillingInfo.java" timestamp="1538567971696">
@@ -269,7 +275,7 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportDelegate.java" timestamp="1539582785877">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportDelegate.java" timestamp="1539583393264">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
