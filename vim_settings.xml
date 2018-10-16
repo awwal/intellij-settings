@@ -195,6 +195,7 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeImpl.java" timestamp="1539693822055" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/core/reportFile.tagf" timestamp="1538750190320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="253" column="7" />
@@ -291,6 +292,7 @@
         <mark key="^" line="33" column="36" />
         <mark key="." line="33" column="36" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/DeviceContractWrapper.java" timestamp="1539693229630" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ReportAndFileZipGenerator.java" timestamp="1539236864137">
         <mark key="[" line="27" column="38" />
         <mark key="]" line="27" column="38" />
@@ -420,7 +422,7 @@
         <mark key="." line="59" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/abakus-test/2.0.1/abakus-test-2.0.1-sources.jar!/fi/abakus/test/AbstractDatabaseTestCase.java" timestamp="1539329304797" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateServiceDiaryDAO.java" timestamp="1539692527141">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateServiceDiaryDAO.java" timestamp="1539693212810">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="57" />
         <mark key="^" line="76" column="35" />
