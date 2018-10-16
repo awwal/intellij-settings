@@ -58,11 +58,11 @@
         <mark key="^" line="66" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/dao/abakus-dao-hibernate/1.0.17/abakus-dao-hibernate-1.0.17-sources.jar!/fi/abakus/dao/hibernate/AuditInterceptor.java" timestamp="1539593142730" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportFormValueDiff.java" timestamp="1539680392874">
-        <mark key="[" line="58" column="59" />
-        <mark key="]" line="58" column="60" />
-        <mark key="." line="58" column="60" />
-        <mark key="^" line="58" column="98" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportFormValueDiff.java" timestamp="1539681191615">
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="42" column="40" />
+        <mark key="." line="42" column="55" />
+        <mark key="^" line="42" column="40" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/RemoveReportAndFileController.java" timestamp="1539253355676">
         <mark key="'" line="71" column="0" />
@@ -346,37 +346,37 @@
         <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgU3RyaW5nPiBvbmx5T25FeGlzdGluZyA9IGRpZmZlcmVuY2UuZW50cmllc09ubHlPbkxlZnQoKTsKICAgICAgICBmb3IgKE1hcC5FbnRyeTxJbnRlZ2VyLCBTdHJpbmc+IGVudHJ5IDogb25seU9uRXhpc3RpbmcuZW50cnlTZXQoKSkgewogICAgICAgICAgICBJbnRlZ2VyIGl0ZW1JZCA9IGVudHJ5LmdldEtleSgpOwogICAgICAgICAgICBTdHJpbmcgaXRlbURlc2NyaXB0aW9uID0gZ2V0SXRlbURlc2NyaXB0aW9uKGl0ZW1JZCwgbGVmdCk7CiAgICAgICAgICAgIFN0cmluZyBtID0gTWVzc2FnZUZvcm1hdC5mb3JtYXQoIkV4aXN0aW5nIGl0ZW0ge30gd2FzIHJlbW92ZWQgZnJvbSB0aGUgdXBkYXRlIiwgaXRlbURlc2NyaXB0aW9uKTsKICAgICAgICAgICAgc2IuYXBwZW5kKG0pOwogICAgICAgICAgICBzYi5hcHBlbmQoTkVXTElORSk7CgogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoaXRlbS5nZXRUeXBlKCkuZXF1YWxzKFJlcG9ydEl0ZW1UeXBlLkdST1VQKSl7CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmKGl0ZW0gaW5zdGFuY2VvZiBSZXBvcnRJdGVtR3JvdXApewogICAgICAgICAgICAgICAgUmVwb3J0SXRlbUdyb3VwIGdyb3VwID0gKFJlcG9ydEl0ZW1Hcm91cClpdGVtOwogICAgICAgICAgICAgICAgdmFsdWVzLnB1dEFsbChpdGVtVmFsdWVNYXBwaW5nKGdyb3VwLmdldEl0ZW1zKCkpKTsKCiAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKG0pOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVEaWZmZXJlbmNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKE5FV0xJTkUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXRydW4gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaXRlbS5nZXRUeXBlKCkuZXF1YWxzKFJlcG9ydEl0ZW1UeXBlLkdST1VQKSl7CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmKGl0ZW0gaW5zdGFuY2VvZiBSZXBvcnRJdGVtR3JvdXApewogICAgICAgICAgICAgICAgUmVwb3J0SXRlbUdyb3VwIGdyb3VwID0gKFJlcG9ydEl0ZW1Hcm91cClpdGVtOwogICAgICAgICAgICAgICAgdmFsdWVzLnB1dEFsbChpdGVtVmFsdWVNYXBwaW5nKGdyb3VwLmdldEl0ZW1zKCkpKTsKCiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJFeGlzdGluZyBpdGVtICIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVEaWZmZXJlbmNlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkaWZmZXJlbmNlLmkpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXRydW4gIiI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMuZGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJFeGlzdGluZyBpdGVtICIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihkaWZmZXJlbmNlLmkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZGlmZihDb2xsZWN0aW9uPFJlcG9ydEY+KQo=</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMuZGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;;</text>
       </register>
     </registers>
     <search>
