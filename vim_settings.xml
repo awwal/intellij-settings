@@ -58,13 +58,6 @@
         <mark key="^" line="66" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/dao/abakus-dao-hibernate/1.0.17/abakus-dao-hibernate-1.0.17-sources.jar!/fi/abakus/dao/hibernate/AuditInterceptor.java" timestamp="1539593142730" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportFormValueDiff.java" timestamp="1539671339251">
-        <mark key="'" line="51" column="63" />
-        <mark key="[" line="37" column="64" />
-        <mark key="]" line="37" column="71" />
-        <mark key="." line="37" column="71" />
-        <mark key="^" line="37" column="71" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/RemoveReportAndFileController.java" timestamp="1539253355676">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="6" column="0" />
