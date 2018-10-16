@@ -58,6 +58,12 @@
         <mark key="^" line="66" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/dao/abakus-dao-hibernate/1.0.17/abakus-dao-hibernate-1.0.17-sources.jar!/fi/abakus/dao/hibernate/AuditInterceptor.java" timestamp="1539593142730" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportFormValueDiff.java" timestamp="1539680392874">
+        <mark key="[" line="58" column="59" />
+        <mark key="]" line="58" column="60" />
+        <mark key="." line="58" column="60" />
+        <mark key="^" line="58" column="98" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/RemoveReportAndFileController.java" timestamp="1539253355676">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="6" column="0" />
@@ -182,7 +188,7 @@
         <mark key="." line="124" column="46" />
         <mark key="^" line="124" column="46" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1539679191679">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1539680297758">
         <mark key="'" line="396" column="12" />
         <mark key="[" line="405" column="85" />
         <mark key="]" line="406" column="26" />
@@ -343,7 +349,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYoaXRlbS5nZXRUeXBlKCkuZXF1YWxzKFJlcG9ydEl0ZW1UeXBlLkdST1VQKSl7CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmKGl0ZW0gaW5zdGFuY2VvZiBSZXBvcnRJdGVtR3JvdXApewogICAgICAgICAgICAgICAgUmVwb3J0SXRlbUdyb3VwIGdyb3VwID0gKFJlcG9ydEl0ZW1Hcm91cClpdGVtOwogICAgICAgICAgICAgICAgdmFsdWVzLnB1dEFsbChpdGVtVmFsdWVNYXBwaW5nKGdyb3VwLmdldEl0ZW1zKCkpKTsKCiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsdWVEaWZmZXJlbmNlLgo=</text>
@@ -370,7 +376,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
