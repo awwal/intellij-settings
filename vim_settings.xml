@@ -34,6 +34,10 @@
         <mark key="]" line="786" column="0" />
         <mark key="." line="786" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/webapp/admin/src/main/webapp/WEB-INF/jsp/warehouse/storage-actions/view.jsp" timestamp="1539846743682" />
+      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/model/src/main/java/fi/abakus/warehouse/model/StorageAction.java" timestamp="1539846762674">
+        <mark key="'" line="146" column="46" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportCommand.java" timestamp="1539588114148">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -95,6 +99,7 @@
         <mark key="^" line="39" column="79" />
         <mark key="." line="31" column="19" />
       </file>
+      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/core/src/main/java/fi/abakus/warehouse/services/impl/ProductOrderServiceImpl.java" timestamp="1539847069648" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/shared-model/pom.xml" timestamp="1539333843069">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="22" />
@@ -196,6 +201,7 @@
         <mark key="." line="60" column="34" />
         <mark key="^" line="19" column="38" />
       </file>
+      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/model/src/main/java/fi/abakus/warehouse/model/AbstractStorageAction.java" timestamp="1539846771063" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/abakus-jalopy.xml" timestamp="1539346356693">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="16" />
@@ -203,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/core/reportFile.tag" />
       <jump line="6" column="16" filename="$MAVEN_REPOSITORY$/fi/abakus/filemanager/filemanager-web/2.0.14/filemanager-web-2.0.14.jar!/META-INF/tags/listFiles.tagf" />
       <jump line="347" column="0" filename="$MAVEN_REPOSITORY$/fi/abakus/filemanager/filemanager-web/2.0.14/filemanager-web-2.0.14.jar!/META-INF/tags/listFiles.tagf" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/fi/abakus/filemanager/filemanager-web/2.0.14/filemanager-web-2.0.14.jar!/META-INF/tags/listFiles.tagf" />
@@ -303,6 +308,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/attachments.jsp" />
       <jump line="10" column="39" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/Roles.java" />
       <jump line="58" column="61" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/com/optiscangroup/fieldwork/client/mobile/FieldWorkServiceImpl.java" />
+      <jump line="146" column="46" filename="$USER_HOME$/work/java/is/intersport-abakus-warehouse/model/src/main/java/fi/abakus/warehouse/model/StorageAction.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
