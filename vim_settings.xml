@@ -34,8 +34,8 @@
         <mark key="]" line="786" column="0" />
         <mark key="." line="786" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/webapp/admin/src/main/webapp/WEB-INF/jsp/warehouse/storage-actions/view.jsp" timestamp="1539846743682" />
-      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/model/src/main/java/fi/abakus/warehouse/model/StorageAction.java" timestamp="1539846762674">
+      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/webapp/admin/src/main/webapp/WEB-INF/jsp/warehouse/storage-actions/view.jsp" timestamp="1539848100896" />
+      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/model/src/main/java/fi/abakus/warehouse/model/StorageAction.java" timestamp="1539847995927">
         <mark key="'" line="146" column="46" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportCommand.java" timestamp="1539588114148">
@@ -99,7 +99,7 @@
         <mark key="^" line="39" column="79" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/core/src/main/java/fi/abakus/warehouse/services/impl/ProductOrderServiceImpl.java" timestamp="1539847069648" />
+      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/core/src/main/java/fi/abakus/warehouse/services/impl/ProductOrderServiceImpl.java" timestamp="1539848450055" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/shared-model/pom.xml" timestamp="1539333843069">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="22" />
@@ -149,6 +149,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/model/src/main/java/fi/abakus/warehouse/model/StorageActionCollection.java" timestamp="1539848140147" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateBusinessObjectDAO.java" timestamp="1538660071982">
         <mark key="[" line="388" column="52" />
         <mark key="]" line="388" column="52" />
@@ -201,6 +202,7 @@
         <mark key="." line="60" column="34" />
         <mark key="^" line="19" column="38" />
       </file>
+      <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/core/src/main/java/fi/abakus/warehouse/dao/hibernate/HibernateStorageActionDAO2.java" timestamp="1539848245597" />
       <file name="$USER_HOME$/work/java/is/intersport-abakus-warehouse/model/src/main/java/fi/abakus/warehouse/model/AbstractStorageAction.java" timestamp="1539846771063" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/abakus-jalopy.xml" timestamp="1539346356693">
         <mark key="[" line="9" column="15" />
