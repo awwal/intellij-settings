@@ -21,7 +21,7 @@
         <mark key="]" line="136" column="43" />
         <mark key="." line="136" column="43" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/license-header.txt" timestamp="1539870089597">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/license-header.txt" timestamp="1540185103096">
         <mark key="[" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/ServiceDiaryEntry.java" timestamp="1539178768486">
@@ -192,8 +192,10 @@
         <mark key="]" line="61" column="145" />
         <mark key="." line="61" column="145" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/optiscan_checks.xml" timestamp="1539869976819">
-        <mark key="[" line="208" column="13" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/optiscan_checks.xml" timestamp="1540185353829">
+        <mark key="[" line="211" column="45" />
+        <mark key="]" line="211" column="45" />
+        <mark key="." line="211" column="45" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/attachments.jsp" timestamp="1539777528342">
         <mark key="'" line="0" column="0" />
@@ -315,43 +317,37 @@
         <text>maven-checkstyle-plugin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoKICogJElkJAogKiBDb3B5cmlnaHQgKGMpIDIwMDQtMjAxOCBPcHRpc2NhbiBBYmFrdXMgT3kuIEFsbCByaWdodHMgcmVzZXJ2ZWQuCiAqCiAqIFRoaXMgc29mdHdhcmUgaXMgdGhlIHByb3ByaWV0YXJ5IGluZm9ybWF0aW9uIG9mIE9wdGlzY2FuIEFiYWt1cyBPeS4KICogVXNlIGlzIHN1YmplY3QgdG8gbGljZW5zZSB0ZXJtcy4KICovCgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjYWNoZUZpbGU+ZmFsc2U8L2NhY2hlRmlsZT4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/*
- * $Id$
- * Copyright (c) 2004-2018 Optiscan Abakus Oy. All rights reserved.
- *
- * This software is the proprietary information of Optiscan Abakus Oy.
- * Use is subject to license terms.
- */</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyoKICogJElkJAogKiBDb3B5cmlnaHQgKGMpIDIwMDQtMjAxOCBPcHRpc2NhbiBBYmFrdXMgT3kuIEFsbCByaWdodHMgcmVzZXJ2ZWQuCiAqCiAqIFRoaXMgc29mdHdhcmUgaXMgdGhlIHByb3ByaWV0YXJ5IGluZm9ybWF0aW9uIG9mIE9wdGlzY2FuIEFiYWt1cyBPeS4KICogVXNlIGlzIHN1YmplY3QgdG8gbGljZW5zZSB0ZXJtcy4KICovCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U2VhcmNoIGFuZCBpbnN0YWxsIHRoZSBpbnRlbGxpaiBjaGVja3N0eWxlIHBsdWdpbi4gVGhpcyB3aWxsIGhpZ2h0bGlnaHQgdGhlIHZpb2xhdGlvbnMuCkNvbmZpZ3VyZSB0aGUgcGx1Z2luIGFuZCBwb2ludCBpdCB0byB0aGUgb3B0aXNjYW5fY2hlY2tzLnhtbCBmaWxlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjYWNoZUZpbGU+ZmFsc2U8L2NhY2hlRmlsZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqIEVuc3VyZSB0aGUgYCBDb2RlIFN0eWxlYCBTY2hlbWUgaXMgc2VsZWN0ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
     </registers>
     <search>
