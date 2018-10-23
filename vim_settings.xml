@@ -38,7 +38,11 @@
         <mark key="^" line="39" column="79" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/device-contract-servlet.xml" timestamp="1540294505874" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/device-contract-servlet.xml" timestamp="1540296668382">
+        <mark key="[" line="106" column="45" />
+        <mark key="]" line="106" column="45" />
+        <mark key="." line="106" column="45" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/ServiceDiaryEntry.java" timestamp="1539178768486">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -73,6 +77,12 @@
         <mark key="[" line="253" column="25" />
         <mark key="]" line="253" column="25" />
         <mark key="." line="253" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/DeviceContractQuery.java" timestamp="1540296466073">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="41" column="35" />
+        <mark key="." line="41" column="35" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServiceDiaryServiceImpl.java" timestamp="1539178449031">
         <mark key="[" line="168" column="0" />
@@ -134,6 +144,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractDAO.java" timestamp="1540296204387">
+        <mark key="[" line="99" column="12" />
+        <mark key="]" line="99" column="12" />
+        <mark key="." line="99" column="12" />
+        <mark key="^" line="99" column="15" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceCardController.java" timestamp="1538507450519">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -168,6 +184,9 @@
         <mark key="[" line="61" column="145" />
         <mark key="]" line="61" column="145" />
         <mark key="." line="61" column="145" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/browse.jsp" timestamp="1540296647315">
+        <mark key="[" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/optiscan_checks.xml" timestamp="1540187220338">
         <mark key="[" line="211" column="45" />
@@ -302,13 +321,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzZWN1cml0eTphdXRob3JpemUgaWZBbnlHcmFudGVkPSJST0xFX1NVUEVSVVNFUiI+CiAgICAgICAgPGpzcDppbmNsdWRlIHBhZ2U9ImVkaXQtZnVsbC5qc3AiIC8+CiAgICA8L3NlY3VyaXR5OmF1dGhvcml6ZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWEuYWRkKFJlc3RyaWN0aW9ucy5pbGlrZSgibmFtZSIsIHF1ZXJ5LmdldE5hbWUoKSArICIlIikpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8anNwOmluY2x1ZGUgcGFnZT0iZWRpdC1mdWxsLmpzcCIgLz4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sitemap.deviceContracts.delete</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHdlYjpkZWxldGVVbmRlbGV0ZVJlbW92ZSBlbnRpdHk9IiR7ZGV2aWNlQ29udHJhY3R9IiByb2xlPSJzaXRlbWFwLmRldmljZUNvbnRyYWN0cy5kZWxldGUiIC8+Cg==</text>
@@ -335,7 +354,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sitemap.deviceContracts.delete</text>
       </register>
     </registers>
     <search>
