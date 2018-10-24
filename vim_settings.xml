@@ -14,7 +14,7 @@
         <mark key="]" line="136" column="43" />
         <mark key="." line="136" column="43" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportDelegate.java" timestamp="1540302992416" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportDelegate.java" timestamp="1540381009310" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/log4j.properties" timestamp="1540304855601">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -111,6 +111,13 @@
         <mark key="[" line="110" column="35" />
         <mark key="]" line="110" column="35" />
         <mark key="." line="110" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1540381089247">
+        <mark key="'" line="396" column="12" />
+        <mark key="[" line="403" column="0" />
+        <mark key="]" line="403" column="0" />
+        <mark key="." line="403" column="0" />
+        <mark key="^" line="404" column="46" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/shared-model/src/main/java/com/optiscangroup/mobile/fieldwork/model/report/AReport.java" timestamp="1540302959658">
         <mark key="[" line="21" column="0" />
