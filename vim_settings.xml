@@ -205,6 +205,7 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceContract.java" timestamp="1540388190565" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractQuery-dataset.xml" timestamp="1540305066479">
         <mark key="[" line="39" column="22" />
         <mark key="]" line="39" column="21" />
@@ -218,6 +219,7 @@
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540388401525" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/pom.xml" timestamp="1539333802620">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
