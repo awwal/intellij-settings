@@ -32,17 +32,17 @@
         <mark key="^" line="954" column="75" />
         <mark key="." line="954" column="74" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SingleFileRowLineCallback.java" timestamp="1540465787541">
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SingleFileRowLineCallback.java" timestamp="1540469907587">
         <mark key="[" line="33" column="40" />
         <mark key="]" line="33" column="49" />
         <mark key="^" line="33" column="49" />
         <mark key="." line="33" column="49" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformer.java" timestamp="1540467269345">
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformer.java" timestamp="1540469802620">
         <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="62" column="96" />
+        <mark key="]" line="63" column="37" />
+        <mark key="." line="63" column="37" />
+        <mark key="^" line="63" column="37" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/EditDeviceContractController.java" timestamp="1540445622141" />
       <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformerRunner.java" timestamp="1540467066052">
@@ -50,6 +50,10 @@
         <mark key="]" line="51" column="118" />
         <mark key="." line="51" column="118" />
         <mark key="^" line="51" column="118" />
+      </file>
+      <file name="$USER_HOME$/work/java/excel-transformer/src/test/resources/basic-template.txt" timestamp="1540470132232">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="112" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractDAO.java" timestamp="1540305211041">
         <mark key="[" line="99" column="12" />
@@ -64,8 +68,8 @@
         <mark key="." line="38" column="71" />
         <mark key="^" line="38" column="71" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/Config.java" timestamp="1540467245598">
-        <mark key="[" line="46" column="0" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/Config.java" timestamp="1540469809144">
+        <mark key="[" line="45" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="11" column="23" />
         <mark key="." line="46" column="0" />
@@ -91,6 +95,11 @@
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeImpl.java" timestamp="1540447309236" />
       <file name="$USER_HOME$/work/java/bgt/abakus-warehouse/core/src/main/java/fi/abakus/warehouse/dao/ProductTypeBalanceDAO.java" timestamp="1540456776037" />
+      <file name="$USER_HOME$/work/java/excel-transformer/README.md" timestamp="1540469408916">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/bgt/abakus-warehouse/model/src/main/java/fi/abakus/productcatalog/model/ProductType.java" timestamp="1540462729441">
         <mark key="[" line="270" column="29" />
         <mark key="]" line="270" column="51" />
@@ -113,6 +122,7 @@
         <mark key="." line="956" column="65" />
         <mark key="^" line="956" column="65" />
       </file>
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1540470288791" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractQuery-dataset.xml" timestamp="1540305066479">
         <mark key="[" line="39" column="22" />
         <mark key="]" line="39" column="21" />
@@ -126,7 +136,7 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1540467253134">
+      <file name="/fragment.java" timestamp="1540470248973">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -234,40 +244,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIG91dHB1dEZpbGVQcmVmaXggPSBsaW5lLmdldE9wdGlvblZhbHVlKG91dHB1dEZpbGVPcHQpOwo=</text>
+        <text encoding="base64">e3sgU2hlZXQxLiNST1dOVU1CRVIgfX0ge3sgU2hlZXQxLkEgfX0ge3sgU2hlZXQxLkIgfX0ge3sgU2hlZXQxLkMgfX0ge3sgU2hlZXQxLkQgfX0ge3sgU2hlZXQxLjUgfX0ge3sgU2hlZXQxLkYgfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldFNpbmdsZUZpbGUoc2luZ2xlRmlsZSk7CiAgICAgICAgICAgIGNvbmZpZy5zZXRTdWZmaXgoKTsK</text>
+        <text encoding="base64">ICAtdgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>singleFile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">e3sgU2hlZXQxLiNST1dOVU1CRVIgfX0ge3sgU2hlZXQxLkEgfX0ge3sgU2hlZXQxLkIgfX0ge3sgU2hlZXQxLkMgfX0ge3sgU2hlZXQxLkQgfX0ge3sgU2hlZXQxLjUgfX0ge3sgU2hlZXQxLkYgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAtZSBzcWwgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3VmZml4ID0gc3VmZml4Owo=</text>
+        <text encoding="base64">ICAtLWRhdGVmb3JtYXQgWVlZWS1NTS1kZCBcCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRTdWZmaXgoU3RyaW5nIHN1ZmZpeCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldFNpbmdsZUZpbGUoc2luZ2xlRmlsZSk7CiAgICAgICAgICAgIGNvbmZpZy5zZXRTdWZmaXgoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2luZ2xlRmlsZSA9IHNpbmdsZUZpbGU7CiAgfQoK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRTaW5nbGVGaWxlKGJvb2xlYW4gc2luZ2xlRmlsZSkgewo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3VmZml4ID0gc3VmZml4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgIFN0cmluZyBvdXQK</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRTdWZmaXgoU3RyaW5nIHN1ZmZpeCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU2VwYXJhdGVGaWxlUm93TGluZUNhbGxiYWNrKGZpbGVOYW1lUHJlZml4LCBvdXRwdXREaXIsIHRlbXBsYXRlKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2luZ2xlRmlsZSA9IHNpbmdsZUZpbGU7CiAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29uZmlnLmlzU2luZ2xlRmlsZSgpKSB7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRTaW5nbGVGaWxlKGJvb2xlYW4gc2luZ2xlRmlsZSkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>singleFile</text>
+        <text>10</text>
       </register>
     </registers>
     <search>
