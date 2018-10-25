@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/java/excel-transformer/src/test/java/com/optiscangroup/ExcelTransformerTest.java" timestamp="1540468147371">
+        <mark key="[" line="59" column="64" />
+        <mark key="]" line="59" column="64" />
+        <mark key="." line="59" column="67" />
+        <mark key="^" line="90" column="70" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/ViewJobController.java" timestamp="1539857871268">
         <mark key="[" line="32" column="1" />
         <mark key="]" line="62" column="1" />
@@ -233,8 +239,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldFNpbmdsZUZpbGUoc2luZ2xlRmlsZSk7CiAgICAgICAgICAgIGNvbmZpZy5zZXRTdWZmaXgoKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldFNpbmdsZUZpbGUoc2luZ2xlRmlsZSk7CiAgICAgICAgICAgIGNvbmZpZy5zZXRTdWZmaXgoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>singleFile</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICB9Cg==</text>
@@ -261,7 +267,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoY29uZmlnLmlzU2luZ2xlRmlsZSgpKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>suffix</text>
+        <text>singleFile</text>
       </register>
     </registers>
     <search>
