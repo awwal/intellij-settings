@@ -1,5 +1,6 @@
 <application>
-  <component name="UISettings">
-    <option name="HIDE_TOOL_STRIPES" value="false" />
+  <component name="DependencyUISettings">
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
+    <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
   </component>
 </application>
