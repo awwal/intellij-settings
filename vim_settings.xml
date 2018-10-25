@@ -88,7 +88,8 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" timestamp="1540298395127">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" timestamp="1540446874505">
+        <mark key="'" line="226" column="49" />
         <mark key="[" line="255" column="0" />
         <mark key="]" line="258" column="0" />
         <mark key="." line="255" column="0" />
@@ -117,6 +118,7 @@
         <mark key="." line="106" column="59" />
         <mark key="^" line="106" column="44" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeImpl.java" timestamp="1540447309236" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/shared-model/pom.xml" timestamp="1539333843069">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="22" />
@@ -201,7 +203,7 @@
         <mark key="^" line="39" column="21" />
         <mark key="." line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540445973626" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540447556330" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/ReportAndFiles.java" timestamp="1539236020207">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
@@ -235,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/core/reportFiles.tagf" />
       <jump line="718" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" />
       <jump line="20" column="33" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFiles.java" />
       <jump line="190" column="63" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ReportFormsController.java" />
@@ -335,6 +336,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/18.sql" />
       <jump line="171" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAOTest.java" />
       <jump line="51" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportCommand.java" />
+      <jump line="226" column="49" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" />
     </jumps>
     <registers>
       <register name="0" type="2">
