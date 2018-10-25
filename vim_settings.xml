@@ -32,11 +32,17 @@
         <mark key="^" line="954" column="75" />
         <mark key="." line="954" column="74" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SingleFileRowLineCallback.java" timestamp="1540471327694">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="33" column="87" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/PRAGMA.java" timestamp="1540472672567">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SingleFileRowLineCallback.java" timestamp="1540472816513">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformer.java" timestamp="1540469802620">
         <mark key="[" line="63" column="0" />
@@ -159,7 +165,7 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1540470248973">
+      <file name="/fragment.java" timestamp="1540472766165">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -267,13 +273,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">e3sgU2hlZXQxLiNST1dOVU1CRVIgfX0ge3sgU2hlZXQxLkEgfX0ge3sgU2hlZXQxLkIgfX0ge3sgU2hlZXQxLkMgfX0ge3sgU2hlZXQxLkQgfX0ge3sgU2hlZXQxLjUgfX0ge3sgU2hlZXQxLkYgfX0K</text>
+        <text encoding="base64">ICAgICAgICBMT0cuZGVidWcoIkFwcGVuZGluZyB0byBGaWxlICIgKyBvdXRwdXRGaWxlLmdldEFic29sdXRlUGF0aCgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjYWxsYmFjay5vbkZpbmlzaCgpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5vbkZpbmlzaCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICB0byBGaWxlICIgKyBvdXRwdXRGaWxlLmdldEFic29sdXRlUGF0aCgpKQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25GaW5pc2goKSB7CgogICAgfQo=</text>
@@ -300,7 +306,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldFNpbmdsZUZpbGUoc2luZ2xlRmlsZSk7CiAgICAgICAgICAgIGNvbmZpZy5zZXRTdWZmaXgoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>writeStringToFile</text>
+        <text encoding="base64">ICB0byBGaWxlICIgKyBvdXRwdXRGaWxlLmdldEFic29sdXRlUGF0aCgpKQ==</text>
       </register>
     </registers>
     <search>
