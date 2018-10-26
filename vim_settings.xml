@@ -38,17 +38,17 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SingleFileRowLineCallback.java" timestamp="1540472816513">
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="0" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SingleFileRowLineCallback.java" timestamp="1540560721125">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
+        <mark key="^" line="36" column="11" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformer.java" timestamp="1540546976498">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="37" />
-        <mark key="." line="63" column="37" />
-        <mark key="^" line="63" column="37" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformer.java" timestamp="1540559845065">
+        <mark key="[" line="70" column="61" />
+        <mark key="]" line="70" column="35" />
+        <mark key="." line="70" column="35" />
+        <mark key="^" line="70" column="35" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/EditDeviceContractController.java" timestamp="1540445622141" />
       <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/RowLineCreatedCallback.java" timestamp="1540471330552">
@@ -56,11 +56,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformerRunner.java" timestamp="1540467066052">
-        <mark key="[" line="51" column="100" />
-        <mark key="]" line="51" column="118" />
-        <mark key="." line="51" column="118" />
-        <mark key="^" line="51" column="118" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformerRunner.java" timestamp="1540560517640">
+        <mark key="[" line="56" column="57" />
+        <mark key="]" line="24" column="61" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="28" column="63" />
       </file>
       <file name="$USER_HOME$/work/java/excel-transformer/src/test/resources/basic-template.txt" timestamp="1540470132232">
         <mark key="[" line="0" column="0" />
@@ -72,12 +72,12 @@
         <mark key="." line="99" column="12" />
         <mark key="^" line="99" column="15" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SeparateFileRowLineCallback.java" timestamp="1540471338736">
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SeparateFileRowLineCallback.java" timestamp="1540560822867">
         <mark key="'" line="47" column="12" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="45" column="90" />
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+        <mark key="^" line="42" column="16" />
       </file>
       <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/Config.java" timestamp="1540469809144">
         <mark key="[" line="45" column="0" />
@@ -148,10 +148,11 @@
         <mark key="." line="956" column="65" />
         <mark key="^" line="956" column="65" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1540471343216">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1540560475934">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="59" column="14" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractQuery-dataset.xml" timestamp="1540305066479">
         <mark key="[" line="39" column="22" />
@@ -277,37 +278,37 @@
         <text encoding="base64">ICAgICAgICBMT0cuZGVidWcoIkFwcGVuZGluZyB0byBGaWxlICIgKyBvdXRwdXRGaWxlLmdldEFic29sdXRlUGF0aCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5vbkZpbmlzaCgpOwo=</text>
+        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IEV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woNCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICB0byBGaWxlICIgKyBvdXRwdXRGaWxlLmdldEFic29sdXRlUGF0aCgpKQ==</text>
+        <text>info</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25GaW5pc2goKSB7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IEV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woNCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBhYnN0cmFjdCB2b2lkIG9uRmluaXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY2FsbGJhY2sub25Sb3dNYXBwZWQocm93TGluZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25GaW5pc2goKSB7CgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ0IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2sub25Sb3dNYXBwZWQocm93TGluZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtdgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2sub25Sb3dNYXBwZWQocm93TGluZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtZSBzcWwgXAo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5vbkZpbmlzaCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtLWRhdGVmb3JtYXQgWVlZWS1NTS1kZCBcCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25GaW5pc2goKSB7CgogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldFNpbmdsZUZpbGUoc2luZ2xlRmlsZSk7CiAgICAgICAgICAgIGNvbmZpZy5zZXRTdWZmaXgoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBhYnN0cmFjdCB2b2lkIG9uRmluaXNoKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICB0byBGaWxlICIgKyBvdXRwdXRGaWxlLmdldEFic29sdXRlUGF0aCgpKQ==</text>
+        <text>info</text>
       </register>
     </registers>
     <search>
