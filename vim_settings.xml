@@ -56,11 +56,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformerRunner.java" timestamp="1540560517640">
-        <mark key="[" line="56" column="57" />
-        <mark key="]" line="24" column="61" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="28" column="63" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformerRunner.java" timestamp="1540561210540">
+        <mark key="[" line="95" column="20" />
+        <mark key="]" line="92" column="20" />
+        <mark key="." line="92" column="20" />
+        <mark key="^" line="92" column="20" />
       </file>
       <file name="$USER_HOME$/work/java/excel-transformer/src/test/resources/basic-template.txt" timestamp="1540470132232">
         <mark key="[" line="0" column="0" />
@@ -148,11 +148,11 @@
         <mark key="." line="956" column="65" />
         <mark key="^" line="956" column="65" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1540560475934">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="59" column="14" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1540561457643">
+        <mark key="[" line="56" column="68" />
+        <mark key="]" line="56" column="68" />
+        <mark key="." line="56" column="68" />
+        <mark key="^" line="56" column="67" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractQuery-dataset.xml" timestamp="1540305066479">
         <mark key="[" line="39" column="22" />
@@ -275,40 +275,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuZGVidWcoIkFwcGVuZGluZyB0byBGaWxlICIgKyBvdXRwdXRGaWxlLmdldEFic29sdXRlUGF0aCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmluZm8oInRpbWV4ICIrU3lzdGVtLm5hbm9UaW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IEV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woNCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmluZm8oInRpbWV4ICIrU3lzdGVtLm5hbm9UaW1lKCkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>());</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IEV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woNCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0cuaW5mbygidGltZTIgIitTeXN0ZW0ubmFub1RpbWUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FsbGJhY2sub25Sb3dNYXBwZWQocm93TGluZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0cuaW5mbygidGltZTEgIitTeXN0ZW0ubmFub1RpbWUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygidGltZSAiK1N5c3RlbS5uYW5vVGltZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2sub25Sb3dNYXBwZWQocm93TGluZSk7Cg==</text>
+        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IEV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woNCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2sub25Sb3dNYXBwZWQocm93TGluZSk7Cg==</text>
+        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IEV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woNCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5vbkZpbmlzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgY2FsbGJhY2sub25Sb3dNYXBwZWQocm93TGluZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25GaW5pc2goKSB7CgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBhYnN0cmFjdCB2b2lkIG9uRmluaXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2sub25Sb3dNYXBwZWQocm93TGluZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>());</text>
       </register>
     </registers>
     <search>
