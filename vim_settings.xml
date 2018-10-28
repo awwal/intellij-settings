@@ -193,6 +193,11 @@
         <mark key="^" line="275" column="0" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/quiz/QuizCreateUi.scala" timestamp="1540743128619">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/ng/acada/cbt/log/BILog.scala" timestamp="1540503092516">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="7" column="1" />
@@ -363,34 +368,34 @@
         <text encoding="base64">CmltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJ0ZXJzLl8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChleGFtU3ViamVjdCA9PSBudWxsKSByZXR1cm4K</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChleGFtU3ViamVjdCA9PSBudWxsKSByZXR1cm4K</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4YW1TdWJqZWN0ID0gZXhhbVN1YmplY3RTZXJ2aWNlLmxvYWRTdWJqZWN0KGV4YW1TdWJqZWN0LmdldElkKQogICAgY3JlYXRlVG9waWNzKGV4YW1TdWJqZWN0KQogICAgY3JlYXRlRXhhbUxheShleGFtU3ViamVjdCkK</text>
+        <text encoding="base64">Ly8gICAgIi9zY2hvb2xJZC9xdWl6SWQgZm9yIGVkaXQiCi8vICAgICIvc2Nob29sSWQvbmV3IGZvciBuZXcgcXVpeiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChleGFtU3ViamVjdCA9PSBudWxsKSByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGV4YW1TdWJqZWN0U2VydmljZS5kZWxldGVTdWJqZWN0QW5kQWxsRXhhbXMoZXhhbVN1YmplY3QpCiAgICAgIE5vdGlmaWNhdGlvbi5zaG93KCJEZWxldGVkIikKICAgICAgaW5pdCgpCiAgICB9IGNhdGNoIHsKICAgICAgY2FzZSBlOiBBcHBTZXJ2aWNlRXhjZXB0aW9uID0+CiAgICAgICAgTm90aWZpY2F0aW9uLnNob3coZS5nZXRNZXNzYWdlKQogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgY2FzZSBlOiBFeGNlcHRpb24gPT4KICAgICAgICBOb3RpZmljYXRpb24uc2hvdygiVW5rbm93biBlcnJvci4gQ29udGFjdCBhZG1pbmlzdHJhdG9yIikKICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGV4YW1TdWJqZWN0ID0gZXhhbVN1YmplY3RTZXJ2aWNlLmxvYWRTdWJqZWN0KGV4YW1TdWJqZWN0LmdldElkKQogICAgY3JlYXRlVG9waWNzKGV4YW1TdWJqZWN0KQogICAgY3JlYXRlRXhhbUxheShleGFtU3ViamVjdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGV4YW1TdWJqZWN0U2VydmljZS5kZWxldGVTdWJqZWN0QW5kQWxsRXhhbXMoZXhhbVN1YmplY3QpCiAgICAgIE5vdGlmaWNhdGlvbi5zaG93KCJEZWxldGVkIikKICAgICAgaW5pdCgpCiAgICB9IGNhdGNoIHsKICAgICAgY2FzZSBlOiBBcHBTZXJ2aWNlRXhjZXB0aW9uID0+CiAgICAgICAgTm90aWZpY2F0aW9uLnNob3coZS5nZXRNZXNzYWdlKQogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgY2FzZSBlOiBFeGNlcHRpb24gPT4KICAgICAgICBOb3RpZmljYXRpb24uc2hvdygiVW5rbm93biBlcnJvci4gQ29udGFjdCBhZG1pbmlzdHJhdG9yIikKICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICB2YWwgdmFsdWVzOiBTZXRbU3RyaW5nXSA9IHRleHRGaWVsZFZhbHVlLnNwbGl0KCIsIikudG9TZXQKICAgICAgICB2YWwgZXMgPSBleGFtU3ViamVjdFNlcnZpY2UuYWRkVG9waWNzRm9yU3ViamVjdChTY2hvb2xJZC5vZihfc2Nob29sKSwgZXhhbVN1YmplY3QuZ2V0TmFtZSwgZXhhbVN1YmplY3QuZ2V0U3ViamVjdCwgdmFsdWVzLmFzSmF2YUNvbGxlY3Rpb24sIENvbGxlY3Rpb25zLmVtcHR5U2V0KQogICAgICAgIE5vdGlmaWNhdGlvbi5zaG93KCJOZXcgVG9waWNzIEFkZGVkISIpCiAgICAgICAgdy5jbG9zZSgpCiAgICAgICAgY3JlYXRlVG9waWNzKGVzKQogICAgICB9IGNhdGNoIHsKICAgICAgICBjYXNlIGU6IEV4Y2VwdGlvbiA9PgogICAgICAgICAgTm90aWZpY2F0aW9uLnNob3coIkVycm9yIG9jY3VycmVkIiwgIiIsIFR5cGUuRVJST1JfTUVTU0FHRSkKICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICB2YWwgdmFsdWVzOiBTZXRbU3RyaW5nXSA9IHRleHRGaWVsZFZhbHVlLnNwbGl0KCIsIikudG9TZXQKICAgICAgICB2YWwgZXMgPSBleGFtU3ViamVjdFNlcnZpY2UuYWRkVG9waWNzRm9yU3ViamVjdChTY2hvb2xJZC5vZihfc2Nob29sKSwgZXhhbVN1YmplY3QuZ2V0TmFtZSwgZXhhbVN1YmplY3QuZ2V0U3ViamVjdCwgdmFsdWVzLmFzSmF2YUNvbGxlY3Rpb24sIENvbGxlY3Rpb25zLmVtcHR5U2V0KQogICAgICAgIE5vdGlmaWNhdGlvbi5zaG93KCJOZXcgVG9waWNzIEFkZGVkISIpCiAgICAgICAgdy5jbG9zZSgpCiAgICAgICAgY3JlYXRlVG9waWNzKGVzKQogICAgICB9IGNhdGNoIHsKICAgICAgICBjYXNlIGU6IEV4Y2VwdGlvbiA9PgogICAgICAgICAgTm90aWZpY2F0aW9uLnNob3coIkVycm9yIG9jY3VycmVkIiwgIiIsIFR5cGUuRVJST1JfTUVTU0FHRSkKICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>examSubject</text>
