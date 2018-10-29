@@ -39,7 +39,7 @@
         <mark key="." line="0" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.1.16/workqueue-web-2.1.16-sources.jar!/fi/abakus/workqueue/web/CancelQueueItemController.java" timestamp="1540802487226" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/QueueServiceImpl.java" timestamp="1540802495055" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/QueueServiceImpl.java" timestamp="1540804239049" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_fi.properties" timestamp="1540301075181">
         <mark key="[" line="954" column="74" />
         <mark key="]" line="954" column="74" />
@@ -64,7 +64,7 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1539780627765">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1540804178201">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -89,6 +89,7 @@
         <mark key="." line="92" column="20" />
         <mark key="^" line="92" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0.jar!/fi/abakus/workqueue/web/webApplicationContext.xml" timestamp="1540804223487" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ReportAndFileUtil.java" timestamp="1539686421452">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="13" />
@@ -146,6 +147,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-war/2.1.16/workqueue-war-2.1.16.war!/WEB-INF/workqueue/jsp/queue-items/browse.jsp" timestamp="1540804025402" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractQueryTest.java" timestamp="1540305246559">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -235,7 +237,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1540802450387">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1540803948822">
         <mark key="[" line="956" column="61" />
         <mark key="]" line="956" column="65" />
         <mark key="." line="956" column="65" />
@@ -267,12 +269,6 @@
         <mark key="]" line="39" column="21" />
         <mark key="^" line="39" column="21" />
         <mark key="." line="39" column="21" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540798039695">
-        <mark key="'" line="456" column="12" />
-        <mark key="[" line="439" column="0" />
-        <mark key="]" line="439" column="0" />
-        <mark key="." line="439" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/ReportAndFiles.java" timestamp="1539236020207">
         <mark key="[" line="4" column="19" />
