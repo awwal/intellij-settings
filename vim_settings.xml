@@ -3,17 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/test/java/com/optiscangroup/ExcelTransformerTest.java" timestamp="1540468147371">
-        <mark key="[" line="59" column="64" />
-        <mark key="]" line="59" column="64" />
-        <mark key="." line="59" column="67" />
-        <mark key="^" line="90" column="70" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/ViewJobController.java" timestamp="1539857871268">
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="62" column="1" />
-        <mark key="." line="62" column="1" />
-        <mark key="^" line="62" column="1" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/security/CustomerAclAspect.java" timestamp="1539773098648">
+        <mark key="[" line="136" column="43" />
+        <mark key="]" line="136" column="43" />
+        <mark key="." line="136" column="43" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportDelegate.java" timestamp="1540812731314">
         <mark key="'" line="61" column="54" />
@@ -22,32 +15,18 @@
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/shared-model/src/main/java/com/optiscangroup/mobile/fieldwork/service/FWService.java" timestamp="1540798758916">
-        <mark key="[" line="97" column="40" />
-        <mark key="]" line="97" column="53" />
-        <mark key="." line="97" column="53" />
-        <mark key="^" line="97" column="53" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/log4j.properties" timestamp="1540304855601">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.1.16/workqueue-web-2.1.16-sources.jar!/fi/abakus/workqueue/web/CancelQueueItemController.java" timestamp="1540802487226" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/QueueServiceImpl.java" timestamp="1540804239049" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_fi.properties" timestamp="1540301075181">
-        <mark key="[" line="954" column="74" />
-        <mark key="]" line="954" column="74" />
-        <mark key="^" line="954" column="75" />
-        <mark key="." line="954" column="74" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/sitemap/admin-sitemap.xml" timestamp="1540802464713" />
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/PRAGMA.java" timestamp="1540472672567">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SingleFileRowLineCallback.java" timestamp="1540560721125">
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="8" />
-        <mark key="." line="36" column="8" />
-        <mark key="^" line="36" column="11" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/ServiceDiaryEntry.java" timestamp="1539178768486">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1540804178201">
         <mark key="[" line="64" column="0" />
@@ -57,27 +36,14 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl.java" timestamp="1540806583642">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformer.java" timestamp="1540559845065">
-        <mark key="[" line="70" column="61" />
-        <mark key="]" line="70" column="35" />
-        <mark key="." line="70" column="35" />
-        <mark key="^" line="70" column="35" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportCommand.java" timestamp="1540801538551">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformerRunner.java" timestamp="1540561210540">
-        <mark key="[" line="95" column="20" />
-        <mark key="]" line="92" column="20" />
-        <mark key="." line="92" column="20" />
-        <mark key="^" line="92" column="20" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0.jar!/fi/abakus/workqueue/web/webApplicationContext.xml" timestamp="1540804223487" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractDAO.java" timestamp="1540305211041">
-        <mark key="[" line="99" column="12" />
-        <mark key="]" line="99" column="12" />
-        <mark key="." line="99" column="12" />
-        <mark key="^" line="99" column="15" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ReportAndFileUtil.java" timestamp="1539686421452">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
       </file>
       <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SeparateFileRowLineCallback.java" timestamp="1540560822867">
         <mark key="'" line="47" column="12" />
@@ -86,17 +52,25 @@
         <mark key="." line="42" column="16" />
         <mark key="^" line="42" column="16" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobService.java" timestamp="1540798387243">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="8" />
-        <mark key="^" line="78" column="62" />
-        <mark key="." line="78" column="8" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/JobReportService.java" timestamp="1539588658338">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/Config.java" timestamp="1540469809144">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/commands/impl/AddJobReportCommandTest.java" timestamp="1540385674014">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/ServiceDiaryService.java" timestamp="1539175145307">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/abakus-home/system.properties" timestamp="1540816135415">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAOTest.java" timestamp="1540300952123">
         <mark key="'" line="171" column="0" />
@@ -106,25 +80,38 @@
         <mark key="." line="246" column="0" />
       </file>
       <file name="/JobReportServiceImpl.java" timestamp="1540812481591" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-war/2.1.16/workqueue-war-2.1.16.war!/WEB-INF/workqueue/jsp/queue-items/browse.jsp" timestamp="1540804025402" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractQueryTest.java" timestamp="1540305246559">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="65" column="51" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/browse-customer.jsp" timestamp="1538569787490">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1540813543987">
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-war/2.1.16/workqueue-war-2.1.16.war!/WEB-INF/workqueue/jsp/queue-items/browse.jsp" timestamp="1540804025402" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dataSourceContext-hibernate.xml" timestamp="1540300319633">
+        <mark key="[" line="110" column="35" />
+        <mark key="]" line="110" column="35" />
+        <mark key="." line="110" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1540816085008">
         <mark key="'" line="394" column="12" />
         <mark key="[" line="382" column="0" />
         <mark key="]" line="382" column="0" />
         <mark key="^" line="381" column="28" />
         <mark key="." line="382" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/device-contract-servlet.xml" timestamp="1540297629153">
-        <mark key="[" line="106" column="59" />
-        <mark key="]" line="106" column="59" />
-        <mark key="." line="106" column="59" />
-        <mark key="^" line="106" column="44" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/shared-model/pom.xml" timestamp="1539333843069">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/pom.xml" timestamp="1539335385578">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/pom.xml" timestamp="1539333891660">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/com/optiscangroup/fieldwork/client/mobile/FieldWorkServiceImpl.java" timestamp="1540806364990">
         <mark key="'" line="642" column="11" />
@@ -133,19 +120,37 @@
         <mark key="." line="289" column="18" />
         <mark key="^" line="290" column="20" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1540806588428" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/DeviceContractQuery.java" timestamp="1540296466073">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="41" column="35" />
-        <mark key="^" line="41" column="35" />
-        <mark key="." line="41" column="35" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/security/AclAspect.java" timestamp="1539773080141">
+        <mark key="[" line="253" column="25" />
+        <mark key="]" line="253" column="25" />
+        <mark key="." line="253" column="25" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1540806588428" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/invoker/AsyncCommandInvokerImpl.java" timestamp="1540801997045" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/styles/application.css" timestamp="1540389659665">
-        <mark key="[" line="886" column="6" />
-        <mark key="]" line="886" column="6" />
-        <mark key="^" line="885" column="0" />
-        <mark key="." line="886" column="6" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServiceDiaryServiceImpl.java" timestamp="1539178449031">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" timestamp="1539687538053">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="55" column="15" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/settings/BrowseJobReportsController.java" timestamp="1538635496286">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateBusinessObjectDAO.java" timestamp="1538660071982">
+        <mark key="[" line="388" column="52" />
+        <mark key="]" line="388" column="52" />
+        <mark key="." line="388" column="52" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/JobReportViewModel.java" timestamp="1538993285457">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1540803948822">
         <mark key="[" line="956" column="61" />
@@ -153,29 +158,45 @@
         <mark key="." line="956" column="65" />
         <mark key="^" line="956" column="65" />
       </file>
-      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1540561457643">
-        <mark key="[" line="56" column="68" />
-        <mark key="]" line="56" column="68" />
-        <mark key="." line="56" column="68" />
-        <mark key="^" line="56" column="67" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/test/resources/fi/abakus/fajanssi/testContext.xml" timestamp="1539780644087">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractQuery-dataset.xml" timestamp="1540305066479">
-        <mark key="[" line="39" column="22" />
-        <mark key="]" line="39" column="21" />
-        <mark key="^" line="39" column="21" />
-        <mark key="." line="39" column="21" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/core/reportFiles.tag" timestamp="1539067327666">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/JobDAO.java" timestamp="1540798470882">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="65" column="15" />
-        <mark key="^" line="47" column="14" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceCardController.java" timestamp="1538507450519">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/edit.jsp" timestamp="1540299164331">
-        <mark key="[" line="55" column="113" />
-        <mark key="]" line="60" column="11" />
-        <mark key="." line="60" column="11" />
-        <mark key="^" line="60" column="11" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/ReportAndFiles.java" timestamp="1539236020207">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/pom.xml" timestamp="1539333802620">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/security/CustomerAclAspectTest.java" timestamp="1539780699591">
+        <mark key="[" line="61" column="145" />
+        <mark key="]" line="61" column="145" />
+        <mark key="." line="61" column="145" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/optiscan_checks.xml" timestamp="1540187220338">
+        <mark key="[" line="211" column="45" />
+        <mark key="]" line="211" column="45" />
+        <mark key="." line="211" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/abakus-jalopy.xml" timestamp="1539346356693">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -287,8 +308,8 @@
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGpvYlNlcnZpY2Uuc3RvcmVKb2Ioam9iKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGpvYlNlcnZpY2Uuc3RvcmVKb2Ioam9iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICAgIGpvYi5nZXRSZXBvcnRGb3JtcygpLmFkZChmb3JtKTsK</text>
@@ -315,7 +336,7 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBpZAogICAgICogQHBhcmFtIGZldGNoQ29sbGVjdGlvbnMKICAgICAqIEByZXR1cm4KICAgICAqIEB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb24K</text>
       </register>
       <register name="-" type="4">
-        <text>DebugEnabled</text>
+        <text>true</text>
       </register>
     </registers>
     <search>
