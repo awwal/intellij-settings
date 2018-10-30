@@ -3,34 +3,100 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/java/excel-transformer/src/test/java/com/optiscangroup/ExcelTransformerTest.java" timestamp="1540468147371">
+        <mark key="[" line="59" column="64" />
+        <mark key="]" line="59" column="64" />
+        <mark key="." line="59" column="67" />
+        <mark key="^" line="90" column="70" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/ItemServiceImpl.java" timestamp="1540823892708" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/ViewJobController.java" timestamp="1539857871268">
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="62" column="1" />
+        <mark key="." line="62" column="1" />
+        <mark key="^" line="62" column="1" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/queueProcessorContext-memoryLane.xml" timestamp="1540823929004" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/shared-model/src/main/java/com/optiscangroup/mobile/fieldwork/service/FWService.java" timestamp="1540798758916">
+        <mark key="[" line="97" column="40" />
+        <mark key="]" line="97" column="53" />
+        <mark key="." line="97" column="53" />
+        <mark key="^" line="97" column="53" />
+      </file>
       <file name="/a.dummy" timestamp="1540896912623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/businessApplicationContext.xml" timestamp="1540823239593" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-support/2.1.16/workqueue-support-2.1.16-sources.jar!/fi/abakus/workqueue/commands/impl/GetFilesDelegate.java" timestamp="1540817940190" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/sitemap/admin-sitemap.xml" timestamp="1540802464713" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SingleFileRowLineCallback.java" timestamp="1540560721125">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
+        <mark key="^" line="36" column="11" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0-sources.jar!/fi/abakus/workqueue/web/ChangeQueueItemStatusController.java" timestamp="1540819703308" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl-dataset.xml" timestamp="1540906233727" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformer.java" timestamp="1540559845065">
+        <mark key="[" line="70" column="61" />
+        <mark key="]" line="70" column="35" />
+        <mark key="." line="70" column="35" />
+        <mark key="^" line="70" column="35" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportCommand.java" timestamp="1540823668973">
         <mark key="'" line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/ExcelTransformerRunner.java" timestamp="1540561210540">
+        <mark key="[" line="95" column="20" />
+        <mark key="]" line="92" column="20" />
+        <mark key="." line="92" column="20" />
+        <mark key="^" line="92" column="20" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0.jar!/fi/abakus/workqueue/web/webApplicationContext.xml" timestamp="1540804223487" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryQueueServiceImpl.java" timestamp="1540821038018" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540909091021">
-        <mark key="'" line="76" column="20" />
-        <mark key="[" line="88" column="114" />
-        <mark key="]" line="89" column="3" />
-        <mark key="^" line="89" column="3" />
-        <mark key="." line="89" column="3" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractDAO.java" timestamp="1540305211041">
+        <mark key="[" line="99" column="12" />
+        <mark key="]" line="99" column="12" />
+        <mark key="." line="99" column="12" />
+        <mark key="^" line="99" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540909762341">
+        <mark key="'" line="80" column="20" />
+        <mark key="[" line="90" column="97" />
+        <mark key="]" line="90" column="96" />
+        <mark key="." line="90" column="96" />
+        <mark key="^" line="90" column="96" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobService.java" timestamp="1540816987760">
+        <mark key="[" line="201" column="4" />
+        <mark key="]" line="201" column="4" />
+        <mark key="^" line="201" column="3" />
+        <mark key="." line="201" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/Config.java" timestamp="1540469809144">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/web.xml" timestamp="1540823196626" />
       <file name="/AddJobReportDelegate.java" timestamp="1540824198701" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0-sources.jar!/fi/abakus/workqueue/web/CommandInvokerController.java" timestamp="1540817734878" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeImpl.java" timestamp="1540892100194" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1540806588428" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/DeviceContractQuery.java" timestamp="1540296466073">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="41" column="35" />
+        <mark key="." line="41" column="35" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/invoker/AsyncCommandInvokerImpl.java" timestamp="1540820956715" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractQuery-dataset.xml" timestamp="1540305066479">
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/DeviceContractWrapper.java" timestamp="1540892075929" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540907070107" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1540823885944">
@@ -40,8 +106,17 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.1.16/workqueue-web-2.1.16-sources.jar!/fi/abakus/workqueue/web/CancelQueueItemController.java" timestamp="1540818570084" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/QueueServiceImpl.java" timestamp="1540821738022" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1540822502527">
-        <mark key="]" line="83" column="14" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_fi.properties" timestamp="1540301075181">
+        <mark key="[" line="954" column="74" />
+        <mark key="]" line="954" column="74" />
+        <mark key="^" line="954" column="75" />
+        <mark key="." line="954" column="74" />
+      </file>
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/model/PRAGMA.java" timestamp="1540472672567">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl.java" timestamp="1540816978489">
         <mark key="'" line="7" column="0" />
@@ -51,8 +126,20 @@
         <mark key="^" line="803" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0-sources.jar!/fi/abakus/workqueue/web/CancelQueueItemController.java" timestamp="1540817765873" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/SevicePlanDateTest.java" timestamp="1540910279037">
+        <mark key="[" line="20" column="53" />
+        <mark key="]" line="20" column="53" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="53" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/QueueItem.java" timestamp="1540821762911" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-war/2.1.16/workqueue-war-2.1.16.war!/WEB-INF/workqueue/jsp/queue-items/browse.jsp" timestamp="1540804025402" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/dao/hibernate/HibernateDeviceContractQueryTest.java" timestamp="1540305246559">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="65" column="51" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1540816888834">
         <mark key="'" line="396" column="12" />
         <mark key="[" line="381" column="32" />
@@ -62,10 +149,28 @@
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/webapp/WEB-INF/conf/dispatcher-servlet.xml" timestamp="1540817744954" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/queue/impl/QueueProcessorImpl.java" timestamp="1540823399637" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/device-contract-servlet.xml" timestamp="1540297629153">
+        <mark key="[" line="106" column="59" />
+        <mark key="]" line="106" column="59" />
+        <mark key="." line="106" column="59" />
+        <mark key="^" line="106" column="44" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.1.16/workqueue-web-2.1.16.jar!/fi/abakus/workqueue/web/webApplicationContext.xml" timestamp="1540823071087" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/invoker/MethodDelegatingCommandInvoker.java" timestamp="1540820852036" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/queue/impl/LaneBasedQueueProcessorImpl.java" timestamp="1540821289167" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/styles/application.css" timestamp="1540389659665">
+        <mark key="[" line="886" column="6" />
+        <mark key="]" line="886" column="6" />
+        <mark key="^" line="885" column="0" />
+        <mark key="." line="886" column="6" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/StatusEnum.java" timestamp="1540822065297" />
+      <file name="$USER_HOME$/work/java/excel-transformer/src/main/java/com/optiscangroup/SheetTransformer.java" timestamp="1540561457643">
+        <mark key="[" line="56" column="68" />
+        <mark key="]" line="56" column="68" />
+        <mark key="." line="56" column="68" />
+        <mark key="^" line="56" column="67" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540908214663">
         <mark key="'" line="496" column="6" />
         <mark key="[" line="35" column="0" />
@@ -75,6 +180,18 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryItemServiceImpl.java" timestamp="1540823536023">
         <mark key="'" line="108" column="63" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/JobDAO.java" timestamp="1540798470882">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="65" column="15" />
+        <mark key="^" line="47" column="14" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/edit.jsp" timestamp="1540299164331">
+        <mark key="[" line="55" column="113" />
+        <mark key="]" line="60" column="11" />
+        <mark key="." line="60" column="11" />
+        <mark key="^" line="60" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1540823849716">
         <mark key="[" line="0" column="0" />
@@ -184,40 +301,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihEZXZpY2VDb250cmFjdFNlcnZpY2VJbXBsLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIERhdGUgZmlyc3RQbGFuUm93ID0gZGF0ZU9mKDEyLERhdGVUaW1lQ29uc3RhbnRzLk5PVkVNQkVSLDIwMTgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NOVEMBER</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERhdGVUaW1lIGNvbnRyYWN0U3RhcnREYXRlID0gTUlOX0RBVEVfVElNRTsKICAgIGlmIChkZXZpY2VDb250cmFjdC5nZXRTdGFydERhdGUoKSAhPSBudWxsKSB7CiAgICAgIGNvbnRyYWN0U3RhcnREYXRlID0gbmV3IERhdGVUaW1lKGRldmljZUNvbnRyYWN0LmdldFN0YXJ0RGF0ZSgpKTsKICAgIH0KICAgIGlmIChkZXZpY2VDb250cmFjdC5nZXRGaXJzdEpvYkRhdGUoKSAhPSBudWxsKSB7CiAgICAgIGNvbnRyYWN0U3RhcnREYXRlID0gbmV3IERhdGVUaW1lKGRldmljZUNvbnRyYWN0LmdldEZpcnN0Sm9iRGF0ZSgpKTsKICAgIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBEYXRlIGRhdGVPZihpbnQgZGF5LCBpbnQgbW9udGhPZlllYXIsIGludCB5ZWFyKSB7CiAgICByZXR1cm4gbmV3IERhdGVUaW1lKGRheSwgbW9udGhPZlllYXIsIHllYXIsIDAsIDApLnRvRGF0ZSgpOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICgpIHsKICAgICAgY29udHJhY3RFbmREYXRlID0gbmV3IERhdGVUaW1lKGRldmljZUNvbnRyYWN0LmdldEVuZERhdGUoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8RGV2aWNlU2VydmljZVBsYW5Sb3c+IHNlcnZpY2VQbGFucyA9IHNlcnZpY2VQbGFuLmdldFBsYW4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgTlVNQkVSX09GX1lFQVJTX0lOX0FEVkFOQ0UgPSAyOwogIHByaXZhdGUgc3RhdGljIGZpbmFsIERhdGVUaW1lIE1BWF9EQVRFX1RJTUUgPSBuZXcgRGF0ZVRpbWUobmV3IERhdGUoTG9uZy5NQVhfVkFMVUUpKTsKICBwcml2YXRlIHN0YXRpYyBmaW5hbCBEYXRlVGltZSBNSU5fREFURV9USU1FID0gbmV3IERhdGVUaW1lKG5ldyBEYXRlKExvbmcuTUlOX1ZBTFVFKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBDYWxjdWxhdGVzIGpvYiBwbGFubmVkIGRhdGVzIGZvciBzZXJ2aWNlIHBsYW4uIERhdGVzIGFyZSBjYWxjdWxhdGVkIE5VTUJFUl9PRl9ZRUFSU19JTl9BRFZBTkNFIG9mIHllYXJzIGluIGFkdmFuY2UuCiAgICoKICAgKiBAcGFyYW0gZGV2aWNlQ29udHJhY3QgdGhlIGRldmljZSBjb250cmFjdAogICAqIEBwYXJhbSBzZXJ2aWNlUGxhbiAgICB0aGUgZGV2aWNlIGNvbnRyYWN0IHNlcnZpY2UgcGxhbgogICAqIEByZXR1cm4gbWFwIG9mIGNhbGN1bGF0ZWQgZGF0ZXMgYW5kIGpvYiB0eXBlcwogICAqLwogIHByaXZhdGUgTWFwPExvY2FsRGF0ZSwgRGV2aWNlU2VydmljZVBsYW5Sb3c+IGNhbGN1bGF0ZURhdGVzRm9yU2VydmljZVBsYW4oRGV2aWNlQ29udHJhY3QgZGV2aWNlQ29udHJhY3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEZXZpY2VTZXJ2aWNlUGxhbiBzZXJ2aWNlUGxhbikgewoKICAgIEludGVydmFsIGNvbnRyYWN0SW50ZXJ2YWwgPSBnZXRDb250cmFjdEludGVydmFsKGRldmljZUNvbnRyYWN0KTsKICAgIGlmIChjb250cmFjdEludGVydmFsLmlzQmVmb3JlTm93KCkpIHsKICAgICAgbG9nLmluZm8oIkRldmljZUNvbnRyYWN0IHt9IGJldHdlZW4ge30gaGFzIGVuZGVkIiwgZGV2aWNlQ29udHJhY3QuZ2V0Q29kZSgpLCBjb250cmFjdEludGVydmFsKTsKICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TWFwKCk7CiAgICB9CgogICAgTWFwPExvY2FsRGF0ZSwgRGV2aWNlU2VydmljZVBsYW5Sb3c+IGNhbGN1bGF0ZWREYXRlcyA9IG5ldyBMaW5rZWRUcmVlTWFwPExvY2FsRGF0ZSwgRGV2aWNlU2VydmljZVBsYW5Sb3c+KCk7CgogICAgTGlzdDxEZXZpY2VTZXJ2aWNlUGxhblJvdz4gc2VydmljZVBsYW5zID0gc2VydmljZVBsYW4uZ2V0UGxhbigpOwogICAgZm9yIChEZXZpY2VTZXJ2aWNlUGxhblJvdyBwbGFuIDogc2VydmljZVBsYW5zKSB7CgogICAgICBEYXRlVGltZSBkYXRlVGltZSA9IG5ldyBEYXRlVGltZShwbGFuLmdldERhdGUoKSk7CiAgICAgIGludCB0aGlzWWVhciA9IERhdGVUaW1lLm5vdygpLmdldFllYXIoKTsKICAgICAgRGF0ZVRpbWUgaW5UaGlzWWVhciA9IG5ldyBEYXRlVGltZSh0aGlzWWVhciwgZGF0ZVRpbWUuZ2V0TW9udGhPZlllYXIoKSwgZGF0ZVRpbWUuZ2V0RGF5T2ZNb250aCgpLCAwLCAwKTsKICAgICAgRGF0ZVRpbWUgbmV4dERhdGUgPSBnZXROZXh0UGxhbm5lZERhdGUoaW5UaGlzWWVhciwgY29udHJhY3RJbnRlcnZhbCk7CiAgICAgIGNhbGN1bGF0ZWREYXRlcy5wdXQobmV4dERhdGUudG9Mb2NhbERhdGUoKSwgcGxhbik7CgogICAgfQoKLy8gICAgZm9yIChpbnQgeSA9IDA7IHkgPCBOVU1CRVJfT0ZfWUVBUlNfSU5fQURWQU5DRTsgeSsrKSB7Ci8vICAgICAgZm9yIChEZXZpY2VTZXJ2aWNlUGxhblJvdyBwbGFuUm93IDogc2VydmljZVBsYW4uZ2V0UGxhbigpKSB7Ci8vICAgICAgICBNdXRhYmxlRGF0ZVRpbWUgcGxhbmVkRGF0ZSA9IG5ldyBNdXRhYmxlRGF0ZVRpbWUocGxhblJvdy5nZXREYXRlKCkpOwovLyAgICAgICAgcGxhbmVkRGF0ZS5zZXRZZWFyKG5vdy5nZXRZZWFyKCkgKyB5KTsKLy8KLy8gICAgICAgIGlmIChjb250cmFjdEVuZERhdGUgIT0gbnVsbCAmJiBwbGFuZWREYXRlLmlzQWZ0ZXIoY29udHJhY3RFbmREYXRlKSkgewovLyAgICAgICAgICBwbGFuZWREYXRlID0gbmV3IE11dGFibGVEYXRlVGltZShjb250cmFjdEVuZERhdGUpOwovLyAgICAgICAgfQovLwovLyAgICAgICAgaWYgKHBsYW5lZERhdGUuZ2V0RGF5T2ZXZWVrKCkgPT0gRGF0ZVRpbWVDb25zdGFudHMuU0FUVVJEQVkpIHsgLy8gQWRqdXN0IGRhdGUKLy8gICAgICAgICAgcGxhbmVkRGF0ZS5hZGREYXlzKDIpOwovLyAgICAgICAgfSBlbHNlIGlmIChwbGFuZWREYXRlLmdldERheU9mV2VlaygpID09IERhdGVUaW1lQ29uc3RhbnRzLlNBVFVSREFZKSB7Ci8vICAgICAgICAgIHBsYW5lZERhdGUuYWRkRGF5cygxKTsKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIGlmIChwbGFuZWREYXRlLmlzQmVmb3JlKG5vdykpIHsgLy8gQ2hlY2sgdGltZSBsaW1pdAovLyAgICAgICAgICBjb250aW51ZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmIChwbGFuZWREYXRlLmlzQWZ0ZXIoZGF0ZUxpbWl0KSkgewovLyAgICAgICAgICBjb250aW51ZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmIChjb250cmFjdFN0YXJ0RGF0ZSAhPSBudWxsICYmIHBsYW5lZERhdGUuaXNCZWZvcmUoY29udHJhY3RTdGFydERhdGUpKSB7Ci8vICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgfQovLyAgICAgICAgaWYgKGNvbnRyYWN0RW5kRGF0ZSAhPSBudWxsICYmIHBsYW5lZERhdGUuaXNBZnRlcihjb250cmFjdEVuZERhdGUpKSB7Ci8vICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgfQovLwovLyAgICAgICAgY2FsY3VsYXRlZERhdGVzLnB1dChwbGFuZWREYXRlLnRvRGF0ZVRpbWUoKS50b0xvY2FsRGF0ZSgpLCBwbGFuUm93KTsKLy8gICAgICB9Ci8vICAgIH0KCiAgICByZXR1cm4gY2FsY3VsYXRlZERhdGVzOwogIH0KCiAgcHJpdmF0ZSBJbnRlcnZhbCBnZXRDb250cmFjdEludGVydmFsKERldmljZUNvbnRyYWN0IGRldmljZUNvbnRyYWN0KSB7CiAgICBEYXRlVGltZSBjb250cmFjdFN0YXJ0RGF0ZSA9IG51bGw7CiAgICBpZiAoZGV2aWNlQ29udHJhY3QuZ2V0U3RhcnREYXRlKCkgIT0gbnVsbCkgewogICAgICBjb250cmFjdFN0YXJ0RGF0ZSA9IG5ldyBEYXRlVGltZShkZXZpY2VDb250cmFjdC5nZXRTdGFydERhdGUoKSk7CiAgICB9CiAgICBpZiAoZGV2aWNlQ29udHJhY3QuZ2V0Rmlyc3RKb2JEYXRlKCkgIT0gbnVsbCkgewogICAgICBjb250cmFjdFN0YXJ0RGF0ZSA9IG5ldyBEYXRlVGltZShkZXZpY2VDb250cmFjdC5nZXRGaXJzdEpvYkRhdGUoKSk7CiAgICB9CiAgICBEYXRlVGltZSBjb250cmFjdEVuZERhdGUgPSBNQVhfREFURV9USU1FOwogICAgaWYgKGRldmljZUNvbnRyYWN0LmdldEVuZERhdGUoKSAhPSBudWxsKSB7CiAgICAgIGNvbnRyYWN0RW5kRGF0ZSA9IG5ldyBEYXRlVGltZShkZXZpY2VDb250cmFjdC5nZXRFbmREYXRlKCkpOwogICAgfQoKICAgIHJldHVybiBuZXcgSW50ZXJ2YWwoY29udHJhY3RTdGFydERhdGUsIGNvbnRyYWN0RW5kRGF0ZSk7CiAgfQoKICBwcml2YXRlIERhdGVUaW1lIGdldE5leHRQbGFubmVkRGF0ZShEYXRlVGltZSBkYXRlVGltZSwgSW50ZXJ2YWwgY29udHJhY3RJbnRlcnZhbCkgewogICAgbG9nLmluZm8oIkdldHRpbmcgTmV4dCBwbGFubmVkICIgKyBjb250cmFjdEludGVydmFsKTsKCiAgICBpZiAoZGF0ZVRpbWUuZ2V0RGF5T2ZXZWVrKCkgPT0gRGF0ZVRpbWVDb25zdGFudHMuU1VOREFZKSB7CiAgICAgIGxvZy5pbmZvKGRhdGVUaW1lICsgImlzIHN1bmRheS4gU2hpZnRpbmcgZGF5IGJ5IDEgIik7CiAgICAgIHJldHVybiBnZXROZXh0UGxhbm5lZERhdGUoZGF0ZVRpbWUud2l0aEZpZWxkQWRkZWQoRHVyYXRpb25GaWVsZFR5cGUuZGF5cygpLCAxKSwgY29udHJhY3RJbnRlcnZhbCk7CiAgICB9IGVsc2UgaWYgKGRhdGVUaW1lLmdldERheU9mV2VlaygpID09IERhdGVUaW1lQ29uc3RhbnRzLlNBVFVSREFZKSB7CiAgICAgIGxvZy5pbmZvKGRhdGVUaW1lICsgImlzIFNhdHVyZGF5LiBTaGlmdGluZyBkYXkgYnkgMiAiKTsKICAgICAgcmV0dXJuIGdldE5leHRQbGFubmVkRGF0ZShkYXRlVGltZS53aXRoRmllbGRBZGRlZChEdXJhdGlvbkZpZWxkVHlwZS5kYXlzKCksIDIpLCBjb250cmFjdEludGVydmFsKTsKICAgIH0KCiAgICBpZiAoZGF0ZVRpbWUuaXNCZWZvcmVOb3coKSB8fCAhY29udHJhY3RJbnRlcnZhbC5jb250YWlucyhkYXRlVGltZSkpIHsKICAgICAgcmV0dXJuIGdldE5leHRQbGFubmVkRGF0ZShkYXRlVGltZS53aXRoRmllbGRBZGRlZChEdXJhdGlvbkZpZWxkVHlwZS55ZWFycygpLCAxKSwgY29udHJhY3RJbnRlcnZhbCk7CiAgICB9CiAgICByZXR1cm4gZGF0ZVRpbWU7CiAgfQoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBpbnQgZ2V0Q2FsZW5kYXJEYXkoRGF0ZSBkYXRlKSB7CiAgICBDYWxlbmRhciBub3cgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpOwogICAgbm93LnNldFRpbWUoZGF0ZSk7CiAgICByZXR1cm4gbm93LmdldChDYWxlbmRhci5EQVlfT0ZfTU9OVEgpOwogIH0KCiAgcHJpdmF0ZSBpbnQgZ2V0Q2FsZW5kYXJNb250aChEYXRlIGRhdGUpIHsKICAgIENhbGVuZGFyIG5vdyA9IENhbGVuZGFyLmdldEluc3RhbmNlKCk7CiAgICBub3cuc2V0VGltZShkYXRlKTsKICAgIHJldHVybiBub3cuZ2V0KENhbGVuZGFyLk1PTlRIKTsKICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE11dGFibGVEYXRlVGltZSB3ZWVrZW5kQWRqdXN0ZWQoTXV0YWJsZURhdGVUaW1lIGRhdGVUaW1lKSAKICB9Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewogICAgaWYgKGRhdGVUaW1lLmdldERheU9mV2VlaygpID09IERhdGVUaW1lQ29uc3RhbnRzLlNBVFVSREFZKSB7IC8vIEFkanVzdCBkYXRlCiAgICAgIGRhdGVUaW1lLmFkZERheXMoMik7CiAgICB9IGVsc2UgaWYgKGRhdGVUaW1lLmdldERheU9mV2VlaygpID09IERhdGVUaW1lQ29uc3RhbnRzLlNVTkRBWSkgewogICAgICBkYXRlVGltZS5hZGREYXlzKDEpOwoKICAgIH0KICAgIHJldHVybiBkYXRlVGltZTsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIERhdGVUaW1lIGNvbnRyYWN0U3RhcnREYXRlID0gTUlOX0RBVEVfVElNRTsKICAgIGlmIChkZXZpY2VDb250cmFjdC5nZXRTdGFydERhdGUoKSAhPSBudWxsKSB7CiAgICAgIGNvbnRyYWN0U3RhcnREYXRlID0gbmV3IERhdGVUaW1lKGRldmljZUNvbnRyYWN0LmdldFN0YXJ0RGF0ZSgpKTsKICAgIH0KICAgIGlmIChkZXZpY2VDb250cmFjdC5nZXRGaXJzdEpvYkRhdGUoKSAhPSBudWxsKSB7CiAgICAgIGNvbnRyYWN0U3RhcnREYXRlID0gbmV3IERhdGVUaW1lKGRldmljZUNvbnRyYWN0LmdldEZpcnN0Sm9iRGF0ZSgpKTsKICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmICgpIHsKICAgICAgY29udHJhY3RFbmREYXRlID0gbmV3IERhdGVUaW1lKGRldmljZUNvbnRyYWN0LmdldEVuZERhdGUoKSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgTlVNQkVSX09GX1lFQVJTX0lOX0FEVkFOQ0UgPSAyOwogIHByaXZhdGUgc3RhdGljIGZpbmFsIERhdGVUaW1lIE1BWF9EQVRFX1RJTUUgPSBuZXcgRGF0ZVRpbWUobmV3IERhdGUoTG9uZy5NQVhfVkFMVUUpKTsKICBwcml2YXRlIHN0YXRpYyBmaW5hbCBEYXRlVGltZSBNSU5fREFURV9USU1FID0gbmV3IERhdGVUaW1lKG5ldyBEYXRlKExvbmcuTUlOX1ZBTFVFKSk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBDYWxjdWxhdGVzIGpvYiBwbGFubmVkIGRhdGVzIGZvciBzZXJ2aWNlIHBsYW4uIERhdGVzIGFyZSBjYWxjdWxhdGVkIE5VTUJFUl9PRl9ZRUFSU19JTl9BRFZBTkNFIG9mIHllYXJzIGluIGFkdmFuY2UuCiAgICoKICAgKiBAcGFyYW0gZGV2aWNlQ29udHJhY3QgdGhlIGRldmljZSBjb250cmFjdAogICAqIEBwYXJhbSBzZXJ2aWNlUGxhbiAgICB0aGUgZGV2aWNlIGNvbnRyYWN0IHNlcnZpY2UgcGxhbgogICAqIEByZXR1cm4gbWFwIG9mIGNhbGN1bGF0ZWQgZGF0ZXMgYW5kIGpvYiB0eXBlcwogICAqLwogIHByaXZhdGUgTWFwPExvY2FsRGF0ZSwgRGV2aWNlU2VydmljZVBsYW5Sb3c+IGNhbGN1bGF0ZURhdGVzRm9yU2VydmljZVBsYW4oRGV2aWNlQ29udHJhY3QgZGV2aWNlQ29udHJhY3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEZXZpY2VTZXJ2aWNlUGxhbiBzZXJ2aWNlUGxhbikgewoKICAgIEludGVydmFsIGNvbnRyYWN0SW50ZXJ2YWwgPSBnZXRDb250cmFjdEludGVydmFsKGRldmljZUNvbnRyYWN0KTsKICAgIGlmIChjb250cmFjdEludGVydmFsLmlzQmVmb3JlTm93KCkpIHsKICAgICAgbG9nLmluZm8oIkRldmljZUNvbnRyYWN0IHt9IGJldHdlZW4ge30gaGFzIGVuZGVkIiwgZGV2aWNlQ29udHJhY3QuZ2V0Q29kZSgpLCBjb250cmFjdEludGVydmFsKTsKICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TWFwKCk7CiAgICB9CgogICAgTWFwPExvY2FsRGF0ZSwgRGV2aWNlU2VydmljZVBsYW5Sb3c+IGNhbGN1bGF0ZWREYXRlcyA9IG5ldyBMaW5rZWRUcmVlTWFwPExvY2FsRGF0ZSwgRGV2aWNlU2VydmljZVBsYW5Sb3c+KCk7CgogICAgTGlzdDxEZXZpY2VTZXJ2aWNlUGxhblJvdz4gc2VydmljZVBsYW5zID0gc2VydmljZVBsYW4uZ2V0UGxhbigpOwogICAgZm9yIChEZXZpY2VTZXJ2aWNlUGxhblJvdyBwbGFuIDogc2VydmljZVBsYW5zKSB7CgogICAgICBEYXRlVGltZSBkYXRlVGltZSA9IG5ldyBEYXRlVGltZShwbGFuLmdldERhdGUoKSk7CiAgICAgIGludCB0aGlzWWVhciA9IERhdGVUaW1lLm5vdygpLmdldFllYXIoKTsKICAgICAgRGF0ZVRpbWUgaW5UaGlzWWVhciA9IG5ldyBEYXRlVGltZSh0aGlzWWVhciwgZGF0ZVRpbWUuZ2V0TW9udGhPZlllYXIoKSwgZGF0ZVRpbWUuZ2V0RGF5T2ZNb250aCgpLCAwLCAwKTsKICAgICAgRGF0ZVRpbWUgbmV4dERhdGUgPSBnZXROZXh0UGxhbm5lZERhdGUoaW5UaGlzWWVhciwgY29udHJhY3RJbnRlcnZhbCk7CiAgICAgIGNhbGN1bGF0ZWREYXRlcy5wdXQobmV4dERhdGUudG9Mb2NhbERhdGUoKSwgcGxhbik7CgogICAgfQoKLy8gICAgZm9yIChpbnQgeSA9IDA7IHkgPCBOVU1CRVJfT0ZfWUVBUlNfSU5fQURWQU5DRTsgeSsrKSB7Ci8vICAgICAgZm9yIChEZXZpY2VTZXJ2aWNlUGxhblJvdyBwbGFuUm93IDogc2VydmljZVBsYW4uZ2V0UGxhbigpKSB7Ci8vICAgICAgICBNdXRhYmxlRGF0ZVRpbWUgcGxhbmVkRGF0ZSA9IG5ldyBNdXRhYmxlRGF0ZVRpbWUocGxhblJvdy5nZXREYXRlKCkpOwovLyAgICAgICAgcGxhbmVkRGF0ZS5zZXRZZWFyKG5vdy5nZXRZZWFyKCkgKyB5KTsKLy8KLy8gICAgICAgIGlmIChjb250cmFjdEVuZERhdGUgIT0gbnVsbCAmJiBwbGFuZWREYXRlLmlzQWZ0ZXIoY29udHJhY3RFbmREYXRlKSkgewovLyAgICAgICAgICBwbGFuZWREYXRlID0gbmV3IE11dGFibGVEYXRlVGltZShjb250cmFjdEVuZERhdGUpOwovLyAgICAgICAgfQovLwovLyAgICAgICAgaWYgKHBsYW5lZERhdGUuZ2V0RGF5T2ZXZWVrKCkgPT0gRGF0ZVRpbWVDb25zdGFudHMuU0FUVVJEQVkpIHsgLy8gQWRqdXN0IGRhdGUKLy8gICAgICAgICAgcGxhbmVkRGF0ZS5hZGREYXlzKDIpOwovLyAgICAgICAgfSBlbHNlIGlmIChwbGFuZWREYXRlLmdldERheU9mV2VlaygpID09IERhdGVUaW1lQ29uc3RhbnRzLlNBVFVSREFZKSB7Ci8vICAgICAgICAgIHBsYW5lZERhdGUuYWRkRGF5cygxKTsKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIGlmIChwbGFuZWREYXRlLmlzQmVmb3JlKG5vdykpIHsgLy8gQ2hlY2sgdGltZSBsaW1pdAovLyAgICAgICAgICBjb250aW51ZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmIChwbGFuZWREYXRlLmlzQWZ0ZXIoZGF0ZUxpbWl0KSkgewovLyAgICAgICAgICBjb250aW51ZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmIChjb250cmFjdFN0YXJ0RGF0ZSAhPSBudWxsICYmIHBsYW5lZERhdGUuaXNCZWZvcmUoY29udHJhY3RTdGFydERhdGUpKSB7Ci8vICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgfQovLyAgICAgICAgaWYgKGNvbnRyYWN0RW5kRGF0ZSAhPSBudWxsICYmIHBsYW5lZERhdGUuaXNBZnRlcihjb250cmFjdEVuZERhdGUpKSB7Ci8vICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgfQovLwovLyAgICAgICAgY2FsY3VsYXRlZERhdGVzLnB1dChwbGFuZWREYXRlLnRvRGF0ZVRpbWUoKS50b0xvY2FsRGF0ZSgpLCBwbGFuUm93KTsKLy8gICAgICB9Ci8vICAgIH0KCiAgICByZXR1cm4gY2FsY3VsYXRlZERhdGVzOwogIH0KCiAgcHJpdmF0ZSBJbnRlcnZhbCBnZXRDb250cmFjdEludGVydmFsKERldmljZUNvbnRyYWN0IGRldmljZUNvbnRyYWN0KSB7CiAgICBEYXRlVGltZSBjb250cmFjdFN0YXJ0RGF0ZSA9IG51bGw7CiAgICBpZiAoZGV2aWNlQ29udHJhY3QuZ2V0U3RhcnREYXRlKCkgIT0gbnVsbCkgewogICAgICBjb250cmFjdFN0YXJ0RGF0ZSA9IG5ldyBEYXRlVGltZShkZXZpY2VDb250cmFjdC5nZXRTdGFydERhdGUoKSk7CiAgICB9CiAgICBpZiAoZGV2aWNlQ29udHJhY3QuZ2V0Rmlyc3RKb2JEYXRlKCkgIT0gbnVsbCkgewogICAgICBjb250cmFjdFN0YXJ0RGF0ZSA9IG5ldyBEYXRlVGltZShkZXZpY2VDb250cmFjdC5nZXRGaXJzdEpvYkRhdGUoKSk7CiAgICB9CiAgICBEYXRlVGltZSBjb250cmFjdEVuZERhdGUgPSBNQVhfREFURV9USU1FOwogICAgaWYgKGRldmljZUNvbnRyYWN0LmdldEVuZERhdGUoKSAhPSBudWxsKSB7CiAgICAgIGNvbnRyYWN0RW5kRGF0ZSA9IG5ldyBEYXRlVGltZShkZXZpY2VDb250cmFjdC5nZXRFbmREYXRlKCkpOwogICAgfQoKICAgIHJldHVybiBuZXcgSW50ZXJ2YWwoY29udHJhY3RTdGFydERhdGUsIGNvbnRyYWN0RW5kRGF0ZSk7CiAgfQoKICBwcml2YXRlIERhdGVUaW1lIGdldE5leHRQbGFubmVkRGF0ZShEYXRlVGltZSBkYXRlVGltZSwgSW50ZXJ2YWwgY29udHJhY3RJbnRlcnZhbCkgewogICAgbG9nLmluZm8oIkdldHRpbmcgTmV4dCBwbGFubmVkICIgKyBjb250cmFjdEludGVydmFsKTsKCiAgICBpZiAoZGF0ZVRpbWUuZ2V0RGF5T2ZXZWVrKCkgPT0gRGF0ZVRpbWVDb25zdGFudHMuU1VOREFZKSB7CiAgICAgIGxvZy5pbmZvKGRhdGVUaW1lICsgImlzIHN1bmRheS4gU2hpZnRpbmcgZGF5IGJ5IDEgIik7CiAgICAgIHJldHVybiBnZXROZXh0UGxhbm5lZERhdGUoZGF0ZVRpbWUud2l0aEZpZWxkQWRkZWQoRHVyYXRpb25GaWVsZFR5cGUuZGF5cygpLCAxKSwgY29udHJhY3RJbnRlcnZhbCk7CiAgICB9IGVsc2UgaWYgKGRhdGVUaW1lLmdldERheU9mV2VlaygpID09IERhdGVUaW1lQ29uc3RhbnRzLlNBVFVSREFZKSB7CiAgICAgIGxvZy5pbmZvKGRhdGVUaW1lICsgImlzIFNhdHVyZGF5LiBTaGlmdGluZyBkYXkgYnkgMiAiKTsKICAgICAgcmV0dXJuIGdldE5leHRQbGFubmVkRGF0ZShkYXRlVGltZS53aXRoRmllbGRBZGRlZChEdXJhdGlvbkZpZWxkVHlwZS5kYXlzKCksIDIpLCBjb250cmFjdEludGVydmFsKTsKICAgIH0KCiAgICBpZiAoZGF0ZVRpbWUuaXNCZWZvcmVOb3coKSB8fCAhY29udHJhY3RJbnRlcnZhbC5jb250YWlucyhkYXRlVGltZSkpIHsKICAgICAgcmV0dXJuIGdldE5leHRQbGFubmVkRGF0ZShkYXRlVGltZS53aXRoRmllbGRBZGRlZChEdXJhdGlvbkZpZWxkVHlwZS55ZWFycygpLCAxKSwgY29udHJhY3RJbnRlcnZhbCk7CiAgICB9CiAgICByZXR1cm4gZGF0ZVRpbWU7CiAgfQoK</text>
+      </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>NOVEMBER</text>
       </register>
     </registers>
     <search>
