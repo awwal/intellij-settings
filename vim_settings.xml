@@ -30,7 +30,7 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1540806588428" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/invoker/AsyncCommandInvokerImpl.java" timestamp="1540820956715" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/DeviceContractWrapper.java" timestamp="1540892075929" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540904007844" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540905387951" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/testContext.xml" timestamp="1540822279319">
         <mark key="[" line="38" column="63" />
         <mark key="]" line="38" column="63" />
@@ -62,12 +62,12 @@
         <mark key="^" line="956" column="65" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/StatusEnum.java" timestamp="1540822065297" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540904099892">
-        <mark key="[" line="450" column="96" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540905443824">
+        <mark key="[" line="458" column="54" />
         <mark key="m" line="387" column="3" />
-        <mark key="]" line="394" column="0" />
-        <mark key="^" line="394" column="55" />
-        <mark key="." line="394" column="0" />
+        <mark key="]" line="458" column="55" />
+        <mark key="^" line="458" column="35" />
+        <mark key="." line="458" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryItemServiceImpl.java" timestamp="1540823536023">
         <mark key="'" line="108" column="63" />
@@ -180,13 +180,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihwbGFuZWREYXRlLmdldERheU9mV2VlaygpPT1EYXRlVGltZUNvbnN0YW50cy5TVU5EQVkpewogICAgICAgICAgICByZXR1cm4gZ2V0TmV4dFBsYW5uZWREYXRlKHllYXIsbW9udGgsZGF5KzEsY29udHJhY3RJbnRlcnZhbCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oZGF0ZVRpbWUrImlzIHN1bmRheS4gU2hpZnRpbmcgZGF5IGJ5IDEgIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>unday</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -213,7 +213,7 @@
         <text encoding="base64">ICAgICAgRGF0ZVRpbWUgbm93ID0gRGF0ZVRpbWUubm93KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ay</text>
+        <text>unday</text>
       </register>
     </registers>
     <search>
