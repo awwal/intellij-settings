@@ -70,12 +70,12 @@
         <mark key="^" line="956" column="65" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/StatusEnum.java" timestamp="1540822065297" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540886295648">
-        <mark key="'" line="477" column="12" />
-        <mark key="[" line="466" column="32" />
-        <mark key="]" line="466" column="32" />
-        <mark key="." line="466" column="32" />
-        <mark key="^" line="463" column="29" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540888014636">
+        <mark key="'" line="398" column="62" />
+        <mark key="[" line="398" column="60" />
+        <mark key="]" line="398" column="68" />
+        <mark key="." line="398" column="68" />
+        <mark key="^" line="398" column="68" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryItemServiceImpl.java" timestamp="1540823536023">
         <mark key="'" line="108" column="63" />
@@ -85,10 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="16" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" />
-      <jump line="188" column="33" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" />
-      <jump line="251" column="112" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/core/reportFiles.tagf" />
-      <jump line="143" column="41" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" />
       <jump line="321" column="28" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" />
       <jump line="336" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" />
       <jump line="249" column="29" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/tags/core/reportFiles.tagf" />
@@ -185,16 +181,20 @@
       <jump line="7" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl.java" />
       <jump line="71" column="11" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportDelegate.java" />
       <jump line="108" column="63" filename="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryItemServiceImpl.java" />
+      <jump line="406" column="48" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" />
+      <jump line="386" column="4" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" />
+      <jump line="417" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" />
+      <jump line="398" column="62" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGdldENhbGVuZGFyTW9udGgoRGF0ZSBkYXRlKSB7CiAgICAgICAgQ2FsZW5kYXIgbm93ID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgICBub3cuc2V0VGltZShkYXRlKTsKICAgICAgICByZXR1cm4gbm93LmdldChDYWxlbmRhci5NT05USCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVGltZSBNQVhfREFURV9USU1FID0gbmV3IERhdGVUaW1lKG5ldyBEYXRlKExvbmcuTUFYX1ZBTFVFKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MONTH</text>
+        <text>MAX_VALUE</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -221,7 +221,7 @@
         <text encoding="base64">ICAgIDx1dGlsOm1hcCBpZD0id29ya1F1ZXVlX2lnbm9yZWRDb21tYW5kRXhjZXB0aW9ucyI+CiAgICAgICAgPGVudHJ5IGtleT0iIj4KICAgICAgICAgICAgPHV0aWw6c2V0PgogICAgICAgICAgICAgICAgPHZhbHVlPmNvbS5vcHRpc2Nhbmdyb3VwLm1vYmlsZS5zaHliYXNlLm1vZGVsLmNvbW1vbi5TdGFsZVVwZGF0ZUV4Y2VwdGlvbjwvdmFsdWU+CiAgICAgICAgICAgIDwvdXRpbDpzZXQ+CiAgICAgICAgPC9lbnRyeT4KICAgIDwvdXRpbDptYXA+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MONTH</text>
+        <text>MAX_VALUE</text>
       </register>
     </registers>
     <search>
