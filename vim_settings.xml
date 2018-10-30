@@ -17,6 +17,7 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/web.xml" timestamp="1540823196626" />
       <file name="/AddJobReportDelegate.java" timestamp="1540824198701" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0-sources.jar!/fi/abakus/workqueue/web/CommandInvokerController.java" timestamp="1540817734878" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeImpl.java" timestamp="1540892100194" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/workQueueContext.xml" timestamp="1540818529286">
         <mark key="[" line="199" column="63" />
         <mark key="]" line="199" column="63" />
@@ -25,6 +26,7 @@
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1540806588428" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/invoker/AsyncCommandInvokerImpl.java" timestamp="1540820956715" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/DeviceContractWrapper.java" timestamp="1540892075929" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/testContext.xml" timestamp="1540822279319">
         <mark key="[" line="38" column="63" />
         <mark key="]" line="38" column="63" />
