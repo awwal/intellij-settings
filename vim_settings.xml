@@ -5,7 +5,7 @@
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/ItemServiceImpl.java" timestamp="1540823892708" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/queueProcessorContext-memoryLane.xml" timestamp="1540823929004" />
-      <file name="/a.dummy" timestamp="1540896912623">
+      <file name="/a.dummy" timestamp="1540933758177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/businessApplicationContext.xml" timestamp="1540823239593" />
@@ -15,12 +15,12 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl-dataset.xml" timestamp="1540906233727" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0.jar!/fi/abakus/workqueue/web/webApplicationContext.xml" timestamp="1540804223487" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryQueueServiceImpl.java" timestamp="1540821038018" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540930728462">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540935589414">
         <mark key="'" line="46" column="33" />
-        <mark key="[" line="94" column="41" />
-        <mark key="]" line="94" column="38" />
-        <mark key="." line="94" column="38" />
-        <mark key="^" line="94" column="38" />
+        <mark key="[" line="73" column="5" />
+        <mark key="]" line="72" column="12" />
+        <mark key="^" line="72" column="12" />
+        <mark key="." line="72" column="12" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/web.xml" timestamp="1540823196626" />
       <file name="/AddJobReportDelegate.java" timestamp="1540824198701" />
@@ -74,7 +74,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/QueueItem.java" timestamp="1540821762911" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-war/2.1.16/workqueue-war-2.1.16.war!/WEB-INF/workqueue/jsp/queue-items/browse.jsp" timestamp="1540804025402" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServicePlanDateTest.java" timestamp="1540930221897" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServicePlanDateTest.java" timestamp="1540935754813">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+        <mark key="^" line="200" column="2" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/base/AbstractInterval.java" timestamp="1540918026037">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="63" column="8" />
@@ -215,40 +220,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKE1lc3NhZ2VGb3JtYXQuZm9ybWF0KCJVcGRhdGluZyBkZXZpY2UgY2FyZCB7MH0gdGFyZ2V0IHBhcnRuZXIgZnJvbSB7MX0gdG8gezJ9IiwKICAgICAgICAgICAgICAgICAgICBkZXZpY2VDYXJkLmdldFNlcmlhbE51bWJlcigpLCBkZXZpY2VDYXJkLmdldFRhcmdldCgpLmdldEtleSgpLCBuZXdUYXJnZXRLZXkpKTsK</text>
+        <text encoding="base64">ICAgIExvY2FsRGF0ZSBsb2NhbERhdGUgPSBsb2NhbERhdGUoMSwgRGF0ZVRpbWVDb25zdGFudHMuSkFOVUFSWSwgMjAwNyk7CiAgICBhc3NlcnRUaGF0KHJvd01hcC5rZXlTZXQoKSwgaGFzSXRlbXMobG9jYWxEYXRlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludGVydmFsLmVxdQo=</text>
+        <text encoding="base64">ICAwNwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludGVydmFsLmVxdQo=</text>
+        <text encoding="base64">ICAwNwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRldmljZUNhcmQuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZUNhcmQuZ2V0VGFyZ2V0KCkuZ2V0S2V5KCksIG5ld1RhcmdldEtleSkpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9jYWxEYXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTWVzc2FnZUZvcm1hdC5mb3JtYXQoKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxMixwbGFuUm93cy5zaXplKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKGpvYikK</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248RGV2aWNlU2VydmljZVBsYW5Sb3c+IHBsYW5Sb3dzID0gbmV3IEFycmF5TGlzdDxEZXZpY2VTZXJ2aWNlUGxhblJvdz4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRydWUocm93TWFwLmlzRW1wdHkoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTI7IGkrKykgewogICAgICBMb2NhbERhdGUgbmV4dE1vbnRoID0gY3Vyck1vbnRoLnBsdXNNb250aHMoaSk7CiAgICAgIHBsYW5Sb3dzLmFkZChuZXdEZXZpY2VTZXJ2aWNlUGxhbihuZXh0TW9udGgudG9EYXRlKCkpKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1hcDxMb2NhbERhdGUsIERldmljZVNlcnZpY2VQbGFuUm93PiByb3dNYXAgPSBTZXJ2aWNlUGxhbkRhdGVDcmVhdG9yLmNhbGN1bGF0ZURhdGVzRm9yU2VydmljZVBsYW4oY29udHJhY3RTdGFydCwgY29udHJhY3RFbmQsIG51bGwsIHJvd3MpOwo=</text>
+        <text encoding="base64">ICAgIExvY2FsRGF0ZSBjdXJyTW9udGggPSBsb2NhbERhdGUoMjksIERhdGVUaW1lQ29uc3RhbnRzLkZFQlJVQVJZLCAyMDE2KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKGpvYikK</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248RGV2aWNlU2VydmljZVBsYW5Sb3c+IHJvd3MgPSByb3dPZihmaXJzdFBsYW5Sb3cpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgZm9yIChpbnQgeSA9IDA7IHkgPCBOVU1CRVJfT0ZfWUVBUlNfSU5fQURWQU5DRTsgeSsrKSB7Ci8vICAgICAgZm9yIChEZXZpY2VTZXJ2aWNlUGxhblJvdyBwbGFuUm93IDogc2VydmljZVBsYW4uZ2V0UGxhbigpKSB7Ci8vICAgICAgICBNdXRhYmxlRGF0ZVRpbWUgcGxhbmVkRGF0ZSA9IG5ldyBNdXRhYmxlRGF0ZVRpbWUocGxhblJvdy5nZXREYXRlKCkpOwovLyAgICAgICAgcGxhbmVkRGF0ZS5zZXRZZWFyKG5vdy5nZXRZZWFyKCkgKyB5KTsKLy8KLy8gICAgICAgIGlmIChjb250cmFjdEVuZERhdGUgIT0gbnVsbCAmJiBwbGFuZWREYXRlLmlzQWZ0ZXIoY29udHJhY3RFbmREYXRlKSkgewovLyAgICAgICAgICBwbGFuZWREYXRlID0gbmV3IE11dGFibGVEYXRlVGltZShjb250cmFjdEVuZERhdGUpOwovLyAgICAgICAgfQovLwovLyAgICAgICAgaWYgKHBsYW5lZERhdGUuZ2V0RGF5T2ZXZWVrKCkgPT0gRGF0ZVRpbWVDb25zdGFudHMuU0FUVVJEQVkpIHsgLy8gQWRqdXN0IGRhdGUKLy8gICAgICAgICAgcGxhbmVkRGF0ZS5hZGREYXlzKDIpOwovLyAgICAgICAgfSBlbHNlIGlmIChwbGFuZWREYXRlLmdldERheU9mV2VlaygpID09IERhdGVUaW1lQ29uc3RhbnRzLlNBVFVSREFZKSB7Ci8vICAgICAgICAgIHBsYW5lZERhdGUuYWRkRGF5cygxKTsKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIGlmIChwbGFuZWREYXRlLmlzQmVmb3JlKG5vdykpIHsgLy8gQ2hlY2sgdGltZSBsaW1pdAovLyAgICAgICAgICBjb250aW51ZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmIChwbGFuZWREYXRlLmlzQWZ0ZXIoZGF0ZUxpbWl0KSkgewovLyAgICAgICAgICBjb250aW51ZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmIChjb250cmFjdFN0YXJ0RGF0ZSAhPSBudWxsICYmIHBsYW5lZERhdGUuaXNCZWZvcmUoY29udHJhY3RTdGFydERhdGUpKSB7Ci8vICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgfQovLyAgICAgICAgaWYgKGNvbnRyYWN0RW5kRGF0ZSAhPSBudWxsICYmIHBsYW5lZERhdGUuaXNBZnRlcihjb250cmFjdEVuZERhdGUpKSB7Ci8vICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgfQovLwovLyAgICAgICAgY2FsY3VsYXRlZERhdGVzLnB1dChwbGFuZWREYXRlLnRvRGF0ZVRpbWUoKS50b0xvY2FsRGF0ZSgpLCBwbGFuUm93KTsKLy8gICAgICB9Ci8vICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIE1hcDxMb2NhbERhdGUsIERldmljZVNlcnZpY2VQbGFuUm93PiBjYWxjdWxhdGVEYXRlc0ZvclNlcnZpY2VQbGFuKERhdGUgY29udHJhY3RTdGFydCwgRGF0ZSBjb250cmFjdEVuZCwgRGF0ZSBmaXJzdEpvYiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbGxlY3Rpb248RGV2aWNlU2VydmljZVBsYW5Sb3c+IHNlcnZpY2VQbGFucykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>07</text>
       </register>
     </registers>
     <search>
