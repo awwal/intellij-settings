@@ -5,6 +5,9 @@
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/ItemServiceImpl.java" timestamp="1540823892708" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/queueProcessorContext-memoryLane.xml" timestamp="1540823929004" />
+      <file name="/a.dummy" timestamp="1540896912623">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/businessApplicationContext.xml" timestamp="1540823239593" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-support/2.1.16/workqueue-support-2.1.16-sources.jar!/fi/abakus/workqueue/commands/impl/GetFilesDelegate.java" timestamp="1540817940190" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/sitemap/admin-sitemap.xml" timestamp="1540802464713" />
@@ -43,23 +46,9 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1540822502527">
         <mark key="]" line="83" column="14" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl.java" timestamp="1540816978489">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="802" column="29" />
-        <mark key="]" line="800" column="0" />
-        <mark key="." line="800" column="0" />
-        <mark key="^" line="803" column="14" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0-sources.jar!/fi/abakus/workqueue/web/CancelQueueItemController.java" timestamp="1540817765873" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/QueueItem.java" timestamp="1540821762911" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-war/2.1.16/workqueue-war-2.1.16.war!/WEB-INF/workqueue/jsp/queue-items/browse.jsp" timestamp="1540804025402" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" timestamp="1540816888834">
-        <mark key="'" line="396" column="12" />
-        <mark key="[" line="381" column="32" />
-        <mark key="]" line="381" column="32" />
-        <mark key="^" line="381" column="28" />
-        <mark key="." line="381" column="32" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/webapp/WEB-INF/conf/dispatcher-servlet.xml" timestamp="1540817744954" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/queue/impl/QueueProcessorImpl.java" timestamp="1540823399637" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.1.16/workqueue-web-2.1.16.jar!/fi/abakus/workqueue/web/webApplicationContext.xml" timestamp="1540823071087" />
@@ -72,12 +61,12 @@
         <mark key="^" line="956" column="65" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/StatusEnum.java" timestamp="1540822065297" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540895870251">
-        <mark key="'" line="399" column="0" />
-        <mark key="[" line="484" column="63" />
-        <mark key="]" line="484" column="67" />
-        <mark key="." line="484" column="67" />
-        <mark key="^" line="484" column="67" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540897111956">
+        <mark key="[" line="394" column="0" />
+        <mark key="m" line="387" column="3" />
+        <mark key="]" line="394" column="0" />
+        <mark key="^" line="394" column="55" />
+        <mark key="." line="394" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryItemServiceImpl.java" timestamp="1540823536023">
         <mark key="'" line="108" column="63" />
@@ -190,40 +179,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZVRpbWUuYWRkRGF5cygxKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZihwbGFuZWREYXRlLmdldERheU9mV2VlaygpPT1EYXRlVGltZUNvbnN0YW50cy5TVU5EQVkpewogICAgICAgICAgICByZXR1cm4gZ2V0TmV4dFBsYW5uZWREYXRlKHllYXIsbW9udGgsZGF5KzEsY29udHJhY3RJbnRlcnZhbCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGVUaW1lOwo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>ATURDAY</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZVRpbWUuYWRkRGF5cygyKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkYXRlVGltZS5pKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFuZWREYXRlLnNldFllYXIobm93LmdldFllYXIoKSArIHkpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZSBNQVhfREFURV9USU1FID0gbmV3IERhdGVUaW1lKG5ldyBEYXRlKExvbmcuTUFYX1ZBTFVFKSk7CiAgICAgICAgRGF0ZVRpbWUgTUlOX0RBVEVfVElNRSA9IG5ldyBEYXRlVGltZShuZXcgRGF0ZShMb25nLk1JTl9WQUxVRSkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaW50IG1vbnRoID0gZ2V0Q2FsZW5kYXJNb250aChkYXRlKTsKICAgICAgaW50IGRheSA9IGdldENhbGVuZGFyRGF5KGRhdGUpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgRGF0ZSBkYXRlID0gcGxhbi5nZXREYXRlKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZGF0ZVRpbWUuZ2V0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIE11dGFibGVEYXRlVGltZSBkYXRlTGltaXQgPSBNdXRhYmxlRGF0ZVRpbWUubm93KCk7CiAgICBkYXRlTGltaXQuYWRkWWVhcnMoTlVNQkVSX09GX1lFQVJTX0lOX0FEVkFOQ0UpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgSW50ZXJ2YWwgY29udHJhY3RJbnRlcnZhbCA9IG5ldyBJbnRlcnZhbChjb250cmFjdFN0YXJ0RGF0ZSwgY29udHJhY3RFbmREYXRlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3cuc2V0VGltZShkYXRlLmdldFRpbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgRGF0ZVRpbWUgbm93ID0gRGF0ZVRpbWUubm93KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ATURDAY</text>
+        <text>ay</text>
       </register>
     </registers>
     <search>
