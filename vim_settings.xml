@@ -3,87 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/ItemServiceImpl.java" timestamp="1540823892708" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/queueProcessorContext-memoryLane.xml" timestamp="1540823929004" />
-      <file name="/a.dummy" timestamp="1540933758177">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/businessApplicationContext.xml" timestamp="1540823239593" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-support/2.1.16/workqueue-support-2.1.16-sources.jar!/fi/abakus/workqueue/commands/impl/GetFilesDelegate.java" timestamp="1540817940190" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/sitemap/admin-sitemap.xml" timestamp="1540802464713" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0-sources.jar!/fi/abakus/workqueue/web/ChangeQueueItemStatusController.java" timestamp="1540819703308" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl-dataset.xml" timestamp="1540906233727" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportCommand.java" timestamp="1540823668973">
-        <mark key="'" line="51" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0.jar!/fi/abakus/workqueue/web/webApplicationContext.xml" timestamp="1540804223487" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryQueueServiceImpl.java" timestamp="1540821038018" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540972676642">
-        <mark key="'" line="99" column="63" />
-        <mark key="[" line="69" column="40" />
-        <mark key="]" line="69" column="42" />
-        <mark key="^" line="69" column="42" />
-        <mark key="." line="69" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/web.xml" timestamp="1540823196626" />
-      <file name="/AddJobReportDelegate.java" timestamp="1540824198701" />
-      <file name="/JobReportServiceImpl.java" timestamp="1540816921359">
-        <mark key="[" line="381" column="0" />
-        <mark key="]" line="383" column="33" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0-sources.jar!/fi/abakus/workqueue/web/CommandInvokerController.java" timestamp="1540817734878" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceContractFacadeImpl.java" timestamp="1540892100194" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/workQueueContext.xml" timestamp="1540818529286">
-        <mark key="[" line="199" column="63" />
-        <mark key="]" line="199" column="63" />
-        <mark key="." line="199" column="66" />
-        <mark key="^" line="199" column="55" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1540806588428" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/invoker/AsyncCommandInvokerImpl.java" timestamp="1540820956715" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/DeviceContractWrapper.java" timestamp="1540892075929" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540972654725">
-        <mark key="'" line="253" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/testContext.xml" timestamp="1540822279319">
-        <mark key="[" line="38" column="63" />
-        <mark key="]" line="38" column="63" />
-        <mark key="." line="38" column="66" />
-        <mark key="^" line="38" column="55" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1540823885944">
-        <mark key="[" line="316" column="20" />
-        <mark key="]" line="316" column="20" />
-        <mark key="." line="316" column="20" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.1.16/workqueue-web-2.1.16-sources.jar!/fi/abakus/workqueue/web/CancelQueueItemController.java" timestamp="1540818570084" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/QueueServiceImpl.java" timestamp="1540821738022" />
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/DateTime.java" timestamp="1540930704015" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl.java" timestamp="1540816978489">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="802" column="29" />
-        <mark key="]" line="800" column="0" />
-        <mark key="." line="800" column="0" />
-        <mark key="^" line="803" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1540918148500">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="204" column="97" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0-sources.jar!/fi/abakus/workqueue/web/CancelQueueItemController.java" timestamp="1540817765873" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/SevicePlanDateTest.java" timestamp="1540919513568">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="56" column="6" />
-        <mark key="." line="56" column="6" />
-        <mark key="^" line="57" column="45" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/QueueItem.java" timestamp="1540821762911" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-war/2.1.16/workqueue-war-2.1.16.war!/WEB-INF/workqueue/jsp/queue-items/browse.jsp" timestamp="1540804025402" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServicePlanDateTest.java" timestamp="1540972137955">
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
         <mark key="^" line="200" column="2" />
+      </file>
+      <file name="/a.dummy" timestamp="1540933758177">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/base/AbstractInterval.java" timestamp="1540918026037">
         <mark key="[" line="61" column="0" />
@@ -96,20 +23,39 @@
         <mark key="^" line="381" column="28" />
         <mark key="." line="381" column="32" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/webapp/WEB-INF/conf/dispatcher-servlet.xml" timestamp="1540817744954" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/queue/impl/QueueProcessorImpl.java" timestamp="1540823399637" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.1.16/workqueue-web-2.1.16.jar!/fi/abakus/workqueue/web/webApplicationContext.xml" timestamp="1540823071087" />
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/LocalDate.java" timestamp="1540914149852" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/invoker/MethodDelegatingCommandInvoker.java" timestamp="1540820852036" />
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/queue/impl/LaneBasedQueueProcessorImpl.java" timestamp="1540821289167" />
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/DateTimeUtils.java" timestamp="1540914851506" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/workQueueContext.xml" timestamp="1540818529286">
+        <mark key="[" line="199" column="63" />
+        <mark key="]" line="199" column="63" />
+        <mark key="." line="199" column="66" />
+        <mark key="^" line="199" column="55" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl.java" timestamp="1540816978489">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="802" column="29" />
+        <mark key="]" line="800" column="0" />
+        <mark key="." line="800" column="0" />
+        <mark key="^" line="803" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1540918148500">
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="204" column="97" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportCommand.java" timestamp="1540823668973">
+        <mark key="'" line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1540803948822">
         <mark key="[" line="956" column="61" />
         <mark key="]" line="956" column="65" />
         <mark key="." line="956" column="65" />
         <mark key="^" line="956" column="65" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/StatusEnum.java" timestamp="1540822065297" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540975459009">
+        <mark key="'" line="99" column="63" />
+        <mark key="[" line="69" column="40" />
+        <mark key="]" line="69" column="42" />
+        <mark key="^" line="69" column="42" />
+        <mark key="." line="69" column="42" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540972554228">
         <mark key="'" line="496" column="6" />
         <mark key="[" line="35" column="0" />
@@ -117,8 +63,32 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="212" column="81" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/SevicePlanDateTest.java" timestamp="1540919513568">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="56" column="6" />
+        <mark key="." line="56" column="6" />
+        <mark key="^" line="57" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540972654725">
+        <mark key="'" line="253" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/testContext.xml" timestamp="1540822279319">
+        <mark key="[" line="38" column="63" />
+        <mark key="]" line="38" column="63" />
+        <mark key="." line="38" column="66" />
+        <mark key="^" line="38" column="55" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryItemServiceImpl.java" timestamp="1540823536023">
         <mark key="'" line="108" column="63" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1540823885944">
+        <mark key="[" line="316" column="20" />
+        <mark key="]" line="316" column="20" />
+        <mark key="." line="316" column="20" />
+      </file>
+      <file name="/JobReportServiceImpl.java" timestamp="1540816921359">
+        <mark key="[" line="381" column="0" />
+        <mark key="]" line="383" column="33" />
       </file>
       <file name="/fragment.java" timestamp="1540823849716">
         <mark key="[" line="0" column="0" />
