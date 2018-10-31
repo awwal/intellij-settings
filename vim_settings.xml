@@ -13,6 +13,7 @@
         <mark key="." line="61" column="47" />
         <mark key="^" line="61" column="47" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/AccessSelection.scala" timestamp="1541019290699" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/DocGroup.java" timestamp="1540504106096">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="4" />
@@ -25,6 +26,11 @@
         <mark key="]" line="114" column="62" />
         <mark key="." line="114" column="62" />
         <mark key="^" line="114" column="62" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/pom.xml" timestamp="1541019057331">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/DataEntryUI.scala" timestamp="1540838322912">
         <mark key="'" line="130" column="9" />
@@ -347,40 +353,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhYlNoZWV0LmFkZFN0eWxlTmFtZShWYWxvVGhlbWUuVEFCU0hFRVRfQ0VOVEVSRURfVEFCUykK</text>
+        <text encoding="base64">ICAgICAgICA8c3ByaW5nYm9vdHN0YXJ0ZXIudmVyc2lvbj4xLjQuMy5SRUxFQVNFPC9zcHJpbmdib290c3RhcnRlci52ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICBvcHRUYWJsZS5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLlRBQkxFX05PX1NUUklQRVMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xLjE8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICBvcHRUYWJsZS5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLlRBQkxFX05PX1NUUklQRVMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xLjE8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjcuNy43PC92ZXJzaW9uPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vICAgICAgICBvcHRUYWJsZS5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLlRBQkxFX05PX1NUUklQRVMpOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgb3B0VGFibGUuc2V0SGUK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>ightUndefined()
 //    val p = new Panel
 //    p.setContent(table)
 //    p.setSizeFull()</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHNldEhlaWdodCgxMDAsIFNpemVhYmxlLlVuaXQuUEVSQ0VOVEFHRSkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG9wdFRhYmxlLnNldFdpZHRoKDEwMCwgU2l6ZWFibGUuVW5pdC5QRVJDRU5UQUdFKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhYlNoZWV0LnNldENhcHRpb24oIlVzZXIgTWFuYWdlbWVudCIpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCByb290IAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFZlcnRpY2FsTGF5b3V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -417,6 +423,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
