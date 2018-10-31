@@ -23,6 +23,7 @@
         <mark key="^" line="381" column="28" />
         <mark key="." line="381" column="32" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl-dataset.xml" timestamp="1540975997446" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/workQueueContext.xml" timestamp="1540818529286">
         <mark key="[" line="199" column="63" />
         <mark key="]" line="199" column="63" />
@@ -49,12 +50,12 @@
         <mark key="." line="956" column="65" />
         <mark key="^" line="956" column="65" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540975459009">
-        <mark key="'" line="99" column="63" />
-        <mark key="[" line="69" column="40" />
-        <mark key="]" line="69" column="42" />
-        <mark key="^" line="69" column="42" />
-        <mark key="." line="69" column="42" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540975856240">
+        <mark key="'" line="93" column="63" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="63" column="42" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540972554228">
         <mark key="'" line="496" column="6" />
@@ -69,8 +70,11 @@
         <mark key="." line="56" column="6" />
         <mark key="^" line="57" column="45" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540972654725">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540976302962">
         <mark key="'" line="253" column="17" />
+        <mark key="[" line="352" column="25" />
+        <mark key="]" line="352" column="26" />
+        <mark key="." line="352" column="26" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/testContext.xml" timestamp="1540822279319">
         <mark key="[" line="38" column="63" />
@@ -201,34 +205,34 @@
         <text encoding="base64">ICAgIExvY2FsRGF0ZSBsb2NhbERhdGUgPSBsb2NhbERhdGUoMSwgRGF0ZVRpbWVDb25zdGFudHMuSkFOVUFSWSwgMjAwNyk7CiAgICBhc3NlcnRUaGF0KHJvd01hcC5rZXlTZXQoKSwgaGFzSXRlbXMobG9jYWxEYXRlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAwNwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>tMonthDay</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9jYWxEYXRlCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxMixwbGFuUm93cy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY3VycmVudERhdGUgPSBjdXJyZW50RGF0ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248RGV2aWNlU2VydmljZVBsYW5Sb3c+IHBsYW5Sb3dzID0gbmV3IEFycmF5TGlzdDxEZXZpY2VTZXJ2aWNlUGxhblJvdz4oKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgU2VydmljZVBsYW5EYXRlQ3JlYXRvcihEYXRlIGN1cnJlbnREYXRlKXsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTI7IGkrKykgewogICAgICBMb2NhbERhdGUgbmV4dE1vbnRoID0gY3Vyck1vbnRoLnBsdXNNb250aHMoaSk7CiAgICAgIHBsYW5Sb3dzLmFkZChuZXdEZXZpY2VTZXJ2aWNlUGxhbihuZXh0TW9udGgudG9EYXRlKCkpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAvLyAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IE5VTUJFUl9PRl9ZRUFSU19JTl9BRFZBTkNFID0gMjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExvY2FsRGF0ZSBjdXJyTW9udGggPSBsb2NhbERhdGUoMjksIERhdGVUaW1lQ29uc3RhbnRzLkZFQlJVQVJZLCAyMDE2KTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIERhdGUgY3VycmVudERhdGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248RGV2aWNlU2VydmljZVBsYW5Sb3c+IHJvd3MgPSByb3dPZihmaXJzdFBsYW5Sb3cpOwo=</text>
+        <text encoding="base64">ICAwNwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9jYWxEYXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxMixwbGFuUm93cy5zaXplKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>tMonthDay</text>
