@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServicePlanDateTest.java" timestamp="1540983995809">
-        <mark key="[" line="36" column="72" />
-        <mark key="]" line="36" column="73" />
-        <mark key="." line="36" column="73" />
-        <mark key="^" line="36" column="66" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServicePlanDateTest.java" timestamp="1540988016681">
+        <mark key="[" line="153" column="136" />
+        <mark key="]" line="153" column="139" />
+        <mark key="^" line="153" column="139" />
+        <mark key="." line="153" column="139" />
       </file>
       <file name="/a.dummy" timestamp="1540933758177">
         <mark key="[" line="0" column="0" />
@@ -36,9 +36,7 @@
         <mark key="." line="956" column="65" />
         <mark key="^" line="956" column="65" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540984079381">
-        <mark key="[" line="102" column="101" />
-      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540987972453" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/SevicePlanDateTest.java" timestamp="1540919513568">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="56" column="6" />
@@ -177,40 +175,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExvY2FsRGF0ZSBsb2NhbERhdGUgPSBsb2NhbERhdGUoMjgsIERhdGVUaW1lQ29uc3RhbnRzLkZFQlJVQVJZLCAyMDE3KTsKICAgIGFzc2VydFRoYXQocm93TWFwLmtleVNldCgpLCBoYXNJdGVtcyhsb2NhbERhdGUpKTsK</text>
+        <text encoding="base64">ICAgIERhdGUgZmlyc3RKb2JEYXRlID0gZGF0ZU9mKDEsIERhdGVUaW1lQ29uc3RhbnRzLkFVR1VTVCwgMjAxOCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyb3dNYXAua2V5U2V0KCkuaXRlcmF0b3IoKS5uZXh0KCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgRGF0ZSBmaXJzdEpvYkRhdGUgPSBkYXRlT2YoMSwgRGF0ZVRpbWVDb25zdGFudHMuQVVHVVNULCAyMDE4KTsKICAgIERhdGUgZmlyc3RKb2JEYXRlID0gbnVsbDsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>FEBRUARY</text>
+        <text>firstJobDate</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExvY2FsRGF0ZSBsb2NhbERhdGUgPSBsb2NhbERhdGUoMjgsIERhdGVUaW1lQ29uc3RhbnRzLkZFQlJVQVJZLCAyMDE3KTsKICAgIGFzc2VydFRoYXQocm93TWFwLmtleVNldCgpLCBoYXNJdGVtcyhsb2NhbERhdGUpKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyb3dNYXAua2V5U2V0KCkuaXRlcmF0b3IoKS5uZXh0KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChkYXRlVGltZS5nZXREYXlPZldlZWsoKSA9PSBEYXRlVGltZUNvbnN0YW50cy5TVU5EQVkpIHsKICAgICAgbG9nLmluZm8oInt9IGlzIGEgU3VuZGF5LiBTaGlmdGluZyBkYXkgYnkgMSAiLCBkYXRlVGltZSk7CiAgICAgIHJldHVybiBnZXROZXh0UGxhbm5lZERhdGUoZGF0ZVRpbWUud2l0aEZpZWxkQWRkZWQoRHVyYXRpb25GaWVsZFR5cGUuZGF5cygpLCAxKSwgY29udHJhY3RJbnRlcnZhbCwgdHJ5Q291bnRSZW1haW5pbmcgLSAxKTsKICAgIH0gZWxzZSBpZiAoZGF0ZVRpbWUuZ2V0RGF5T2ZXZWVrKCkgPT0gRGF0ZVRpbWVDb25zdGFudHMuU0FUVVJEQVkpIHsKICAgICAgbG9nLmluZm8oInt9IGlzIGEgU2F0dXJkYXkuIFNoaWZ0aW5nIGRheSBieSAyICIsIGRhdGVUaW1lKTsKICAgICAgcmV0dXJuIGdldE5leHRQbGFubmVkRGF0ZShkYXRlVGltZS53aXRoRmllbGRBZGRlZChEdXJhdGlvbkZpZWxkVHlwZS5kYXlzKCksIDIpLCBjb250cmFjdEludGVydmFsLCB0cnlDb3VudFJlbWFpbmluZyAtIDEpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIERhdGUgZmlyc3RKb2JEYXRlID0gZGF0ZU9mKDEsIERhdGVUaW1lQ29uc3RhbnRzLkFVR1VTVCwgMjAxOCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgaWYgKGRhdGVUaW1lLmlzQmVmb3JlKExvY2FsRGF0ZS5ub3coKSkgfHwgY29udHJhY3RJbnRlcnZhbC5jb250YWlucyhkYXRlVGltZS50b0RhdGVUaW1lQXRTdGFydE9mRGF5KCkpKSB7Cg==</text>
+        <text encoding="base64">ICAgIERhdGUgcGxhbm5lZERhdGUgPSBkYXRlT2YoMSwgRGF0ZVRpbWVDb25zdGFudHMuU0VQVEVNQkVSLCAyMDE4KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCByb3dNYXAuc2l6ZSgpKTsKCiAgICBMb2NhbERhdGUgZXhwZWN0ZWRGaXJzdEpvYkRhdGUgPSBsb2NhbERhdGUoMjksIERhdGVUaW1lQ29uc3RhbnRzLk9DVE9CRVIsIDIwMTgpOwoKICAgIGFzc2VydFRoYXQocm93TWFwLmtleVNldCgpLCBoYXNJdGVtcyhleHBlY3RlZEZpcnN0Sm9iRGF0ZSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChkYXRlVGltZS5pc0JlZm9yZShMb2NhbERhdGUubm93KCkpIHx8ICFjb250cmFjdEludGVydmFsLmNvbnRhaW5zKGRhdGVUaW1lLnRvRGF0ZVRpbWVBdFN0YXJ0T2ZEYXkoKSkpIHsKICAgICAgcmV0dXJuIGdldE5leHRQbGFubmVkRGF0ZShkYXRlVGltZS53aXRoRmllbGRBZGRlZChEdXJhdGlvbkZpZWxkVHlwZS55ZWFycygpLCAxKSwgY29udHJhY3RJbnRlcnZhbCx0cnlDb3VudFJlbWFpbmluZy0xKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocm93TWFwLmtleVNldCgpLCBoYXNJdGVtcyhleHBlY3RlZFNlY29uZEpvYkRhdGUpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExvY2FsRGF0ZSBleHBlY3RlZFNlY29uZEpvYkRhdGUgPSBsb2NhbERhdGUoNywgRGF0ZVRpbWVDb25zdGFudHMuTUFZLCAyMDE5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIERhdGUgZmlyc3RQbGFuUm93ID0gZGF0ZU9mKDI4LCBEYXRlVGltZUNvbnN0YW50cy5PQ1RPQkVSLCAyMDE3KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>FEBRUARY</text>
+        <text>firstJobDate</text>
       </register>
     </registers>
     <search>
