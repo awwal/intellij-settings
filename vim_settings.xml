@@ -13,14 +13,17 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/sitemap/admin-sitemap.xml" timestamp="1540802464713" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0-sources.jar!/fi/abakus/workqueue/web/ChangeQueueItemStatusController.java" timestamp="1540819703308" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl-dataset.xml" timestamp="1540906233727" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/command/AddJobReportCommand.java" timestamp="1540823668973">
+        <mark key="'" line="51" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0.jar!/fi/abakus/workqueue/web/webApplicationContext.xml" timestamp="1540804223487" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryQueueServiceImpl.java" timestamp="1540821038018" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540935589414">
-        <mark key="'" line="46" column="33" />
-        <mark key="[" line="73" column="5" />
-        <mark key="]" line="72" column="12" />
-        <mark key="^" line="72" column="12" />
-        <mark key="." line="72" column="12" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540972676642">
+        <mark key="'" line="99" column="63" />
+        <mark key="[" line="69" column="40" />
+        <mark key="]" line="69" column="42" />
+        <mark key="^" line="69" column="42" />
+        <mark key="." line="69" column="42" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/web.xml" timestamp="1540823196626" />
       <file name="/AddJobReportDelegate.java" timestamp="1540824198701" />
@@ -39,7 +42,9 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1540806588428" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/invoker/AsyncCommandInvokerImpl.java" timestamp="1540820956715" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/DeviceContractWrapper.java" timestamp="1540892075929" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540913680624" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540972654725">
+        <mark key="'" line="253" column="17" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/testContext.xml" timestamp="1540822279319">
         <mark key="[" line="38" column="63" />
         <mark key="]" line="38" column="63" />
@@ -74,7 +79,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/QueueItem.java" timestamp="1540821762911" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-war/2.1.16/workqueue-war-2.1.16.war!/WEB-INF/workqueue/jsp/queue-items/browse.jsp" timestamp="1540804025402" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServicePlanDateTest.java" timestamp="1540935754813">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServicePlanDateTest.java" timestamp="1540972137955">
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
@@ -105,20 +110,21 @@
         <mark key="^" line="956" column="65" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-api/2.1.16/workqueue-api-2.1.16-sources.jar!/fi/abakus/workqueue/model/StatusEnum.java" timestamp="1540822065297" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540908214663">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1540972554228">
         <mark key="'" line="496" column="6" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="212" column="81" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-core/2.1.16/workqueue-core-2.1.16-sources.jar!/fi/abakus/workqueue/services/impl/MemoryItemServiceImpl.java" timestamp="1540823536023">
+        <mark key="'" line="108" column="63" />
+      </file>
       <file name="/fragment.java" timestamp="1540823849716">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="20" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobReportDownloadController.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobReportDownloadController.java" />
       <jump line="400" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" />
       <jump line="59" column="15" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
       <jump line="46" column="33" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
@@ -217,6 +223,8 @@
       <jump line="73" column="20" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" />
       <jump line="113" column="31" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" />
       <jump line="45" column="33" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" />
+      <jump line="253" column="17" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" />
+      <jump line="99" column="63" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -225,8 +233,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAwNwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAwNwo=</text>
+      <register name="&quot;" type="4">
+        <text>tMonthDay</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgbG9jYWxEYXRlCg==</text>
@@ -253,7 +261,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>07</text>
+        <text>tMonthDay</text>
       </register>
     </registers>
     <search>
