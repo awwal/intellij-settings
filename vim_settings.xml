@@ -41,11 +41,11 @@
         <mark key="." line="199" column="66" />
         <mark key="^" line="199" column="55" />
       </file>
-      <file name="$USER_HOME$/work/java/checkstyle/README.md" timestamp="1541055324578">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="29" />
+      <file name="$USER_HOME$/work/java/checkstyle/README.md" timestamp="1541056219301">
+        <mark key="[" line="18" column="75" />
+        <mark key="]" line="18" column="96" />
+        <mark key="." line="18" column="96" />
+        <mark key="^" line="18" column="96" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/integration/impl/DeviceCardFacadeImpl.java" timestamp="1540918148500">
         <mark key="[" line="203" column="0" />
@@ -235,7 +235,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InRva2VucyIgdmFsdWU9IkNUT1JfREVGIi8+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>warning</text>
+        <text>Restricted to constructors only.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InNldmVyaXR5IiB2YWx1ZT0id2FybmluZyIgLz4K</text>
@@ -262,7 +262,7 @@
         <text encoding="base64">ICAgIDwhLS0gQ2hlY2sgZm9yIFN5c3RlbS5lcnIvb3V0LnByaW50bG4gLS0+CiAgICA8bW9kdWxlIG5hbWU9IlJlZ2V4cFNpbmdsZWxpbmVKYXZhIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iZm9ybWF0IiB2YWx1ZT0iU3lzdGVtXC5vdXRcLnByaW50bG4iIC8+CiAgICA8L21vZHVsZT4KICAgIDxtb2R1bGUgbmFtZT0iUmVnZXhwU2luZ2xlbGluZUphdmEiPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJmb3JtYXQiIHZhbHVlPSJTeXN0ZW1cLmVyclwucHJpbnRsbiIgLz4KICAgIDwvbW9kdWxlPgoK</text>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text>Restricted to constructors only.</text>
       </register>
     </registers>
     <search>
