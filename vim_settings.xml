@@ -27,9 +27,6 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1540933758177">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/pom.xml" timestamp="1541057169158">
         <mark key="'" line="145" column="19" />
         <mark key="[" line="153" column="76" />
@@ -38,6 +35,7 @@
         <mark key="^" line="153" column="78" />
       </file>
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/core/src/main/java/fi/abakus/productcatalog/services/impl/FOPProductPrintService.java" timestamp="1541070592967" />
+      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/webapp/admin/src/main/resources/fi/abakus/warehouse/Messages_fi.properties" timestamp="1541074532184" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/com/optiscangroup/fieldwork/client/mobile/FieldWorkServiceImpl.java" timestamp="1541062957347" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/workQueueContext.xml" timestamp="1540818529286">
         <mark key="[" line="199" column="63" />
@@ -95,12 +93,6 @@
         <mark key="^" line="204" column="3" />
       </file>
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/core/src/main/resources/fi/abakus/warehouse/businessApplicationContext.xml" timestamp="1541070449104" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1540976302962">
-        <mark key="'" line="253" column="17" />
-        <mark key="[" line="352" column="25" />
-        <mark key="]" line="352" column="26" />
-        <mark key="." line="352" column="26" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/testContext.xml" timestamp="1540822279319">
         <mark key="[" line="38" column="63" />
         <mark key="]" line="38" column="63" />
@@ -118,9 +110,9 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="84" column="70" />
       </file>
-      <file name="/fragment.java" timestamp="1540823849716">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/model/src/main/java/com/optiscangroup/warehouse/model/BaseItemList.java" timestamp="1541074580025" />
+      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/model/src/main/java/com/optiscangroup/warehouse/model/BaseItemListRow.java" timestamp="1541074635750" />
+      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/webapp/admin/src/main/webapp/WEB-INF/jsp/warehouse/base-item-lists/view.jsp" timestamp="1541074565063" />
     </filemarks>
     <jumps>
       <jump line="46" column="33" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
