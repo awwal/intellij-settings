@@ -15,7 +15,12 @@
         <mark key="^" line="153" column="139" />
         <mark key="." line="153" column="139" />
       </file>
-      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/integration/pom.xml" timestamp="1541071216057" />
+      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/integration/pom.xml" timestamp="1541072893878">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="45" column="37" />
+      </file>
       <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan/LICENSE.txt" timestamp="1541053780293">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
@@ -224,34 +229,34 @@
         <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ic2V2ZXJpdHkiIHZhbHVlPSJ3YXJuaW5nIiAvPgogICAgPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cDovL2NoZWNrc3R5bGUuc291cmNlZm9yZ2UubmV0L2NvbmZpZ19oZWFkZXIuaHRtbCAtLT4K</text>
+        <text encoding="base64">CQkJPCEtLSBodHRwOi8vY2hlY2tzdHlsZS5zb3VyY2Vmb3JnZS5uZXQvY29uZmlnX2hlYWRlci5odG1sIC0tPgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cDovL2NoZWNrc3R5bGUuc291cmNlZm9yZ2UubmV0L2NvbmZpZ19oZWFkZXIuaHRtbCAtLT4K</text>
+        <text encoding="base64">CQkJPCEtLSBodHRwOi8vY2hlY2tzdHlsZS5zb3VyY2Vmb3JnZS5uZXQvY29uZmlnX2hlYWRlci5odG1sIC0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0gPG1vZHVsZSBuYW1lPSJIZWFkZXIiPiAtLT4KICAgIDwhLS0gICA8cHJvcGVydHkgbmFtZT0iaGVhZGVyRmlsZSIgdmFsdWU9IiR7Y2hlY2tzdHlsZS5oZWFkZXIuZmlsZX0iLz4gLS0+CiAgICA8IS0tICAgPHByb3BlcnR5IG5hbWU9ImZpbGVFeHRlbnNpb25zIiB2YWx1ZT0iamF2YSIvPiAtLT4KICAgIDwhLS0gPC9tb2R1bGU+IC0tPiAK</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cDovL2NoZWNrc3R5bGUuc291cmNlZm9yZ2UubmV0L2NvbmZpZ19oZWFkZXIuaHRtbCAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gPG1vZHVsZSBuYW1lPSJIZWFkZXIiPiAtLT4KICAgIDwhLS0gICA8cHJvcGVydHkgbmFtZT0iaGVhZGVyRmlsZSIgdmFsdWU9IiR7Y2hlY2tzdHlsZS5oZWFkZXIuZmlsZX0iLz4gLS0+CiAgICA8IS0tICAgPHByb3BlcnR5IG5hbWU9ImZpbGVFeHRlbnNpb25zIiB2YWx1ZT0iamF2YSIvPiAtLT4KICAgIDwhLS0gPC9tb2R1bGU+IC0tPiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlIG5hbWU9Ik1hZ2ljTnVtYmVyIi8+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlIG5hbWU9Ik1hZ2ljTnVtYmVyIi8+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">KiBTdXBwcmVzc2lvbkZpbHRlciwgYnkgZGVmYXVsdCBpZ25vcmVzIHNvdXJjZSBjb2RlIGluIHRhcmdldCBmb2xkZXIuIChUeXBpY2FsbHkgYXV0b2dlbmVyYXRlZCBieSB0b29scykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGUgbmFtZT0iU3VwcHJlc3Npb25GaWx0ZXIiPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJmaWxlIiB2YWx1ZT0iJHtjb25maWdfbG9jfS9zdXBwcmVzc2lvbnMueG1sIiBkZWZhdWx0PSJzdXBwcmVzc2lvbnMueG1sIi8+CiAgICA8L21vZHVsZT4K</text>
+        <text encoding="base64">KiBTdXBwcmVzc2lvbkZpbHRlciwgYnkgZGVmYXVsdCBpZ25vcmVzIHNvdXJjZSBjb2RlIGluIHRhcmdldCBmb2xkZXIuIChUeXBpY2FsbHkgYXV0b2dlbmVyYXRlZCBieSB0b29scykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InRva2VucyIgdmFsdWU9IkNUT1JfREVGIi8+Cg==</text>
+        <text encoding="base64">ICAgIDxtb2R1bGUgbmFtZT0iU3VwcHJlc3Npb25GaWx0ZXIiPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJmaWxlIiB2YWx1ZT0iJHtjb25maWdfbG9jfS9zdXBwcmVzc2lvbnMueG1sIiBkZWZhdWx0PSJzdXBwcmVzc2lvbnMueG1sIi8+CiAgICA8L21vZHVsZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InNldmVyaXR5IiB2YWx1ZT0id2FybmluZyIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InRva2VucyIgdmFsdWU9IkNUT1JfREVGIi8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
