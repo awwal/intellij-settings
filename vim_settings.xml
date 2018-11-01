@@ -9,11 +9,12 @@
         <mark key="^" line="155" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan/checkstyle.xml" timestamp="1541012336140">
-        <mark key="'" line="153" column="21" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan/checkstyle.xml" timestamp="1541013121343">
+        <mark key="'" line="155" column="21" />
+        <mark key="[" line="153" column="45" />
+        <mark key="]" line="153" column="51" />
+        <mark key="." line="153" column="51" />
+        <mark key="^" line="153" column="51" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1540803948822">
         <mark key="[" line="956" column="61" />
@@ -215,8 +216,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICA8bW9kdWxlIG5hbWU9IkxpbmVMZW5ndGgiLz4K</text>
@@ -243,7 +244,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoZWFkZXJMb2NhdGlvbj5saWNlbnNlLWhlYWRlci50eHQ8L2hlYWRlckxvY2F0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ0xvY2F0aW9uPm9wdGlzY2FuX2NoZWNrcy54bWw8L2NvbmZpZ0xvY2F0aW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>error</text>
       </register>
     </registers>
     <search>
