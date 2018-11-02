@@ -27,14 +27,8 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/pom.xml" timestamp="1541057169158">
-        <mark key="'" line="145" column="19" />
-        <mark key="[" line="153" column="76" />
-        <mark key="]" line="153" column="78" />
-        <mark key="." line="153" column="78" />
-        <mark key="^" line="153" column="78" />
-      </file>
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/core/src/main/java/fi/abakus/productcatalog/services/impl/FOPProductPrintService.java" timestamp="1541070592967" />
+      <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/main/java/fi/abakus/warehouse/dao/hibernate/HibernateStorageActionDAO.java" timestamp="1541081319962" />
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/webapp/admin/src/main/resources/fi/abakus/warehouse/Messages_fi.properties" timestamp="1541074532184" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/com/optiscangroup/fieldwork/client/mobile/FieldWorkServiceImpl.java" timestamp="1541062957347" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/workQueueContext.xml" timestamp="1540818529286">
@@ -49,25 +43,16 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="20" column="96" />
       </file>
+      <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/main/java/fi/abakus/warehouse/services/impl/StorageServiceImpl.java" timestamp="1541079728714" />
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/core/src/main/java/com/optiscangroup/warehouse/services/impl/FOPPrintServiceImpl.java" timestamp="1541070549052" />
-      <file name="$USER_HOME$/work/java/checkstyle/pom.xml" timestamp="1541010335076">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-      </file>
+      <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/model/src/main/java/com/optiscangroup/warehouse/model/CompanyCustomerSettings.java" timestamp="1541079659834" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreatorTest.java" timestamp="1540990122503">
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
         <mark key="^" line="155" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan/checkstyle.xml" timestamp="1541013121343">
-        <mark key="'" line="155" column="21" />
-        <mark key="[" line="153" column="45" />
-        <mark key="]" line="153" column="51" />
-        <mark key="." line="153" column="51" />
-        <mark key="^" line="153" column="51" />
-      </file>
+      <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/main/java/com/optiscangroup/warehouse/dao/hibernate/HibernateCompanyCustomerSettingsDAO.java" timestamp="1541079848435" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1540803948822">
         <mark key="[" line="956" column="61" />
         <mark key="]" line="956" column="65" />
@@ -98,11 +83,6 @@
         <mark key="]" line="38" column="63" />
         <mark key="." line="38" column="66" />
         <mark key="^" line="38" column="55" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1540823885944">
-        <mark key="[" line="316" column="20" />
-        <mark key="]" line="316" column="20" />
-        <mark key="." line="316" column="20" />
       </file>
       <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan_checks.xml" timestamp="1541010282218">
         <mark key="[" line="85" column="0" />
