@@ -59,11 +59,11 @@
         <mark key="." line="956" column="65" />
         <mark key="^" line="956" column="65" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1540990089300">
-        <mark key="[" line="107" column="93" />
-        <mark key="]" line="107" column="147" />
-        <mark key="^" line="107" column="147" />
-        <mark key="." line="107" column="147" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1541142090729">
+        <mark key="[" line="57" column="27" />
+        <mark key="]" line="57" column="35" />
+        <mark key="^" line="57" column="35" />
+        <mark key="." line="57" column="35" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/SevicePlanDateTest.java" timestamp="1540919513568">
         <mark key="[" line="17" column="15" />
@@ -203,8 +203,8 @@
       <register name="1" type="2">
         <text encoding="base64">CQkJPCEtLSBodHRwOi8vY2hlY2tzdHlsZS5zb3VyY2Vmb3JnZS5uZXQvY29uZmlnX2hlYWRlci5odG1sIC0tPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPCEtLSBodHRwOi8vY2hlY2tzdHlsZS5zb3VyY2Vmb3JnZS5uZXQvY29uZmlnX2hlYWRlci5odG1sIC0tPgo=</text>
+      <register name="&quot;" type="4">
+        <text>DateTime</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIDwhLS0gaHR0cDovL2NoZWNrc3R5bGUuc291cmNlZm9yZ2UubmV0L2NvbmZpZ19oZWFkZXIuaHRtbCAtLT4K</text>
@@ -231,7 +231,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InRva2VucyIgdmFsdWU9IkNUT1JfREVGIi8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>DateTime</text>
       </register>
     </registers>
     <search>
