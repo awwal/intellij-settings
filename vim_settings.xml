@@ -3,40 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/test/java/fi/abakus/warehouse/util/ExecutionTimeParserTest.java" timestamp="1541150723731" />
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/integration/pom.xml" timestamp="1541072893878">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/main/java/fi/abakus/warehouse/util/ExecutionTimeParser.java" timestamp="1541151973255" />
-      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/core/src/main/java/fi/abakus/productcatalog/services/impl/FOPProductPrintService.java" timestamp="1541070592967" />
-      <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/main/java/fi/abakus/warehouse/dao/hibernate/HibernateStorageActionDAO.java" timestamp="1541151068999" />
-      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/webapp/admin/src/main/resources/fi/abakus/warehouse/Messages_fi.properties" timestamp="1541074532184" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/com/optiscangroup/fieldwork/client/mobile/FieldWorkServiceImpl.java" timestamp="1541062957347" />
-      <file name="$USER_HOME$/work/java/excel-transformer/README.md" timestamp="1541147605642" />
-      <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/main/java/fi/abakus/warehouse/services/impl/StorageServiceImpl.java" timestamp="1541079728714" />
-      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/core/src/main/java/com/optiscangroup/warehouse/services/impl/FOPPrintServiceImpl.java" timestamp="1541070549052" />
-      <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/model/src/main/java/com/optiscangroup/warehouse/model/CompanyCustomerSettings.java" timestamp="1541079659834" />
-      <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/main/java/com/optiscangroup/warehouse/dao/hibernate/HibernateCompanyCustomerSettingsDAO.java" timestamp="1541079848435" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1541142090729">
         <mark key="[" line="57" column="27" />
         <mark key="]" line="57" column="35" />
         <mark key="^" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceServicePlan.java" timestamp="1541153769896" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1541154287325">
-        <mark key="[" line="252" column="15" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
-        <mark key="^" line="252" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1541154521343">
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/core/src/main/resources/fi/abakus/warehouse/businessApplicationContext.xml" timestamp="1541070449104" />
-      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/model/src/main/java/com/optiscangroup/warehouse/model/BaseItemList.java" timestamp="1541074580025" />
-      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/model/src/main/java/com/optiscangroup/warehouse/model/BaseItemListRow.java" timestamp="1541074635750" />
-      <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/webapp/admin/src/main/webapp/WEB-INF/jsp/warehouse/base-item-lists/view.jsp" timestamp="1541074565063" />
     </filemarks>
     <jumps>
       <jump line="46" column="33" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
@@ -145,37 +128,37 @@
         <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ic2V2ZXJpdHkiIHZhbHVlPSJ3YXJuaW5nIiAvPgogICAgPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPCEtLSBodHRwOi8vY2hlY2tzdHlsZS5zb3VyY2Vmb3JnZS5uZXQvY29uZmlnX2hlYWRlci5odG1sIC0tPgo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cDovL2NoZWNrc3R5bGUuc291cmNlZm9yZ2UubmV0L2NvbmZpZ19oZWFkZXIuaHRtbCAtLT4K</text>
+        <text encoding="base64">CQkJPCEtLSBodHRwOi8vY2hlY2tzdHlsZS5zb3VyY2Vmb3JnZS5uZXQvY29uZmlnX2hlYWRlci5odG1sIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0gPG1vZHVsZSBuYW1lPSJIZWFkZXIiPiAtLT4KICAgIDwhLS0gICA8cHJvcGVydHkgbmFtZT0iaGVhZGVyRmlsZSIgdmFsdWU9IiR7Y2hlY2tzdHlsZS5oZWFkZXIuZmlsZX0iLz4gLS0+CiAgICA8IS0tICAgPHByb3BlcnR5IG5hbWU9ImZpbGVFeHRlbnNpb25zIiB2YWx1ZT0iamF2YSIvPiAtLT4KICAgIDwhLS0gPC9tb2R1bGU+IC0tPiAK</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cDovL2NoZWNrc3R5bGUuc291cmNlZm9yZ2UubmV0L2NvbmZpZ19oZWFkZXIuaHRtbCAtLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gPG1vZHVsZSBuYW1lPSJIZWFkZXIiPiAtLT4KICAgIDwhLS0gICA8cHJvcGVydHkgbmFtZT0iaGVhZGVyRmlsZSIgdmFsdWU9IiR7Y2hlY2tzdHlsZS5oZWFkZXIuZmlsZX0iLz4gLS0+CiAgICA8IS0tICAgPHByb3BlcnR5IG5hbWU9ImZpbGVFeHRlbnNpb25zIiB2YWx1ZT0iamF2YSIvPiAtLT4KICAgIDwhLS0gPC9tb2R1bGU+IC0tPiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlIG5hbWU9Ik1hZ2ljTnVtYmVyIi8+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlIG5hbWU9Ik1hZ2ljTnVtYmVyIi8+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">KiBTdXBwcmVzc2lvbkZpbHRlciwgYnkgZGVmYXVsdCBpZ25vcmVzIHNvdXJjZSBjb2RlIGluIHRhcmdldCBmb2xkZXIuIChUeXBpY2FsbHkgYXV0b2dlbmVyYXRlZCBieSB0b29scykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGUgbmFtZT0iU3VwcHJlc3Npb25GaWx0ZXIiPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJmaWxlIiB2YWx1ZT0iJHtjb25maWdfbG9jfS9zdXBwcmVzc2lvbnMueG1sIiBkZWZhdWx0PSJzdXBwcmVzc2lvbnMueG1sIi8+CiAgICA8L21vZHVsZT4K</text>
+        <text encoding="base64">KiBTdXBwcmVzc2lvbkZpbHRlciwgYnkgZGVmYXVsdCBpZ25vcmVzIHNvdXJjZSBjb2RlIGluIHRhcmdldCBmb2xkZXIuIChUeXBpY2FsbHkgYXV0b2dlbmVyYXRlZCBieSB0b29scykK</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text>Id</text>
       </register>
     </registers>
     <search>
