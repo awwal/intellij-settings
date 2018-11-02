@@ -3,93 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/LICENSE.txt" timestamp="1541010498445">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServicePlanDateTest.java" timestamp="1540989023908">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="153" column="139" />
-        <mark key="^" line="153" column="139" />
-        <mark key="." line="153" column="139" />
-      </file>
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/integration/pom.xml" timestamp="1541072893878">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan/LICENSE.txt" timestamp="1541053780293">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-      </file>
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/core/src/main/java/fi/abakus/productcatalog/services/impl/FOPProductPrintService.java" timestamp="1541070592967" />
       <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/main/java/fi/abakus/warehouse/dao/hibernate/HibernateStorageActionDAO.java" timestamp="1541081319962" />
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/webapp/admin/src/main/resources/fi/abakus/warehouse/Messages_fi.properties" timestamp="1541074532184" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/mobile/src/main/java/com/optiscangroup/fieldwork/client/mobile/FieldWorkServiceImpl.java" timestamp="1541062957347" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/workQueueContext.xml" timestamp="1540818529286">
-        <mark key="[" line="199" column="63" />
-        <mark key="]" line="199" column="63" />
-        <mark key="." line="199" column="66" />
-        <mark key="^" line="199" column="55" />
-      </file>
-      <file name="$USER_HOME$/work/java/checkstyle/README.md" timestamp="1541057823003">
-        <mark key="[" line="30" column="104" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="20" column="96" />
-      </file>
+      <file name="$USER_HOME$/work/java/excel-transformer/README.md" timestamp="1541147605642" />
       <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/main/java/fi/abakus/warehouse/services/impl/StorageServiceImpl.java" timestamp="1541079728714" />
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/core/src/main/java/com/optiscangroup/warehouse/services/impl/FOPPrintServiceImpl.java" timestamp="1541070549052" />
       <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/model/src/main/java/com/optiscangroup/warehouse/model/CompanyCustomerSettings.java" timestamp="1541079659834" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreatorTest.java" timestamp="1540990122503">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="^" line="155" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
       <file name="$USER_HOME$/work/java/kaha/abakus-warehouse/core/src/main/java/com/optiscangroup/warehouse/dao/hibernate/HibernateCompanyCustomerSettingsDAO.java" timestamp="1541079848435" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1540803948822">
-        <mark key="[" line="956" column="61" />
-        <mark key="]" line="956" column="65" />
-        <mark key="." line="956" column="65" />
-        <mark key="^" line="956" column="65" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1541142090729">
         <mark key="[" line="57" column="27" />
         <mark key="]" line="57" column="35" />
         <mark key="^" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/SevicePlanDateTest.java" timestamp="1540919513568">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="56" column="6" />
-        <mark key="." line="56" column="6" />
-        <mark key="^" line="57" column="45" />
-      </file>
-      <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan/optiscan_sun_checkstyle_v1.xml" timestamp="1541064272359">
-        <mark key="[" line="203" column="13" />
-        <mark key="]" line="204" column="3" />
-        <mark key="." line="204" column="3" />
-        <mark key="^" line="204" column="3" />
-      </file>
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/core/src/main/resources/fi/abakus/warehouse/businessApplicationContext.xml" timestamp="1541070449104" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/testContext.xml" timestamp="1540822279319">
-        <mark key="[" line="38" column="63" />
-        <mark key="]" line="38" column="63" />
-        <mark key="." line="38" column="66" />
-        <mark key="^" line="38" column="55" />
-      </file>
-      <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan_checks.xml" timestamp="1541010282218">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="84" column="70" />
-      </file>
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/model/src/main/java/com/optiscangroup/warehouse/model/BaseItemList.java" timestamp="1541074580025" />
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/model/src/main/java/com/optiscangroup/warehouse/model/BaseItemListRow.java" timestamp="1541074635750" />
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/webapp/admin/src/main/webapp/WEB-INF/jsp/warehouse/base-item-lists/view.jsp" timestamp="1541074565063" />
