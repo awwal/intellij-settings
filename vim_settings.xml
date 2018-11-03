@@ -164,10 +164,10 @@
         <mark key="^" line="12" column="73" />
         <mark key="." line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ApplicationUI.java" timestamp="1540837271732">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="40" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ApplicationUI.java" timestamp="1541019694110">
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1537766384210">
         <mark key="'" line="114" column="0" />
@@ -426,6 +426,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
