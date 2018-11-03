@@ -13,7 +13,6 @@
         <mark key="." line="61" column="47" />
         <mark key="^" line="61" column="47" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/AccessSelection.scala" timestamp="1541019290699" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/DocGroup.java" timestamp="1540504106096">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="4" />
@@ -165,9 +164,8 @@
         <mark key="." line="12" column="73" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ApplicationUI.java" timestamp="1541019694110">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="80" column="0" />
+        <mark key="]" line="57" column="40" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1537766384210">
         <mark key="'" line="114" column="0" />
@@ -241,6 +239,9 @@
         <mark key="]" line="132" column="30" />
         <mark key="." line="132" column="30" />
         <mark key="^" line="132" column="30" />
+      </file>
+      <file name="/fragment.java" timestamp="1541284346401">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" timestamp="1540731802989">
         <mark key="[" line="230" column="5" />
