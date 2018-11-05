@@ -4,6 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/AbstractJob.java" timestamp="1541400510565" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/18.sql" timestamp="1541404479828">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/integration/pom.xml" timestamp="1541072893878">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -14,17 +19,24 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="51" column="41" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1541403759186">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="737" column="15" />
+        <mark key="]" line="737" column="15" />
+        <mark key="^" line="738" column="20" />
+        <mark key="." line="737" column="15" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1541142090729">
         <mark key="[" line="57" column="27" />
         <mark key="]" line="57" column="35" />
         <mark key="^" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceServicePlan.java" timestamp="1541402066225">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="109" column="45" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceServicePlan.java" timestamp="1541403769057">
+        <mark key="[" line="107" column="23" />
+        <mark key="]" line="107" column="44" />
+        <mark key="." line="107" column="44" />
+        <mark key="^" line="107" column="44" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1541180900934">
         <mark key="[" line="256" column="0" />
@@ -34,10 +46,6 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/model/ProductTypeClassification.java" timestamp="1541401182792" />
     </filemarks>
     <jumps>
-      <jump line="46" column="33" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
-      <jump line="62" column="19" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
-      <jump line="283" column="69" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" />
-      <jump line="205" column="46" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportServiceImpl.java" />
       <jump line="19" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
       <jump line="42" column="8" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
       <jump line="20" column="58" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
@@ -134,43 +142,47 @@
       <jump line="99" column="63" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" />
       <jump line="145" column="19" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/pom.xml" />
       <jump line="151" column="21" filename="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan/checkstyle.xml" />
+      <jump line="44" column="27" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" />
+      <jump line="735" column="3" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" />
+      <jump line="73" column="45" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPbmVUb01hbnkoY2FzY2FkZSA9IENhc2NhZGVUeXBlLkFMTCwgb3JwaGFuUmVtb3ZhbCA9IHRydWUpCiAgICBASm9pbkNvbHVtbihuYW1lID0gImNvbmZpZ3VyYXRpb25faWQiKQo=</text>
+        <text encoding="base64">Y3JlYXRlIHZpZXcgcGxhbl90b19qb2IgYXMKIHNlbGVjdCBqb2JfaWQgYXMgc2VydmljZVBsYW5JZCAsc2VydmljZV9wbGFuX2lkIGFzIGpvYklkIGZyb20gZGV2aWNlX3NlcnZpY2VfcGxhbl9qb2JzOwoKdXBkYXRlIGpvYnMKIHNldCBkZXZpY2Vfc2VydmljZV9wbGFuX2lkID0gcGouc2VydmljZVBsYW5JZAogZnJvbSBwbGFuX3RvX2pvYiBwagogd2hlcmUgcGouam9iSWQ9am9icy5pZDsKCiBkcm9wIHZpZXcgcGxhbl90b19qb2I7CiBkcm9wIHRhYmxlIGRldmljZV9zZXJ2aWNlX3BsYW5fam9iczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPbmVUb01hbnkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKb2luVGFibGUoCiAgICAgICAgICAgICAgIG5hbWUgPSAiZGV2aWNlX3NlcnZpY2VfcGxhbl9qb2JzIiwgam9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImpvYl9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gImlkIiksCiAgICAgICAgICAgICAgIGludmVyc2VKb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAic2VydmljZV9wbGFuX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiKQogICAgICAgICAgICAgICkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWU9ImRldmljZV9zZXJ2aWNlX3BsYW5faWQiKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUob3B0aW9uYWwgPSB0cnVlLGZldGNoID0gRmV0Y2hUeXBlLkxBWlkpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPCEtLSBodHRwOi8vY2hlY2tzdHlsZS5zb3VyY2Vmb3JnZS5uZXQvY29uZmlnX2hlYWRlci5odG1sIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cDovL2NoZWNrc3R5bGUuc291cmNlZm9yZ2UubmV0L2NvbmZpZ19oZWFkZXIuaHRtbCAtLT4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gPG1vZHVsZSBuYW1lPSJIZWFkZXIiPiAtLT4KICAgIDwhLS0gICA8cHJvcGVydHkgbmFtZT0iaGVhZGVyRmlsZSIgdmFsdWU9IiR7Y2hlY2tzdHlsZS5oZWFkZXIuZmlsZX0iLz4gLS0+CiAgICA8IS0tICAgPHByb3BlcnR5IG5hbWU9ImZpbGVFeHRlbnNpb25zIiB2YWx1ZT0iamF2YSIvPiAtLT4KICAgIDwhLS0gPC9tb2R1bGU+IC0tPiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text>_plan_id</text>
       </register>
     </registers>
     <search>
