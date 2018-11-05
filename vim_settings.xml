@@ -3,12 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/AbstractJob.java" timestamp="1541399042950" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/AbstractJob.java" timestamp="1541400510565" />
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/integration/pom.xml" timestamp="1541072893878">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCardConfiguration.java" timestamp="1541401270564">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="41" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1541142090729">
         <mark key="[" line="57" column="27" />
@@ -16,17 +20,18 @@
         <mark key="^" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceServicePlan.java" timestamp="1541398878428">
-        <mark key="[" line="106" column="14" />
-        <mark key="]" line="107" column="3" />
-        <mark key="." line="107" column="3" />
-        <mark key="^" line="107" column="3" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceServicePlan.java" timestamp="1541401293038">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="109" column="45" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1541180900934">
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/model/ProductTypeClassification.java" timestamp="1541401182792" />
     </filemarks>
     <jumps>
       <jump line="46" column="33" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
@@ -132,37 +137,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ic2V2ZXJpdHkiIHZhbHVlPSJ3YXJuaW5nIiAvPgogICAgPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">ICAgIEBPbmVUb01hbnkoY2FzY2FkZSA9IENhc2NhZGVUeXBlLkFMTCwgb3JwaGFuUmVtb3ZhbCA9IHRydWUpCiAgICBASm9pbkNvbHVtbihuYW1lID0gImNvbmZpZ3VyYXRpb25faWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKb2luVGFibGUoCiAgICAgICAgICAgICAgIG5hbWUgPSAiZGV2aWNlX3NlcnZpY2VfcGxhbl9qb2JzIiwgam9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImpvYl9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gImlkIiksCiAgICAgICAgICAgICAgIGludmVyc2VKb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAic2VydmljZV9wbGFuX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiKQogICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKb2luVGFibGUoCiAgICAgICAgICAgICAgIG5hbWUgPSAiZGV2aWNlX3NlcnZpY2VfcGxhbl9qb2JzIiwgam9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImpvYl9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gImlkIiksCiAgICAgICAgICAgICAgIGludmVyc2VKb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAic2VydmljZV9wbGFuX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiKQogICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAgIEBPbmVUb01hbnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPCEtLSBodHRwOi8vY2hlY2tzdHlsZS5zb3VyY2Vmb3JnZS5uZXQvY29uZmlnX2hlYWRlci5odG1sIC0tPgo=</text>
+        <text encoding="base64">ICAgIEBKb2luVGFibGUoCiAgICAgICAgICAgICAgIG5hbWUgPSAiZGV2aWNlX3NlcnZpY2VfcGxhbl9qb2JzIiwgam9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImpvYl9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gImlkIiksCiAgICAgICAgICAgICAgIGludmVyc2VKb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAic2VydmljZV9wbGFuX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiKQogICAgICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cDovL2NoZWNrc3R5bGUuc291cmNlZm9yZ2UubmV0L2NvbmZpZ19oZWFkZXIuaHRtbCAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0gPG1vZHVsZSBuYW1lPSJIZWFkZXIiPiAtLT4KICAgIDwhLS0gICA8cHJvcGVydHkgbmFtZT0iaGVhZGVyRmlsZSIgdmFsdWU9IiR7Y2hlY2tzdHlsZS5oZWFkZXIuZmlsZX0iLz4gLS0+CiAgICA8IS0tICAgPHByb3BlcnR5IG5hbWU9ImZpbGVFeHRlbnNpb25zIiB2YWx1ZT0iamF2YSIvPiAtLT4KICAgIDwhLS0gPC9tb2R1bGU+IC0tPiAK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPCEtLSBodHRwOi8vY2hlY2tzdHlsZS5zb3VyY2Vmb3JnZS5uZXQvY29uZmlnX2hlYWRlci5odG1sIC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlIG5hbWU9Ik1hZ2ljTnVtYmVyIi8+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cDovL2NoZWNrc3R5bGUuc291cmNlZm9yZ2UubmV0L2NvbmZpZ19oZWFkZXIuaHRtbCAtLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gPG1vZHVsZSBuYW1lPSJIZWFkZXIiPiAtLT4KICAgIDwhLS0gICA8cHJvcGVydHkgbmFtZT0iaGVhZGVyRmlsZSIgdmFsdWU9IiR7Y2hlY2tzdHlsZS5oZWFkZXIuZmlsZX0iLz4gLS0+CiAgICA8IS0tICAgPHByb3BlcnR5IG5hbWU9ImZpbGVFeHRlbnNpb25zIiB2YWx1ZT0iamF2YSIvPiAtLT4KICAgIDwhLS0gPC9tb2R1bGU+IC0tPiAK</text>
       </register>
       <register name="-" type="4">
         <text>Id</text>
