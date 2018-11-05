@@ -4,10 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/AbstractJob.java" timestamp="1541400510565" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/18.sql" timestamp="1541404479828">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/18.sql" timestamp="1541408109707">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/work/java/apoex/apoex-abakus-warehouse/integration/pom.xml" timestamp="1541072893878">
         <mark key="[" line="46" column="0" />
@@ -32,11 +33,11 @@
         <mark key="^" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceServicePlan.java" timestamp="1541403769057">
-        <mark key="[" line="107" column="23" />
-        <mark key="]" line="107" column="44" />
-        <mark key="." line="107" column="44" />
-        <mark key="^" line="107" column="44" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceServicePlan.java" timestamp="1541408185293">
+        <mark key="[" line="113" column="60" />
+        <mark key="]" line="113" column="60" />
+        <mark key="." line="113" column="60" />
+        <mark key="^" line="113" column="72" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1541180900934">
         <mark key="[" line="256" column="0" />
@@ -154,8 +155,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>job</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGQK</text>
@@ -182,7 +183,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_plan_id</text>
+        <text>job</text>
       </register>
     </registers>
     <search>
