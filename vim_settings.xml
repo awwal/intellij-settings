@@ -16,8 +16,19 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/resources/default-process-definition.xml" timestamp="1541538557114" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/META-INF/camel/camel-context.xml" timestamp="1541511102023" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/com.optiscangroup.fieldwork.integration.chiller.cfg" timestamp="1541546307584">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/resources/default-process-definition.xml" timestamp="1541545064953">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/META-INF/camel/camel-context.xml" timestamp="1541546669044">
+        <mark key="[" line="520" column="44" />
+        <mark key="]" line="532" column="38" />
+        <mark key="." line="532" column="38" />
+        <mark key="^" line="532" column="38" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-core/2.0.6/abakus-erp-core-2.0.6-sources.jar!/fi/abakus/erp/services/impl/GenericJobServiceImpl.java" timestamp="1541542550792" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/service-diary-entries/edit.jsp" timestamp="1541542927337">
         <mark key="[" line="87" column="9" />
@@ -84,6 +95,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/BrowseJobsController.java" timestamp="1541532442010">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ValidatingInvokeJobCommandController.java" timestamp="1541542418013" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1541541563711" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/commands/markJobDone.jsp" timestamp="1541543020342">
@@ -91,8 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="58" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
       <jump line="167" column="44" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobAttachmentEmailHandler.java" />
       <jump line="142" column="4" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/dao/hibernate/HibernateJobReportDAO.java" />
       <jump line="213" column="30" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobAttachmentEmailHandler.java" />
@@ -191,16 +206,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" />
       <jump line="33" column="26" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/17.sql" />
       <jump line="80" column="20" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/styles/application.css" />
+      <jump line="14" column="28" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/resources/default-process-definition.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/resources/default-process-definition.xml" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>if exists</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0LnRvLnVyaT1odHRwNDovL2xvY2FsaG9zdDo4MDg4Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U2VyaWFsaXphYmxlUmVzb3VyY2VCdW5kbGVNZXNzYWdlU291cmNlCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">U2VyaWFsaXphYmxlUmVzb3VyY2VCdW5kbGVNZXNzYWdlU291cmNlCg==</text>
+        <text encoding="base64">ZXhwb3J0LnRvLnVyaT1odHRwNDovL2xvY2FsaG9zdDo4MDg4Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBnZXRTZXNzaW9uKCkuY3JlCg==</text>
