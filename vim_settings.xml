@@ -21,6 +21,11 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="51" column="41" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/17.sql" timestamp="1541488661722">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1541403759186">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="738" column="15" />
@@ -40,10 +45,10 @@
         <mark key="." line="109" column="91" />
         <mark key="^" line="108" column="7" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1541180900934">
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="256" column="0" />
-        <mark key="." line="256" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/19.sql" timestamp="1541488654003">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="37" column="61" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/9.sql" timestamp="1541414964637">
         <mark key="[" line="0" column="11" />
@@ -52,7 +57,6 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/model/ProductTypeClassification.java" timestamp="1541401182792" />
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
       <jump line="42" column="8" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
       <jump line="20" column="58" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
       <jump line="6" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/helpers/ReportAndFilesUtil.java" />
@@ -152,40 +156,41 @@
       <jump line="735" column="3" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" />
       <jump line="73" column="45" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" />
+      <jump line="33" column="26" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/17.sql" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>if exists</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZvdW5kICIrcGxhbkpvYnMuc2l6ZSgpICsgIiBmb3IgcGxhbiAiK2dldElkKCkpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>if exists</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">LS0gb2N0IDEyIDIwMTguIEVuc3VyZXMgam9iUmVwb3J0IGhhcyBvbmx5IG9uZSBlbnRyeSBmb3IgYSBwYXJ0aWN1bGFyIGZvcm0gYW5kIGpvYgp3aXRoIGxhdGVzdF9yZXBvcnRzIGFzICgKCXNlbGVjdCBqci5pZCBhcyBpZAoJZnJvbSBqb2JfcmVwb3J0cyBqcgoJaW5uZXIgam9pbiAoCgkgICAgc2VsZWN0IGpyLmpvYl9pZCwganIuZm9ybV9pZCwgbWF4KGpyLmxhc3RfbW9kaWZpZWQpIGFzIGxhc3RfbW9kaWZpZWQKCSAgICBmcm9tIGpvYl9yZXBvcnRzIGpyCgkgICAgZ3JvdXAgYnkganIuam9iX2lkLCBqci5mb3JtX2lkCgkpIGpyX3RlbXAgb24KCQlqci5sYXN0X21vZGlmaWVkID0ganJfdGVtcC5sYXN0X21vZGlmaWVkCgkJYW5kIGpyLmpvYl9pZCA9IGpyX3RlbXAuam9iX2lkCgkJYW5kIGpyLmZvcm1faWQgPSBqcl90ZW1wLmZvcm1faWQKKSwgb2xkX3JlcG9ydF92YWx1ZXMgYXMoCglzZWxlY3QgcmZ2LmlkCglmcm9tIGpvYl9yZXBvcnRzIGpyCglsZWZ0IGpvaW4gcmVwb3J0X2Zvcm1fdmFsdWVzIHJmdiBvbiByZnYucmVwb3J0X2lkID0ganIuaWQKCXdoZXJlIGpyLmlkIG5vdCBpbiAoc2VsZWN0ICogZnJvbSBsYXRlc3RfcmVwb3J0cykKCW9yZGVyIGJ5IGpyLmpvYl9pZCwganIuZm9ybV9pZCkKZGVsZXRlIGZyb20gcmVwb3J0X2Zvcm1fdmFsdWVzIHJmdiB3aGVyZSByZnYuaWQgaW4gKHNlbGVjdCAqIGZyb20gb2xkX3JlcG9ydF92YWx1ZXMpOwoKd2l0aCBsYXRlc3RfcmVwb3J0cyBhcyAoCglzZWxlY3QganIuaWQgYXMgaWQKCWZyb20gam9iX3JlcG9ydHMganIKCWlubmVyIGpvaW4gKAoJICAgIHNlbGVjdCBqci5qb2JfaWQsIGpyLmZvcm1faWQsIG1heChqci5sYXN0X21vZGlmaWVkKSBhcyBsYXN0X21vZGlmaWVkCgkgICAgZnJvbSBqb2JfcmVwb3J0cyBqcgoJICAgIGdyb3VwIGJ5IGpyLmpvYl9pZCwganIuZm9ybV9pZAoJKSBqcl90ZW1wIG9uCgkJanIubGFzdF9tb2RpZmllZCA9IGpyX3RlbXAubGFzdF9tb2RpZmllZAoJCWFuZCBqci5qb2JfaWQgPSBqcl90ZW1wLmpvYl9pZAoJCWFuZCBqci5mb3JtX2lkID0ganJfdGVtcC5mb3JtX2lkCikKZGVsZXRlIGZyb20gam9iX3JlcG9ydHMganIgd2hlcmUganIuaWQgbm90IGluIChzZWxlY3QgKiBmcm9tIGxhdGVzdF9yZXBvcnRzKTsKQUxURVIgVEFCTEUgam9iX3JlcG9ydHMgQUREIENPTlNUUkFJTlQgdWtfam9iX3JlcG9ydF9mb3JtX3VuaXF1ZSBVTklRVUUgKGpvYl9pZCwgZm9ybV9pZCk7CgpkZWxldGUgZnJvbSBmaWxlX3Byb3BlcnRpZXMgZnAgd2hlcmUgZnAuZmlsZV9pZCBpbiAoc2VsZWN0IGYuaWQgZnJvbSBmaWxlcyBmIHdoZXJlIGYuY29udGVudF90eXBlID0gJ2FwcGxpY2F0aW9uL3BkZicpOwpkZWxldGUgZnJvbSBmaWxlX2J1c2luZXNzX3VuaXRzIGZidSB3aGVyZSBmYnUuZmlsZV9pZCBpbiAoc2VsZWN0IGYuaWQgZnJvbSBmaWxlcyBmIHdoZXJlIGYuY29udGVudF90eXBlID0gJ2FwcGxpY2F0aW9uL3BkZicpOwpkZWxldGUgZnJvbSBmaWxlcyBmIHdoZXJlIGYuY29udGVudF90eXBlID0gJ2FwcGxpY2F0aW9uL3BkZic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZvdW5kICIrcGxhbkpvYnMuc2l6ZSgpICsgIiBmb3IgcGxhbiAiK2dldElkKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWU9ImRldmljZV9zZXJ2aWNlX3BsYW5faWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBNYW55VG9PbmUob3B0aW9uYWwgPSB0cnVlLGZldGNoID0gRmV0Y2hUeXBlLkxBWlkpCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWU9ImRldmljZV9zZXJ2aWNlX3BsYW5faWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUob3B0aW9uYWwgPSB0cnVlLGZldGNoID0gRmV0Y2hUeXBlLkxBWlkpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
