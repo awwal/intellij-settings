@@ -16,6 +16,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="37" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/META-INF/camel/camel-context.xml" timestamp="1541511102023" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceCardConfiguration.java" timestamp="1541401270564">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="51" column="41" />
@@ -54,7 +55,7 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/jbpm/handlers/ExportJobHandler.java" timestamp="1541507589081" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/jbpm/handlers/ExportJobHandler.java" timestamp="1541511087571" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1541403759186">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="738" column="15" />
