@@ -67,16 +67,7 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" timestamp="1541586195854">
         <mark key="'" line="254" column="14" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobTimeEntryDAO.java" timestamp="1541543284333">
-        <mark key="." line="29" column="172" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.1.16/workqueue-web-2.1.16-sources.jar!/fi/abakus/workqueue/web/InvokeCommandController.java" timestamp="1541542511193" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/calendar/CalendarServiceImpl.java" timestamp="1541594585881">
-        <mark key="[" line="218" column="8" />
-        <mark key="]" line="218" column="8" />
-        <mark key="^" line="219" column="25" />
-        <mark key="." line="218" column="8" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/commands/ExportJobCommand.java" timestamp="1541507581024" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1541590518748" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobTimeEntryQuery.java" timestamp="1541542005844" />
