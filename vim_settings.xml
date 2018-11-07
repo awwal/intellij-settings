@@ -59,10 +59,11 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/styles/application.css" timestamp="1541539720965">
         <mark key="'" line="80" column="20" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/JobStates.java" timestamp="1541591827932">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/JobStates.java" timestamp="1541592563833">
+        <mark key="[" line="10" column="68" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" timestamp="1541586195854">
         <mark key="'" line="254" column="14" />
@@ -71,7 +72,7 @@
         <mark key="." line="29" column="172" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.1.16/workqueue-web-2.1.16-sources.jar!/fi/abakus/workqueue/web/InvokeCommandController.java" timestamp="1541542511193" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/calendar/CalendarServiceImpl.java" timestamp="1541592016625" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/calendar/CalendarServiceImpl.java" timestamp="1541592624341" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/commands/ExportJobCommand.java" timestamp="1541507581024" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1541590518748" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobTimeEntryQuery.java" timestamp="1541542005844" />
@@ -227,37 +228,37 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFNldDxTdHJpbmc+IEpPQl9GSU5BTF9TVEFURVMoKSB7CiAgICBTZXQ8U3RyaW5nPiBmaW5hbFN0YXRlcyA9IG5ldyBIYXNoU2V0PD4oKTsKCiAgICBmaW5hbFN0YXRlcy5hZGQod2FpdGluZ0Zvckludm9pY2UubmFtZSgpKTsKICAgIGZpbmFsU3RhdGVzLmFkZChkb25lLm5hbWUoKSk7CiAgICBmaW5hbFN0YXRlcy5hZGQoY2FuY2VsbGVkLm5hbWUoKSk7CiAgICBmaW5hbFN0YXRlcy5hZGQoYXJjaGl2ZWQubmFtZSgpKTsKICAgIHJldHVybiBmaW5hbFN0YXRlczsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU2V0PFN0cmluZz4gSk9CX0ZJTkFMX1NUQVRFUyA9IG5ldyBIYXNoU2V0PFN0cmluZz4oKTsKCiAgICBzdGF0aWMgewogICAgICAgIEpPQl9GSU5BTF9TVEFURVMuYWRkKCJ3YWl0aW5nRm9ySW52b2ljZSIpOwogICAgICAgIEpPQl9GSU5BTF9TVEFURVMuYWRkKCJkb25lIik7CiAgICAgICAgSk9CX0ZJTkFMX1NUQVRFUy5hZGQoImNhbmNlbGxlZCIpOwogICAgICAgIEpPQl9GSU5BTF9TVEFURVMuYWRkKCJhcmNoaXZlZCIpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU2V0PFN0cmluZz4gSk9CX0ZJTkFMX1NUQVRFUyA9IG5ldyBIYXNoU2V0PFN0cmluZz4oKTsKCiAgICBzdGF0aWMgewogICAgICAgIEpPQl9GSU5BTF9TVEFURVMuYWRkKCJ3YWl0aW5nRm9ySW52b2ljZSIpOwogICAgICAgIEpPQl9GSU5BTF9TVEFURVMuYWRkKCJkb25lIik7CiAgICAgICAgSk9CX0ZJTkFMX1NUQVRFUy5hZGQoImNhbmNlbGxlZCIpOwogICAgICAgIEpPQl9GSU5BTF9TVEFURVMuYWRkKCJhcmNoaXZlZCIpOwogICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>jobStates</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIEVudW1VdGlscy5nZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgU2V0PFN0cmluZz4gZmluYWxTdGF0ZXMgPSBuZXcgSGFzaFNldDw+KCk7Ci8vCi8vICAgIGZpbmFsU3RhdGVzLmFkZCh3YWl0aW5nRm9ySW52b2ljZS5uYW1lKCkpOwovLyAgICBmaW5hbFN0YXRlcy5hZGQoZG9uZS5uYW1lKCkpOwovLyAgICBmaW5hbFN0YXRlcy5hZGQoY2FuY2VsbGVkLm5hbWUoKSk7Ci8vICAgIGZpbmFsU3RhdGVzLmFkZChhcmNoaXZlZC5uYW1lKCkpOwovLyAgICByZXR1cm4gZmluYWxTdGF0ZXM7Ci8vICB9Ci8vICBwdWJsaWMgc3RhdGljIFNldDxTdHJpbmc+IEpPQl9GSU5BTF9TVEFURVMoKSB7Ci8vICAgIFNldDxTdHJpbmc+IGZpbmFsU3RhdGVzID0gbmV3IEhhc2hTZXQ8PigpOwovLwovLyAgICBmaW5hbFN0YXRlcy5hZGQod2FpdGluZ0Zvckludm9pY2UubmFtZSgpKTsKLy8gICAgZmluYWxTdGF0ZXMuYWRkKGRvbmUubmFtZSgpKTsKLy8gICAgZmluYWxTdGF0ZXMuYWRkKGNhbmNlbGxlZC5uYW1lKCkpOwovLyAgICBmaW5hbFN0YXRlcy5hZGQoYXJjaGl2ZWQubmFtZSgpKTsKLy8gICAgcmV0dXJuIGZpbmFsU3RhdGVzOwovLyAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLmVudW1zLkVudW07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVudW0uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBDb2xsZWN0aW9uPD4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU2V0PFN0cmluZz4gSk9CX0ZJTkFMX1NUQVRFUyA9IG5ldyBIYXNoU2V0PFN0cmluZz4oKTsKCiAgICBzdGF0aWMgewogICAgICAgIEpPQl9GSU5BTF9TVEFURVMuYWRkKCJ3YWl0aW5nRm9ySW52b2ljZSIpOwogICAgICAgIEpPQl9GSU5BTF9TVEFURVMuYWRkKCJkb25lIik7CiAgICAgICAgSk9CX0ZJTkFMX1NUQVRFUy5hZGQoImNhbmNlbGxlZCIpOwogICAgICAgIEpPQl9GSU5BTF9TVEFURVMuYWRkKCJhcmNoaXZlZCIpOwogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFNldDxTdHJpbmc+IEpPQl9GSU5BTF9TVEFURVMgewogICAgU2V0PFN0cmluZz4gZmluYWxTdGF0ZXMgPSBuZXcgSGFzaFNldDxTdHJpbmc+KCk7IAogICAgCiAgICBmaW5hbFN0YXRlcy5hZGQod2FpdGluZ0Zvckludm9pY2UubmFtZSgpKTsKICAgIGZpbmFsU3RhdGVzLmFkZChkb25lLm5hbWUoKSk7CiAgICBmaW5hbFN0YXRlcy5hZGQoY2FuY2VsbGVkLm5hbWUoKSk7CiAgICBmaW5hbFN0YXRlcy5hZGQoYXJjaGl2ZWQubmFtZSgpKTsKICAgIHJldHVybiBmaW5hbFN0YXRlczsKICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGF0aWMgewo=</text>
+        <text encoding="base64">Ly8gICAgU2V0PFN0cmluZz4gZmluYWxTdGF0ZXMgPSBuZXcgSGFzaFNldDw+KCk7Ci8vCi8vICAgIGZpbmFsU3RhdGVzLmFkZCh3YWl0aW5nRm9ySW52b2ljZS5uYW1lKCkpOwovLyAgICBmaW5hbFN0YXRlcy5hZGQoZG9uZS5uYW1lKCkpOwovLyAgICBmaW5hbFN0YXRlcy5hZGQoY2FuY2VsbGVkLm5hbWUoKSk7Ci8vICAgIGZpbmFsU3RhdGVzLmFkZChhcmNoaXZlZC5uYW1lKCkpOwovLyAgICByZXR1cm4gZmluYWxTdGF0ZXM7Ci8vICB9Ci8vICBwdWJsaWMgc3RhdGljIFNldDxTdHJpbmc+IEpPQl9GSU5BTF9TVEFURVMoKSB7Ci8vICAgIFNldDxTdHJpbmc+IGZpbmFsU3RhdGVzID0gbmV3IEhhc2hTZXQ8PigpOwovLwovLyAgICBmaW5hbFN0YXRlcy5hZGQod2FpdGluZ0Zvckludm9pY2UubmFtZSgpKTsKLy8gICAgZmluYWxTdGF0ZXMuYWRkKGRvbmUubmFtZSgpKTsKLy8gICAgZmluYWxTdGF0ZXMuYWRkKGNhbmNlbGxlZC5uYW1lKCkpOwovLyAgICBmaW5hbFN0YXRlcy5hZGQoYXJjaGl2ZWQubmFtZSgpKTsKLy8gICAgcmV0dXJuIGZpbmFsU3RhdGVzOwovLyAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>jobStates</text>
       </register>
     </registers>
     <search>
