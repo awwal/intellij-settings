@@ -16,7 +16,7 @@
         <mark key="." line="523" column="0" />
         <mark key="^" line="523" column="54" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/pom.xml" timestamp="1541750396665">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/pom.xml" timestamp="1541751594358">
         <mark key="[" line="145" column="31" />
         <mark key="]" line="145" column="32" />
         <mark key="." line="145" column="32" />
@@ -44,10 +44,11 @@
         <mark key="^" line="656" column="21" />
         <mark key="." line="656" column="21" />
       </file>
-      <file name="$USER_HOME$/work/java/checkstyle/pom.xml" timestamp="1541750374369">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+      <file name="$USER_HOME$/work/java/checkstyle/pom.xml" timestamp="1541751638856">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/styles/application.css" timestamp="1541539720965">
         <mark key="'" line="80" column="20" />
@@ -60,6 +61,10 @@
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" timestamp="1541586195854">
         <mark key="'" line="254" column="14" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/abakus/2.0.4/abakus-2.0.4.pom" timestamp="1541751611749">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="32" column="29" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1541591848264">
         <mark key="'" line="497" column="7" />
@@ -197,13 +202,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFNldDxTdHJpbmc+IEpPQl9GSU5BTF9TVEFURVMoKSB7CiAgICBTZXQ8U3RyaW5nPiBmaW5hbFN0YXRlcyA9IG5ldyBIYXNoU2V0PD4oKTsKCiAgICBmaW5hbFN0YXRlcy5hZGQod2FpdGluZ0Zvckludm9pY2UubmFtZSgpKTsKICAgIGZpbmFsU3RhdGVzLmFkZChkb25lLm5hbWUoKSk7CiAgICBmaW5hbFN0YXRlcy5hZGQoY2FuY2VsbGVkLm5hbWUoKSk7CiAgICBmaW5hbFN0YXRlcy5hZGQoYXJjaGl2ZWQubmFtZSgpKTsKICAgIHJldHVybiBmaW5hbFN0YXRlczsKICB9Cg==</text>
+        <text encoding="base64">ICAgIDxkaXN0cmlidXRpb25NYW5hZ2VtZW50PgogICAgICAgIDxyZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+bmV4dXM8L2lkPgogICAgICAgICAgICA8bmFtZT5BYmFrdXMgTmV4dXMgUmVwb3NpdG9yeTwvbmFtZT4KICAgICAgICAgICAgPHVybD5odHRwOi8vc3ZuLmFiYWt1cy5maS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlczwvdXJsPgogICAgICAgIDwvcmVwb3NpdG9yeT4KICAgICAgICA8c25hcHNob3RSZXBvc2l0b3J5PgogICAgICAgICAgICA8dW5pcXVlVmVyc2lvbj50cnVlPC91bmlxdWVWZXJzaW9uPgogICAgICAgICAgICA8aWQ+bmV4dXM8L2lkPgogICAgICAgICAgICA8bmFtZT5BYmFrdXMgTmV4dXMgUmVwb3NpdG9yeTwvbmFtZT4KICAgICAgICAgICAgPHVybD5odHRwOi8vc3ZuLmFiYWt1cy5maS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9zbmFwc2hvdHM8L3VybD4KICAgICAgICA8L3NuYXBzaG90UmVwb3NpdG9yeT4KICAgIDwvZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIENvbGxlY3Rpb25zLgogICAgcmV0dXJuIGpzLnRvQXJyYXkobmV3IFN0cmluZ1tqcy5zaXplKCldKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxkaXN0cmlidXRpb25NYW5hZ2VtZW50PgogICAgICAgIDxyZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+bmV4dXM8L2lkPgogICAgICAgICAgICA8bmFtZT5BYmFrdXMgTmV4dXMgUmVwb3NpdG9yeTwvbmFtZT4KICAgICAgICAgICAgPHVybD5odHRwOi8vc3ZuLmFiYWt1cy5maS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlczwvdXJsPgogICAgICAgIDwvcmVwb3NpdG9yeT4KICAgICAgICA8c25hcHNob3RSZXBvc2l0b3J5PgogICAgICAgICAgICA8dW5pcXVlVmVyc2lvbj50cnVlPC91bmlxdWVWZXJzaW9uPgogICAgICAgICAgICA8aWQ+bmV4dXM8L2lkPgogICAgICAgICAgICA8bmFtZT5BYmFrdXMgTmV4dXMgUmVwb3NpdG9yeTwvbmFtZT4KICAgICAgICAgICAgPHVybD5odHRwOi8vc3ZuLmFiYWt1cy5maS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9zbmFwc2hvdHM8L3VybD4KICAgICAgICA8L3NuYXBzaG90UmVwb3NpdG9yeT4KICAgIDwvZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHJldHVybiBqczsK</text>
