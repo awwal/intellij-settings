@@ -3,131 +3,74 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" timestamp="1542017151044">
-        <mark key="[" line="37" column="13" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="37" column="16" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/RemoveJobArtefactController.java" timestamp="1542057613597">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="73" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1542030938432">
-        <mark key="[" line="1438" column="0" />
-        <mark key="]" line="1438" column="24" />
-        <mark key="^" line="891" column="56" />
-        <mark key="." line="891" column="56" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/com.optiscangroup.fieldwork.integration.chiller.cfg" timestamp="1541546307584">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="36" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/ViewObjectController.java" timestamp="1542054378327">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="55" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/META-INF/camel/camel-context.xml" timestamp="1541548152464">
-        <mark key="[" line="523" column="0" />
-        <mark key="]" line="523" column="0" />
-        <mark key="." line="523" column="0" />
-        <mark key="^" line="523" column="54" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/filemanager/filemanager-web/2.0.14/filemanager-web-2.0.14-sources.jar!/fi/abakus/filemanager/client/web/RemoveFilesController.java" timestamp="1542058444261" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/ViewJobController.java" timestamp="1542056126756">
+        <mark key="[" line="108" column="128" />
+        <mark key="]" line="111" column="7" />
+        <mark key="." line="111" column="7" />
+        <mark key="^" line="111" column="7" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/pom.xml" timestamp="1542012553510">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/abakus/2.0.4/abakus-2.0.4.pom" timestamp="1541751611749">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="32" column="29" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/ViewRecurringJobController.java" timestamp="1542057768023">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceContractController.java" timestamp="1542029324930">
-        <mark key="[" line="59" column="43" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="0" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/BrowsePersonsController.java" timestamp="1542059284719" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/BrowseObjectsController.java" timestamp="1542059267023">
+        <mark key="[" line="493" column="0" />
+        <mark key="]" line="493" column="105" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/device-contract-servlet.xml" timestamp="1542016741537">
-        <mark key="[" line="77" column="41" />
-        <mark key="]" line="77" column="41" />
-        <mark key="." line="77" column="44" />
-        <mark key="^" line="77" column="33" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15.3-SNAPSHOT/abakus-core-api-2.2.15.3-20181111.193019-1.jar!/fi/abakus/search/QueryResultsIterator.class" timestamp="1542059241568" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/styles/application.css" timestamp="1542060223532">
+        <mark key="[" line="859" column="11" />
+        <mark key="]" line="859" column="12" />
+        <mark key="." line="859" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/BrowseObjectsController.java" timestamp="1542055479957" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1542015223278">
-        <mark key="'" line="497" column="7" />
-        <mark key="[" line="510" column="7" />
-        <mark key="]" line="510" column="5" />
-        <mark key="^" line="510" column="5" />
-        <mark key="." line="510" column="5" />
+      <file name="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/ArrayUtils.java" timestamp="1542055899305" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/ViewObjectController.java" timestamp="1542056620276">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="55" />
       </file>
-      <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan/optiscan_sun_checkstyle_v1.xml" timestamp="1541750261829">
-        <mark key="[" line="149" column="51" />
-        <mark key="]" line="150" column="16" />
-        <mark key="." line="150" column="16" />
-        <mark key="^" line="150" column="16" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceContractController.java" timestamp="1542060098311">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="95" column="18" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view-devicecontractjobs.jsp" timestamp="1542017685387">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="73" column="7" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/BrowsePersonsController.java" timestamp="1542059279411" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/view.jsp" timestamp="1542057698702">
+        <mark key="[" line="154" column="43" />
+        <mark key="]" line="154" column="63" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/browse.jsp" timestamp="1542017602550">
-        <mark key="[" line="455" column="0" />
-        <mark key="]" line="460" column="25" />
-        <mark key="." line="580" column="91" />
-        <mark key="^" line="579" column="72" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAO.java" timestamp="1541591875278">
-        <mark key="[" line="478" column="70" />
-        <mark key="]" line="479" column="75" />
-        <mark key="^" line="479" column="75" />
-        <mark key="." line="479" column="75" />
-      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobQuery.java" timestamp="1542059810874" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/log4j.properties" timestamp="1542054634653">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="4" column="44" />
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-model/2.0.6/abakus-erp-model-2.0.6-sources.jar!/fi/abakus/erp/services/JobQuery.java" timestamp="1541593776197">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="19" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/BrowseJobsController.java" timestamp="1542054510586">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/BrowseJobsController.java" timestamp="1542059922836">
         <mark key="'" line="109" column="35" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="132" column="46" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="77" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1541591888769">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="656" column="21" />
-        <mark key="]" line="656" column="21" />
-        <mark key="^" line="656" column="21" />
-        <mark key="." line="656" column="21" />
-      </file>
-      <file name="$USER_HOME$/work/java/checkstyle/pom.xml" timestamp="1541751638856">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="37" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/JobStates.java" timestamp="1541594300501">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" timestamp="1542016995146">
-        <mark key="'" line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.4/servlet-api-2.4-sources.jar!/javax/servlet/http/HttpServletResponse.java" timestamp="1542058390143" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobDAOTest.java" timestamp="1542059807913" />
+      <file name="/fragment.java" timestamp="1542056713051">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="296" column="7" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view-devicecontract.jsp" timestamp="1542017164227">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="261" column="6" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-web/2.0.6/abakus-erp-web-2.0.6-sources.jar!/fi/abakus/erp/client/web/BrowseJobsController.java" timestamp="1542057332279" />
     </filemarks>
     <jumps>
       <jump line="127" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceServiceLogServiceImpl.java" />
@@ -232,41 +175,41 @@
       <jump line="109" column="35" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/BrowseJobsController.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>job.state.readyForBilling</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoImpvYkJpbGxpbmdGbG93IiwgcXVlcnkuaXNKb2JCaWxsaW5nRmxvdygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JRdWVyeS5zZXRGZXRjaERldmljZUNvbnRyYWN0KHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFnZVNpemUoNSk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>job.state.readyForBilling</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFnZVNpemUoNSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JRdWVyeS5zZXRGZXRjaFdvcmtlcnModHJ1ZSk7CiAgICAgICAgam9iUXVlcnkuc2V0RmV0Y2hEZXZpY2UodHJ1ZSk7CiAgICAgICAgam9iUXVlcnkuc2V0RmV0Y2hBcmVhT2ZmaWNlKHRydWUpOwogICAgICAgIGpvYlF1ZXJ5LnNldEZldGNoSm9iVHlwZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFnZVNpemUoMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VzcykK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHNlc3Npb24uc2V0QXR0cmlidXRlKCIvam9icy9icm93c2UuZG86UXVlcnlSZXN1bHRzSXRlcmF0b3IiLCBpdGVyYXRvcik7CiAgICAgICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKCJqb2JCaWxsaW5nRmxvdyIsIHE=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8dGFibGUgY2xhc3M9InRhYmxlIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KCTxkaXYgY2xhc3M9ImNvbC1tZC02Ij4KCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBRdWVyeVJlc3VsdHM8PyBleHRlbmRzIEpvYj4gcmVzdWx0cyA9IGpvYlNlcnZpY2UuZ2V0Sm9icyhxdWVyeSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJPHRyPiA8dGggc3R5bGU9IndpZHRoOiAyNSU7Ij48c3ByaW5nOm1lc3NhZ2UgY29kZT0iZGV2aWNlQ29udHJhY3QuY3JlYXRlZCIgLz48L3RoPgoJCQkJPHRkPjxmbXQ6Zm9ybWF0RGF0ZSB2YWx1ZT0iJHtkZXZpY2VDb250cmFjdC5jcmVhdGVkfSIgIHBhdHRlcm49ImRkLk1NLnl5eXkgSEg6bW0iLz4KCQkJPC90cj4KCQkJPHRyPgoJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5jb2RlIiAvPjwvdGg+CgkJCQk8dGQ+PGM6b3V0IHZhbHVlPSIke2RldmljZUNvbnRyYWN0LmNvZGV9IiAvPjwvdGQ+CgkJCTwvdHI+CgkJCTx0cj4KCQkJCTx0aD48c3ByaW5nOm1lc3NhZ2UgY29kZT0iZGV2aWNlQ29udHJhY3QudGFyZ2V0LmtleSIgLz48L3RoPgoJCQkJPHRkPgoJCQkJCTxjOnVybCB2YXI9InVybCIgdmFsdWU9Ii9jdXN0b21lcnMvdmlldy5kbz9pZD0ke2RldmljZUNvbnRyYWN0LnRhcmdldC5jdXN0b21lci5pZH0iLz4KCQkJCQk8YSBocmVmPSIke3VybH0iPjxjOm91dCB2YWx1ZT0iJHtkZXZpY2VDb250cmFjdC50YXJnZXQuY3VzdG9tZXIuaWQgIH0iIC8+PC9hPgoJCQkJPC90ZD4KCQkJPC90cj4KCQkJPHRyPgoJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5uYW1lIiAvPjwvdGg+CgkJCQk8dGQ+PGM6b3V0IHZhbHVlPSIke2RldmljZUNvbnRyYWN0Lm5hbWV9IiAvPjwvdGQ+CgkJCTwvdHI+CgkJCTx0cj4KCQkJCTx0aD48c3ByaW5nOm1lc3NhZ2UgY29kZT0iZGV2aWNlQ29udHJhY3QudHlwZSIgLz48L3RoPgoJCQkJPHRkPjxjOm91dCB2YWx1ZT0iJHtkZXZpY2VDb250cmFjdC50eXBlLm5hbWV9IiAvPiAoPGZtdDptZXNzYWdlIGtleT0iZGV2aWNlQ29udHJhY3RUeXBlTGV2ZWwuJHtkZXZpY2VDb250cmFjdC50eXBlLmxldmVsfSIgLz4pPC90ZD4KCQkJPC90cj4KCQkJPHRyPgoJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5wcm9qZWN0TnVtYmVyIiAvPjwvdGg+CgkJCQk8dGQ+CgkJCQkJPGM6b3V0IHZhbHVlPSIke2RldmljZUNvbnRyYWN0LnByb2plY3ROdW1iZXJ9IiAvPgoJCQkJPC90ZD4KCQkJPC90cj4KCQkJPHRyPgoJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5wcm9qZWN0RGVzY3JpcHRpb24iIC8+PC90aD4KCQkJCTx0ZD4KCQkJCQk8YzpvdXQgdmFsdWU9IiR7ZGV2aWNlQ29udHJhY3QucHJvamVjdERlc2NyaXB0aW9ufSIgLz4KCQkJCTwvdGQ+CgkJCTwvdHI+CgkJCTx0ciB2YWxpZ249InRvcCI+CgkJCQk8dGg+PHNwcmluZzptZXNzYWdlIGNvZGU9ImRldmljZUNvbnRyYWN0LnRleHQiIC8+PC90aD4KCQkJCTx0ZD48YzpvdXQgdmFsdWU9IiR7ZGV2aWNlQ29udHJhY3QudGV4dH0iIC8+PC90ZD4KCQkJPC90cj4KCQkJPHRyPgoJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5jb250cmFjdFZlcnNpb24iIC8+PC90aD4KCQkJCTx0ZD48YzpvdXQgdmFsdWU9IiR7ZGV2aWNlQ29udHJhY3QuY29udHJhY3RWZXJzaW9ufSIgLz48L3RkPgoJCQk8L3RyPgoJCQk8dHI+CgkJCQk8dGggdmFsaWduPSJ0b3AiPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5leHRyYUluZm8iIC8+PC90aD4KCQkJCSA8YzpzZXQgdmFyPSJlaSIgdmFsdWU9IiR7Zm46cmVwbGFjZShkZXZpY2VDb250cmFjdC5leHRyYUluZm8sbmV3TGluZUNoYXIsJzxiciAvPicgKX0iIC8+CgkgICAgICAgICAgICA8dGQ+PGM6b3V0IHZhbHVlPSIke3dlYjp0b0h0bWwoZWkpfSIgZXNjYXBlWG1sPSJmYWxzZSIgLz48L3RkPgoJCQk8L3RyPgoJCQk8dHI+CgkJCQk8dGg+PHNwcmluZzptZXNzYWdlIGNvZGU9ImRldmljZUNvbnRyYWN0LmRvY3VtZW50TGluayIgLz48L3RoPgoJCQkJPHRkPjxjOm91dCB2YWx1ZT0iJHtkZXZpY2VDb250cmFjdC5kb2N1bWVudExpbmt9IiAvPjwvdGQ+CgkJCTwvdHI+CgkJCTx0cj4KCQkJCTx0aD48c3ByaW5nOm1lc3NhZ2UgY29kZT0iZGV2aWNlQ29udHJhY3Quc3RhcnREYXRlIiAvPjwvdGg+CgkJCQk8dGQ+CgkJCQkJPGZtdDpmb3JtYXREYXRlIHZhbHVlPSIke2RldmljZUNvbnRyYWN0LnN0YXJ0RGF0ZX0iIC8+CgkJCQk8L3RkPgoJCQk8L3RyPgoJCQk8dHI+CgkJCQk8dGg+PHNwcmluZzptZXNzYWdlIGNvZGU9ImRldmljZUNvbnRyYWN0LmVuZERhdGUiIC8+PC90aD4KCQkJCTx0ZD4KCQkJCQk8Zm10OmZvcm1hdERhdGUgdmFsdWU9IiR7ZGV2aWNlQ29udHJhY3QuZW5kRGF0ZX0iIC8+CgkJCQk8L3RkPgoJCQk8L3RyPgoJCQk8dHI+CgkJCQk8dGg+PHNwcmluZzptZXNzYWdlIGNvZGU9ImRldmljZUNvbnRyYWN0LmNvbnRhY3RQZXJzb24iIC8+PC90aD4KCQkJCTx0ZD4KCQkJCQk8Yzp1cmwgdmFyPSJ1cmwiIHZhbHVlPSIvcGVyc29ucy92aWV3LmRvP2lkPSR7ZGV2aWNlQ29udHJhY3QuY29udGFjdFBlcnNvbi5pZH0iLz4KCQkJCQk8YzppZiB0ZXN0PSIke25vdCBlbXB0eSBkZXZpY2VDb250cmFjdC5jb250YWN0UGVyc29ufSI+CgkJCQkJCTxjOmlmIHRlc3Q9IiR7bm90IGVtcHR5IGRldmljZUNvbnRyYWN0LmNvbnRhY3RQZXJzb24uZmlyc3ROYW1lIG9yIG5vdCBlbXB0eSBkZXZpY2VDb250cmFjdC5jb250YWN0UGVyc29uLmxhc3ROYW1lfSI+CgkJCQkJCQk8YSBocmVmPSIke3VybH0iPjxjOm91dCB2YWx1ZT0iJHtkZXZpY2VDb250cmFjdC5jb250YWN0UGVyc29uLmZpcnN0TmFtZX0gJHtkZXZpY2VDb250cmFjdC5jb250YWN0UGVyc29uLmxhc3ROYW1lfSIgLz48YnIvPjwvYT4KCQkJCQkJPC9jOmlmPgoJCQkJCQk8YSBocmVmPSIke3VybH0iPjxjOm91dCB2YWx1ZT0iJHtkZXZpY2VDb250cmFjdC5jb250YWN0UGVyc29uLmVtYWlsQWRkcmVzc30iIC8+PC9hPgoJCQkJCTwvYzppZj4KCQkJCTwvdGQ+CgkJCTwvdHI+CgkJCTx0cj4KCQkJCTx0aD48c3ByaW5nOm1lc3NhZ2UgY29kZT0iZGV2aWNlQ29udHJhY3QuYmlsbGluZ0N1c3RvbWVyIiAvPjwvdGg+CgkJCQk8dGQ+CgkJCQkJPGM6dXJsIHZhcj0idXJsIiB2YWx1ZT0iL2N1c3RvbWVycy92aWV3LmRvP2lkPSR7ZGV2aWNlQ29udHJhY3QuYmlsbGluZ0N1c3RvbWVyLmlkfSIvPgoJCQkJCTxhIGhyZWY9IiR7dXJsfSI+PGM6b3V0IHZhbHVlPSIke2RldmljZUNvbnRyYWN0LmJpbGxpbmdDdXN0b21lci5uYW1lfSIgLz48L2E+CgkJCQk8L3RkPgoJCQk8L3RyPgoJCQk8dHI+CgkJCQk8dGg+PHNwcmluZzptZXNzYWdlIGNvZGU9ImRldmljZUNvbnRyYWN0LnNlcnZpY2VDdXN0b21lciIgLz48L3RoPgoJCQkJPHRkPgoJCQkJCTxjOnVybCB2YXI9InVybCIgdmFsdWU9Ii9jdXN0b21lcnMvdmlldy5kbz9pZD0ke2RldmljZUNvbnRyYWN0LnNlcnZpY2VDdXN0b21lci5pZH0iLz4KCQkJCQk8YSBocmVmPSIke3VybH0iPjxjOm91dCB2YWx1ZT0iJHtkZXZpY2VDb250cmFjdC5zZXJ2aWNlQ3VzdG9tZXIubmFtZX0iIC8+PC9hPgoJCQkJPC90ZD4KCQkJPC90cj4KCQkJPHRyPgoJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5hZGRpdGlvbmFsSW5mbyIgLz48L3RoPgoJCQkJPHRkPjxjOm91dCB2YWx1ZT0iJHtkZXZpY2VDb250cmFjdC5hZGRpdGlvbmFsSW5mb30iIC8+PC90ZD4KCQkJPC90cj4KICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5hcmVhT2ZmaWNlIiAvPjwvdGg+CiAgICAgICAgICAgICAgICA8dGQ+PGM6b3V0IHZhbHVlPSIke2RldmljZUNvbnRyYWN0LmFyZWFPZmZpY2UubmFtZX0iIC8+PC90ZD4KICAgICAgICAgICAgPC90cj4KCQk8L3RhYmxlPgoKCTwvZGl2PgoJPGRpdiBjbGFzcz0iY29sLW1kLTQiPgoKCTwvZGl2Pgo8L2Rpdj4KCjxkaXYgY2xhc3M9InJvdyI+Cgk8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CgkJPGgyPgoJCQk8c3ByaW5nOm1lc3NhZ2UgY29kZT0iZGV2aWNlQ29udHJhY3Quc2VydmljZVBsYW4iIC8+CgkJPC9oMj4KCQk8dGFibGUgY2xhc3M9InJlY29yZCI+CgkJCTx0cj4KCQkJCTx0aD48c3ByaW5nOm1lc3NhZ2UgY29kZT0iZGV2aWNlQ29udHJhY3Quam9ic1BlclllYXIiIC8+PC90aD4KCQkJCTx0ZD4KCQkJCQk8Zm10OmZvcm1hdE51bWJlciB2YWx1ZT0iJHtkZXZpY2VDb250cmFjdC5qb2JzUGVyWWVhcn0iIC8+CgkJCQk8L3RkPgoJCQk8L3RyPgoJCQk8dHI+CgkJCQk8dGg+PHNwcmluZzptZXNzYWdlIGNvZGU9ImRldmljZUNvbnRyYWN0LmZpcnN0Sm9iRGF0ZSIgLz48L3RoPgoJCQkJPHRkPgoJCQkJCTxmbXQ6Zm9ybWF0RGF0ZSB2YWx1ZT0iJHtkZXZpY2VDb250cmFjdC5maXJzdEpvYkRhdGV9IiAvPgoJCQkJPC90ZD4KCQkJPC90cj4KCQk8L3RhYmxlPgoKCQk8YzppZiB0ZXN0PSIke25vdCBlbXB0eSBkZXZpY2VDb250cmFjdC5zZXJ2aWNlUGxhbi5wbGFufSI+CgkJCTx0YWJsZSBjbGFzcz0ibGlzdCB0YWJsZSI+CgkJCQk8dGhlYWQ+CgkJCQk8dHI+CgkJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5zZXJ2aWNlUGxhbi5kYXRlIiAvPjwvdGg+CgkJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5zZXJ2aWNlUGxhbi5qb2JUeXBlIiAvPjwvdGg+CgkJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5zZXJ2aWNlUGxhbi5qb2JDYXRlZ29yeSIgLz48L3RoPgoJCQkJCTx0aCBjbGFzcz0ibGFzdCI+Jm5ic3A7PC90aD4KCQkJCTwvdHI+CgkJCQk8L3RoZWFkPgoJCQkJPHRib2R5PgoJCQkJPGM6Zm9yRWFjaCB2YXI9InBsYW5Sb3ciIGl0ZW1zPSIke2RldmljZUNvbnRyYWN0LnNlcnZpY2VQbGFuLnBsYW59IiB2YXJTdGF0dXM9InN0YXR1cyI+CgkJCQkJPHRyIGNsYXNzPSIke3N0YXR1cy5jb3VudCAlIDIgPT0gMCA/ICdldmVuJyA6ICdvZGQnfSI+CgkJCQkJCTx0ZD4KCQkJCQkJCTxmbXQ6Zm9ybWF0RGF0ZSB2YWx1ZT0iJHtwbGFuUm93LmRhdGV9IiAvPgoJCQkJCQk8L3RkPgoJCQkJCQk8dGQ+CgkJCQkJCQk8YzpvdXQgdmFsdWU9IiR7cGxhblJvdy5qb2JUeXBlLm5hbWV9IiAvPgoJCQkJCQk8L3RkPgoJCQkJCQk8dGQ+CgkJCQkJCQk8YzpvdXQgdmFsdWU9IiR7cGxhblJvdy5qb2JDYXRlZ29yeS5uYW1lfSIgLz4KCQkJCQkJPC90ZD4KCQkJCQkJPHRkPiZuYnNwOzwvdGQ+CgkJCQkJPC90cj4KCQkJCTwvYzpmb3JFYWNoPgoJCQkJPC90Ym9keT4KCQkJPC90YWJsZT4KCQk8L2M6aWY+Cgk8L2Rpdj4KPC9kaXY+Cgo8ZGl2IGNsYXNzPSJyb3ciPgoJPGRpdiBjbGFzcz0iY29sLW1kLTYiPgoJCTxoMj4KCQkJPHNwcmluZzptZXNzYWdlIGNvZGU9ImRldmljZUNvbnRyYWN0LmRldmljZXMiIC8+CgkJPC9oMj4KCQk8YzppZiB0ZXN0PSIke25vdCBlbXB0eSBkZXZpY2VDb250cmFjdC5kZXZpY2VzfSI+CgkJCTx0YWJsZSBjbGFzcz0ibGlzdCB0YWJsZSI+CgkJCQk8dGhlYWQ+CgkJCQk8dHI+CgkJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5kZXZpY2UuZGV2aWNlIiAvPjwvdGg+CgkJCQkJPHRoPjxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5kZXZpY2UucmVzcG9uc2VUaW1lIiAvPjwvdGg+CgkJCQkJPHRoIGNsYXNzPSJsYXN0Ij4mbmJzcDs8L3RoPgoJCQkJPC90cj4KCQkJCTwvdGhlYWQ+CgkJCQk8dGJvZHk+CgkJCQk8Yzpmb3JFYWNoIHZhcj0iZGV2aWNlUm93IiBpdGVtcz0iJHtkZXZpY2VDb250cmFjdC5kZXZpY2VzfSIgdmFyU3RhdHVzPSJzdGF0dXMiPgoJCQkJCTx0ciBjbGFzcz0iJHtzdGF0dXMuY291bnQgJSAyID09IDAgPyAnZXZlbicgOiAnb2RkJ30iPgoJCQkJCQk8dGQ+CgkJCQkJCQk8Yzp1cmwgdmFyPSJ1cmwiIHZhbHVlPSIvZGV2aWNlX2NhcmRzL3ZpZXcuZG8/aWQ9JHtkZXZpY2VSb3cuZGV2aWNlQ2FyZC5pZH0iLz4KCQkJCQkJCTxhIGhyZWY9IiR7dXJsfSI+PGM6b3V0IHZhbHVlPSIke2RldmljZVJvdy5kZXZpY2VDYXJkLmxhYmVsfSIgLz48L2E+CgkJCQkJCTwvdGQ+CgkJCQkJCTx0ZD4KCQkJCQkJCTxjOm91dCB2YWx1ZT0iJHtkZXZpY2VSb3cucmVzcG9uc2VUaW1lfSIgLz4KCQkJCQkJPC90ZD4KCQkJCQkJPHRkPiZuYnNwOzwvdGQ+CgkJCQkJPC90cj4KCQkJCTwvYzpmb3JFYWNoPgoJCQkJPC90Ym9keT4KCQkJPC90YWJsZT4KCQk8L2M6aWY+Cgk8L2Rpdj4KPC9kaXY+Cgo8ZGl2IGNsYXNzPSJyb3cgc3BhY2UtdG9wIj4KCTxkaXYgY2xhc3M9ImNvbC1tZC02Ij4KCQk8c3ByaW5nOm1lc3NhZ2UgY29kZT0iY29tbW9uLmJ1dHRvbi5lZGl0IiB2YXI9ImJ0bkVkaXQiIC8+CgkJPGlucHV0IHR5cGU9ImJ1dHRvbiIgdmFsdWU9IiR7YnRuRWRpdH0iIG9uY2xpY2s9ImRvY3VtZW50LmxvY2F0aW9uPSdlZGl0LmRvP2lkPSR7ZGV2aWNlQ29udHJhY3QuaWR9JyIgLz4KCgkJPGM6dXJsIHZhcj0idXJsIiB2YWx1ZT0iL2pvYnMvYnJvd3NlLmRvIi8+CgkJPGZvcm06Zm9ybSBpZD0iam9iU2VhcmNoRm9ybSIgbmFtZT0iam9iU2VhcmNoRm9ybSIgY29tbWFuZE5hbWU9InNlYXJjaEZvcm0iIGFjdGlvbj0iJHt1cmx9IiBtZXRob2Q9IlBPU1QiIGNzc1N0eWxlPSJkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Ij4KCQkJPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iY3VycmVudFBhZ2UiIHZhbHVlPSIxIiAvPgoJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJzZWFyY2giIHZhbHVlPSJ0cnVlIiAvPgoJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJhZHZhbmNlZCIgdmFsdWU9ImZhbHNlIiAvPgoJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJwYWdlU2l6ZSIgdmFsdWU9IjI1IiAvPgoJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJzb3J0IiB2YWx1ZT0iY3JlYXRlZCBkZXNjIiAvPgoJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJ0eXBlIiB2YWx1ZT0iIiAvPgoJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJzdGF0ZSIgdmFsdWU9IndhaXRpbmdGb3JJbnZvaWNlIiAvPgoJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJ3b3JrZXJJZCIgdmFsdWU9IiIgLz4KCQkJPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iY2F0ZWdvcmllcyIgdmFsdWU9IiIgLz4KCQkJPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ibWFuYWdlcklkIiB2YWx1ZT0iIiAvPgoJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJ0YXJnZXROYW1lIiB2YWx1ZT0iIiAvPgoJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJkZWxpdmVyeUFkZHJlc3MiIHZhbHVlPSIiIC8+CgkJCTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImNpdHkiIHZhbHVlPSIiIC8+CgkJCTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImN1c3RvbWVyIiB2YWx1ZT0iIiAvPgoJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJqb2JCaWxsaW5nRmxvdyIgdmFsdWU9InRydWUiIC8+CgkJCTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImRldmljZUNvbnRyYWN0RXh0ZXJuYWxJZCIgdmFsdWU9IiR7ZGV2aWNlQ29udHJhY3QuZXh0ZXJuYWxJZH0iIC8+CgoJCQk8c3ByaW5nOm1lc3NhZ2UgY29kZT0iZGV2aWNlQ29udHJhY3QuYnV0dG9uLmFwcHJvdmVKb2JzRm9yQmlsbGluZyIgdmFyPSJidG5BcHByb3ZlRm9yQmlsbGluZyIgLz4KCQkJPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IiR7YnRuQXBwcm92ZUZvckJpbGxpbmd9IiAvPgoJCTwvZm9ybTpmb3JtPgoKCQk8Zm9ybTpmb3JtIG5hbWU9InNlbmRJbnZvaWNlIiBjb21tYW5kTmFtZT0ic2VuZEludm9pY2VGb3JtIiBtZXRob2Q9IlBPU1QiIGNzc1N0eWxlPSJkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Ij4KCQkJPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ic2VuZEludm9pY2UiIHZhbHVlPSJ0cnVlIiAvPgoJCQk8c3ByaW5nOm1lc3NhZ2UgY29kZT0iZGV2aWNlQ29udHJhY3QuYnV0dG9uLnNlbmRJbnZvaWNlIiB2YXI9ImJ0blNlbmRJbnZvaWNlIiAvPgoJCQk8aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0iJHtidG5TZW5kSW52b2ljZX0iIG9uY2xpY2s9ImphdmFzY3JpcHQ6aWYgKGNvbmZpcm0oJzxzcHJpbmc6bWVzc2FnZSBjb2RlPSJkZXZpY2VDb250cmFjdC5idXR0b24uc2VuZEludm9pY2UuY29uZmlybSIvPicpKSByZXR1cm4gdHJ1ZTsgZWxzZSByZXR1cm4gZmFsc2U7IiAvPgoJCTwvZm9ybTpmb3JtPgoKICAgICAgICA8c2VjdXJpdHk6YXV0aG9yaXplIGlmQW55R3JhbnRlZD0iUk9MRV9TVVBFUlVTRVIiPgogICAgICAgICAgICA8c3BhbiBzdHlsZT0iZmxvYXQ6IHJpZ2h0OyI+CiAgICAgICAgICAgICAgICA8d2ViOmRlbGV0ZVVuZGVsZXRlUmVtb3ZlIGVudGl0eT0iJHtkZXZpY2VDb250cmFjdH0iIC8+CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3NlY3VyaXR5OmF1dGhvcml6ZT4KCTwvZGl2Pgo8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy5zZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJPC9jOmlmPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>table</text>
+        <text>true</text>
       </register>
     </registers>
     <search>
