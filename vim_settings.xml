@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" timestamp="1542014177706" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/fi/abakus/fajanssi/Messages_en.properties" timestamp="1542014171784">
+        <mark key="[" line="891" column="57" />
+        <mark key="]" line="891" column="56" />
+        <mark key="^" line="891" column="56" />
+        <mark key="." line="891" column="56" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/com.optiscangroup.fieldwork.integration.chiller.cfg" timestamp="1541546307584">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="36" />
@@ -22,6 +29,7 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="32" column="29" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceContractController.java" timestamp="1542014191676" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1541591848264">
         <mark key="'" line="497" column="7" />
         <mark key="[" line="490" column="26" />
