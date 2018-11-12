@@ -19,7 +19,7 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/ViewObjectController.java" timestamp="1542016528823">
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/ViewObjectController.java" timestamp="1542054378327">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="55" />
       </file>
@@ -50,6 +50,7 @@
         <mark key="." line="77" column="44" />
         <mark key="^" line="77" column="33" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/BrowseObjectsController.java" timestamp="1542055479957" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1542015223278">
         <mark key="'" line="497" column="7" />
         <mark key="[" line="510" column="7" />
@@ -81,11 +82,18 @@
         <mark key="^" line="479" column="75" />
         <mark key="." line="479" column="75" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/log4j.properties" timestamp="1542054634653">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-model/2.0.6/abakus-erp-model-2.0.6-sources.jar!/fi/abakus/erp/services/JobQuery.java" timestamp="1541593776197">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/BrowseJobsController.java" timestamp="1542028346363">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/BrowseJobsController.java" timestamp="1542054510586">
+        <mark key="'" line="109" column="35" />
         <mark key="[" line="123" column="0" />
         <mark key="]" line="132" column="46" />
         <mark key="." line="2" column="20" />
@@ -122,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="4" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceServiceLogServiceImpl.java" />
       <jump line="127" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceServiceLogServiceImpl.java" />
       <jump line="41" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobAttachmentEmailHandler.java" />
       <jump line="116" column="28" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobAttachmentEmailHandler.java" />
@@ -222,6 +229,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" />
       <jump line="250" column="47" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view-devicecontract.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view-devicecontract.jsp" />
+      <jump line="109" column="35" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/BrowseJobsController.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
