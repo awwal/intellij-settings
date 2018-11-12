@@ -10,6 +10,7 @@
         <mark key="^" line="891" column="56" />
         <mark key="." line="891" column="56" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/commands/impl/SendConsolidatedInvoiceCommandDelecate.java" timestamp="1542015283715" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/com.optiscangroup.fieldwork.integration.chiller.cfg" timestamp="1541546307584">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="36" />
@@ -30,12 +31,12 @@
         <mark key="]" line="32" column="29" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceContractController.java" timestamp="1542014191676" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1541591848264">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1542015223278">
         <mark key="'" line="497" column="7" />
-        <mark key="[" line="490" column="26" />
-        <mark key="]" line="490" column="57" />
-        <mark key="^" line="490" column="57" />
-        <mark key="." line="490" column="57" />
+        <mark key="[" line="510" column="7" />
+        <mark key="]" line="510" column="5" />
+        <mark key="^" line="510" column="5" />
+        <mark key="." line="510" column="5" />
       </file>
       <file name="$USER_HOME$/work/java/checkstyle/src/main/resources/optiscan/optiscan_sun_checkstyle_v1.xml" timestamp="1541750261829">
         <mark key="[" line="149" column="51" />
