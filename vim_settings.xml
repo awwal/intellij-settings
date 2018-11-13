@@ -10,11 +10,16 @@
         <mark key="." line="111" column="7" />
         <mark key="^" line="111" column="7" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/kartta.jsp" timestamp="1542098523287">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="91" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/BrowsePersonsController.java" timestamp="1542059284719" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/BrowseObjectsController.java" timestamp="1542059267023">
         <mark key="[" line="493" column="0" />
         <mark key="]" line="493" column="105" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/customer-jobs.jsp" timestamp="1542098379747" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/layout/abakus-layout-default/1.3.10/abakus-layout-default-1.3.10.war!/WEB-INF/layout/jsp/template-fieldwork.jsp" timestamp="1542062126004" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-web/2.0.6/abakus-erp-web-2.0.6-sources.jar!/fi/abakus/erp/client/web/ViewJobController.java" timestamp="1542061220056" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job.jsp" timestamp="1542063455498" />
@@ -194,13 +199,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoImpvYkJpbGxpbmdGbG93IiwgcXVlcnkuaXNKb2JCaWxsaW5nRmxvdygpKTsK</text>
+        <text encoding="base64">ICAgIDxjOnNldCB2YXI9ImhlaWdodCIgdmFsdWU9IiR7bm90IGVtcHR5IHBhcmFtWydoZWlnaHQnXSA/IHBhcmFtWydoZWlnaHQnXSA6ICc1MDBweCd9IiAvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>super.getQueryURL()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxjOnNldCB2YXI9ImhlaWdodCIgdmFsdWU9IiR7bm90IGVtcHR5IHBhcmFtWydoZWlnaHQnXSA/IHBhcmFtWydoZWlnaHQnXSA6ICc1MDBweCd9IiAvPgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
