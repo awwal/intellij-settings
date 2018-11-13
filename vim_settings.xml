@@ -54,12 +54,12 @@
       <file name="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/ArrayUtils.java" timestamp="1542055899305" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/jobs-servlet.xml" timestamp="1542062504676" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/tiles-defs-commands.xml" timestamp="1542061934841" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceContractController.java" timestamp="1542094817444">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="85" column="93" />
-        <mark key="]" line="86" column="43" />
-        <mark key="." line="86" column="43" />
-        <mark key="^" line="86" column="43" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceContractController.java" timestamp="1542097614570">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="102" column="23" />
+        <mark key="]" line="102" column="24" />
+        <mark key="." line="102" column="24" />
+        <mark key="^" line="102" column="24" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/view.jsp" timestamp="1542057698702">
         <mark key="[" line="154" column="43" />
@@ -72,6 +72,7 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20.jar!/META-INF/tags/queryResultsIterator.tagx" timestamp="1542097548846" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/tiles-defs.xml" timestamp="1542094916007">
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="42" />
@@ -199,7 +200,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>layoutwindow</text>
+        <text>super.getQueryURL()</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -226,7 +227,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>layoutwindow</text>
+        <text>super.getQueryURL()</text>
       </register>
     </registers>
     <search>
