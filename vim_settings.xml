@@ -10,11 +10,6 @@
         <mark key="." line="111" column="7" />
         <mark key="^" line="111" column="7" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/ViewRecurringJobController.java" timestamp="1542057768023">
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="24" column="31" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/BrowsePersonsController.java" timestamp="1542059284719" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/BrowseObjectsController.java" timestamp="1542059267023">
         <mark key="[" line="493" column="0" />
@@ -59,11 +54,12 @@
       <file name="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/ArrayUtils.java" timestamp="1542055899305" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/jobs-servlet.xml" timestamp="1542062504676" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/tiles-defs-commands.xml" timestamp="1542061934841" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceContractController.java" timestamp="1542060972514">
-        <mark key="[" line="92" column="53" />
-        <mark key="]" line="92" column="56" />
-        <mark key="." line="92" column="56" />
-        <mark key="^" line="92" column="56" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceContractController.java" timestamp="1542094817444">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="85" column="93" />
+        <mark key="]" line="86" column="43" />
+        <mark key="." line="86" column="43" />
+        <mark key="^" line="86" column="43" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/view.jsp" timestamp="1542057698702">
         <mark key="[" line="154" column="43" />
@@ -76,10 +72,11 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/tiles-defs.xml" timestamp="1542063363217">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/tiles-defs.xml" timestamp="1542094916007">
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="42" />
         <mark key="." line="59" column="42" />
+        <mark key="^" line="59" column="55" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/BrowseJobsController.java" timestamp="1542059922836">
         <mark key="'" line="109" column="35" />
@@ -93,7 +90,6 @@
       <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-web/2.0.6/abakus-erp-web-2.0.6-sources.jar!/fi/abakus/erp/client/web/BrowseJobsController.java" timestamp="1542057332279" />
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobAttachmentEmailHandler.java" />
       <jump line="116" column="28" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/JobAttachmentEmailHandler.java" />
       <jump line="205" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" />
       <jump line="232" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewJobController.java" />
@@ -193,43 +189,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view-devicecontract.jsp" />
       <jump line="109" column="35" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/BrowseJobsController.java" />
       <jump line="12" column="3" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" />
+      <jump line="136" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceContractController.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoImpvYkJpbGxpbmdGbG93IiwgcXVlcnkuaXNKb2JCaWxsaW5nRmxvdygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFnZVNpemUoNSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>template</text>
+        <text>layoutwindow</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFnZVNpemUoMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VzcykK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHNlbmRJbnZvaWNlID0gQm9vbGVhblV0aWxzLnRvQm9vbGVhbihyZXF1ZXN0LmdldFBhcmFtZXRlcigic2VuZEludm9pY2UiKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHNlc3Npb24uc2V0QXR0cmlidXRlKCIvam9icy9icm93c2UuZG86UXVlcnlSZXN1bHRzSXRlcmF0b3IiLCBpdGVyYXRvcik7CiAgICAgICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKCJqb2JCaWxsaW5nRmxvdyIsIHE=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFnZVNpemUoNSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFnZVNpemUoMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VzcykK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBRdWVyeVJlc3VsdHM8PyBleHRlbmRzIEpvYj4gcmVzdWx0cyA9IGpvYlNlcnZpY2UuZ2V0Sm9icyhxdWVyeSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHNlc3Npb24uc2V0QXR0cmlidXRlKCIvam9icy9icm93c2UuZG86UXVlcnlSZXN1bHRzSXRlcmF0b3IiLCBpdGVyYXRvcik7CiAgICAgICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKCJqb2JCaWxsaW5nRmxvdyIsIHE=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy5zZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>template</text>
+        <text>layoutwindow</text>
       </register>
     </registers>
     <search>
