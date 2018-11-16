@@ -125,12 +125,13 @@
         <mark key="^" line="657" column="21" />
         <mark key="." line="657" column="21" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/billing/BillingMessageGenerator.java" timestamp="1542361740149">
-        <mark key="'" line="60" column="57" />
-        <mark key="[" line="43" column="0" />
-        <mark key="m" line="41" column="38" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/billing/BillingMessageGenerator.java" timestamp="1542363405288">
+        <mark key="'" line="183" column="24" />
+        <mark key="[" line="24" column="54" />
+        <mark key="m" line="50" column="38" />
+        <mark key="]" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+        <mark key="^" line="25" column="3" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/new_job_in.xml" timestamp="1542360167628">
         <mark key="'" line="307" column="45" />
@@ -359,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="63" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/report/service/impl/JobReportFormValueDiff.java" />
       <jump line="75" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/JobArtefactUtil.java" />
       <jump line="11" column="56" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/item_in.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/item_in.xml" />
@@ -459,6 +459,7 @@
       <jump line="2521" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/job_in.xml" />
       <jump line="307" column="45" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/new_job_in.xml" />
       <jump line="218" column="30" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/billing/BillingMessage.java" />
+      <jump line="175" column="24" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/billing/BillingMessageGenerator.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -467,35 +468,35 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ConsolidatedInvoiceMessage</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2Uuc2V0Q29tcGV0ZW5jZUNsYXNzaWZpY2F0aW9uKGpvYi5nZXRSYXRpbmcoKS5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPEpvYlR5cGU+IGpvYlR5cGUgPSAgT3B0aW9uYWwuZnJvbU51bGxhYmxlKGpvYi5nZXRUeXBlKCkpOwo=</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2Uuc2V0Q29tcGV0ZW5jZUNsYXNzaWZpY2F0aW9uKGpvYi5nZXRSYXRpbmcoKS5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpvYlR5cGUuZ2V0KCkuCg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPEpvYlR5cGU+IGpvYlR5cGUgPSAgT3B0aW9uYWwuZnJvbU51bGxhYmxlKGpvYi5nZXRUeXBlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzdGFydERhdGU+PHhzbDp2YWx1ZS1vZiBzZWxlY3Q9ImN1cnJlbnQtZ3JvdXAoKSwgJ1QnKSIgLz48L3N0YXJ0RGF0ZT4K</text>
+        <text encoding="base64">ICAgIGpvYlR5cGUuZ2V0KCkuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08c3RhcnREYXRlPjx4c2w6dmFsdWUtb2Ygc2VsZWN0PSJzdWJzdHJpbmctYmVmb3JlKGN1cnJlbnQtZ3JvdXAoKSwgJ1QnKSIgLz48L3N0YXJ0RGF0ZT4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzdGFydERhdGU+PHhzbDp2YWx1ZS1vZiBzZWxlY3Q9ImN1cnJlbnQtZ3JvdXAoKSwgJ1QnKSIgLz48L3N0YXJ0RGF0ZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2F0ZWdvcnk+CiAgICAgICAgICAgIDxjcmVhdGVkPjIwMTgtMDItMjNUMDk6NDI6MjAuNjgxKzAyOjAwPC9jcmVhdGVkPgogICAgICAgICAgICA8Y3JlYXRlZEJ5PmFiYWt1czwvY3JlYXRlZEJ5PgogICAgICAgICAgICA8bGFzdE1vZGlmaWVkPjIwMTgtMDItMjNUMDk6NDI6MjAuNjgxKzAyOjAwPC9sYXN0TW9kaWZpZWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjA8L3ZlcnNpb24+CiAgICAgICAgICAgIDxuYW1lPlZ1b3NpaHVvbHRvPC9uYW1lPgogICAgICAgICAgICA8b3JkZXJpbmc+OTk8L29yZGVyaW5nPgogICAgICAgIDwvY2F0ZWdvcnk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08c3RhcnREYXRlPjx4c2w6dmFsdWUtb2Ygc2VsZWN0PSJzdWJzdHJpbmctYmVmb3JlKGN1cnJlbnQtZ3JvdXAoKSwgJ1QnKSIgLz48L3N0YXJ0RGF0ZT4tLT4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8Y2F0ZWdvcnk+CiAgICAgICAgICAgIDxjcmVhdGVkPjIwMTgtMDItMjNUMDk6NDI6MjAuNjgxKzAyOjAwPC9jcmVhdGVkPgogICAgICAgICAgICA8Y3JlYXRlZEJ5PmFiYWt1czwvY3JlYXRlZEJ5PgogICAgICAgICAgICA8bGFzdE1vZGlmaWVkPjIwMTgtMDItMjNUMDk6NDI6MjAuNjgxKzAyOjAwPC9sYXN0TW9kaWZpZWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjA8L3ZlcnNpb24+CiAgICAgICAgICAgIDxuYW1lPlZ1b3NpaHVvbHRvPC9uYW1lPgogICAgICAgICAgICA8b3JkZXJpbmc+OTk8L29yZGVyaW5nPgogICAgICAgIDwvY2F0ZWdvcnk+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJlYU9mZmljZT4KICAgICAgICAgICAgPGNyZWF0ZWQ+MjAxNy0xMC0wMlQxMDoxMzozNi4zNjUrMDM6MDA8L2NyZWF0ZWQ+CiAgICAgICAgICAgIDxjcmVhdGVkQnk+YWJha3VzPC9jcmVhdGVkQnk+CiAgICAgICAgICAgIDxsYXN0TW9kaWZpZWQ+MjAxNy0xMC0wMlQxMDoyMzozMC43MzArMDM6MDA8L2xhc3RNb2RpZmllZD4KICAgICAgICAgICAgPGxhc3RNb2RpZmllZEJ5PmFiYWt1czwvbGFzdE1vZGlmaWVkQnk+CiAgICAgICAgICAgIDx2ZXJzaW9uPjE8L3ZlcnNpb24+CiAgICAgICAgICAgIDxuYW1lPlR1dXN1bGE8L25hbWU+CiAgICAgICAgPC9hcmVhT2ZmaWNlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8Y2F0ZWdvcnk+CiAgICAgICAgICAgIDxjcmVhdGVkPjIwMTgtMDItMjNUMDk6NDI6MjAuNjgxKzAyOjAwPC9jcmVhdGVkPgogICAgICAgICAgICA8Y3JlYXRlZEJ5PmFiYWt1czwvY3JlYXRlZEJ5PgogICAgICAgICAgICA8bGFzdE1vZGlmaWVkPjIwMTgtMDItMjNUMDk6NDI6MjAuNjgxKzAyOjAwPC9sYXN0TW9kaWZpZWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjA8L3ZlcnNpb24+CiAgICAgICAgICAgIDxuYW1lPlZ1b3NpaHVvbHRvPC9uYW1lPgogICAgICAgICAgICA8b3JkZXJpbmc+OTk8L29yZGVyaW5nPgogICAgICAgIDwvY2F0ZWdvcnk+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IE9wdGlvbmFsPD4oKQ==</text>
+        <text>ConsolidatedInvoiceMessage</text>
       </register>
     </registers>
     <search>
