@@ -11,6 +11,10 @@
         <mark key="^" line="108" column="11" />
         <mark key="." line="108" column="11" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/kartta.jsp" timestamp="1542098523287">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="91" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/BrowsePersonsController.java" timestamp="1542059284719" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15.3-SNAPSHOT/abakus-core-api-2.2.15.3-20181111.193019-1.jar!/fi/abakus/core/model/BillingInfo.class" timestamp="1542136659016" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/util/SerializableResourceBundleMessageSource.java" timestamp="1542107275846">
@@ -26,8 +30,16 @@
         <mark key="." line="580" column="91" />
         <mark key="^" line="579" column="72" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl-dataset.xml" timestamp="1542138978022">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="120" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-web/2.0.6/abakus-erp-web-2.0.6-sources.jar!/fi/abakus/erp/client/web/ViewJobController.java" timestamp="1542223923680" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/mapper/JobToExportJobMapper.java" timestamp="1542144214022" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/ViewObjectController.java" timestamp="1542270320188">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="140" column="81" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/commands/ConsolidatedInvoiceMessage.java" timestamp="1542136078627" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/layout/abakus-layout-default/1.3.10/abakus-layout-default-1.3.10.war!/WEB-INF/layout/conf/tiles-defs-fieldwork.xml" timestamp="1542100896301" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServicePlanDateCreator.java" timestamp="1542285057400" />
@@ -39,6 +51,7 @@
         <mark key="^" line="114" column="159" />
         <mark key="." line="114" column="159" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/services/JobService.java" timestamp="1542350922872" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/audit/DeviceServiceLogController.java" timestamp="1542109637604">
         <mark key="'" line="67" column="60" />
         <mark key="[" line="65" column="0" />
@@ -52,12 +65,12 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/DeviceServicePlanRow.java" timestamp="1542285201408" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/BrowseJobTimeEntriesController.java" timestamp="1542101786907" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/JobProduct.java" timestamp="1542212725439" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/commands/impl/SendConsolidatedInvoiceCommandDelecate.java" timestamp="1542139268292">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="49" column="78" />
-        <mark key="]" line="49" column="78" />
-        <mark key="." line="49" column="78" />
-        <mark key="^" line="49" column="77" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/commands/impl/SendConsolidatedInvoiceCommandDelecate.java" timestamp="1542351123306">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="45" column="49" />
+        <mark key="." line="45" column="49" />
+        <mark key="^" line="45" column="49" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/ConsolidatedInvoiceMessage.java" timestamp="1542186631183">
         <mark key="'" line="378" column="0" />
@@ -79,9 +92,6 @@
         <mark key="." line="43" column="40" />
         <mark key="^" line="43" column="48" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/model/JobTimes.java" timestamp="1542283575641">
-        <mark key="'" line="135" column="27" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/util/EntityUtil.java" timestamp="1542110906138" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/BillingDetails.java" timestamp="1542136671472" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20-sources.jar!/fi/abakus/core/client/web/EditCompanyController.java" timestamp="1542104015672" />
@@ -98,6 +108,16 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/workQueueContext.xml" timestamp="1542351131452">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="33" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/resources/sql/20.sql" timestamp="1542350320395">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="63" />
+        <mark key="^" line="0" column="62" />
+        <mark key="." line="0" column="62" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/Job.java" timestamp="1542285669276">
         <mark key="'" line="515" column="16" />
         <mark key="[" line="656" column="21" />
@@ -105,7 +125,7 @@
         <mark key="^" line="656" column="21" />
         <mark key="." line="656" column="21" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/billing/BillingMessageGenerator.java" timestamp="1542286730177">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/billing/BillingMessageGenerator.java" timestamp="1542350477189">
         <mark key="'" line="56" column="57" />
         <mark key="[" line="136" column="0" />
         <mark key="m" line="39" column="38" />
@@ -121,7 +141,7 @@
         <mark key="^" line="39" column="125" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-util/2.2.19/abakus-core-util-2.2.19-sources.jar!/fi/abakus/core/util/sql/DatabaseSchemaMigrator.java" timestamp="1542285483666" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/billing/WorkEntry.java" timestamp="1542222626913">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/billing/WorkEntry.java" timestamp="1542289257267">
         <mark key="'" line="11" column="2" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="37" />
@@ -135,6 +155,12 @@
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="13" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/event/handlers/ExportEventHandler.java" timestamp="1542353309844">
+        <mark key="[" line="81" column="21" />
+        <mark key="]" line="81" column="21" />
+        <mark key="^" line="80" column="28" />
+        <mark key="." line="81" column="21" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-web/2.2.20/abakus-core-web-2.2.20.jar!/META-INF/tags/queryResultsIterator.tagx" timestamp="1542099353058" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/BrowseJobsController.java" timestamp="1542281060096">
         <mark key="'" line="109" column="35" />
@@ -143,17 +169,27 @@
         <mark key="." line="159" column="11" />
         <mark key="^" line="159" column="11" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1542107626313" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/applicationContext.xml" timestamp="1542353315923" />
       <file name="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.4/servlet-api-2.4-sources.jar!/javax/servlet/http/HttpServletResponse.java" timestamp="1542058390143" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-web/2.0.6/abakus-erp-web-2.0.6-sources.jar!/fi/abakus/erp/client/web/BrowseJobsController.java" timestamp="1542057332279" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/filemanager/filemanager-web/2.0.14/filemanager-web-2.0.14-sources.jar!/fi/abakus/filemanager/client/web/RemoveFilesController.java" timestamp="1542058444261" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/META-INF/camel/camel-context.xml" timestamp="1542351995583">
+        <mark key="[" line="523" column="0" />
+        <mark key="]" line="523" column="0" />
+        <mark key="." line="523" column="0" />
+        <mark key="^" line="523" column="54" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/customer-jobs.jsp" timestamp="1542098379747" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/layout/abakus-layout-default/1.3.10/abakus-layout-default-1.3.10.war!/WEB-INF/layout/jsp/template-fieldwork.jsp" timestamp="1542223745956" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/edit-job.jsp" timestamp="1542063455498" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/org.springframework.web/3.0.5.RELEASE/org.springframework.web-3.0.5.RELEASE-sources.jar!/org/springframework/web/bind/ServletRequestUtils.java" timestamp="1542109791954" />
       <file name="$MAVEN_REPOSITORY$/fi/abakus/layout/abakus-layout-default/1.3.10/abakus-layout-default-1.3.10.war!/WEB-INF/layout/jsp/content.jsp" timestamp="1542063333365" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/org.springframework.context/3.0.5.RELEASE/org.springframework.context-3.0.5.RELEASE-sources.jar!/org/springframework/context/support/ReloadableResourceBundleMessageSource.java" timestamp="1542106150587" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/billing/BillingMessage.java" timestamp="1542222918530">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/main/resources/transformations/job.xsl" timestamp="1542351549570">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="95" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/billing/BillingMessage.java" timestamp="1542289243061">
         <mark key="'" line="212" column="14" />
         <mark key="[" line="212" column="36" />
         <mark key="]" line="212" column="38" />
@@ -170,6 +206,10 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="6" column="48" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/RemoveJobArtefactController.java" timestamp="1542057613597">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="73" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" timestamp="1542282671733">
         <mark key="'" line="12" column="3" />
         <mark key="[" line="26" column="0" />
@@ -180,11 +220,11 @@
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/AddBackupPersonController.java" timestamp="1542103587451" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ajax/FindCustomersController.java" timestamp="1542102145125" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/model/ExportJob.java" timestamp="1542144235860" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/commands/SendConsolidatedInvoiceCommand.java" timestamp="1542139259146">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="35" />
-        <mark key="^" line="24" column="20" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/commands/SendConsolidatedInvoiceCommand.java" timestamp="1542353258916">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/job_out.xml" timestamp="1542214206866" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/model/JobTimeEntry.java" timestamp="1542284123714">
@@ -194,6 +234,10 @@
         <mark key="." line="223" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fi/abakus/core/abakus-core-api/2.2.15.3-SNAPSHOT/abakus-core-api-2.2.15.3-20181111.193019-1.jar!/fi/abakus/search/QueryResultsIterator.class" timestamp="1542282271747" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/ServiceDiaryServiceImpl.java" timestamp="1542139632165">
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="226" column="59" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/view.jsp" timestamp="1542279393729">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="291" column="0" />
@@ -219,6 +263,10 @@
         <mark key="]" line="141" column="79" />
         <mark key="^" line="141" column="79" />
         <mark key="." line="141" column="79" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImplTest.java" timestamp="1542138185608">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/ViewDeviceContractController.java" timestamp="1542286984315">
         <mark key="'" line="107" column="38" />
@@ -246,13 +294,18 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1542288067510">
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1542352180615">
         <mark key="'" line="497" column="7" />
-        <mark key="[" line="489" column="0" />
-        <mark key="]" line="489" column="0" />
+        <mark key="[" line="504" column="0" />
+        <mark key="]" line="507" column="55" />
         <mark key="^" line="505" column="32" />
         <mark key="." line="489" column="0" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/customers/view.jsp" timestamp="1542057698702">
+        <mark key="[" line="154" column="43" />
+        <mark key="]" line="154" column="63" />
+      </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/commands/impl/ExportDelegate.java" timestamp="1542352039183" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/com/optiscangroup/fieldwork/integration/model/BusinessObjectWrapper.java" timestamp="1542115674745" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/resources/log4j.properties" timestamp="1542054634653">
         <mark key="[" line="4" column="63" />
@@ -266,11 +319,18 @@
         <mark key="." line="59" column="22" />
         <mark key="^" line="59" column="22" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/jobs/attachments.jsp" timestamp="1542226525774">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="54" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/billing/QuantityEntry.java" timestamp="1542215353115">
         <mark key="[" line="25" column="83" />
         <mark key="]" line="25" column="97" />
         <mark key="^" line="25" column="97" />
         <mark key="." line="25" column="97" />
+      </file>
+      <file name="/fragment.java" timestamp="1542351370113">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -377,40 +437,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWEuYWRkKFJlc3RyaWN0aW9ucy5pbGlrZSgibG9jYXRpb25JZCIsIGxvY2F0aW9uSWQsIE1hdGNoTW9kZS5BTllXSEVSRSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VuZENvbnNvbGlkYXRlZEludm9pY2VDb21tYW5kIGNvbW1hbmQgPSBuZXcgU2VuZENvbnNvbGlkYXRlZEludm9pY2VDb21tYW5kKCk7CiAgICAgICAgICAgIGNvbW1hbmQuc2V0Sm9iSWRzKEVudGl0eVV0aWwuaWRzKGpvYnMuZ2V0UGFnZUVsZW1lbnRzKCkpKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGNvbW1hbmRJbnZva2VyLmV4ZWN1dGVDb21tYW5kKGNvbW1hbmQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJCeVNlcnZpY2VQbGFuKGNyaXRlcmlhVHJlZSwgcXVlcnkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEJpZ0RlY2ltYWwgYmQ7IGJkLmFkZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgQFRyYW5zaWVudAovLyAgICBwdWJsaWMgQmlnRGVjaW1hbCBnZXRBY2NlcHRlZE9yUmVwb3J0ZWRXb3JraW5nSG91cnMoKSB7Ci8vICAgICAgICBpZiAodGhpcy5pc0hhc1dvcmtpbmdIb3Vyc0JlZW5BY2NlcHRlZCgpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIHRoaXMuZ2V0QWNjZXB0ZWRUaW1lcygpLmdldFdvcmtpbmdIb3VycygpOwovLyAgICAgICAgfQovLyAgICAgICAgZWxzZSB7Ci8vICAgICAgICAgICAgcmV0dXJuIHRoaXMuZ2V0VGltZXMoKSAhPSBudWxsID8gdGhpcy5nZXRUaW1lcygpLmdldFdvcmtpbmdIb3VycygpIDogbnVsbDsKLy8gICAgICAgIH0KLy8gICAgfQoKLy8gICAgQFRyYW5zaWVudAovLyAgICBwdWJsaWMgQmlnRGVjaW1hbCBnZXRBY2NlcHRlZE9yUmVwb3J0ZWRPdmVydGltZUhvdXJzKCkgewovLyAgICAgICAgaWYgKHRoaXMuaXNIYXNPdmVydGltZUhvdXJzQmVlbkFjY2VwdGVkKCkpIHsKLy8gICAgICAgICAgICByZXR1cm4gdGhpcy5nZXRBY2NlcHRlZFRpbWVzKCkuZ2V0T3ZlcnRpbWVIb3VycygpOwovLyAgICAgICAgfQovLyAgICAgICAgZWxzZSB7Ci8vICAgICAgICAgICAgcmV0dXJuIHRoaXMuZ2V0VGltZXMoKSAhPSBudWxsID8gdGhpcy5nZXRUaW1lcygpLmdldE92ZXJ0aW1lSG91cnMoKSA6IG51bGw7Ci8vICAgICAgICB9Ci8vICAgIH0KCi8vICAgIEBUcmFuc2llbnQKLy8gICAgcHVibGljIEJpZ0RlY2ltYWwgZ2V0QWNjZXB0ZWRPclJlcG9ydGVkSW52b2ljZWFibGVIb3VycygpIHsKLy8gICAgICAgIGlmICh0aGlzLmlzSGFzSW52b2ljZWFibGVIb3Vyc0JlZW5BY2NlcHRlZCgpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIHRoaXMuZ2V0QWNjZXB0ZWRUaW1lcygpLmdldEludm9pY2VhYmxlSG91cnMoKTsKLy8gICAgICAgIH0KLy8gICAgICAgIGVsc2UgewovLyAgICAgICAgICAgIHJldHVybiB0aGlzLmdldFRpbWVzKCkgIT0gbnVsbCA/IHRoaXMuZ2V0VGltZXMoKS5nZXRJbnZvaWNlYWJsZUhvdXJzKCkgOiBudWxsOwovLyAgICAgICAgfQovLyAgICB9Ci8vCi8vICAgIEBUcmFuc2llbnQKLy8gICAgcHVibGljIEJpZ0RlY2ltYWwgZ2V0QWNjZXB0ZWRPclJlcG9ydGVkVHJhdmVsSG91cnMoKSB7Ci8vICAgICAgICBpZiAodGhpcy5pc0hhc1RyYXZlbEhvdXJzQmVlbkFjY2VwdGVkKCkpIHsKLy8gICAgICAgICAgICByZXR1cm4gdGhpcy5nZXRBY2NlcHRlZFRpbWVzKCkuZ2V0VHJhdmVsSG91cnMoKTsKLy8gICAgICAgIH0KLy8gICAgICAgIGVsc2UgewovLyAgICAgICAgICAgIHJldHVybiB0aGlzLmdldFRpbWVzKCkgIT0gbnVsbCA/IHRoaXMuZ2V0VGltZXMoKS5nZXRUcmF2ZWxIb3VycygpIDogbnVsbDsKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgU2VuZENvbnNvbGlkYXRlZEludm9pY2VDb21tYW5kKCkgewogICAgfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgU2VuZENvbnNvbGlkYXRlZEludm9pY2VDb21tYW5kKExpc3Q8SW50ZWdlcj4gam9iSWRzKSB7CiAgICAgICAgdGhpcy5qb2JJZHMgPSBqb2JJZHM7CiAgICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmdldEFjY2VwdGVkT3JSZXBvcnRlZFdvcmtpbmdIb3VycygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbWQuZ2V0RGV2aWNlQ2FyZGRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PGEgaHJlZj0iI2pvYnMiIGNsYXNzPSIke3BhcmFtWyd0YWInXSA9PSAnam9icycgPyAnc2VsZWN0ZWQnIDogJyd9Ij48Zm10Om1lc3NhZ2Uga2V5PSJKb2JzIiAvPjwvYT48L2xpPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Collections.singleton(ejc.getId())</text>
       </register>
     </registers>
     <search>
