@@ -85,6 +85,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="65" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/device_contract_in.xml" timestamp="1542370613765" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/EditCompanyController.java" timestamp="1542103983193" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/billing/BillingMessageGeneratorTest.java" timestamp="1542222422740">
         <mark key="[" line="43" column="40" />
@@ -126,13 +127,12 @@
         <mark key="^" line="657" column="21" />
         <mark key="." line="657" column="21" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/billing/BillingMessageGenerator.java" timestamp="1542368812334">
-        <mark key="'" line="192" column="24" />
-        <mark key="[" line="35" column="0" />
-        <mark key="m" line="59" column="38" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/billing/BillingMessageGenerator.java" timestamp="1542370559326">
+        <mark key="'" line="28" column="102" />
+        <mark key="[" line="38" column="0" />
+        <mark key="m" line="74" column="38" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/new_job_in.xml" timestamp="1542360167628">
         <mark key="'" line="307" column="45" />
@@ -354,6 +354,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="54" />
       </file>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/billing/Combinable.java" timestamp="1542369987613">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+      </file>
       <file name="/job_in.xml" timestamp="1542354241634">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="112" />
@@ -366,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/JobArtefactUtil.java" />
       <jump line="11" column="56" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/item_in.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/item_in.xml" />
       <jump line="179" column="0" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/item_in.xml" />
@@ -466,43 +471,44 @@
       <jump line="307" column="45" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/integration/src/test/resources/testdata/new_job_in.xml" />
       <jump line="218" column="30" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/model/src/main/java/fi/abakus/fajanssi/billing/BillingMessage.java" />
       <jump line="175" column="24" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/billing/BillingMessageGenerator.java" />
+      <jump line="28" column="102" filename="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/com/optiscangroup/fieldwork/billing/BillingMessageGenerator.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text encoding="base64">Zm9yLWVhY2gtZ3JvdXAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VGb3JtYXQuZm9ybWF0KCJjZGQiKQo=</text>
+        <text encoding="base64">ICAgIGRldmljZUNvbnRyYWN0LmdldEMK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>key</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRldmljZUNvbnRyYWN0LmdldEMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuYW1lID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzcGxpdC5sZW5ndGg+MCl7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIFN0cmluZyBqb2JUeXBlID0gam9icy5pdGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyLnN1YnN0cmluZygwLCBpbmRleCk7Cg==</text>
+        <text encoding="base64">CiAgICBTdHJpbmcgdGl0bGUgPSBjb250cmFjdFR5cGUgKyAiICIgKyBjb21wYW55TmFtZSArICIgIiArIGRldmljZUNvdW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShzdHIpKSB7CiAgICAgICAgICAgIHJldHVybiBzdHI7CiAgICAgICAgfQogICAgICAgIGludCBpbmRleCA9IHN0ci5pbmRleE9mKGMpOwogICAgICAgIGlmIChpbmRleCA8PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBzdHI7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBCaWxsaW5nTWVzc2FnZSBvdXRwdXQgPSBuZXcgQmlsbGluZ01lc3NhZ2UoKTsKICAgIGZvciAoSm9iIGpvYiA6IGpvYnMpIHsKICAgICAgQ29sbAogICAgICAKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgQmlsbAogICAgICAgVGl0bGVDb21iaW5hdGlvbiB0aXRsZUNvbWJpbmF0aW9uID0gbmV3ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>summarizedContractType</text>
       </register>
     </registers>
     <search>
