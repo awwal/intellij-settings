@@ -3,9 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/vaadin/vaadin-spring/1.1.1/vaadin-spring-1.1.1-sources.jar!/com/vaadin/spring/navigator/SpringNavigator.java" timestamp="1540837384616">
-        <mark key="[" line="160" column="16" />
-        <mark key="]" line="160" column="16" />
+      <file name="$USER_HOME$/proj/interview-practise/src/main/scala/example/MagicSq.scala" timestamp="1542648054028">
+        <mark key="[" line="26" column="95" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/TopicService.scala" timestamp="1540675235528">
         <mark key="[" line="61" column="47" />
@@ -44,6 +46,12 @@
         <mark key="^" line="69" column="34" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/proj/LearnScala/src/main/scala/com/lawal/codility/BigSum.scala" timestamp="1542530313458">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/QuestionBankView.scala" timestamp="1541332582382">
         <mark key="'" line="104" column="35" />
         <mark key="[" line="148" column="8" />
@@ -71,6 +79,18 @@
         <mark key="]" line="67" column="41" />
         <mark key="^" line="67" column="41" />
         <mark key="." line="67" column="41" />
+      </file>
+      <file name="$USER_HOME$/proj/interview-practise/src/main/scala/example/BigSum.scala" timestamp="1542645511559">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="90" column="58" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
+      </file>
+      <file name="/sbtShell" timestamp="1542531448040">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/Status.scala" timestamp="1540496633798">
         <mark key="[" line="2" column="21" />
@@ -112,6 +132,11 @@
       </file>
       <file name="$USER_HOME$/proj/dashboard-demo/src/main/java/com/vaadin/demo/dashboard/component/SparklineChart.java" timestamp="1540848329849">
         <mark key="'" line="79" column="14" />
+      </file>
+      <file name="$USER_HOME$/proj/LearnScala/src/main/scala/com/salafix/learn/ExitStatus.scala" timestamp="1542530435339">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/QuestionBankView.java" timestamp="1540676121724">
         <mark key="'" line="0" column="0" />
@@ -163,6 +188,11 @@
         <mark key="^" line="12" column="73" />
         <mark key="." line="12" column="73" />
       </file>
+      <file name="$USER_HOME$/proj/LearnScala/build.sbt" timestamp="1542530154461">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ApplicationUI.java" timestamp="1541019694110">
         <mark key="]" line="57" column="40" />
         <mark key="." line="79" column="0" />
@@ -205,11 +235,6 @@
         <mark key="^" line="52" column="24" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/AccessCheckerService.scala" timestamp="1540838318015">
-        <mark key="'" line="25" column="15" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="21" />
-      </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/docgen/adt/DocumentGenerator.scala" timestamp="1540502989277">
         <mark key="[" line="41" column="61" />
         <mark key="]" line="41" column="61" />
@@ -240,7 +265,7 @@
         <mark key="." line="132" column="30" />
         <mark key="^" line="132" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1541318272751">
+      <file name="/fragment.java" timestamp="1542531473498">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/QuestionService.scala" timestamp="1541318409373">
@@ -251,8 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.scala" />
-      <jump line="280" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.scala" />
       <jump line="197" column="1" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.scala" />
       <jump line="294" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.scala" />
       <jump line="198" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/component/CBTUserEditForm.scala" />
@@ -351,46 +374,45 @@
       <jump line="49" column="35" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/UserManagementUi.scala" />
       <jump line="66" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/UserManagementUi.scala" />
       <jump line="79" column="14" filename="$USER_HOME$/proj/dashboard-demo/src/main/java/com/vaadin/demo/dashboard/component/SparklineChart.java" />
+      <jump line="24" column="15" filename="$USER_HOME$/proj/LearnScala/src/main/scala/com/salafix/learn/ExitStatus.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/LearnScala/src/main/scala/com/salafix/learn/ExitStatus.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c3ByaW5nYm9vdHN0YXJ0ZXIudmVyc2lvbj4xLjQuMy5SRUxFQVNFPC9zcHJpbmdib290c3RhcnRlci52ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIGkgPC0gKDAgdG8gMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIG1hdChpKShqKT12YWx1ZQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIG1hdChpKShqKT12YWx1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHByaW50bG4obWF0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjcuNy43PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICBvcHRUYWJsZS5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLlRBQkxFX05PX1NUUklQRVMpOwo=</text>
+        <text encoding="base64">ICAoMCB0byA5KS5mb3JlYWNoeyB2ID0+CgogICAgdmFsIG1hdCA9IGNoYW5nZU1hdChpLGosIGFycmF5LCB2KQoKCiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgb3B0VGFibGUuc2V0SGUK</text>
+        <text encoding="base64">ICB2YXIgaSxqPTAKICBmb3IoIGkgPC0gKDAgdG8gMikpewogICAgCiAgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>ightUndefined()
-//    val p = new Panel
-//    p.setContent(table)
-//    p.setSizeFull()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICBhcnJheShpKShqKT12YWx1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldEhlaWdodCgxMDAsIFNpemVhYmxlLlVuaXQuUEVSQ0VOVEFHRSkK</text>
+        <text encoding="base64">ICAgIGFycmF5LnVwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wdFRhYmxlLnNldFdpZHRoKDEwMCwgU2l6ZWFibGUuVW5pdC5QRVJDRU5UQUdFKQo=</text>
+        <text encoding="base64">ICAgIHggKyAzKzQ9IHggKyAxKyA2PSB4KzUrMgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>ll</text>
       </register>
     </registers>
     <search>
