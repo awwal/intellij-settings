@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/jsp/device-contract/view.jsp" timestamp="1542703758884">
+        <mark key="[" line="43" column="84" />
+        <mark key="]" line="43" column="84" />
+        <mark key="." line="43" column="84" />
+      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/resources/default-process-definition.xml" timestamp="1542699174894">
         <mark key="[" line="101" column="28" />
         <mark key="]" line="101" column="49" />
@@ -104,12 +109,6 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImpl.java" timestamp="1542627354910">
-        <mark key="'" line="495" column="0" />
-        <mark key="[" line="501" column="0" />
-        <mark key="]" line="539" column="9" />
-        <mark key="." line="527" column="0" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/resources/fi/abakus/fajanssi/processDefinitionContext-handlers.xml" timestamp="1542627551629">
         <mark key="[" line="124" column="35" />
         <mark key="]" line="124" column="35" />
@@ -123,12 +122,6 @@
         <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/java/fi/abakus/fajanssi/services/impl/DeviceContractServiceImplTest.java" timestamp="1542700239324" />
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/commands/impl/ExportDelegate.java" timestamp="1542621440959">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/main/java/fi/abakus/fajanssi/dao/hibernate/HibernateJobRatingDAO.java" timestamp="1542699632941">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -270,7 +263,7 @@
         <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoImpvYklkcz0iKS5hcHBlbmQoam9iSWRzKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>id</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGZpLmFiYWt1cy5mYWphbnNzaS5tb2RlbC5Kb2JUeXBlOwo=</text>
@@ -297,7 +290,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkJ1enoiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>id</text>
       </register>
     </registers>
     <search>
