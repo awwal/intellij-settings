@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/workqueue/workqueue-web/2.0.0/workqueue-web-2.0.0-sources.jar!/fi/abakus/workqueue/web/InvokeCommandController.java" timestamp="1542798036821" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/core/src/test/resources/fi/abakus/fajanssi/services/impl/FajanssiJobServiceImpl-dataset.xml" timestamp="1542700267880">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="78" />
@@ -61,12 +62,12 @@
         <mark key="]" line="127" column="62" />
         <mark key="." line="127" column="59" />
       </file>
-      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/SendJobBillingController.java" timestamp="1542794768512">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="99" column="61" />
-        <mark key="]" line="99" column="61" />
-        <mark key="." line="99" column="61" />
-        <mark key="^" line="99" column="59" />
+      <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/java/fi/abakus/fajanssi/client/web/job/SendJobBillingController.java" timestamp="1542798023203">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="99" column="47" />
+        <mark key="]" line="103" column="51" />
+        <mark key="." line="103" column="51" />
+        <mark key="^" line="103" column="51" />
       </file>
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/web/src/main/resources/default-process-definition.xml" timestamp="1542732922462">
         <mark key="[" line="101" column="28" />
@@ -126,7 +127,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-web/2.0.6/abakus-erp-web-2.0.6-sources.jar!/fi/abakus/erp/client/web/InvokeJobCommandController.java" timestamp="1542794695566" />
+      <file name="$MAVEN_REPOSITORY$/fi/abakus/erp/abakus-erp-web/2.0.6/abakus-erp-web-2.0.6-sources.jar!/fi/abakus/erp/client/web/InvokeJobCommandController.java" timestamp="1542797952823" />
       <file name="$USER_HOME$/work/java/chl/chiller-fieldwork/webapp/admin/src/main/webapp/WEB-INF/conf/tiles-defs-commands.xml" timestamp="1542735317631">
         <mark key="[" line="45" column="69" />
         <mark key="]" line="38" column="29" />
@@ -273,7 +274,7 @@
         <text encoding="base64">IDwvc2VjOmF1dGhvcml6ZT4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>?jobId=617304</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICA8c2VjdXJpdHk6YXV0aG9yaXplIGlmQW55R3JhbnRlZD0iUk9MRV9TVVBFUlVTRVIsIFJPTEVfTUFOQUdFUiwgUk9MRV9XT1JLRVIiPgo=</text>
@@ -300,7 +301,7 @@
         <text encoding="base64">L2NyZWF0ZUludm9pY2UuZG8iIGNsYXNzPSJmaS5hYmFrdXMuZXJwLmNsaWVudC53ZWIuRm9ybUJhc2VkSm9iQ29tbWFuZENvbnRyb2xsZXIiPgogICAgICAgIDxjb25zdHJ1Y3Rvci1hcmcgcmVmPSJqb2JTZXJ2aWNlIiAvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJjb21tYW5kQ2xhc3MiIHZhbHVlPSJmaS5hYmFrdXMuZmFqYW5zc2kuY29tbWFuZHMuTWFya0pvYkRvbmVDb21tYW5kIiAvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJiaW5kT25OZXdGb3JtIiB2YWx1ZT0idHJ1ZSIgLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iZm9ybVZpZXciIHZhbHVlPSJqb2JzLm1hcmtKb2JEb25lIiAvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJzdWNjZXNzVmlldyIgdmFsdWU9InJlZGlyZWN0Oi9qb2JzL3ZpZXcuZG8iIC8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InByb3BlcnR5RWRpdG9yTWFwTmFtZSI+CiAgICAgICAgICAgIDxpZHJlZiBiZWFuPSJjb21tb25FZGl0b3JzIiAvPgogICAgICAgIDwvcHJvcGVydHk+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InZhbGlkYXRvciI+CiAgICAgICAgICAgIDxiZWFuIGNsYXNzPSJmaS5hYmFrdXMuY29yZS51dGlsLlJlcXVpcmVkUHJvcGVydHlWYWxpZGF0b3IiPgogICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9Inplcm9Jc0VtcHR5IiB2YWx1ZT0idHJ1ZSIgLz4KICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJlcnJvckNvZGVQcmVmaXgiIHZhbHVlPSJtYXJrSm9iRG9uZS4iIC8+CiAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iZXJyb3JDb2RlU3VmZml4IiB2YWx1ZT0iLnJlcXVpcmVkIiAvPgogICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InJlcXVpcmVkUHJvcGVydGllcyI+CiAgICAgICAgICAgICAgICAgICAgPHNldD4KICAgICAgICAgICAgICAgICAgICAgICAgPHZhbHVlPmNvbW1lbnQ8L3ZhbHVlPgogICAgICAgICAgICAgICAgICAgIDwvc2V0PgogICAgICAgICAgICAgICAgPC9wcm9wZXJ0eT4KICAgICAgICAgICAgPC9iZWFuPgogICAgICAgIDwvcHJvcGVydHk+CiAgICA8L2JlYW4+</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>?jobId=617304</text>
       </register>
     </registers>
     <search>
