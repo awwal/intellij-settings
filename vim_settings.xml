@@ -162,7 +162,7 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" timestamp="1540501291066">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" timestamp="1545123896383">
         <mark key="'" line="506" column="70" />
         <mark key="[" line="346" column="64" />
         <mark key="]" line="348" column="103" />
@@ -193,7 +193,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/PaintFactory/src/main/scala/zalando/interview/EliminationTechnique.scala" timestamp="1542653057347" />
+      <file name="$USER_HOME$/proj/interview-practise/src/main/scala/example/Pzle.scala" timestamp="1545112057535">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/ApplicationUI.java" timestamp="1541019694110">
         <mark key="]" line="57" column="40" />
         <mark key="." line="79" column="0" />
@@ -383,37 +388,37 @@
         <text encoding="base64">ICAgIGkgPC0gKDAgdG8gMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hdChpKShqKT12YWx1ZQo=</text>
+        <text encoding="base64">ICBjbGFzcyBQZXJzb24gKG5hbWU6U3RyaW5nLCBzYWxhcnk6IERvdWJsZSl7CiAgICB2YXIgZnVsbE5hbWUgPSBuYW1lCiAgICB2YXIgaW5jb21lID0gc2FsYXJ5CiAgfQoKICB2YXIgbGF3YWwgPSBuZXcgUGVyc29uKCJsYXdhbCIsIDEwMC41MCkKICB2YXIgZGVqaSA9IG5ldyBQZXJzb24oImRlamkiLCA0NC41NjcpCgoKICBsYXdhbC5pbmNvbWU9ZGVqaS5pbmNvbWUKCiAgcHJpbnRsbihsYXdhbC5mdWxsTmFtZSsiICIrbGF3YWwuaW5jb21lKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hdChpKShqKT12YWx1ZQo=</text>
+        <text encoding="base64">ICBjbGFzcyBQZXJzb24gKG5hbWU6U3RyaW5nLCBzYWxhcnk6IERvdWJsZSl7CiAgICB2YXIgZnVsbE5hbWUgPSBuYW1lCiAgICB2YXIgaW5jb21lID0gc2FsYXJ5CiAgfQoKICB2YXIgbGF3YWwgPSBuZXcgUGVyc29uKCJsYXdhbCIsIDEwMC41MCkKICB2YXIgZGVqaSA9IG5ldyBQZXJzb24oImRlamkiLCA0NC41NjcpCgoKICBsYXdhbC5pbmNvbWU9ZGVqaS5pbmNvbWUKCiAgcHJpbnRsbihsYXdhbC5mdWxsTmFtZSsiICIrbGF3YWwuaW5jb21lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHByaW50bG4obWF0KQo=</text>
+        <text encoding="base64">ICAgIG1hdChpKShqKT12YWx1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgIHByaW50bG4obWF0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoMCB0byA5KS5mb3JlYWNoeyB2ID0+CgogICAgdmFsIG1hdCA9IGNoYW5nZU1hdChpLGosIGFycmF5LCB2KQoKCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgaSxqPTAKICBmb3IoIGkgPC0gKDAgdG8gMikpewogICAgCiAgfQo=</text>
+        <text encoding="base64">ICAoMCB0byA5KS5mb3JlYWNoeyB2ID0+CgogICAgdmFsIG1hdCA9IGNoYW5nZU1hdChpLGosIGFycmF5LCB2KQoKCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICBhcnJheShpKShqKT12YWx1ZQo=</text>
+        <text encoding="base64">ICB2YXIgaSxqPTAKICBmb3IoIGkgPC0gKDAgdG8gMikpewogICAgCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFycmF5LnVwCg==</text>
+        <text encoding="base64">ICAgICBhcnJheShpKShqKT12YWx1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHggKyAzKzQ9IHggKyAxKyA2PSB4KzUrMgo=</text>
+        <text encoding="base64">ICAgIGFycmF5LnVwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHggKyAzKzQ9IHggKyAxKyA2PSB4KzUrMgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ll</text>
+        <text>class</text>
       </register>
     </registers>
     <search>
