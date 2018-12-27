@@ -3,6 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/ModelConverter.scala" timestamp="1545921467905" />
+      <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/UserDTO.scala" timestamp="1545919422622" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" timestamp="1545906690475">
         <mark key="[" line="411" column="27" />
         <mark key="]" line="411" column="30" />
@@ -13,16 +15,28 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="22" column="53" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/PublicApiUserService.scala" timestamp="1545915226429">
-        <mark key="[" line="47" column="82" />
-        <mark key="]" line="47" column="52" />
-        <mark key="." line="47" column="58" />
-        <mark key="^" line="45" column="59" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/howto.md" timestamp="1545920733884">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="56" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1545915156004">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.scala" timestamp="1545919462741">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="84" column="30" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/documentation/src/site/markdown/database/re-create-db.sh" timestamp="1545920052488">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/PublicApiUserService.scala" timestamp="1545921836565">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1545921639904">
+        <mark key="[" line="91" column="8" />
+        <mark key="]" line="91" column="11" />
+        <mark key="." line="91" column="11" />
+        <mark key="^" line="91" column="11" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/ClassListings.scala" timestamp="1545906579322">
         <mark key="[" line="91" column="109" />
@@ -40,34 +54,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91cCA9IHVzZXJTZXJ2aWNlLmdldEdyb3VwRm9yU2Nob29sKHNpZCwgZm91clN1YmplY3RzLmdyb3VwTmFtZSwgR3JvdXBUeXBlLlN0dWRlbnRzKSBtYXRjaCB7CiAgICAgIGNhc2UgTm9uZSA9PgogICAgICAgIHZhbCBuZXdHcm91cCA9IHVzZXJTZXJ2aWNlLmNyZWF0ZUdyb3VwKHNpZCwgZm91clN1YmplY3RzLmdyb3VwTmFtZSwgR3JvdXBUeXBlLlN0dWRlbnRzKQo=</text>
+        <text encoding="base64">ICAgIHVzZXJEVE8uc2V0TGFzdE5hbWUodXNlck5hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgdmFsIHNjaG9vbCA9ICAgICAgc2Nob29sUmVwby5maW5kT25lQnlOYW1lSWdub3JlQ2FzZSgiRElHSVRBTCBQVUxTRSIpCg==</text>
+        <text encoding="base64">ICAgIHVzZXJEVE8uc2V0RGEK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>fourSubjects.groupName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVzZXJEVE8uc2V0RGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJEVE8uc2V0Uih1c2VyTmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzY2hvb2wgPSBzY2hvb2xSZXBvLmZpbmQK</text>
+        <text encoding="base64">ICAgICAgUmVzcG9uc2VFbnRpdHkuYmFkUmVxdWVzdCgpCiAgICAgICAgLmJvZHkoIlNjaCkKCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVzZXJEVE8gZHRvID0gbmV3IFVzZXJEVE8oLTFMLCB1c2VyTmFtZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyAgICAgICAgICAgICAgICAgICBAQmVhblByb3BlcnR5IHZhciBzY2hvb2xJZDogTG9uZywK</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICB1c2VyRFRPLnNldEZpcnN0TmFtZSgiYWRlIik7CiAgICAvLyAgICAgICAgdXNlckRUTy5zZXRNaWRkbGVOYW1lKCJhZGUiKTsKICAgIC8vICAgICAgICB1c2VyRFRPLnNldExhc3ROYW1lKCJhZGUiKTsKICAgIC8vICAgICAgICB1c2VyRFRPLnNldFVzZXJOYW1lKCJhZGUiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChncm91cCAhPSBudWxsKSBuZXdVc2VyLmdldEdyb3Vwcy5hZGQoZ3JvdXApCg==</text>
+        <text encoding="base64">CiAgICAgdmFsIHNjaG9vbCA9ICAgICAgc2Nob29sUmVwby5maW5kT25lQnlOYW1lSWdub3JlQ2FzZSgiRElHSVRBTCBQVUxTRSIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbCBncm91Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhbCBzY2hvb2wgPSBzY2hvb2xSZXBvLmZpbmQK</text>
       </register>
       <register name="-" type="4">
-        <text>fourSubjects.groupName</text>
+        <text>LastName</text>
       </register>
     </registers>
     <search>
@@ -87,6 +107,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
