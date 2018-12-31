@@ -33,11 +33,12 @@
         <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/EmailService.scala" timestamp="1546035084461" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1545925860915">
-        <mark key="[" line="91" column="8" />
-        <mark key="]" line="91" column="11" />
-        <mark key="." line="91" column="11" />
-        <mark key="^" line="91" column="11" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1546245521507">
+        <mark key="'" line="113" column="34" />
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/ClassListings.scala" timestamp="1545906579322">
         <mark key="[" line="91" column="109" />
@@ -52,16 +53,19 @@
         <mark key="." line="9" column="21" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="103" column="2" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
+      <jump line="111" column="34" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
+    </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEBBcGlNb2RlbFByb3BlcnR5KGRhdGFUeXBlID0gImphdmEudXRpbC5MaXN0IikKICAgICAgICAgICAgICAgICAgIEBCZWFuUHJvcGVydHkgdmFyIHN1YmplY3RzOkxpc3RbU3RyaW5nXSwK</text>
+        <text encoding="base64">ICAgIHZhbCBESUdJVEFMUFVMU0UgPSAiRElHSVRBTCBQVUxTRSIKICAgIHZhbCBvcHRTY2hvb2wgPSBzY2hvb2xSZXBvLmZpbmRPbmVCeU5hbWVJZ25vcmVDYXNlKERJR0lUQUxQVUxTRSkKICAgIGlmICghb3B0U2Nob29sLmlzUHJlc2VudCkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihzIlNjaG9vbCAkRElHSVRBTFBVTFNFIG5vdCBmb3VuZCIpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVzZXJEVE8uc2V0RGEK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>Sub</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHVzZXJEVE8uc2V0Uih1c2VyTmFtZSkK</text>
@@ -88,7 +92,7 @@
         <text encoding="base64">ICAgIHZhbCBzY2hvb2wgPSBzY2hvb2xSZXBvLmZpbmQK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Sub</text>
       </register>
     </registers>
     <search>
