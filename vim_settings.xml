@@ -11,9 +11,9 @@
         <mark key="^" line="411" column="30" />
         <mark key="." line="411" column="30" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/NewUserJson.scala" timestamp="1545914278485">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="53" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/NewUserJson.scala" timestamp="1545925933197">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="59" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/howto.md" timestamp="1545920733884">
         <mark key="[" line="10" column="0" />
@@ -32,7 +32,8 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1545925705186">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/EmailService.scala" timestamp="1546035084461" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1545925860915">
         <mark key="[" line="91" column="8" />
         <mark key="]" line="91" column="11" />
         <mark key="." line="91" column="11" />
@@ -44,23 +45,23 @@
         <mark key="." line="91" column="118" />
         <mark key="^" line="91" column="118" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/DPulseUser.scala" timestamp="1545914316936">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/DPulseUser.scala" timestamp="1545925950576">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVzZXJEVE8uc2V0TGFzdE5hbWUodXNlck5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEBBcGlNb2RlbFByb3BlcnR5KGRhdGFUeXBlID0gImphdmEudXRpbC5MaXN0IikKICAgICAgICAgICAgICAgICAgIEBCZWFuUHJvcGVydHkgdmFyIHN1YmplY3RzOkxpc3RbU3RyaW5nXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVzZXJEVE8uc2V0RGEK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzZXJEVE8uc2V0RGEK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHVzZXJEVE8uc2V0Uih1c2VyTmFtZSkK</text>
@@ -87,7 +88,7 @@
         <text encoding="base64">ICAgIHZhbCBzY2hvb2wgPSBzY2hvb2xSZXBvLmZpbmQK</text>
       </register>
       <register name="-" type="4">
-        <text>LastName</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
