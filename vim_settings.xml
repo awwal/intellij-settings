@@ -51,10 +51,11 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Solution.java" timestamp="1549726557180">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Solution.java" timestamp="1549754685014">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1546290648848">
         <mark key="'" line="120" column="0" />
