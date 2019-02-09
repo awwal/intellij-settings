@@ -51,11 +51,10 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Solution.java" timestamp="1549670240300">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="24" column="17" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="19" column="16" />
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Solution.java" timestamp="1549726557180">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1546290648848">
         <mark key="'" line="120" column="0" />
@@ -108,34 +107,34 @@
         <text encoding="base64">ICAgIFNldDxDaGFyYWN0ZXI+IGpzID0gbmV3IEhhc2hTZXQ8PigpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBKLmxlbmd0aCgpOyBpKyspIHsKICAgICAganMuYWRkKEouY2hhckF0KGkpKTsKICAgIH0KCiAgICBpbnQgY291bnQ9MDsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgUy5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgQ2hhcmFjdGVyIHMgPSBTLmNoYXJBdChpKTsKICAgICAgICBpZihqcy5jb250YWlucyhzKSl7CiAgICAgICAgICBjb3VudCsrOwogICAgICAgIH0KICAgIH0KICAgIHJldHVybiBjb3VudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudD0wOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNldDxDaGFyYWN0ZXI+IGpzID0gbmV3IEhhc2hTZXQ8PigpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBKLmxlbmd0aCgpOyBpKyspIHsKICAgICAganMuYWRkKEouY2hhckF0KGkpKTsKICAgIH0KCiAgICBpbnQgY291bnQ9MDsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgUy5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgQ2hhcmFjdGVyIHMgPSBTLmNoYXJBdChpKTsKICAgICAgICBpZihqcy5jb250YWlucyhzKSl7CiAgICAgICAgICBjb3VudCsrOwogICAgICAgIH0KICAgIH0KICAgIHJldHVybiBjb3VudDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTUUxPdXRwdXQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1hcDxDaGFyYWN0ZXIsSW50ZWdlcj4gaiA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgSi5sZW5ndGgoKTsgaSsrKSB7CiAgICAgIGoucHV0KEouY2hhckF0KDApKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGludCBjb3VudD0wOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCBjb3VudDsK</text>
+        <text encoding="base64">ICAgICAgICBTUUxPdXRwdXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGVsc2V7CiAgICAgICAgIAogICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIE1hcDxDaGFyYWN0ZXIsSW50ZWdlcj4gaiA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgSi5sZW5ndGgoKTsgaSsrKSB7CiAgICAgIGoucHV0KEouY2hhckF0KDApKQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IG51bXM7IGkrKykgewogICAgICAKICAgICAgCiAgICB9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGludCBjb3VudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgIGVsc2V7CiAgICAgICAgIAogICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoSW50ZWdlciBpbnRlZ2VyIDogdXUpIHsK</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IG51bXM7IGkrKykgewogICAgICAKICAgICAgCiAgICB9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtcy5sZW5ndGg7IGkrKykgewogICAgICAgaW50IGNvbXAgPSB0YXJnZXQgLSBudW1zW2ldOwoKICAgICAgZm9yIChpbnQgaiA9IGkrMTsgaiA8IG51bXMubGVuZ3RoOyBqKyspIHsKCiAgICAgICAgIGlmKGNvbXA9PW51bXNbal0pewogICAgICAgICAgIHJldHVybiBuZXcgaW50W117aSxqfTsKICAgICAgICAgfQoKICAgICAgfQogICAgfQogICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIk5vIHNvbHV0aW9uIGZvdW5kIik7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>int</text>
