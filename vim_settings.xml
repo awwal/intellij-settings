@@ -28,11 +28,11 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="41" column="59" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Autonomics.java" timestamp="1549824682131">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-        <mark key="^" line="10" column="6" />
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Autonomics.java" timestamp="1549826168741">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/howto.md" timestamp="1545920733884">
         <mark key="[" line="10" column="0" />
@@ -120,37 +120,37 @@
         <text encoding="base64">ICAgIGdvQnJlYWR0aEZpcnN0KG5vZGUubGVmdCx4cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHdyaXRlIHlvdXIgY29kZSBpbiBKYXZhIFNFIDgK</text>
+        <text encoding="base64">ICAgICAgIGJzW2FdPXRydWU7IAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHhzLmFkZChub2RlLnZhbCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IExpc3Q8Qm9vbGVhbj4gYnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGZvciAoaW50IGEgOiBBKSB7CiAgICAgIGlmKGE+MCl7CiAgICAgICAgYnMuYWRkKGEsZmFsc2UpOwogICAgICB9CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFkZE5vZGVMZWZ0UmlnaHQobm9kZSx4cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIGFkZE5vZGVMZWZ0UmlnaHQoVHJlZU5vZGUgbm9kZSxMaXN0PEludGVnZXI+IGNoaWxkKSB7CiAgICBpZihub2RlPT1udWxsKXJldHVybjsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoIWJzW2ldKXsKICAgICAgICByZXR1cm4gaTsKICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICBpZihub2RlLmxlZnQhPW51bGwpCiAgICAgY2hpbGQuYWRkKG5vZGUubGVmdC52YWwpOwogICAgIGlmKG5vZGUucmlnaHQhPW51bGwpCiAgICAgICBjaGlsZC5hZGQobm9kZS5yaWdodC52YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBic1thXT10cnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW5bXSBicyAgPW5ldyBib29sZWFuW0EubGVuZ3RoKzFdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZE5vZGVMZWZ0UmlnaHQobm9kZS5yaWdodCx4cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZE5vZGVMZWZ0UmlnaHQobm9kZS5sZWZ0LHhzKTsK</text>
+        <text encoding="base64">ICAgICAgYnNbYV09dHJ1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICByZXR1cm4gY2hpbGQ7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoYm9vbGVhbiBiIDogYnMpIHsKICAgICAgaWYoKQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
