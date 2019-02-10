@@ -28,8 +28,11 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="41" column="59" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Autonomics.java" timestamp="1549821812796">
-        <mark key="[" line="2" column="25" />
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Autonomics.java" timestamp="1549824682131">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/howto.md" timestamp="1545920733884">
         <mark key="[" line="10" column="0" />
@@ -117,37 +120,37 @@
         <text encoding="base64">ICAgIGdvQnJlYWR0aEZpcnN0KG5vZGUubGVmdCx4cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHhzLmFkZChub2RlLnZhbCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIHdyaXRlIHlvdXIgY29kZSBpbiBKYXZhIFNFIDgK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>left</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFkZE5vZGVMZWZ0UmlnaHQobm9kZSx4cyk7Cg==</text>
+        <text encoding="base64">ICAgIHhzLmFkZChub2RlLnZhbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIGFkZE5vZGVMZWZ0UmlnaHQoVHJlZU5vZGUgbm9kZSxMaXN0PEludGVnZXI+IGNoaWxkKSB7CiAgICBpZihub2RlPT1udWxsKXJldHVybjsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGFkZE5vZGVMZWZ0UmlnaHQobm9kZSx4cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICBpZihub2RlLmxlZnQhPW51bGwpCiAgICAgY2hpbGQuYWRkKG5vZGUubGVmdC52YWwpOwogICAgIGlmKG5vZGUucmlnaHQhPW51bGwpCiAgICAgICBjaGlsZC5hZGQobm9kZS5yaWdodC52YWwpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIGFkZE5vZGVMZWZ0UmlnaHQoVHJlZU5vZGUgbm9kZSxMaXN0PEludGVnZXI+IGNoaWxkKSB7CiAgICBpZihub2RlPT1udWxsKXJldHVybjsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBpZihub2RlLmxlZnQhPW51bGwpCiAgICAgY2hpbGQuYWRkKG5vZGUubGVmdC52YWwpOwogICAgIGlmKG5vZGUucmlnaHQhPW51bGwpCiAgICAgICBjaGlsZC5hZGQobm9kZS5yaWdodC52YWwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkZE5vZGVMZWZ0UmlnaHQobm9kZS5yaWdodCx4cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZE5vZGVMZWZ0UmlnaHQobm9kZS5sZWZ0LHhzKTsK</text>
+        <text encoding="base64">ICAgIGFkZE5vZGVMZWZ0UmlnaHQobm9kZS5yaWdodCx4cyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICByZXR1cm4gY2hpbGQ7Cg==</text>
+        <text encoding="base64">ICAgIGFkZE5vZGVMZWZ0UmlnaHQobm9kZS5sZWZ0LHhzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICBMaXN0PEludGVnZXI+IGNoaWxkID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICByZXR1cm4gY2hpbGQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
