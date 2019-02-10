@@ -51,11 +51,11 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Solution.java" timestamp="1549754685014">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Solution.java" timestamp="1549756317640">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="34" column="3" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1546290648848">
         <mark key="'" line="120" column="0" />
@@ -76,11 +76,12 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/App.java" timestamp="1549670110401">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="66" />
-        <mark key="." line="13" column="66" />
-        <mark key="^" line="13" column="66" />
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/App.java" timestamp="1549755928539">
+        <mark key="'" line="15" column="30" />
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/PublicApiUserService.scala" timestamp="1546625360504">
         <mark key="[" line="122" column="0" />
@@ -102,43 +103,44 @@
       <jump line="116" column="20" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
       <jump line="129" column="28" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
       <jump line="109" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
+      <jump line="13" column="30" filename="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/App.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNldDxDaGFyYWN0ZXI+IGpzID0gbmV3IEhhc2hTZXQ8PigpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBKLmxlbmd0aCgpOyBpKyspIHsKICAgICAganMuYWRkKEouY2hhckF0KGkpKTsKICAgIH0KCiAgICBpbnQgY291bnQ9MDsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgUy5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgQ2hhcmFjdGVyIHMgPSBTLmNoYXJBdChpKTsKICAgICAgICBpZihqcy5jb250YWlucyhzKSl7CiAgICAgICAgICBjb3VudCsrOwogICAgICAgIH0KICAgIH0KICAgIHJldHVybiBjb3VudDsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIHJldmVyc2VBdChjaGFyIFtdIHhzLCBpbnQgaW5kZXgpewoKICAgIGlmKCB4cy5sZW5ndGg9PTAgfHwgIGluZGV4IDwgeHMubGVuZ3RoLzIpcmV0dXJuOwoKICAgICAgaW50IGxlbiA9IHhzLmxlbmd0aDsKICAgICAgaW50IGogPSBsZW4gLSBpbmRleCAtMTsKCiAgICAgIGNoYXIgdGVtcCA9IHhzW2luZGV4XTsKCiAgICAgIHhzW2luZGV4XT14c1tqXTsKICAgICAgeHNbal0gPSB0ZW1wOwoKICAgICByZXZlcnNlQXQoeHMsaW5kZXgtMSk7CgogIH0KCiAgcHVibGljIHN0YXRpYyB2b2lkIHJldmVyc2VTdHJpbmcoY2hhcltdIHhzKSB7CiAgICAgICByZXZlcnNlQXQoeHMseHMubGVuZ3RoLTEpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIHJldmVyc2VBdCh4cywwKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIHJldmVyc2VBdChjaGFyIFtdIHhzLCBpbnQgaW5kZXgpewoKICAgIGlmKCB4cy5sZW5ndGg9PTAgfHwgIGluZGV4IDwgeHMubGVuZ3RoLzIpcmV0dXJuOwoKICAgICAgaW50IGxlbiA9IHhzLmxlbmd0aDsKICAgICAgaW50IGogPSBsZW4gLSBpbmRleCAtMTsKCiAgICAgIGNoYXIgdGVtcCA9IHhzW2luZGV4XTsKCiAgICAgIHhzW2luZGV4XT14c1tqXTsKICAgICAgeHNbal0gPSB0ZW1wOwoKICAgICByZXZlcnNlQXQoeHMsaW5kZXgtMSk7CgogIH0KCiAgcHVibGljIHN0YXRpYyB2b2lkIHJldmVyc2VTdHJpbmcoY2hhcltdIHhzKSB7CiAgICAgICByZXZlcnNlQXQoeHMseHMubGVuZ3RoLTEpOwogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIHJldmVyc2VBdChjaGFyIFtdIHhzLCBpbnQgaW5kZXgpewoKICAgIGlmKCB4cy5sZW5ndGg9PTAgfHwgIGluZGV4ID4geHMubGVuZ3RoLzIpcmV0dXJuOwoKICAgICAgaW50IGxlbiA9IHhzLmxlbmd0aDsKICAgICAgaW50IGogPSBsZW4gLSBpbmRleCAtMTsKCiAgICAgIGNoYXIgdGVtcCA9IHhzW2luZGV4XTsKCiAgICAgIHhzW2luZGV4XT14c1tqXTsKICAgICAgeHNbal0gPSB0ZW1wOwoKICAgICByZXZlcnNlQXQoeHMsaW5kZXgrMSk7CgogIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudD0wOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTUUxPdXRwdXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1hcDxDaGFyYWN0ZXIsSW50ZWdlcj4gaiA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgSi5sZW5ndGgoKTsgaSsrKSB7CiAgICAgIGoucHV0KEouY2hhckF0KDApKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCBjb3VudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGVsc2V7CiAgICAgICAgIAogICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0gICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IG51bXM7IGkrKykgewogICAgICAKICAgICAgCiAgICB9IAo=</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgeHMubGVuZ3RoIC8gMjsgaSsrKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>4</text>
       </register>
     </registers>
     <search>
