@@ -87,6 +87,12 @@
         <mark key="." line="133" column="30" />
         <mark key="^" line="133" column="64" />
       </file>
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/InPlace.java" timestamp="1550004249951">
+        <mark key="[" line="7" column="87" />
+        <mark key="]" line="7" column="88" />
+        <mark key="^" line="7" column="87" />
+        <mark key="." line="7" column="88" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/ClassListings.scala" timestamp="1545906579322">
         <mark key="[" line="91" column="109" />
         <mark key="]" line="91" column="118" />
@@ -132,15 +138,24 @@
         <text encoding="base64">CiAgICBNYXA8SW50ZWdlcixJbnRlZ2VyPiBudW1Ub09jY3VycmVudCAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICBmb3IgKGludCBhIDogQSkgewogICAgICBpZihudW1Ub09jY3VycmVudC5jb250YWluc0tleShhKSl7CiAgICAgICAgbnVtVG9PY2N1cnJlbnQucHV0KGEsIG51bVRvT2NjdXJyZW50LmdldChhKSArIDEpOwogICAgICB9CiAgICAgIGVsc2UgewogICAgICAgIG51bVRvT2NjdXJyZW50LnB1dElmQWJzZW50KGEsIDEpOwogICAgICB9CgogICAgfQoKICAgIGZvciAoSW50ZWdlciBrIDogbnVtVG9PY2N1cnJlbnQua2V5U2V0KCkpIHsKCiAgICAgIGludCB2YWx1ZSA9IG51bVRvT2NjdXJyZW50LmdldChrKTsKICAgICAgaWYoIHZhbHVlICUgMiAhPTApewogICAgICAgICAgcmV0dXJuICBrOwogICAgICAgIH0KICAgIH0KICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIk5vIHNvbHV0aW9uIGZvdW5kIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaWYoTWF0aC5hYnModmFsdWVzW2ZpcnN0XSk+TWF0aC5hYnModmFsdWVzW2xhc3RdKSkK</text>
+        <text encoding="base64">ICAgICB3aGlsZShpPGopewoKICAgICAgIGkrKzsKICAgICAgIGotLTsKICAgICB9CgogIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gaWYoTWF0aC5hYnModmFsdWVzW2ZpcnN0XSk+TWF0aC5hYnModmFsdWVzW2xhc3RdKSkK</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgQS5sZW5ndGg7IGkrKykgewogICAgICAKICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gaWYoTWF0aC5hYnModmFsdWVzW2ZpcnN0XSk+TWF0aC5hYnModmFsdWVzW2xhc3RdKSkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGludFtdIHJlc3VsdCA9IG5ldyBpbnRbQS5sZW5ndGhdOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>int left = 0;
     int right = A.length - 1;
     int resultPointer = A.length - 1;
@@ -162,26 +177,17 @@
             }
             }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICIiLnRvTG93ZXJDYXNlKCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGsrIiAiK3ZhbHVlKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbnVtVG9PY2N1cnJlbnQucHV0KGEsIG51bVRvT2NjdXJyZW50LmdldChhKSArIDEpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG51bVRvT2NjdXJyZW50Lgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW50IGEgPSBBW2ldOwo=</text>
-      </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
