@@ -74,11 +74,16 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/proj/LearnScala/src/main/scala/com/lawal/codility/TableEquilibrum.scala" timestamp="1549911563614" />
       <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Solution.java" timestamp="1549812370622">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/leetcode/src/main/resources/1.sql" timestamp="1550928781535">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="30" column="41" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="30" column="28" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1546290648848">
         <mark key="'" line="120" column="0" />
@@ -135,27 +140,30 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBNYXA8SW50ZWdlcixJbnRlZ2VyPiBudW1Ub09jY3VycmVudCAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICBmb3IgKGludCBhIDogQSkgewogICAgICBpZihudW1Ub09jY3VycmVudC5jb250YWluc0tleShhKSl7CiAgICAgICAgbnVtVG9PY2N1cnJlbnQucHV0KGEsIG51bVRvT2NjdXJyZW50LmdldChhKSArIDEpOwogICAgICB9CiAgICAgIGVsc2UgewogICAgICAgIG51bVRvT2NjdXJyZW50LnB1dElmQWJzZW50KGEsIDEpOwogICAgICB9CgogICAgfQoKICAgIGZvciAoSW50ZWdlciBrIDogbnVtVG9PY2N1cnJlbnQua2V5U2V0KCkpIHsKCiAgICAgIGludCB2YWx1ZSA9IG51bVRvT2NjdXJyZW50LmdldChrKTsKICAgICAgaWYoIHZhbHVlICUgMiAhPTApewogICAgICAgICAgcmV0dXJuICBrOwogICAgICAgIH0KICAgIH0KICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIk5vIHNvbHV0aW9uIGZvdW5kIik7Cg==</text>
+        <text encoding="base64">c2VsZWN0CiAgICAgICAgY2FzZSB3aGVuIGNvbnRpbmVudD0nQW1lcmljYScgdGhlbiBuYW1lCiAgICAgICAgICAgIGVsc2UgbnVsbAogICAgICAgIGVuZAogICAgICAgICAgICBhcyBBbWVyaWNhCiAgICAgICAgICAgICwKCiAgICAgICAgY2FzZSB3aGVuIGNvbnRpbmVudD0nQXNpYScgdGhlbiBuYW1lCiAgICAgICAgICAgIGVsc2UgbnVsbAogICAgICAgIGVuZAogICAgICAgICAgICBhcyBBc2lhCiAgICAgICAgICAgICwKCiAgICAgICAgY2FzZSB3aGVuIGNvbnRpbmVudD0nRXVyb3BlJyB0aGVuIG5hbWUKICAgICAgICAgICAgZWxzZSBudWxsCiAgICAgICAgZW5kCiAgICAgICAgICAgIGFzIEV1cm9wZQogICAgICAgZnJvbSBzdHVkZW50Cm9yZGVyIGJ5IEFtZXJpY2EgYXNjLEFzaWEgYXNjLCBFdXJvcGUgYXNjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICB3aGlsZShpPGopewoKICAgICAgIGkrKzsKICAgICAgIGotLTsKICAgICB9CgogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXMgQW1lcmljYQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0CiAgICAgICAgY2FzZSB3aGVuIGNvbnRpbmVudD0nQW1lcmljYScgdGhlbiBuYW1lCiAgICAgICAgICAgIGVsc2UgbnVsbAogICAgICAgIGVuZAogICAgICAgICAgICBhcyBBbWVyaWNhCiAgICAgICAgICAgICwKCiAgICAgICAgY2FzZSB3aGVuIGNvbnRpbmVudD0nQXNpYScgdGhlbiBuYW1lCiAgICAgICAgICAgIGVsc2UgbnVsbAogICAgICAgIGVuZAogICAgICAgICAgICBhcyBBc2lhCiAgICAgICAgICAgICwKCiAgICAgICAgY2FzZSB3aGVuIGNvbnRpbmVudD0nRXVyb3BlJyB0aGVuIG5hbWUKICAgICAgICAgICAgZWxzZSBudWxsCiAgICAgICAgZW5kCiAgICAgICAgICAgIGFzIEV1cm9wZQogICAgICAgZnJvbSBzdHVkZW50Cm9yZGVyIGJ5IEFtZXJpY2EgYXNjLEFzaWEgYXNjLCBFdXJvcGUgYXNjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+        <text encoding="base64">ICAgICB3aGlsZShpPGopewoKICAgICAgIGkrKzsKICAgICAgIGotLTsKICAgICB9CgogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgQS5sZW5ndGg7IGkrKykgewogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaWYoTWF0aC5hYnModmFsdWVzW2ZpcnN0XSk+TWF0aC5hYnModmFsdWVzW2xhc3RdKSkK</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgQS5sZW5ndGg7IGkrKykgewogICAgICAKICAgIH0K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Ly8gaWYoTWF0aC5hYnModmFsdWVzW2ZpcnN0XSk+TWF0aC5hYnModmFsdWVzW2xhc3RdKSkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGludFtdIHJlc3VsdCA9IG5ldyBpbnRbQS5sZW5ndGhdOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>int left = 0;
     int right = A.length - 1;
     int resultPointer = A.length - 1;
@@ -177,17 +185,14 @@
             }
             }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICIiLnRvTG93ZXJDYXNlKCkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGsrIiAiK3ZhbHVlKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>Asia</text>
       </register>
     </registers>
     <search>
