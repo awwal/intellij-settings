@@ -20,10 +20,6 @@
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/howto.md" timestamp="1545920733884">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="56" />
-      </file>
       <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Bin.java" timestamp="1549916871303">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -31,10 +27,6 @@
       </file>
       <file name="/a.dummy" timestamp="1550959161990">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.scala" timestamp="1545919462741">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="84" column="30" />
       </file>
       <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/InPlace.java" timestamp="1550021187388">
         <mark key="[" line="7" column="87" />
@@ -65,10 +57,6 @@
         <mark key="^" line="32" column="38" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SubjectController.scala" timestamp="1546287208323">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="56" column="3" />
-      </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/util/Queue.java" timestamp="1550936362808" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" timestamp="1545906690475">
         <mark key="[" line="411" column="27" />
@@ -76,19 +64,11 @@
         <mark key="^" line="411" column="30" />
         <mark key="." line="411" column="30" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/NewUserJson.scala" timestamp="1546287467437">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="41" column="59" />
-      </file>
       <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeNode.java" timestamp="1549811768423">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/documentation/src/site/markdown/database/re-create-db.sh" timestamp="1545920052488">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="18" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/util/Deque.java" timestamp="1550936345183" />
       <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/GCD.java" timestamp="1549240224160">
@@ -120,6 +100,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="41" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/CM.java" timestamp="1550960530324">
+        <mark key="[" line="14" column="1" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/App.java" timestamp="1549814901213">
         <mark key="[" line="63" column="24" />
