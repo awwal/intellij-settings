@@ -28,11 +28,11 @@
       <file name="/a.dummy" timestamp="1550959161990">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeQuestion.java" timestamp="1550965977111">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeQuestion.java" timestamp="1550967684293">
+        <mark key="[" line="29" column="63" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="29" column="59" />
       </file>
       <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/InPlace.java" timestamp="1550021187388">
         <mark key="[" line="7" column="87" />
@@ -145,19 +145,19 @@
         <text encoding="base64">ICAgICAgbG9uZyBwcm9kdWN0ID0gKGxvbmcpQSAqIChsb25nKUI7CiAgICAgIHJldHVybiBMb25nLmJpdENvdW50KHByb2R1Y3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">ICAgIGlmKFQ9PW51bGwpcmV0dXJuIDA7CiAgICBpbnQgblBlcmZlY3QgPSAxOwoKICAgIGlmKGlzUGUpCiAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbG9uZyBwcm9kdWN0ID0gKGxvbmcpQSAqIChsb25nKUI7CiAgICAgIHJldHVybiBMb25nLmJpdENvdW50KHByb2R1Y3QpOwo=</text>
+        <text encoding="base64">ICAgIGlmKFQ9PW51bGwpcmV0dXJuIDA7CiAgICBpbnQgblBlcmZlY3QgPSAxOwoKICAgIGlmKGlzUGUpCiAgICByZXR1cm4gMDsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBmb3IgKGludCBpID0gMDsgaSA8IEEubGVuZ3RoOyBpKyspIHsKICAgICAgICAgaW50IGEgID0gQVtpXTsKCiAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGlzUGVyZmVjdCh0LmxlZnQpICYmIGlzUGVyZmVjdCh0LnJpZ2h0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBmb3IgKGludCBpID0gMDsgaSA8IEEubGVuZ3RoOyBpKyspIHsKICAgICAgICAgaW50IGEgID0gQVtpXTsKCiAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -166,16 +166,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbG90c1thLTFdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzbG90c1thLTFdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>new int[]{1,0}</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
