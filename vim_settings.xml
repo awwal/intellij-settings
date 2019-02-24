@@ -28,11 +28,12 @@
       <file name="/a.dummy" timestamp="1550959161990">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeQuestion.java" timestamp="1550968978145">
-        <mark key="[" line="56" column="33" />
-        <mark key="]" line="56" column="31" />
-        <mark key="." line="56" column="31" />
-        <mark key="^" line="56" column="31" />
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeQuestion.java" timestamp="1550973687513">
+        <mark key="'" line="104" column="16" />
+        <mark key="[" line="55" column="3" />
+        <mark key="]" line="68" column="3" />
+        <mark key="." line="68" column="3" />
+        <mark key="^" line="68" column="3" />
       </file>
       <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/InPlace.java" timestamp="1550021187388">
         <mark key="[" line="7" column="87" />
@@ -139,43 +140,44 @@
       <jump line="129" column="28" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
       <jump line="109" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
       <jump line="13" column="30" filename="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/App.java" />
+      <jump line="76" column="16" filename="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeQuestion.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmKHQubGVmdD09bnVsbCAmJiB0LnJpZ2h0PT1udWxsKXJldHVybiB0cnVlOwogICAgaWYodC5sZWZ0IT1udWxsICYmIHQucmlnaHQgIT1udWxsKXsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIFRyZWUgdGVuID0gbmV3IFRyZWUoNCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKGlzUGVyZmVjdCh0KSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmKGlzUGVyZmVjdCh0KSkK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGJvb2xlYW4gbGVmdFBlcmZlY3QgPSBpc1BlcmZlY3RSZWN1cnNlKHQubGVmdCk7CiAgICBib29sZWFuIHJpZ2h0UGVyZmVjdCA9IGlzUGVyZmVjdFJlY3Vyc2UodC5yaWdodCk7CgogICAgaWYobGVmdFBlcmZlY3QgJiYgcmlnaHRQZXJmZWN0KXsKICAgICAgIG1hcC5wdXQodCwgMSsgbm9kZUNvdW50KHQubGVmdCkrbm9kZUNvdW50KHQucmlnaHQpKTsKICAgIH0KCiAgICBlbHNlIGlmKCFsZWZ0UGVyZmVjdCl7CiAgICAgIGNhbGNQZXJmZWN0KCkKICAgIH0KCiAgICBpZighbGVmdFBlcmZlY3QpewogICAgICBjYWxjUGVyZmVjdCh0LnJpZ2h0LG1hcCk7CiAgICB9CiAgICBlbHNlewoKICAgICAgaW50IG5vZGVDb3VudCA9IG5vZGVDb3VudCh0LmxlZnQpOwogICAgICBtYXAucHV0KHQsKQogICAgfQogICAgaWYobGVmdFBlcmZlY3QpewogICAgfQoKICAgIGlmKHJpZ2h0UGVyZmVjdCl7CiAgICAgIGludCByaWdodENvdW50PSBub2RlQ291bnQodC5yaWdodCk7CiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGludCBub2RlQ291bnQgPSBub2RlQ291bnQodC5sZWZ0KTsgCg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbWFwLnNpemUoKTsgaSsrKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gcmlnaHRQZXJmZWN0ID0gaXNQZXJmZWN0UmVjdXJzZSh0LnJpZ2h0KTsK</text>
+        <text encoding="base64">ICAgIGZvciAoOgogICAgICAgICApIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludCBub2QK</text>
+        <text encoding="base64">ICAgIGNhbGNOb2RlUGVyZmVjdGlvbihyb290LmxlZik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxKyBub2QK</text>
+        <text encoding="base64">ICAgIGNhbGNOb2RlUGVyZmVjdGlvbihyb290LmxlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKGlzUGVyZmVjdCh0KSl7CiAgICAgIHJldHVybiAxKyBjYWxjUGVyZmVjdCh0LmxlZnQpKyBjYWxjUGVyZmVjdCh0LnJpZ2h0KTsgCiAgICB9CiAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIGlmKG5vZGVQZXJmZWN0KHJvb3QubGVmdCxtYXApKXsKICAgICAgCiAgICB9CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgIG5vZGVDb3VudChyb290LG1hcCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBib29sZWFuIHNvbHV0aW9uKFRyZWUgcm9vdCkgewogICAgCiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>4</text>
       </register>
     </registers>
     <search>
@@ -206,6 +208,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
