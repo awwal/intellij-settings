@@ -28,11 +28,11 @@
       <file name="/a.dummy" timestamp="1550959161990">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeQuestion.java" timestamp="1550967684293">
-        <mark key="[" line="29" column="63" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="29" column="59" />
+      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeQuestion.java" timestamp="1550968978145">
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="56" column="31" />
+        <mark key="." line="56" column="31" />
+        <mark key="^" line="56" column="31" />
       </file>
       <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/InPlace.java" timestamp="1550021187388">
         <mark key="[" line="7" column="87" />
@@ -142,40 +142,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9uZyBwcm9kdWN0ID0gKGxvbmcpQSAqIChsb25nKUI7CiAgICAgIHJldHVybiBMb25nLmJpdENvdW50KHByb2R1Y3QpOwo=</text>
+        <text encoding="base64">ICAgIGlmKHQubGVmdD09bnVsbCAmJiB0LnJpZ2h0PT1udWxsKXJldHVybiB0cnVlOwogICAgaWYodC5sZWZ0IT1udWxsICYmIHQucmlnaHQgIT1udWxsKXsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKFQ9PW51bGwpcmV0dXJuIDA7CiAgICBpbnQgblBlcmZlY3QgPSAxOwoKICAgIGlmKGlzUGUpCiAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIGlmKGlzUGVyZmVjdCh0KSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmKFQ9PW51bGwpcmV0dXJuIDA7CiAgICBpbnQgblBlcmZlY3QgPSAxOwoKICAgIGlmKGlzUGUpCiAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIGlmKGlzUGVyZmVjdCh0KSkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGlzUGVyZmVjdCh0LmxlZnQpICYmIGlzUGVyZmVjdCh0LnJpZ2h0KTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGJvb2xlYW4gbGVmdFBlcmZlY3QgPSBpc1BlcmZlY3RSZWN1cnNlKHQubGVmdCk7CiAgICBib29sZWFuIHJpZ2h0UGVyZmVjdCA9IGlzUGVyZmVjdFJlY3Vyc2UodC5yaWdodCk7CgogICAgaWYobGVmdFBlcmZlY3QgJiYgcmlnaHRQZXJmZWN0KXsKICAgICAgIG1hcC5wdXQodCwgMSsgbm9kZUNvdW50KHQubGVmdCkrbm9kZUNvdW50KHQucmlnaHQpKTsKICAgIH0KCiAgICBlbHNlIGlmKCFsZWZ0UGVyZmVjdCl7CiAgICAgIGNhbGNQZXJmZWN0KCkKICAgIH0KCiAgICBpZighbGVmdFBlcmZlY3QpewogICAgICBjYWxjUGVyZmVjdCh0LnJpZ2h0LG1hcCk7CiAgICB9CiAgICBlbHNlewoKICAgICAgaW50IG5vZGVDb3VudCA9IG5vZGVDb3VudCh0LmxlZnQpOwogICAgICBtYXAucHV0KHQsKQogICAgfQogICAgaWYobGVmdFBlcmZlY3QpewogICAgfQoKICAgIGlmKHJpZ2h0UGVyZmVjdCl7CiAgICAgIGludCByaWdodENvdW50PSBub2RlQ291bnQodC5yaWdodCk7CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">ICAgICAgIGludCBub2RlQ291bnQgPSBub2RlQ291bnQodC5sZWZ0KTsgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBmb3IgKGludCBpID0gMDsgaSA8IEEubGVuZ3RoOyBpKyspIHsKICAgICAgICAgaW50IGEgID0gQVtpXTsKCiAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJvb2xlYW4gcmlnaHRQZXJmZWN0ID0gaXNQZXJmZWN0UmVjdXJzZSh0LnJpZ2h0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBub2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAxKyBub2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKGlzUGVyZmVjdCh0KSl7CiAgICAgIHJldHVybiAxKyBjYWxjUGVyZmVjdCh0LmxlZnQpKyBjYWxjUGVyZmVjdCh0LnJpZ2h0KTsgCiAgICB9CiAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbG90c1thLTFdCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
     </registers>
     <search>
