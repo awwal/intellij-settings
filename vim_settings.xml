@@ -3,70 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/proj/leetcode/pom.xml" timestamp="1549239779214">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/Group.java" timestamp="1555894942348" />
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/SortedQuares.java" timestamp="1549916979850">
-        <mark key="[" line="8" column="77" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Autonomics.java" timestamp="1549827780215">
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="11" column="56" />
-        <mark key="." line="11" column="56" />
-        <mark key="^" line="11" column="53" />
-      </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Bin.java" timestamp="1549916871303">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ApiPath.scala" timestamp="1555900243516">
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="35" />
+        <mark key="." line="42" column="35" />
+        <mark key="^" line="45" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1550976988382">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeQuestion.java" timestamp="1550977185904">
-        <mark key="^" line="61" column="16" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ExamQuestionController.scala" timestamp="1555899231725">
+        <mark key="'" line="115" column="52" />
+        <mark key="[" line="115" column="53" />
+        <mark key="]" line="115" column="53" />
+        <mark key="^" line="115" column="52" />
+        <mark key="." line="115" column="53" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/StudentListing.scala" timestamp="1555894966069" />
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/InPlace.java" timestamp="1550021187388">
-        <mark key="[" line="7" column="87" />
-        <mark key="]" line="7" column="88" />
-        <mark key="^" line="7" column="87" />
-        <mark key="." line="7" column="88" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" timestamp="1555897975006">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/ui/view/ClassListings.scala" timestamp="1545906579322">
-        <mark key="[" line="91" column="109" />
-        <mark key="]" line="91" column="118" />
-        <mark key="." line="91" column="118" />
-        <mark key="^" line="91" column="118" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/SubjectEndPointIntTest.java" timestamp="1555900305649">
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="48" column="36" />
+        <mark key="." line="48" column="36" />
+        <mark key="^" line="48" column="43" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Soti.java" timestamp="1552966480088">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-      </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/AI.java" timestamp="1550966172524">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="9" column="2" />
-        <mark key="^" line="9" column="2" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.scala" timestamp="1546287078493">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SystemUser.java" timestamp="1546283008117">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="32" column="38" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SubjectController.scala" timestamp="1555899109933">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+        <mark key="^" line="28" column="45" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" timestamp="1555894653138">
         <mark key="[" line="411" column="27" />
@@ -74,56 +41,49 @@
         <mark key="^" line="411" column="30" />
         <mark key="." line="411" column="30" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeNode.java" timestamp="1549811768423">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-        <mark key="^" line="7" column="8" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SecurityUtils.scala" timestamp="1555898001454">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/GCD.java" timestamp="1549240224160">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/UserController.scala" timestamp="1555899555472">
+        <mark key="[" line="68" column="33" />
+        <mark key="]" line="68" column="34" />
+        <mark key="." line="68" column="34" />
+        <mark key="^" line="50" column="38" />
       </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Solution.java" timestamp="1549812370622">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/resources/1.sql" timestamp="1550929850799">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/DPulseUser.scala" timestamp="1546287491783">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/CM.java" timestamp="1550960530324">
-        <mark key="[" line="14" column="1" />
-        <mark key="^" line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/App.java" timestamp="1549814901213">
-        <mark key="[" line="63" column="24" />
-        <mark key="]" line="63" column="24" />
-        <mark key="^" line="58" column="7" />
-        <mark key="." line="63" column="24" />
-      </file>
-      <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Feb23.java" timestamp="1550959362743">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SpellChecker.scala" timestamp="1555897997461">
         <mark key="[" line="8" column="0" />
-        <mark key="]" line="28" column="7" />
-        <mark key="^" line="13" column="34" />
-        <mark key="." line="13" column="34" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/PublicApiUserService.scala" timestamp="1546625360504">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="128" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/QuestionEndPointIntTest.java" timestamp="1555899722853">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="63" column="34" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1555899803684">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="163" column="44" />
+        <mark key="]" line="163" column="44" />
+        <mark key="^" line="163" column="44" />
+        <mark key="." line="163" column="44" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/ExamEndPointIntTest.java" timestamp="1555899718181">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="53" column="34" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/APIUrls.java" timestamp="1555899684330">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="45" />
+      </file>
+      <file name="/fragment.java" timestamp="1555897605604">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -136,43 +96,50 @@
       <jump line="109" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
       <jump line="13" column="30" filename="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/App.java" />
       <jump line="76" column="16" filename="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/TreeQuestion.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SecurityUtils.scala" />
+      <jump line="115" column="52" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ExamQuestionController.scala" />
+      <jump line="55" column="19" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
+      <jump line="43" column="2" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
+      <jump line="82" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
+      <jump line="27" column="47" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/APIUrls.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/APIUrls.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHR3by5sID0gZm91cjsKICAgIHR3by5yID0gZml2ZTsK</text>
+        <text encoding="base64">ICBmaW5hbCB2YWwgU1VCSkVDVF9JRCA9ICIvYXBpL3N1YmplY3RzL3tzdWJqZWN0SWR9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0LnJlc3QuQVBJVXJsczsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SUBJECT</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgYm9vbGVhbiBpc1BlcmZlY3QoVHJlZSByb290LCBpbnQgY3VyckNvdW50LCBpbnQgZGVwdGgpIHsKICAgIGlmIChyb290ICE9IG51bGwpIHsKICAgICAgY3VyckNvdW50Kys7CiAgICB9CiAgICBpZiAocm9vdC5sICE9IG51bGwpIHsKICAgICAgY3VyckNvdW50Kys7CiAgICB9CiAgICBpZiAocm9vdC5yICE9IG51bGwpIHsKICAgICAgY3VyckNvdW50Kys7CiAgICB9CiAgICBib29sZWFuIGlzQ29ycmVjdCA9IGN1cnJDb3VudCA9PSAoaW50KSBNYXRoLnBvdygyLCBkZXB0aCkgLSAxOwogICAgcmV0dXJuIGZhbHNlOwoKICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0LnJlc3QuQVBJVXJsczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRyZWUgdHdvID0gbmV3IFRyZWUoMik7CiAgICBUcmVlIHRocmVlID0gbmV3IFRyZWUoMyk7CiAgICBUcmVlIGZvdXIgPSBuZXcgVHJlZSg0KTsKICAgIFRyZWUgZml2ZSA9IG5ldyBUcmVlKDUpOwogICAgVHJlZSBzaXggPSBuZXcgVHJlZSg2KTsKICAgIFRyZWUgc2V2ZW4gPSBuZXcgVHJlZSg3KTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0LnJlc3QuQVBJVXJscztkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvYmplY3QgVVNFUkNPTlRFWFQKCiAgb2JqZWN0IFVTRVJfSUQKCiAgb2JqZWN0IFNDSE9PTF9VU0VSUwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Ly8gICAgIFN0cmluZyBVU0VSUyA9ICIvYXBpL3VzZXJzIjsKLy8gICAgIFN0cmluZyBVU0VSX0lEID0gIi9hcGkvdXNlcnMve3VzZXJJZH0iOy8vc2NhbGEgbWFkZSBtZSBkbyB0aGlzLiBUT0RPIGZvbGxvdyBvdGhlciBwYXR0ZXJucwovLyAgICAgU3RyaW5nIFNDSE9PTF9VU0VSUyA9ICIvYXBpL3NjaG9vbHMve3NjaG9vbElkfS91c2VycyI7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGlmKHJvb3QueD09Myl7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgIFN0cmluZyBFWEFNSU5GT19UT1BJQ1MgPSBFWEFNSU5GTysiL3tleGFtSW5mb0lkfS90b3BpY3MiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gdmFsdWVzID1uZXcgQXJyYXlMaXN0PD4obWFwLnZhbHVlcygpKTsK</text>
+        <text encoding="base64">ICAgICBTdHJpbmcgVVNFUkNPTlRFWFQgPSAiL2FwaS91c2VyY29udGV4dCI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWFwLnB1dChyb290LCBzdW0pOwo=</text>
+        <text encoding="base64">ICAgICBTdHJpbmcgUVVFU1RJT05fSUQgPSBRVUVTVElPTisiL3txdWVzdGlvbklkfSI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICBTdHJpbmcgUVVFU1RJT04gPSAiL2FwaS9xdWVzdGlvbnMiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>five</text>
+        <text>SUBJECT</text>
       </register>
     </registers>
     <search>
@@ -206,6 +173,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
