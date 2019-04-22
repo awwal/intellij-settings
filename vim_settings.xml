@@ -55,6 +55,7 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/docparser/LineSeparatedParser.scala" timestamp="1555824178984" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/ExamSubjectService.scala" timestamp="1546287078493">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
