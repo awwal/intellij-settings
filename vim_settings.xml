@@ -29,11 +29,11 @@
         <mark key="." line="48" column="36" />
         <mark key="^" line="48" column="43" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SubjectController.scala" timestamp="1555899109933">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="45" />
-        <mark key="." line="28" column="45" />
-        <mark key="^" line="28" column="45" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SubjectController.scala" timestamp="1555933728733">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="42" />
+        <mark key="." line="45" column="42" />
+        <mark key="^" line="45" column="42" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/service/UserService.scala" timestamp="1555894653138">
         <mark key="[" line="411" column="27" />
@@ -112,7 +112,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0LnJlc3QuQVBJVXJsczsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SUBJECT</text>
+        <text>&quot;/api/subjects&quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0LnJlc3QuQVBJVXJsczsK</text>
@@ -139,7 +139,7 @@
         <text encoding="base64">ICAgICBTdHJpbmcgUVVFU1RJT04gPSAiL2FwaS9xdWVzdGlvbnMiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>SUBJECT</text>
+        <text>&quot;/api/subjects&quot;</text>
       </register>
     </registers>
     <search>
