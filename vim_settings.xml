@@ -64,7 +64,6 @@
         <mark key="." line="91" column="118" />
         <mark key="^" line="91" column="118" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/BeanConfiguration.scala" timestamp="1556413003248" />
       <file name="$USER_HOME$/proj/leetcode/src/main/java/com/lawal/Soti.java" timestamp="1552966480088">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="10" column="28" />
@@ -173,7 +172,7 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/ClassRoomEndPointIntTest.java" timestamp="1556414744779">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/ClassRoomEndPointIntTest.java" timestamp="1557608765466">
         <mark key="[" line="57" column="28" />
         <mark key="]" line="57" column="28" />
         <mark key="." line="57" column="28" />
