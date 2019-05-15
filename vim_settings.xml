@@ -16,10 +16,10 @@
         <mark key="." line="48" column="5" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamSubject.java" timestamp="1557801323140" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/SubjectEndPointIntTest.scala" timestamp="1557801584406">
-        <mark key="[" line="44" column="3" />
-        <mark key="]" line="44" column="10" />
-        <mark key="." line="44" column="10" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/SubjectEndPointIntTest.scala" timestamp="1557880360229">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="73" column="71" />
+        <mark key="." line="49" column="0" />
         <mark key="^" line="44" column="10" />
       </file>
       <file name="$USER_HOME$/proj/jhipster-sample-app-master/src/test/java/io/github/jhipster/sample/web/rest/AccountResourceIntTest.java" timestamp="1557800221032">
@@ -109,11 +109,12 @@
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ExceptionConverter.scala" timestamp="1557800981849" />
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/nugget/NuggetZipper.scala" timestamp="1557633460473" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/QuestionEndPointIntTest.scala" timestamp="1557799740641">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/QuestionEndPointIntTest.scala" timestamp="1557880543403">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="1" />
+        <mark key="." line="86" column="1" />
+        <mark key="^" line="86" column="1" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" timestamp="1557636227628">
         <mark key="'" line="58" column="6" />
@@ -271,40 +272,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG8uZG9Ob3RoaW5nCg==</text>
+        <text encoding="base64">ICAgIHZhbCBydW5uZXIgPSBTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Q29udGV4dC5nZXRBdXRoZW50aWNhdGlvbgogICAgdmFsIHVzZXIgPSBydW5uZXIuZ2V0UHJpbmNpcGFsLmFzSW5zdGFuY2VPZltDQlRVc2VyRGV0YWlsc10uZ2V0VXNlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ICAgICAgLmFuZEV4cGVjdChzdGF0dXMuaXNPaykuYW5kUmV0dXJuCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MockBean</text>
+        <text>.andReturn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAgICBATW9ja0JlYW4KICAvLyAgICBFeGFtUmVwb3NpdG9yeSBleGFtUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VyID0gbmV3IFVzZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCAgcz0gbmV3IEV4YW1TdWJqZWN0KCkKICAgIHMuc2V0U3ViamVjdCgiTWF0aHMiKQogICAgcy5zZXROYW1lKCIiKQogICAgdmFsIHJ1bm5lciA9IFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0LmdldEF1dGhlbnRpY2F0aW9uCiAgICB2YWwgdXNlciA9IHJ1bm5lci5nZXRQcmluY2lwYWwuYXNJbnN0YW5jZU9mW0NCVFVzZXJEZXRhaWxzXS5nZXRVc2VyCiAgICBnaXZlbih0aGlzLmV4YW1JbmZvU2VydmljZS5nZXRTdWJqZWN0KHVzZXIsMWwpKQogICAgICAud2lsbFJldHVybihPcHRpb25hbC5vZihzKSkK</text>
+        <text encoding="base64">Ly8gICAgTW9ja2l0b0Fubm90YXRpb25zLmluaXRNb2Nrcyh0aGlzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgd2hlbihleGFtSW5mb1NlcnZpY2UuZ2V0U3ViamVjdCh1c2VyLDFsKSkgLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YocykpCg==</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXIuc2V0VXNlck5hbWUoImxhd2FsIikK</text>
+        <text encoding="base64">ICAvLyAgICBATW9ja0JlYW4KICAvLyAgICBFeGFtUmVwb3NpdG9yeSBleGFtUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB1c2VyID0gbmV3IFVzZXIoKTsK</text>
+        <text encoding="base64">ICAgIHZhbCAgcz0gbmV3IEV4YW1TdWJqZWN0KCkKICAgIHMuc2V0U3ViamVjdCgiTWF0aHMiKQogICAgcy5zZXROYW1lKCIiKQogICAgdmFsIHJ1bm5lciA9IFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0LmdldEF1dGhlbnRpY2F0aW9uCiAgICB2YWwgdXNlciA9IHJ1bm5lci5nZXRQcmluY2lwYWwuYXNJbnN0YW5jZU9mW0NCVFVzZXJEZXRhaWxzXS5nZXRVc2VyCiAgICBnaXZlbih0aGlzLmV4YW1JbmZvU2VydmljZS5nZXRTdWJqZWN0KHVzZXIsMWwpKQogICAgICAud2lsbFJldHVybihPcHRpb25hbC5vZihzKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgd2hlbihleGFtSW5mb1NlcnZpY2UuZ2V0U3ViamVjdCh1c2VyLDFsKSkgLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YocykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG8uZ2l2ZW4K</text>
+        <text encoding="base64">ICAgIHVzZXIuc2V0VXNlck5hbWUoImxhd2FsIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VyID0gbmV3IFVzZXIoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>MockBean</text>
+        <text>.andReturn</text>
       </register>
     </registers>
     <search>
