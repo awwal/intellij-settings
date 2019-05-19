@@ -63,7 +63,7 @@
         <mark key="]" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExternalQuiz.java" timestamp="1558201386274" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_05_11_updates.xml" timestamp="1558297101434">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_05_11_updates.xml" timestamp="1558298047679">
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="28" />
         <mark key="." line="35" column="28" />
@@ -99,11 +99,11 @@
         <mark key="." line="70" column="70" />
         <mark key="^" line="70" column="70" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolSession.java" timestamp="1558291327800">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="46" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolSession.java" timestamp="1558298796034">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ClassRelatedTest.scala" timestamp="1558156061512">
         <mark key="'" line="27" column="0" />
@@ -112,12 +112,18 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" timestamp="1558282778043">
-        <mark key="'" line="36" column="100" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" timestamp="1558298906844">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="57" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="34" column="49" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/School.java" timestamp="1558298662462">
+        <mark key="[" line="57" column="37" />
+        <mark key="]" line="57" column="36" />
+        <mark key="." line="57" column="36" />
+        <mark key="^" line="57" column="36" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/UserJson.scala" timestamp="1557995971756">
         <mark key="[" line="34" column="7" />
@@ -183,6 +189,12 @@
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="13" />
         <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SchoolController.scala" timestamp="1558298911371">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ExtQuizController.scala" timestamp="1558157853504">
         <mark key="[" line="52" column="29" />
@@ -289,43 +301,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/DBTest.java" />
       <jump line="549" column="9" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" />
       <jump line="72" column="0" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamSubject.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjaGFuZ2VTZXQgYXV0aG9yPSJsYXdhbCAoZ2VuZXJhdGVkKSIgaWQ9IjE1MDEzMjMwODE1ODYtMTMyIj4KICAgICAgICA8YWRkRm9yZWlnbktleUNvbnN0cmFpbnQgYmFzZUNvbHVtbk5hbWVzPSJpbWFnZV9pZCIgYmFzZVRhYmxlTmFtZT0icXVlc3Rpb25lbnRyeSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludE5hbWU9ImZrMjN1ODNubXVjanBvM2U1MnA5MWg3amd4bSIgZGVmZXJyYWJsZT0iZmFsc2UiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxseURlZmVycmVkPSJmYWxzZSIgb25EZWxldGU9Ik5PIEFDVElPTiIgb25VcGRhdGU9Ik5PIEFDVElPTiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVmZXJlbmNlZENvbHVtbk5hbWVzPSJpZCIgcmVmZXJlbmNlZFRhYmxlTmFtZT0iYnl0ZXN0b3JlIi8+Cg==</text>
+        <text encoding="base64">ICBAUG9zdE1hcHBpbmcodmFsdWUgPSBBcnJheShBcGlQYXRoLkNMQVNTUk9PT00pLCBwcm9kdWNlcyA9IEFycmF5KEFQUExJQ0FUSU9OX0pTT05fVVRGOF9WQUxVRSkpCiAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJjcmVhdGUgbmV3IGNsYXNzIikKICBAUmVzcG9uc2VCb2R5CiAgQHRocm93c1tVUklTeW50YXhFeGNlcHRpb25dCiAgZGVmIGNyZWF0ZUNsYXNzUm9vbSggQFZhbGlkIEBSZXF1ZXN0Qm9keSBjbGFzc1Jvb206IENsYXNzUm9vbSk6IFJlc3BvbnNlRW50aXR5W19dID0gewogICAgTE9HLmRlYnVnKCJSRVNUIHJlcXVlc3QgdG8gY3JlYXRlIGNsYXNzcm9vbSA6IHt9IiwgY2xhc3NSb29tKQoKICAgIHZhbCB1c2VyID0gU2VjdXJpdHlVdGlscy5nZXRDdXJyZW50TG9naW5Vc2VyCiAgICB2YWwgZ3JvdXAgPXVzZXJTZXJ2aWNlLmNyZWF0ZUdyb3VwKFNjaG9vbElkLm9mKHVzZXIuZ2V0U2Nob29sKSwgY2xhc3NSb29tLm5hbWUsIEdyb3VwVHlwZS5TdHVkZW50cykKCiAgICBSZXNwb25zZUVudGl0eS5jcmVhdGVkKG5ldyBVUkkoQXBpUGF0aC5DTEFTU1JPT09NICsgIi8iICsgZ3JvdXAuZ2V0SWQpKS5idWlsZC5hc0luc3RhbmNlT2ZbUmVzcG9uc2VFbnRpdHlbX11dCgogIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVRhYmxlTmFtZT0ic2Nob29sc2Vzc2lvbiIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyBpZDsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>update</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAUG9zdE1hcHBpbmcodmFsdWUgPSBBcnJheShBcGlQYXRoLkNMQVNTUk9PT00pLCBwcm9kdWNlcyA9IEFycmF5KEFQUExJQ0FUSU9OX0pTT05fVVRGOF9WQUxVRSkpCiAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJjcmVhdGUgbmV3IGNsYXNzIikKICBAUmVzcG9uc2VCb2R5CiAgQHRocm93c1tVUklTeW50YXhFeGNlcHRpb25dCiAgZGVmIGNyZWF0ZUNsYXNzUm9vbSggQFZhbGlkIEBSZXF1ZXN0Qm9keSBjbGFzc1Jvb206IENsYXNzUm9vbSk6IFJlc3BvbnNlRW50aXR5W19dID0gewogICAgTE9HLmRlYnVnKCJSRVNUIHJlcXVlc3QgdG8gY3JlYXRlIGNsYXNzcm9vbSA6IHt9IiwgY2xhc3NSb29tKQoKICAgIHZhbCB1c2VyID0gU2VjdXJpdHlVdGlscy5nZXRDdXJyZW50TG9naW5Vc2VyCiAgICB2YWwgZ3JvdXAgPXVzZXJTZXJ2aWNlLmNyZWF0ZUdyb3VwKFNjaG9vbElkLm9mKHVzZXIuZ2V0U2Nob29sKSwgY2xhc3NSb29tLm5hbWUsIEdyb3VwVHlwZS5TdHVkZW50cykKCiAgICBSZXNwb25zZUVudGl0eS5jcmVhdGVkKG5ldyBVUkkoQXBpUGF0aC5DTEFTU1JPT09NICsgIi8iICsgZ3JvdXAuZ2V0SWQpKS5idWlsZC5hc0luc3RhbmNlT2ZbUmVzcG9uc2VFbnRpdHlbX11dCgogIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmZXJyYWJsZT0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVRhYmxlTmFtZT0ic2Nob29sc2Vzc2lvbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbGx5RGVmZXJyZWQ9ImZhbHNlIiBvbkRlbGV0ZT0iTk8gQUNUSU9OIiBvblVwZGF0ZT0iTk8gQUNUSU9OIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmZXJyYWJsZT0iZmFsc2UiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZlcnJhYmxlPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxseURlZmVycmVkPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbGx5RGVmZXJyZWQ9ImZhbHNlIiBvbkRlbGV0ZT0iTk8gQUNUSU9OIiBvblVwZGF0ZT0iTk8gQUNUSU9OIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGFsb2dOYW1lPSJjYXQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZlcnJhYmxlPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxseURlZmVycmVkPSJ0cnVlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJxdWl6X2lkIiB0eXBlPSJCSUdJTlQiPgogICAgICAgICAgICAgICAgPGNvbnN0cmFpbnRzIG51bGxhYmxlPSJmYWxzZSIvPgogICAgICAgICAgICA8L2NvbHVtbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGFsb2dOYW1lPSJjYXQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiU2Nob29sU2Vzc2lvbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJxdWl6X2lkIiB0eXBlPSJCSUdJTlQiPgogICAgICAgICAgICAgICAgPGNvbnN0cmFpbnRzIG51bGxhYmxlPSJmYWxzZSIvPgogICAgICAgICAgICA8L2NvbHVtbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7e0VudGl0eSwgR2VuZXJhdGVkVmFsdWUsIEdlbmVyYXRpb25UeXBlLCBJZCwgU2VxdWVuY2VHZW5lcmF0b3IsIFRhYmxlfQo=</text>
+        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiU2Nob29sU2Vzc2lvbiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASWQKICBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5TRVFVRU5DRSwgZ2VuZXJhdG9yID0gIlNjaG9vbFNlc3Npb24iKQogIEBTZXF1ZW5jZUdlbmVyYXRvcihhbGxvY2F0aW9uU2l6ZT0xLG5hbWU9IlNjaG9vbFNlc3Npb24iLCBzZXF1ZW5jZU5hbWU9InNjaG9vbHNlc3Npb25faXEiKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7e0VudGl0eSwgR2VuZXJhdGVkVmFsdWUsIEdlbmVyYXRpb25UeXBlLCBJZCwgU2VxdWVuY2VHZW5lcmF0b3IsIFRhYmxlfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>Class</text>
       </register>
     </registers>
     <search>
