@@ -9,6 +9,7 @@
         <mark key="^" line="84" column="32" />
         <mark key="." line="84" column="33" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamSubject.java" timestamp="1558284002785" />
       <file name="$USER_HOME$/proj/CBTServer/service/pom.xml" timestamp="1558150666382" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/ClassRoom.scala" timestamp="1558149915611">
         <mark key="'" line="8" column="89" />
@@ -67,10 +68,6 @@
         <mark key="^" line="178" column="11" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/QuestionService.scala" timestamp="1558147826380" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExamSubjectTest.scala" timestamp="1558151743225">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="28" column="26" />
-      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" timestamp="1558282906970">
         <mark key="'" line="550" column="9" />
         <mark key="[" line="550" column="54" />
