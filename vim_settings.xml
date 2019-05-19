@@ -72,9 +72,12 @@
         <mark key="." line="13" column="54" />
         <mark key="^" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" timestamp="1558308317780">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="3" />
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" timestamp="1558309143953">
+        <mark key="'" line="20" column="37" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="32" column="14" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_05_11_updates.xml" timestamp="1558298047679">
         <mark key="[" line="35" column="28" />
@@ -331,40 +334,41 @@
       <jump line="63" column="5" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" />
       <jump line="45" column="45" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SchoolController.scala" />
       <jump line="54" column="56" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SchoolController.scala" />
+      <jump line="20" column="37" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJlc3BvbnNlRW50aXR5LmNyZWF0ZWQobmV3IFVSSShBcGlQYXRoLkNMQVNTUk9PT00gKyAiLyIgKyBncm91cC5nZXRJZCkpLmJ1aWxkLmFzSW5zdGFuY2VPZltSZXNwb25zZUVudGl0eVtfXV0K</text>
+        <text encoding="base64">CUBEZXByZWNhdGVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAVHJhbnNhY3Rpb25hbAo=</text>
+        <text encoding="base64">CXByaXZhdGUgU2V0PFNjaG9vbFNlc3Npb24+IHNlc3Npb25zID0gbmV3IEhhc2hTCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>config</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUBEZXByZWNhdGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgU2Nob29sU2Vzc2lvbiBzY2hvb2xTZXNzaW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJlc3BvbnNlRW50aXR5Lm9rKCkuYnVpbGQoKQo=</text>
+        <text encoding="base64">ICBAVHJhbnNhY3Rpb25hbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHMuZ2V0U2Nob29sU2Vzc2lvbjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgdXBkYXRlU2Nob29sQ29uZmlnKHNjaG9vbGRJZDpTY2hvb2xJZCxzY2hvb2xDb25maWc6IFNjaG9vbENvbmZpZ0RUTyk6IFVuaXQ9IHsKICAgIGFzc2VydChhY2Nlc3NDaGVja2VyU2VydmljZS5jYW5VcGRhdGVTY2hvb2xDb25maWcoc2Nob29sZElkKSwiQWNjZXNzIGRlbmllZCB0byB1cGRhdGUgc2Nob29sIGNvbmZpZyIpCiAgICAgCgogIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFJlc3BvbnNlRW50aXR5Lm9rKCkuYnVpbGQoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHMuZ2V0U2Nob29sU2Vzc2lvbjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBzICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoU2VjdXJpdHlVdGlscy5pc1VzZXJJblJvbGUoUm9sZS5BRE1JTikpIHJldHVybiB0cnVlCiAgU2VjdXJpdHlVdGlscy5pc1VzZXJJblJvbGUoUm9sZS5TQ0hPT0xBRE1JTikgfHwgU2VjdXJpdHlVdGlscy5pc1VzZXJJblJvbGUoUm9sZS5URUFDSEVSKSAmJiBnZXRTY2hvb2xJZFVzZXJIYXNBY2Nlc3MoU2VjdXJpdHlVdGlscy5nZXRDdXJyZW50TG9naW5Vc2VyKS5jb250YWlucyhzaWQuSWQpCg==</text>
+        <text encoding="base64">ICBkZWYgdXBkYXRlU2Nob29sQ29uZmlnKHNjaG9vbGRJZDpTY2hvb2xJZCxzY2hvb2xDb25maWc6IFNjaG9vbENvbmZpZ0RUTyk6IFVuaXQ9IHsKICAgIGFzc2VydChhY2Nlc3NDaGVja2VyU2VydmljZS5jYW5VcGRhdGVTY2hvb2xDb25maWcoc2Nob29sZElkKSwiQWNjZXNzIGRlbmllZCB0byB1cGRhdGUgc2Nob29sIGNvbmZpZyIpCiAgICAgCgogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgY2FuVXBkYXRlU2Nob29sQ29uZmlnKElkOiBMb25nKTogQm9vbGVhbiA9ID8/Pwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>config</text>
