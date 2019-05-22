@@ -142,12 +142,12 @@
         <mark key="]" line="11" column="57" />
         <mark key="." line="11" column="57" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExternalQuizResult.java" timestamp="1558195066192">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="64" column="29" />
-        <mark key="]" line="64" column="30" />
-        <mark key="^" line="63" column="1" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExternalQuizResult.java" timestamp="1558491130508">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/ExternalQuizDTO.scala" timestamp="1558485123907">
         <mark key="[" line="36" column="29" />
@@ -289,19 +289,19 @@
         <mark key="^" line="52" column="61" />
         <mark key="." line="52" column="61" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" timestamp="1558489701140">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="92" column="27" />
-        <mark key="]" line="92" column="27" />
-        <mark key="." line="92" column="27" />
-        <mark key="^" line="80" column="30" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" timestamp="1558491449149">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="80" column="28" />
+        <mark key="]" line="80" column="28" />
+        <mark key="." line="80" column="28" />
+        <mark key="^" line="113" column="36" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExternalQuizServiceTest.scala" timestamp="1558490547569">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExternalQuizServiceTest.scala" timestamp="1558490758631">
         <mark key="'" line="72" column="9" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="95" column="64" />
-        <mark key="." line="95" column="64" />
-        <mark key="^" line="95" column="64" />
+        <mark key="[" line="93" column="50" />
+        <mark key="]" line="93" column="50" />
+        <mark key="." line="93" column="50" />
+        <mark key="^" line="93" column="50" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/DBTest.scala" timestamp="1558489825722">
         <mark key="[" line="76" column="16" />
@@ -407,43 +407,44 @@
       <jump line="19" column="0" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExternalQuiz.java" />
       <jump line="20" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" />
       <jump line="23" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/AccessCheckerService.scala" />
+      <jump line="83" column="0" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExternalQuizResult.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChzdHVkZW50IT1udWxsLCBzIlN0dWRlbnQgd2l0aCBpZCAke3Jlc3VsdERUTy5zdHVkZW50SWR9IG5vdCBmb3VuZCIpIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzZXNzaW9uID0gZW0uZ2V0RGVsZWdhdGUuYXNJbnN0YW5jZU9mW1Nlc3Npb25dCiAgICB2YWwgcmVzdWx0ID0gc2Vzc2lvbi5jcmVhdGVDcml0ZXJpYShjbGFzc09mW0V4dGVybmFsUXVpel0pCiAgICAgIC5hZGQoUmVzdHJpY3Rpb25zLmVxKCJncm91cC5pZCIsIGdyb3VwSWQpKQogICAgICAuYWRkKFJlc3RyaWN0aW9ucy5lcSgic2Nob29sLmlkIiwgc2Nob29sSWQuSWQpKQogICAgICAuc2V0UmVzdWx0VHJhbnNmb3JtZXIoQ3JpdGVyaWFTcGVjaWZpY2F0aW9uLkRJU1RJTkNUX1JPT1RfRU5USVRZKSAubGlzdCgpCiAgICByZXN1bHQuYXNTY2FsYS5tYXAobz0+IG8uYXNJbnN0YW5jZU9mW0V4dGVybmFsUXVpel0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGAK</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5hc1NjYWxhLm1hcChvPT4gby5hc0luc3RhbmNlT2ZbRXh0ZXJuYWxRdWl6XSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>createSchoolAdmin</text>
+        <text>quiz</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKGNhbkNyZWF0ZUNsYXNzUmVzb3VyY2Uoc2lkKSkKICAgIGNhbkNyZWF0ZUNsYXNzUmVzb3VyY2Uoc2lkKQo=</text>
+        <text encoding="base64">ICAgICAgZW0uZ2V0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgY2FuU2V0Q2xhc3NSZXN1bHQodXNlcjogVXNlciwgc3R1ZGVudENsYXNzOiBMb25nLCBpZDogU2Nob29sSWQpOiBCb29sZWFuID0gPz8/Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIExvY2FsRGF0ZVRpbWUgZW50cnlUaW1lOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChxdWl6IT1udWxsLCBzIlF1aXogd2l0aCBpZCAke3Jlc3V0RFRPLnN0dWRlbnRJZH0gbm90IGZvdW5kIikgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgc2V0RXh0ZXJuYWxRdWl6UmVzdWx0KCBxdWl6SWQ6IExvbmcsIHJlc3VsdERUTzogRXh0ZXJuYWxRdWl6UmVzdWx0RFRPKTogVW5pdCA9IHsKICAgIAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaW50IGdldFRvdGFsUG9pbnRzKCkgewogICAgcmV0dXJuIHRvdGFsUG9pbnRzOwogIH0KCiAgcHVibGljIHZvaWQgc2V0VG90YWxQb2ludHMoaW50IHRvdGFsUG9pbnRzKSB7CiAgICB0aGlzLnRvdGFsUG9pbnRzID0gdG90YWxQb2ludHM7CiAgfQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgRGF0ZSBnZXRFbnRyeVRpbWUoKSB7CiAgICByZXR1cm4gZW50cnlUaW1lOwogIH0KCiAgcHVibGljIHZvaWQgc2V0RW50cnlUaW1lKERhdGUgZW50cnlUaW1lKSB7CiAgICB0aGlzLmVudHJ5VGltZSA9IGVudHJ5VGltZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJEVE8uc2V0R3JvdXBOYW1lKGdyb3UpCg==</text>
+        <text encoding="base64">ICAgIGAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVtLmZpbmQoY2xhc3NPZltHcm91cF0pCg==</text>
+        <text encoding="base64">ICAgIGlmKGNhbkNyZWF0ZUNsYXNzUmVzb3VyY2Uoc2lkKSkKICAgIGNhbkNyZWF0ZUNsYXNzUmVzb3VyY2Uoc2lkKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>createSchoolAdmin</text>
+        <text>quiz</text>
       </register>
     </registers>
     <search>
