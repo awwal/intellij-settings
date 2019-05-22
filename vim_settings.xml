@@ -289,25 +289,25 @@
         <mark key="^" line="52" column="61" />
         <mark key="." line="52" column="61" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" timestamp="1558485827622">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" timestamp="1558489701140">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="86" column="3" />
-        <mark key="]" line="83" column="65" />
-        <mark key="." line="83" column="65" />
-        <mark key="^" line="83" column="65" />
+        <mark key="[" line="92" column="27" />
+        <mark key="]" line="92" column="27" />
+        <mark key="." line="92" column="27" />
+        <mark key="^" line="80" column="30" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExternalQuizServiceTest.scala" timestamp="1558485145748">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExternalQuizServiceTest.scala" timestamp="1558489786560">
         <mark key="'" line="72" column="9" />
-        <mark key="[" line="94" column="55" />
-        <mark key="]" line="94" column="64" />
-        <mark key="." line="94" column="64" />
-        <mark key="^" line="94" column="64" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="95" column="64" />
+        <mark key="." line="95" column="64" />
+        <mark key="^" line="95" column="64" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/DBTest.scala" timestamp="1558484376762">
-        <mark key="[" line="63" column="52" />
-        <mark key="]" line="63" column="52" />
-        <mark key="." line="63" column="52" />
-        <mark key="^" line="73" column="44" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/DBTest.scala" timestamp="1558489825722">
+        <mark key="[" line="76" column="16" />
+        <mark key="]" line="76" column="35" />
+        <mark key="." line="76" column="35" />
+        <mark key="^" line="76" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -415,8 +415,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGAK</text>
+      <register name="&quot;" type="4">
+        <text>createSchoolAdmin</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGlmKGNhbkNyZWF0ZUNsYXNzUmVzb3VyY2Uoc2lkKSkKICAgIGNhbkNyZWF0ZUNsYXNzUmVzb3VyY2Uoc2lkKQo=</text>
@@ -443,7 +443,7 @@
         <text encoding="base64">ICAgIGVtLmZpbmQoY2xhc3NPZltHcm91cF0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,user</text>
+        <text>createSchoolAdmin</text>
       </register>
     </registers>
     <search>
