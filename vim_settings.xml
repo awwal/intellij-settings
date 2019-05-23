@@ -97,7 +97,7 @@
         <mark key="." line="13" column="54" />
         <mark key="^" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" timestamp="1558493263550">
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" timestamp="1558576559159">
         <mark key="'" line="65" column="55" />
         <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="47" />
@@ -159,6 +159,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/Group.java" timestamp="1558576325058">
+        <mark key="[" line="13" column="98" />
+        <mark key="]" line="13" column="98" />
+        <mark key="." line="13" column="98" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SecurityUtils.scala" timestamp="1558155628411">
         <mark key="'" line="69" column="72" />
@@ -295,12 +300,12 @@
         <mark key="^" line="144" column="6" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExternalQuizServiceTest.scala" timestamp="1558492873802">
-        <mark key="'" line="106" column="8" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="103" column="66" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExternalQuizServiceTest.scala" timestamp="1558576796201">
+        <mark key="'" line="104" column="8" />
+        <mark key="[" line="76" column="10" />
+        <mark key="]" line="76" column="26" />
+        <mark key="." line="76" column="26" />
+        <mark key="^" line="76" column="26" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/DBTest.scala" timestamp="1558489825722">
         <mark key="[" line="76" column="16" />
@@ -418,8 +423,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKHByZWNpc2lvbj03LCBzY2FsZT0yKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICB9Cg==</text>
@@ -446,7 +451,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
