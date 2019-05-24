@@ -211,6 +211,12 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="34" column="49" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" timestamp="1558666962487">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/School.java" timestamp="1558308339748">
         <mark key="[" line="57" column="37" />
         <mark key="]" line="57" column="36" />
@@ -434,13 +440,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKGNvbHVtbkRlZmluaXRpb24gPSAiTlVNRVJJQyIsIHByZWNpc2lvbj03LCBzY2FsZT0yKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBsZXZlbEMgPSBuZXcgR3JhZGluZ0xldmVsKCJCIiwgNzAsIkdvb2QiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldFJlbWFya3MoKSB7CiAgICByZXR1cm4gcmVtYXJrczsKICB9CgogIHB1YmxpYyB2b2lkIHNldFJlbWFya3MoU3RyaW5nIHJlbWFya3MpIHsKICAgIHRoaXMucmVtYXJrcyA9IHJlbWFya3M7CiAgfQoKICBwdWJsaWMgZG91YmxlIGdldE1pblNjb3JlKCkgewogICAgcmV0dXJuIG1pblNjb3JlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0TWluU2NvcmUoZG91YmxlIG1pblNjb3JlKSB7CiAgICB0aGlzLm1pblNjb3JlID0gbWluU2NvcmU7CiAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKGNvbHVtbkRlZmluaXRpb24gPSAiTlVNRVJJQyIsIHByZWNpc2lvbj03LCBzY2FsZT0yKQo=</text>
+      <register name="&quot;" type="4">
+        <text>B</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBwcml2YXRlIGludCB5ZWFyOwo=</text>
@@ -467,7 +473,7 @@
         <text encoding="base64">ICBwcml2YXRlIGludCB0b3RhbFBvaW50czsK</text>
       </register>
       <register name="-" type="4">
-        <text>method</text>
+        <text>B</text>
       </register>
     </registers>
     <search>
