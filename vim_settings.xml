@@ -184,12 +184,13 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" timestamp="1558752205653">
-        <mark key="'" line="34" column="13" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="35" />
-        <mark key="^" line="34" column="15" />
-        <mark key="." line="14" column="35" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" timestamp="1558772402060">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="45" column="96" />
+        <mark key="]" line="45" column="43" />
+        <mark key="m" line="23" column="33" />
+        <mark key="." line="45" column="43" />
+        <mark key="^" line="45" column="43" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/School.java" timestamp="1558308339748">
         <mark key="[" line="57" column="37" />
@@ -235,6 +236,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="36" column="1" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/QuestionTest.scala" timestamp="1558772130338">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/Subject.java" timestamp="1558388364481">
         <mark key="[" line="10" column="89" />
@@ -302,10 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SecurityUtils.scala" />
-      <jump line="115" column="52" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ExamQuestionController.scala" />
-      <jump line="55" column="19" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
-      <jump line="43" column="2" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
       <jump line="82" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
       <jump line="27" column="47" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/APIUrls.java" />
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/APIUrls.java" />
@@ -402,43 +403,47 @@
       <jump line="25" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" />
       <jump line="34" column="13" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" />
       <jump line="64" column="2" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/GradingLevel.java" />
+      <jump line="35" column="36" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" />
+      <jump line="30" column="29" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" />
+      <jump line="23" column="33" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" />
+      <jump line="14" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">QFVuaXF1ZUNvbnN0cmFpbnQoY29sdW1uTmFtZXMgPSB7ICJuYW1lIiwgIm1pblNjb3JlIiAsICJncmFkZWxldmVsY29uZmlnX2lkIn0pKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuYXNzZXJ0RXF1YWxzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFVuaXF1ZUNvbnN0cmFpbnQoY29sdW1uTmFtZXMgPSB7ICJuYW1lIiwgIm1pblNjb3JlIiB9KSkK</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygiIikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>assertEquals</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBATWFueVRvT25lKG9wdGlvbmFsID0gZmFsc2UsZmV0Y2ggPSBGZXRjaFR5cGUuTEFaWSkK</text>
+        <text encoding="base64">QFVuaXF1ZUNvbnN0cmFpbnQoY29sdW1uTmFtZXMgPSB7ICJuYW1lIiwgIm1pblNjb3JlIiB9KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0Lm5vbnBlcnNpc3RlbmNlLm1vZGVsLlF1aXpRdWVzRFRPCg==</text>
+        <text encoding="base64">ICBATWFueVRvT25lKG9wdGlvbmFsID0gZmFsc2UsZmV0Y2ggPSBGZXRjaFR5cGUuTEFaWSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG5nLmFjYWRhLm5vbnBlcnNpc3RlbmNlLm1vZGVsLk51Z2dldFBhcmFtZXRlcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0Lm5vbnBlcnNpc3RlbmNlLm1vZGVsLlF1aXpRdWVzRFRPCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG5nLmFjYWRhLm5vbnBlcnNpc3RlbmNlLm1vZGVsLk51Z2dldFBhcmFtZXRlcgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wdXJld29ya3MuY2J0Lm5vbnBlcnNpc3RlbmNlLm1vZGVsLlF1aXpRdWVzRFRPCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5hc0luc3RhbmNlT2YoTGlzdFtHcmFkaW5nTGV2ZWxDb25maWddKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5hc1NjYWxhLgp9Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5hc0luc3RhbmNlT2YoTGlzdFtHcmFkaW5nTGV2ZWxDb25maWddKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5hc1NjYWxhLgp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>assertEquals</text>
       </register>
     </registers>
     <search>
