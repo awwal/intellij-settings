@@ -241,10 +241,11 @@
         <mark key="^" line="550" column="84" />
         <mark key="." line="550" column="84" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/liquibase.properties" timestamp="1558372394775">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/liquibase.properties" timestamp="1558900077152">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/ExternalQuizDTO.scala" timestamp="1558084315448">
         <mark key="[" line="15" column="60" />
@@ -427,7 +428,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LocalDateTime.now()</text>
+        <text>#</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICB9Cg==</text>
@@ -454,7 +455,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>LocalDateTime.now()</text>
+        <text>#</text>
       </register>
     </registers>
     <search>
