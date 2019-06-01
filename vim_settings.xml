@@ -27,7 +27,7 @@
         <mark key="." line="33" column="10" />
         <mark key="^" line="33" column="10" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolSession.java" timestamp="1558320459505">
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolSession.java" timestamp="1559427254427">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="^" line="15" column="1" />
@@ -188,11 +188,12 @@
         <mark key="]" line="31" column="39" />
         <mark key="." line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_06_migration_examinfo_category.sql" timestamp="1559425627105">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_06_migration_examinfo_category.sql" timestamp="1559428259955">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="20" column="47" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="16" column="15" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/ExternalQuizDTO.scala" timestamp="1558492326875">
         <mark key="[" line="46" column="37" />
@@ -207,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/rest/APIUrls.java" />
       <jump line="49" column="20" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SubjectController.scala" />
       <jump line="37" column="46" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" />
@@ -307,43 +307,44 @@
       <jump line="10" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/SchoolDTO.scala" />
       <jump line="68" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" />
       <jump line="13" column="33" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_06_migration_examinfo_category.sql" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGVpLnNjaG9vbF9pZCwgZWkuY2F0ZWdvcnkgYXMgbmFtZQogQ0FTRQogICAgICAgV0hFTiBjYXRlZ29yeX5FJ15cXGQrJCcgVEhFTgogICAgICAgICAgQ0FTVCAoY2F0ZWdvcnkgQVMgSU5URUdFUikKICAgICAgIEVMU0UKICAgICAgICAgIDAKICAgICAgIEVORCBhcyB5ZWFyCiBmcm9tIGV4YW1pbmZvICBlaTsK</text>
+        <text encoding="base64">dXBkYXRlIGV4YW1pbmZvIHNldCBzY2hvb2xzZXNzaW9uX2lkID0gc3MuaWQKZnJvbQpzY2hvb2xzZXNzaW9uIHNzCndoZXJlIHNzLnNjaG9vbF9pZD1leGFtaW5mby5zY2hvb2xfaWQKYW5kIGNhc3QoZXhhbWluZm8uY2F0ZWdvcnkgYXMgaW50ZWdlcikgPXNzLnllYXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKCJTaG91bGQgaGF2ZSBhbiBCIiwgbGV2ZWxCLCBtYXliZUxldmVsLmdldCkK</text>
+        <text encoding="base64">Cj0gKHNlbGVjdCBpZCBmcm9tIHNjaG9vbHNlc3Npb24gd2hlcmUgeWVhcikK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0IGVpLnNjaG9vbF9pZCwgZWkuY2F0ZWdvcnkgYXMgbmFtZQogQ0FTRQogICAgICAgV0hFTiBjYXRlZ29yeX5FJ15cXGQrJCcgVEhFTgogICAgICAgICAgQ0FTVCAoY2F0ZWdvcnkgQVMgSU5URUdFUikKICAgICAgIEVMU0UKICAgICAgICAgIDAKICAgICAgIEVORCBhcyB5ZWFyCiBmcm9tIGV4YW1pbmZvICBlaTsK</text>
+        <text encoding="base64">dXBkYXRlIGV4YW1pbmZvIHNldCBzY2hvb2xzZXNzaW9uX2lkID0gc3MuaWQKZnJvbQpzY2hvb2xzZXNzaW9uIHNzCndoZXJlIHNzLnNjaG9vbF9pZD1leGFtaW5mby5zY2hvb2xfaWQKYW5kIGNhc3QoZXhhbWluZm8uY2F0ZWdvcnkgYXMgaW50ZWdlcikgPXNzLnllYXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuYWRkKCJyZW1hcmtzPSciICsgcmVtYXJrcyArICInIikK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIGZpbmFsIFN0cmluZ0J1ZmZlciBzYiA9IG5ldyBTdHJpbmdCdWZmZXIoIkdyYWRpbmdMZXZlbHsiKTsKICAgIHNiLmFwcGVuZCgicmVtYXJrcz0nIikuYXBwZW5kKHJlbWFya3MpLmFwcGVuZCgnXCcnKTsKICAgIHNiLmFwcGVuZCgiLCBuYW1lPSciKS5hcHBlbmQobmFtZSkuYXBwZW5kKCdcJycpOwogICAgc2IuYXBwZW5kKCIsIG1pblNjb3JlPSIpLmFwcGVuZChtaW5TY29yZSk7CiAgICBzYi5hcHBlbmQoIiwgaWQ9IikuYXBwZW5kKGlkKTsKICAgIHNiLmFwcGVuZCgnfScpOwogICAgcmV0dXJuIHNiLnRvU3RyaW5nKCk7CiAgfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXliZUxldmVsID0gZ3JhZGluZ1NlcnZpY2UuZ2V0R3JhZGUoZ3JhZGluZ01ldGhvZCw5NSkKICAgIGFzc2VydFRydWUobWF5YmVMZXZlbC5pc0RlZmluZWQpCiAgICBhc3NlcnRFcXVhbHMoIlNob3VsZCBoYXZlIGFuIEEiLCBsZXZlbEEsIG1heWJlTGV2ZWwuZ2V0KQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBleGFtaW5mbyBlaTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSAoCgpzZWxlY3Qgc2Nob29sX2lkLCBjYXRlZ29yeSBhcyBuYW1lLAogQ0FTRQogICAgICAgV0hFTiBjYXRlZ29yeX5FJ15cXGQrJCcgVEhFTgogICAgICAgICAgQ0FTVCAoY2F0ZWdvcnkgQVMgSU5URUdFUikKICAgICAgIEVMU0UKICAgICAgICAgIC0xCiAgICAgICBFTkQgYXMgeWVhcgogZnJvbSBleGFtaW5mbwopZWkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdyYWRpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzY2hvb2xJZCA9IFNjaG9vbElkLm9mKHNjaG9vbCkKICAgIHZhbCBjb25maWcgPSBzY2hvb2xTZXJ2aWNlLmNyZWF0ZU5ld0dyYWRpbmdDb25maWcoc2Nob29sSWQsIGdyYWRpbmdNZXRob2QpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldmVscy50b0xpc3Quc29ydEJ5KF8uZ2V0TWluU2NvcmUpCg==</text>
+        <text encoding="base64">c2VsZWN0IGVpLnNjaG9vbF9pZCwgZWkuY2F0ZWdvcnkgYXMgbmFtZSwKIENBU0UKICAgICAgIFdIRU4gY2F0ZWdvcnl+RSdeXFxkKyQnIFRIRU4KICAgICAgICAgIENBU1QgKGNhdGVnb3J5IEFTIElOVEVHRVIpCiAgICAgICBFTFNFCiAgICAgICAgICAtMQogICAgICAgRU5EIGFzIHllYXIKIGZyb20gZXhhbWluZm8gIGVpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>rate</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
