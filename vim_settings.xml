@@ -61,7 +61,7 @@
         <mark key="." line="57" column="36" />
         <mark key="^" line="57" column="36" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" timestamp="1558915775262">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" timestamp="1559424149751">
         <mark key="'" line="64" column="5" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -128,6 +128,7 @@
         <mark key="^" line="12" column="93" />
         <mark key="." line="12" column="93" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" timestamp="1559424707038" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/GradingConfigDTO.scala" timestamp="1558915060099">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
