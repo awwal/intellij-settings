@@ -15,7 +15,6 @@
         <mark key="^" line="84" column="32" />
         <mark key="." line="84" column="33" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/ExamEndPointIntTest.scala" timestamp="1559436359846" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/howto.md" timestamp="1558374820838">
         <mark key="[" line="33" column="7" />
         <mark key="]" line="33" column="10" />
@@ -27,7 +26,6 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/repository/UserSpec.java" timestamp="1559431179727" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/resources/application.properties" timestamp="1558915692400">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="25" column="31" />
@@ -119,6 +117,12 @@
         <mark key="." line="27" column="63" />
         <mark key="^" line="20" column="32" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/school_stats_view.sql" timestamp="1559697558649">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/QuizServiceTest.scala" timestamp="1559433493207">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="69" />
@@ -161,7 +165,6 @@
         <mark key="^" line="42" column="93" />
         <mark key="." line="42" column="93" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/SubjectTest.scala" timestamp="1559433580041" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_05_11_updates.xml" timestamp="1559441225622">
         <mark key="'" line="123" column="46" />
         <mark key="[" line="306" column="39" />
@@ -191,17 +194,15 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/ui/view/ViewMapping.scala" timestamp="1559441041107" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" timestamp="1558582693702">
         <mark key="[" line="121" column="24" />
         <mark key="]" line="121" column="32" />
         <mark key="^" line="121" column="32" />
         <mark key="." line="121" column="32" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryUI.scala" timestamp="1559441802847" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExternalQuizServiceTest.scala" timestamp="1559445842489">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExternalQuizServiceTest.scala" timestamp="1559696901186">
         <mark key="'" line="77" column="0" />
-        <mark key="[" line="55" column="0" />
+        <mark key="[" line="73" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
