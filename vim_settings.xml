@@ -50,12 +50,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" timestamp="1559706104600">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" timestamp="1559707740833">
         <mark key="'" line="92" column="0" />
-        <mark key="[" line="167" column="38" />
-        <mark key="]" line="168" column="6" />
-        <mark key="." line="168" column="6" />
-        <mark key="^" line="168" column="6" />
+        <mark key="[" line="169" column="20" />
+        <mark key="]" line="171" column="36" />
+        <mark key="." line="171" column="36" />
+        <mark key="^" line="171" column="36" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/QuestionService.scala" timestamp="1559440763491">
         <mark key="[" line="499" column="15" />
@@ -87,7 +87,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="36" column="1" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/SchoolDTO.scala" timestamp="1559705759545">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/SchoolDTO.scala" timestamp="1559707653975">
         <mark key="[" line="23" column="48" />
         <mark key="]" line="23" column="52" />
         <mark key="." line="23" column="52" />
@@ -99,7 +99,7 @@
         <mark key="." line="10" column="98" />
         <mark key="^" line="10" column="98" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolStats.java" timestamp="1559705231161">
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolStats.java" timestamp="1559706980804">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
@@ -122,11 +122,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/school_stats_view.sql" timestamp="1559704975226">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/school_stats_view.sql" timestamp="1559707213330">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="4" column="45" />
-        <mark key="^" line="4" column="45" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="36" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/QuizServiceTest.scala" timestamp="1559433493207">
         <mark key="[" line="21" column="0" />
@@ -177,11 +177,11 @@
         <mark key="^" line="306" column="38" />
         <mark key="." line="306" column="39" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/application.properties" timestamp="1559705967759">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="26" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/application.properties" timestamp="1559707673937">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ExtQuizController.scala" timestamp="1558157853504">
         <mark key="[" line="52" column="29" />
@@ -343,40 +343,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBmZXRjaEdyYWRlQ29uZmlnID0gKHM6IFNjaG9vbCk9PiBzY2hvb2xTZXJ2aWNlLmZldGNoR3JhZGluZ0NvbmZpZ3MoU2Nob29sSWQub2YocykpCg==</text>
+        <text encoding="base64">Y3JlYXRlIHZpZXcgIHNjaG9vbHN0YXRzIGFzCgpzZWxlY3QgMSBhcyBpZCwgc2Nob29sX2lkIGFzIHNjaG9vbGlkLCBjb3VudCAoKikgYXMgbnVtYmVyT2ZTdHVkZW50cwpmcm9tIHVzZXJfIHUgbGVmdCBqb2luIHVzZXJfcm9sZSB1ciBvbiB1LmlkPXVyLnVzZXJfaWQKbGVmdCBqb2luIHJvbGUgciBvbiByLmlkPXVyLnJvbGVfaWQgd2hlcmUgci5yb2xlbmFtZT0nU1RVREVOVCcKZ3JvdXAgYnkgc2Nob29sX2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ2cy5hc1NjYWxhLnRvTGlzdAo=</text>
+        <text encoding="base64">ICAgICAgLml0ZXJhdG9yKCkubmV4dCgpCiAgICBidnMK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>validate</text>
+        <text>false</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0c2VzID0gc2Nob29sU2VydmljZS5mZXRjaFNjaG9vbFN0YXRzKHNjaG9vbElkKQogICAgc3RhdHNlcy5mb3JlYWNoKHByaW50bG4oXykpCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmFzU2NhbGEudG9MaXN0Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJ2cy5hc1NjYWxhLnRvTGlzdAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBzdGF0c2VzID0gc2Nob29sU2VydmljZS5mZXRjaFNjaG9vbFN0YXRzKHNjaG9vbElkKQogICAgc3RhdHNlcy5mb3JlYWNoKHByaW50bG4oXykpCgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IHNjaG9vbF9pZCwgY291bnQgKCopIGFzIG5TdHVkZW50cwpmcm9tIHVzZXJzXyB1IGxlZnQgam9pbiB1c2VyX3JvbGUgdXIgb24gdS5pZD11ci51c2VyX2lkCmxlZnQgam9pbiByb2xlIHIgb24gci5pZD11ci5yb2xlX2lkIHdoZXJlIHIucm9sZW5hbWU9J1NUVURFTlQnCmdyb3VwIGJ5IHNjaG9vbF9pZAo=</text>
+        <text encoding="base64">ICAgICAgLmFzU2NhbGEudG9MaXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB1c2VycyB1c2VyX3JvbGUgdXIgbGVmdCBqb2luIHJvbGUgciBvbiByLmlkPXVyLnJvbGVfaWQgd2hlcmUgci5yb2xlbmFtZT0nU1RVREVOVCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGVmdCBqb2luIHVzZXJzXy51Z3JvdXAgZ3Agd2hlcmUgZ3Aucm9sZXMK</text>
+        <text encoding="base64">c2VsZWN0IHNjaG9vbF9pZCwgY291bnQgKCopIGFzIG5TdHVkZW50cwpmcm9tIHVzZXJzXyB1IGxlZnQgam9pbiB1c2VyX3JvbGUgdXIgb24gdS5pZD11ci51c2VyX2lkCmxlZnQgam9pbiByb2xlIHIgb24gci5pZD11ci5yb2xlX2lkIHdoZXJlIHIucm9sZW5hbWU9J1NUVURFTlQnCmdyb3VwIGJ5IHNjaG9vbF9pZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVmdCBqb2luIHVzZXJzXy51Z3JvdXAgZ3Agd2hlcmUgZ3Aucm9sZXMK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB1c2VycyB1c2VyX3JvbGUgdXIgbGVmdCBqb2luIHJvbGUgciBvbiByLmlkPXVyLnJvbGVfaWQgd2hlcmUgci5yb2xlbmFtZT0nU1RVREVOVCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHNzID0gc2Nob29sU2VydmljZS5maW5kU2Nob29sU2Vzc2lvbigiMjAxOSBzZXNzaW9uIiwgU2Nob29sSWQub2YocykpLmdldC5nZXROYW1lCg==</text>
+        <text encoding="base64">bGVmdCBqb2luIHVzZXJzXy51Z3JvdXAgZ3Agd2hlcmUgZ3Aucm9sZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>validate</text>
+        <text>false</text>
       </register>
     </registers>
     <search>
