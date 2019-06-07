@@ -122,12 +122,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/school_stats_view.sql" timestamp="1559795402598">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="51" />
-        <mark key="." line="6" column="77" />
-        <mark key="^" line="6" column="77" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/school_stats_view.sql" timestamp="1559875499134">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/QuizServiceTest.scala" timestamp="1559433493207">
         <mark key="[" line="21" column="0" />
@@ -190,7 +190,6 @@
         <mark key="^" line="52" column="61" />
         <mark key="." line="52" column="61" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/User.java" timestamp="1559703655136" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2017_07_30_question_answer.xml" timestamp="1559441125922">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="41" column="16" />
@@ -351,13 +350,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUVURFTlQgPSJTVFVERU5UIjsK</text>
+        <text encoding="base64">ZHJvcCB2aWV3IHNjaG9vbHN0YXRzOwpjcmVhdGUgdmlldyAgc2Nob29sc3RhdHMgYXMKCnNlbGVjdCBzY2hvb2xfaWQgYXMgaWQsCiAgICBzdW0gKCBjYXNlIHdoZW4gci5yb2xlbmFtZT0nU1RVREVOVCcgVEhFTiAxIEVMU0UgMCBFTkQgKSBhcyBudW1iZXJPZlN0dWRlbnRzLAogICAgc3VtICggY2FzZSB3aGVuIHIucm9sZW5hbWU9J1RFQUNIRVInIFRIRU4gMSBFTFNFIDAgRU5EICkgYXMgbnVtYmVyT2ZUZWFjaGVycywKICAgIHN1bSAoIGNhc2Ugd2hlbiByLnJvbGVuYW1lPSdQQVJFTlQnIFRIRU4gMSBFTFNFIDAgRU5EICkgYXMgbnVtYmVyT2ZQYXJlbnRzCmZyb20gdXNlcl8gdSBsZWZ0IGpvaW4gdXNlcl9yb2xlIHVyIG9uIHUuaWQ9dXIudXNlcl9pZApsZWZ0IGpvaW4gcm9sZSByIG9uIHIuaWQ9dXIucm9sZV9pZAp3aGVyZSB1LmVuYWJsZWQ9dHJ1ZQpncm91cCBieSBzY2hvb2xfaWQ7CgpHUkFOVCBTRUxFQ1QsIFVQREFURSwgSU5TRVJUIE9OIHNjaG9vbHN0YXRzIFRPIGNidDsKCgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0IHNjaG9vbF9pZCBhcyBpZCwgY291bnQgKCopIGFzIG51bWJlck9mU3R1ZGVudHMKZnJvbSB1c2VyXyB1IGxlZnQgam9pbiB1c2VyX3JvbGUgdXIgb24gdS5pZD11ci51c2VyX2lkCmxlZnQgam9pbiByb2xlIHIgb24gci5pZD11ci5yb2xlX2lkIHdoZXJlIHIucm9sZW5hbWU9J1NUVURFTlQnCmdyb3VwIGJ5IHNjaG9vbF9pZAo7CgoKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>STUDENT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZHJvcCB2aWV3IHNjaG9vbHN0YXRzOwpjcmVhdGUgdmlldyAgc2Nob29sc3RhdHMgYXMKCnNlbGVjdCBzY2hvb2xfaWQgYXMgaWQsCiAgICBzdW0gKCBjYXNlIHdoZW4gci5yb2xlbmFtZT0nU1RVREVOVCcgVEhFTiAxIEVMU0UgMCBFTkQgKSBhcyBudW1iZXJPZlN0dWRlbnRzLAogICAgc3VtICggY2FzZSB3aGVuIHIucm9sZW5hbWU9J1RFQUNIRVInIFRIRU4gMSBFTFNFIDAgRU5EICkgYXMgbnVtYmVyT2ZUZWFjaGVycywKICAgIHN1bSAoIGNhc2Ugd2hlbiByLnJvbGVuYW1lPSdQQVJFTlQnIFRIRU4gMSBFTFNFIDAgRU5EICkgYXMgbnVtYmVyT2ZQYXJlbnRzCmZyb20gdXNlcl8gdSBsZWZ0IGpvaW4gdXNlcl9yb2xlIHVyIG9uIHUuaWQ9dXIudXNlcl9pZApsZWZ0IGpvaW4gcm9sZSByIG9uIHIuaWQ9dXIucm9sZV9pZAp3aGVyZSB1LmVuYWJsZWQ9dHJ1ZQpncm91cCBieSBzY2hvb2xfaWQ7CgpHUkFOVCBTRUxFQ1QsIFVQREFURSwgSU5TRVJUIE9OIHNjaG9vbHN0YXRzIFRPIGNidDsKCgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">R1JBTlQgU0VMRUNULCBVUERBVEUsIElOU0VSVCBPTiBzY2hvb2xzdGF0cyBUTyBjYnQ7Cg==</text>
@@ -384,7 +383,7 @@
         <text encoding="base64">ICBwcml2YXRlIGxvbmcgc2Nob29sSWQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>STUDENT</text>
+        <text>isActive</text>
       </register>
     </registers>
     <search>
