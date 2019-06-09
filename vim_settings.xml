@@ -105,12 +105,12 @@
         <mark key="." line="10" column="98" />
         <mark key="^" line="10" column="98" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolStats.java" timestamp="1560036869723">
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolStats.java" timestamp="1560044150154">
         <mark key="'" line="41" column="56" />
-        <mark key="[" line="52" column="1" />
-        <mark key="]" line="52" column="1" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="52" column="1" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="51" column="3" />
+        <mark key="^" line="51" column="3" />
+        <mark key="." line="51" column="3" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExamSubjectService.scala" timestamp="1559442200585">
         <mark key="[" line="139" column="58" />
@@ -220,11 +220,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/master.xml" timestamp="1560034687479">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="12" column="64" />
-        <mark key="." line="12" column="64" />
-        <mark key="^" line="12" column="64" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/master.xml" timestamp="1560044429820">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/Role.java" timestamp="1559795435092">
         <mark key="'" line="27" column="4" />
@@ -233,10 +232,10 @@
         <mark key="." line="25" column="45" />
         <mark key="^" line="25" column="45" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_06_migration_examinfo_category.sql" timestamp="1559441348824">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_06_migration_examinfo_category.sql" timestamp="1560044481587">
         <mark key="'" line="7" column="108" />
-        <mark key="[" line="5" column="108" />
-        <mark key="]" line="5" column="108" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="4" />
       </file>
@@ -367,13 +366,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4xIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxkYXRhYmFzZUNoYW5nZUxvZyB4bWxucz0iaHR0cDovL3d3dy5saXF1aWJhc2Uub3JnL3htbC9ucy9kYmNoYW5nZWxvZyIKICAgICAgICAgICAgICAgICAgIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCiAgICAgICAgICAgICAgICAgICB4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly93d3cubGlxdWliYXNlLm9yZy94bWwvbnMvZGJjaGFuZ2Vsb2cgaHR0cDovL3d3dy5saXF1aWJhc2Uub3JnL3htbC9ucy9kYmNoYW5nZWxvZy9kYmNoYW5nZWxvZy0zLjUueHNkIj4KCgogICAgPGNoYW5nZVNldCBhdXRob3I9Imxhd2FsIiBpZD0iMTUwMTQxNzcwMTg3Ny0wIj4KICAgICAgICA8bW9kaWZ5RGF0YVR5cGUgY29sdW1uTmFtZT0ic2NvcmVkcG9pbnRzIiBuZXdEYXRhVHlwZT0iZmxvYXQ4IiB0YWJsZU5hbWU9InF1aXpyZXN1bHQiLz4KICAgIDwvY2hhbmdlU2V0PgoKICAgIDwhLS08Y2hhbmdlU2V0IGF1dGhvcj0ibGF3YWwiIGlkPSIxNTAxNDE0OTY2MTgzLTYiPi0tPgogICAgICAgIDwhLS08ZHJvcFRhYmxlIHRhYmxlTmFtZT0icXVlc3Rpb25hbnN3ZXJfYXVkIi8+LS0+CiAgICA8IS0tPC9jaGFuZ2VTZXQ+LS0+CgogICAgPGNoYW5nZVNldCBhdXRob3I9Imxhd2FsIiBpZD0iMTUwMTQxNDk2NjE4My03Ij4KICAgICAgICA8bW9kaWZ5RGF0YVR5cGUgY29sdW1uTmFtZT0iZXhwbGFuYXRpb24iIG5ld0RhdGFUeXBlPSJ2YXJjaGFyKDEwMDAwKSIgdGFibGVOYW1lPSJvcHRpb24iLz4KICAgIDwvY2hhbmdlU2V0PgogICAgPGNoYW5nZVNldCBhdXRob3I9Imxhd2FsIiBpZD0iMTUwMTQxNDk2NjE4My04Ij4KICAgICAgICA8cHJlQ29uZGl0aW9ucyBvbkZhaWw9Ik1BUktfUkFOIj4KICAgICAgICAgICAgPHRhYmxlRXhpc3RzIHRhYmxlTmFtZT0ib3B0aW9uX2F1ZCIvPgogICAgICAgIDwvcHJlQ29uZGl0aW9ucz4KICAgICAgICA8bW9kaWZ5RGF0YVR5cGUgY29sdW1uTmFtZT0iZXhwbGFuYXRpb24iIG5ld0RhdGFUeXBlPSJ2YXJjaGFyKDEwMDAwKSIgdGFibGVOYW1lPSJvcHRpb25fYXVkIi8+CiAgICA8L2NoYW5nZVNldD4KICAgIDxjaGFuZ2VTZXQgYXV0aG9yPSJsYXdhbCIgaWQ9IjE1MDE0MTQ5NjYxODMtOSI+CiAgICAgICAgPHByZUNvbmRpdGlvbnMgb25GYWlsPSJNQVJLX1JBTiI+CiAgICAgICAgICAgICA8dGFibGVFeGlzdHMgdGFibGVOYW1lPSJvcHRpb25fYXVkIi8+CiAgICAgICAgPC9wcmVDb25kaXRpb25zPgogICAgICAgIDxhZGRDb2x1bW4gdGFibGVOYW1lPSJvcHRpb25fYXVkIj4KICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJhbnN3ZXIiIHR5cGU9ImJvb2wiLz4KICAgICAgICA8L2FkZENvbHVtbj4KICAgIDwvY2hhbmdlU2V0PgogICAgPGNoYW5nZVNldCBhdXRob3I9Imxhd2FsIiBpZD0iMTUwMTQxNDk2NjE4My0xMCI+CiAgICAgICAgPGFkZENvbHVtbiB0YWJsZU5hbWU9Im9wdGlvbiI+CiAgICAgICAgICAgIDxjb2x1bW4gZGVmYXVsdFZhbHVlQm9vbGVhbj0iZmFsc2UiIG5hbWU9ImFuc3dlciIgdHlwZT0iYm9vbCI+CiAgICAgICAgICAgICAgICA8Y29uc3RyYWludHMgbnVsbGFibGU9ImZhbHNlIi8+CiAgICAgICAgICAgIDwvY29sdW1uPgogICAgICAgIDwvYWRkQ29sdW1uPgogICAgPC9jaGFuZ2VTZXQ+CgogICAgPGNoYW5nZVNldCBhdXRob3I9ImF1dGhvck5hbWUiIGlkPSIxNTAxNDE0OTY2MTgzLTEiPgogICAgICAgIDxzcWxGaWxlIHBhdGg9Ii4uL3NxbC8yMDE3XzA3XzMwX3F1ZXN0aW9uX2Fuc3dlci5zcWwiIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIi8+CiAgICA8L2NoYW5nZVNldD4KCgogICAgPGNoYW5nZVNldCBhdXRob3I9Imxhd2FsIiBpZD0iMTUwMTQxNDk2NjE4My01Ij4KICAgICAgICA8ZHJvcFRhYmxlIHRhYmxlTmFtZT0icXVlc3Rpb25hbnN3ZXIiLz4KICAgIDwvY2hhbmdlU2V0PgoKCiAgICA8Y2hhbmdlU2V0IGF1dGhvcj0ibGF3YWwiIGlkPSIxNTAxNDE3NzAxODc3LTExIj4KICAgICAgICA8bW9kaWZ5RGF0YVR5cGUgY29sdW1uTmFtZT0idG90YWxwb2ludHMiIG5ld0RhdGFUeXBlPSJmbG9hdDgiIHRhYmxlTmFtZT0icXVpenJlc3VsdCIvPgogICAgPC9jaGFuZ2VTZXQ+Cgo8L2RhdGFiYXNlQ2hhbmdlTG9nPgo=</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9ImNvbmZpZy9saXF1aWJhc2UvY2hhbmdlbG9nLzIwMTlfMDZfMDhfc3RhdHZpZXcueG1sIiByZWxhdGl2ZVRvQ2hhbmdlbG9nRmlsZT0iZmFsc2UiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9ImNvbmZpZy9saXF1aWJhc2UvY2hhbmdlbG9nLzIwMTlfMDZfbWlncmF0aW9uX2V4YW1pbmZvX2NhdGVnb3J5LnhtbCIgcmVsYXRpdmVUb0NoYW5nZWxvZ0ZpbGU9ImZhbHNlIi8+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9ImNvbmZpZy9saXF1aWJhc2UvY2hhbmdlbG9nLzIwMTlfMDZfbWlncmF0aW9uX2V4YW1pbmZvX2NhdGVnb3J5LnhtbCIgcmVsYXRpdmVUb0NoYW5nZWxvZ0ZpbGU9ImZhbHNlIi8+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -385,13 +384,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzY2hvb2xJZC5JZCArICJyZXR1cm5pbmcgIisgc3MuZ2V0SWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZHJvcCB2aWV3IGlmIGV4aXN0cyBzY2hvb2xzdGF0czsK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzY2hvb2xJZC5JZCArICJyZXR1cm5pbmcgIisgc3MuZ2V0SWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZHJvcCB2aWV3IGlmIGV4aXN0cyBzY2hvb2xzdGF0czsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -400,7 +399,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>08_statview</text>
       </register>
     </registers>
     <search>
