@@ -160,6 +160,7 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExternalQuiz.java" timestamp="1560046711042" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/GradingConfigDTO.scala" timestamp="1558915060099">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
