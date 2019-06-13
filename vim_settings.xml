@@ -15,11 +15,11 @@
         <mark key="^" line="84" column="32" />
         <mark key="." line="84" column="33" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/PDFReportGenerator.scala" timestamp="1560387209204">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="20" column="20" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/PDFReportGenerator.scala" timestamp="1560388816246">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+        <mark key="^" line="24" column="9" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/resources/application.properties" timestamp="1558915692400">
         <mark key="[" line="17" column="0" />
@@ -52,6 +52,10 @@
         <mark key="]" line="51" column="3" />
         <mark key="^" line="51" column="3" />
         <mark key="." line="51" column="3" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/quizgen/DocumentFont.scala" timestamp="1560388764257">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="77" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExamSubjectService.scala" timestamp="1559442200585">
         <mark key="[" line="139" column="58" />
@@ -374,16 +378,28 @@
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/generator/src/main/resources/sample.txt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUuZXhlYyhzInhkZy1vcGVuICR7ZmlsZS5nZXRBYnNvbHV0ZVBhdGh9IikK</text>
+      <register name="0" type="4">
+        <text>fonts/neuton/Neuton-Regular.ttf&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENPVVJJRVJfQk9MRAo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIGNvdXJpZXJCb2xkRm9udDogUERGb250ID0gUERUeXBlMUZvbnQuSEVMVkVUSUNBCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>font</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGNvdXJpZXJCb2xkRm9udDogUERGb250ID0gUERUcnVlVHlwZUZvbnQubG9hZFRURihkb2N1bWVudCwgIkFyaWFsLnR0ZiIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbCBjb3VyaWVyQm9sZEZvbnQ6IFBERm9udCA9IFBEVHJ1ZVR5cGVGb250LmxvYWRUVEYoZG9jdW1lbnQsICJBcmlhbC50dGYiKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBvcmcuYXBhY2hlLnBkZmJveC5wZG1vZGVsLmZvbnQuUERUcnVlVHlwZUZvbnQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIENPVVJJRVJfQk9MRAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>Alice was beginning to get very tired of sitting by her sister
 on the bank, and of having nothing to do:  once or twice she had
 peeped into the book her sister was reading, but it had no
@@ -517,29 +533,17 @@ know how to begin.'  For, you see, so many out-of-the-way things
 had happened lately, that Alice had begun to think that very few
 things indeed were really impossible.</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgewo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggYXJncy5sZW5ndGggIT0gMiApCiAgICAgICAgewogICAgICAgICAgICBhcHAudXNhZ2UoKTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHNpbmdsZVBhZ2Uuc2V0Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>font</text>
       </register>
     </registers>
     <search>
