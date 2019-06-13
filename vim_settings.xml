@@ -15,11 +15,11 @@
         <mark key="^" line="84" column="32" />
         <mark key="." line="84" column="33" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/PDFReportGenerator.scala" timestamp="1560309081731">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="68" />
-        <mark key="." line="48" column="71" />
-        <mark key="^" line="48" column="71" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/PDFReportGenerator.scala" timestamp="1560387209204">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/resources/application.properties" timestamp="1558915692400">
         <mark key="[" line="17" column="0" />
@@ -381,7 +381,7 @@
         <text encoding="base64">ICAgIENPVVJJRVJfQk9MRAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
         <text>Alice was beginning to get very tired of sitting by her sister
@@ -539,7 +539,7 @@ things indeed were really impossible.</text>
         <text encoding="base64">ICAgIHNpbmdsZVBhZ2Uuc2V0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
