@@ -36,6 +36,12 @@
         <mark key="." line="140" column="58" />
         <mark key="^" line="140" column="58" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportADT.scala" timestamp="1560575981456">
+        <mark key="[" line="8" column="77" />
+        <mark key="]" line="8" column="77" />
+        <mark key="." line="8" column="77" />
+        <mark key="^" line="40" column="26" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/master.xml" timestamp="1560044429820">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -347,8 +353,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG5nLmFjYWRhLmNvbnZlcnRlci5tb2RlbC5TY2hvb2xJZDsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG5nLmFjYWRhLmNvbnZlcnRlci5tb2RlbC5TY2hvb2xJZDsK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IG5nLmFjYWRhLmNvbnZlcnRlci5tb2RlbC5TY2hvCg==</text>
@@ -375,7 +381,7 @@
         <text encoding="base64">aW1wb3J0IG5nLmFjYWRhLnVpLm1vZGVsLlNjaG9vbElkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
