@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/UserDTO.scala" timestamp="1560482745028">
+      <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/UserDTO.scala" timestamp="1560564068979">
         <mark key="[" line="29" column="2" />
         <mark key="]" line="29" column="14" />
         <mark key="." line="29" column="2" />
@@ -14,28 +14,9 @@
         <mark key="^" line="18" column="74" />
         <mark key="." line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExamInfoServiceTest.scala" timestamp="1559443298043">
-        <mark key="[" line="84" column="33" />
-        <mark key="]" line="84" column="33" />
-        <mark key="^" line="84" column="32" />
-        <mark key="." line="84" column="33" />
-      </file>
       <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/SectionDTO.scala" timestamp="1560482739681">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="34" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/PDFReportGenerator.scala" timestamp="1560391847751">
-        <mark key="'" line="38" column="28" />
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="26" />
-        <mark key="." line="41" column="26" />
-        <mark key="^" line="40" column="69" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/resources/application.properties" timestamp="1558915692400">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/GradingLevel.java" timestamp="1560481267758">
         <mark key="[" line="79" column="0" />
@@ -43,137 +24,37 @@
         <mark key="^" line="79" column="23" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" timestamp="1560036853014">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="171" column="8" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/ClassRoom.scala" timestamp="1560482262464">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/implicit/EntityDTOImplicit.scala" timestamp="1560483078836">
         <mark key="[" line="19" column="60" />
         <mark key="]" line="19" column="60" />
         <mark key="." line="19" column="60" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/SchoolDTO.scala" timestamp="1559707653975">
-        <mark key="[" line="23" column="48" />
-        <mark key="]" line="23" column="52" />
-        <mark key="." line="23" column="52" />
-        <mark key="^" line="23" column="52" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SubjectController.scala" timestamp="1560564169064" />
+      <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/EntityDTOImplicit.scala" timestamp="1560565187006">
+        <mark key="'" line="46" column="43" />
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="51" column="76" />
+        <mark key="." line="51" column="42" />
+        <mark key="^" line="51" column="15" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolStats.java" timestamp="1560044150154">
-        <mark key="'" line="41" column="56" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="51" column="3" />
-        <mark key="^" line="51" column="3" />
-        <mark key="." line="51" column="3" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExamSubjectService.scala" timestamp="1559442200585">
-        <mark key="[" line="139" column="58" />
-        <mark key="]" line="139" column="58" />
-        <mark key="." line="139" column="58" />
-        <mark key="^" line="139" column="58" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_05_11_renameExamInfoYear.xml" timestamp="1558287666879">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="54" />
-        <mark key="." line="13" column="54" />
-        <mark key="^" line="13" column="54" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" timestamp="1559441844368">
-        <mark key="[" line="57" column="39" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/CreateLandscapePDF.java" timestamp="1560309678788">
-        <mark key="[" line="114" column="39" />
-        <mark key="]" line="114" column="39" />
-        <mark key="." line="114" column="39" />
-        <mark key="^" line="114" column="39" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/repository/ExamRepository.scala" timestamp="1559436333302">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="84" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_05_11_updates.xml" timestamp="1559441225622">
-        <mark key="'" line="123" column="46" />
-        <mark key="[" line="306" column="39" />
-        <mark key="]" line="306" column="66" />
-        <mark key="^" line="306" column="38" />
-        <mark key="." line="306" column="39" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/application.properties" timestamp="1560033711576">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/GradingService.scala" timestamp="1558996792323">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/master.xml" timestamp="1560044429820">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_06_migration_examinfo_category.sql" timestamp="1560044481587">
-        <mark key="'" line="7" column="108" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="5" column="108" />
-        <mark key="." line="5" column="4" />
-      </file>
+      <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/GradingConfigDTO.scala" timestamp="1560565015250" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/ExternalQuizDTO.scala" timestamp="1560482050911">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/SchoolContext.scala" timestamp="1559429981696">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="1" />
-        <mark key="." line="3" column="49" />
-        <mark key="^" line="3" column="3" />
+      <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/ModelConverter.scala" timestamp="1560564456545">
+        <mark key="[" line="118" column="60" />
+        <mark key="]" line="79" column="6" />
+        <mark key="." line="79" column="6" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/howto.md" timestamp="1558374820838">
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="33" column="10" />
-        <mark key="." line="33" column="10" />
-        <mark key="^" line="33" column="10" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolSession.java" timestamp="1559441943436">
-        <mark key="[" line="61" column="31" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_06_08_statview.xml" timestamp="1560036745736">
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" timestamp="1560483332962">
-        <mark key="[" line="41" column="62" />
-        <mark key="]" line="41" column="78" />
+      <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/NuggetConverter.scala" timestamp="1560564611872" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" timestamp="1560563568325">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="55" />
         <mark key="^" line="41" column="78" />
         <mark key="." line="41" column="78" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/School.java" timestamp="1559436986489">
-        <mark key="[" line="65" column="5" />
-        <mark key="]" line="58" column="36" />
-        <mark key="." line="58" column="36" />
-        <mark key="^" line="58" column="36" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/ClassRoom.scala" timestamp="1560483094845">
         <mark key="[" line="6" column="125" />
@@ -182,42 +63,7 @@
         <mark key="^" line="6" column="127" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/UserJson.scala" timestamp="1560482666188" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/QuestionService.scala" timestamp="1559440763491">
-        <mark key="[" line="499" column="15" />
-        <mark key="]" line="499" column="15" />
-        <mark key="^" line="493" column="59" />
-        <mark key="." line="499" column="15" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ExternalQuizDTO.scala" timestamp="1558150271452">
-        <mark key="[" line="20" column="73" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/liquibase.properties" timestamp="1558910745185">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="45" />
-        <mark key="." line="7" column="45" />
-        <mark key="^" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/ExternalQuizDTO.scala" timestamp="1560482044398">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="21" column="1" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolSession.scala" timestamp="1558291008366">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="36" column="1" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/Subject.java" timestamp="1558388364481">
-        <mark key="[" line="10" column="89" />
-        <mark key="]" line="10" column="98" />
-        <mark key="." line="10" column="98" />
-        <mark key="^" line="10" column="98" />
-      </file>
+      <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/GroupedConvert.scala" timestamp="1560564365056" />
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/ReportADT.scala" timestamp="1560481050883">
         <mark key="'" line="57" column="15" />
         <mark key="[" line="66" column="0" />
@@ -225,43 +71,13 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="55" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/SchoolServiceTest.scala" timestamp="1559705668833">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/school_stats_view.sql" timestamp="1560035155233">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/QuizServiceTest.scala" timestamp="1559433493207">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="69" />
-        <mark key="." line="129" column="40" />
-        <mark key="^" line="129" column="39" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/repository/ExamSubjectRepository.scala" timestamp="1558388635763">
-        <mark key="[" line="12" column="84" />
-        <mark key="]" line="12" column="93" />
-        <mark key="^" line="12" column="93" />
-        <mark key="." line="12" column="93" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/package.scala" timestamp="1559440424128">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="8" column="34" />
-        <mark key="^" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-      </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/pom.xml" timestamp="1560481151087">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="20" column="20" />
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/GradingConfigDTO.scala" timestamp="1560481404589">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/GradingConfigDTO.scala" timestamp="1560564967790">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -272,42 +88,34 @@
         <mark key="]" line="4" column="130" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SchoolController.scala" timestamp="1560036887076">
-        <mark key="[" line="43" column="76" />
-        <mark key="]" line="43" column="87" />
-        <mark key="^" line="43" column="87" />
-        <mark key="." line="43" column="87" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1560565164613">
+        <mark key="'" line="135" column="13" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ExtQuizController.scala" timestamp="1560483379544">
-        <mark key="[" line="51" column="92" />
-        <mark key="]" line="53" column="37" />
-        <mark key="^" line="53" column="37" />
-        <mark key="." line="53" column="37" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ExtQuizController.scala" timestamp="1560563582743">
+        <mark key="[" line="54" column="46" />
+        <mark key="]" line="54" column="46" />
+        <mark key="^" line="54" column="44" />
+        <mark key="." line="54" column="46" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" timestamp="1558582693702">
-        <mark key="[" line="121" column="24" />
-        <mark key="]" line="121" column="32" />
-        <mark key="^" line="121" column="32" />
-        <mark key="." line="121" column="32" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" timestamp="1560563651166">
+        <mark key="[" line="143" column="44" />
+        <mark key="]" line="143" column="44" />
+        <mark key="^" line="133" column="83" />
+        <mark key="." line="143" column="44" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/Role.java" timestamp="1559795435092">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="25" column="40" />
-        <mark key="]" line="25" column="45" />
-        <mark key="." line="25" column="45" />
-        <mark key="^" line="25" column="45" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExternalQuizServiceTest.scala" timestamp="1560563730684">
+        <mark key="[" line="100" column="35" />
+        <mark key="]" line="100" column="49" />
+        <mark key="." line="100" column="49" />
+        <mark key="^" line="100" column="49" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/DBTest.scala" timestamp="1559444795915">
-        <mark key="'" line="32" column="21" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="134" column="3" />
+      <file name="/fragment.java" timestamp="1560564998588">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="33" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/QuestionEndPointIntTest.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/QuestionEndPointIntTest.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/QuestionEndPointIntTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/QuestionEndPointIntTest.java" />
       <jump line="51" column="1" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/web/integration/QuestionEndPointIntTest.java" />
@@ -406,43 +214,45 @@
       <jump line="33" column="28" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/PDFReportGenerator.scala" />
       <jump line="23" column="9" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/ReportADT.scala" />
       <jump line="25" column="15" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/ReportADT.scala" />
+      <jump line="44" column="43" filename="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/EntityDTOImplicit.scala" />
+      <jump line="135" column="13" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">QEpzb25JZ25vcmUg</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwppbXBvcnQgc2NhbGEudXRpbC57RmFpbHVyZSwgU3VjY2VzcywgVHJ5fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBtYW5hZ2VyKGdyb3VwOiBHcm91cCk6IFVzZXJEVE8gPSB7CiAgICByZXR1cm4gbnVsbDsKICAgIC8vICAgICAgaWYgKGdyb3VwLmdldEdyb3VwTWFuYWdlcnMuaXNFbXB0eSkgewogICAgLy8gICAgICAgIG51bGwKICAgIC8vICAgICAgfQogICAgLy8gICAgICBlbHNlCiAgICAvLyAgICAgICAgVXNlckRUTyhncm91cC5nZXRHcm91cE1hbmFnZXJzLml0ZXJhdG9yKCkubmV4dCgpKQogIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ClassRoomResponse.apply(classes)</text>
+        <text>(configs: Iterable[GradingConfig])</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCBjbGFzcyBDbGFzc1Jvb21Db252ZXJ0ZXIoZ3JvdXA6IEdyb3VwKXsKICAgIGRlZiB0b0NsYXNzUm9vbTpDbGFzc1Jvb21SZXNwb25zZT17CiAgICAgIG5ldyBDbGFzc1Jvb21SZXNwb25zZShncm91cC5nZXRJZCwgZ3JvdXAuZ2V0TmFtZSwgbWFuYWdlcigpKQogICAgfQogIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIG1hbmFnZXIoKTogVXNlckRUTyA9IHsKICAgICAgcmV0dXJuIG51bGw7Ci8vICAgICAgaWYgKGdyb3VwLmdldEdyb3VwTWFuYWdlcnMuaXNFbXB0eSkgewovLyAgICAgICAgbnVsbAovLyAgICAgIH0KLy8gICAgICBlbHNlCi8vICAgICAgICBVc2VyRFRPKGdyb3VwLmdldEdyb3VwTWFuYWdlcnMuaXRlcmF0b3IoKS5uZXh0KCkpCiAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBhcHBseShnOiBHcm91cCk6IENsYXNzUm9vbVJlc3BvbnNlID0gewogICAgfQoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpbXBsaWNpdCBjbGFzcyBVc2VyRFRPQ29udmVydGVyKHVzZXI6IFVzZXIpIHsKICAgIGRlZiB0b0RUTzogVXNlckRUTyA9ICBNb2RlbENvbnZlcnRlci50b0RUTyh1c2VyKSAKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgVXNlckRUTyhncm91cC5nZXRHcm91cE1hbmFnZXJzLml0ZXJhdG9yKCkubmV4dCgpKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQ2xhc3NSb29tUmVzcG9uc2UoZy5nZXRJZCwgZy5nZXROYW1lLCBtYW5hZ2VyKGcpKQo=</text>
+        <text encoding="base64">ICAgICAgbmV3IFVzZXJEVE8oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIG1hbmFnZXIoZ3JvdXA6IEdyb3VwKTogVXNlckpzb24gPSB7CiAgICAgIGlmIChncm91cC5nZXRHcm91cE1hbmFnZXJzLmlzRW1wdHkpIHsKICAgICAgICBudWxsCiAgICAgIH0KICAgICAgZWxzZQogICAgICAgIFVzZXJKc29uKGdyb3VwLmdldEdyb3VwTWFuYWdlcnMuaXRlcmF0b3IoKS5uZXh0KCkpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgY2xvbmUoKTogQW55UmVmID0gc3VwZXIuY2xvbmUoKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBtYW5hZ2VyKGdyb3VwOiBHcm91cCk6IFVzZXJEVE8gPSB7CiAgICByZXR1cm4gbnVsbDsKICAgIC8vICAgICAgaWYgKGdyb3VwLmdldEdyb3VwTWFuYWdlcnMuaXNFbXB0eSkgewogICAgLy8gICAgICAgIG51bGwKICAgIC8vICAgICAgfQogICAgLy8gICAgICBlbHNlCiAgICAvLyAgICAgICAgVXNlckRUTyhncm91cC5nZXRHcm91cE1hbmFnZXJzLml0ZXJhdG9yKCkubmV4dCgpKQogIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBDbGFzc1Jvb21SZXNwb25zZShAQmVhblByb3BlcnR5IHZhciBpZDogTG9uZywgQEJlYW5Qcm9wZXJ0eSB2YXIgbmFtZTogU3RyaW5nLCBAQmVhblByb3BlcnR5IHZhciBjbGFzc1RlYWNoZXI6IFVzZXJKc29uKQo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCBjbGFzcyBDbGFzc1Jvb21Db252ZXJ0ZXIoZ3JvdXA6IEdyb3VwKXsKICAgIGRlZiB0b0NsYXNzUm9vbTpDbGFzc1Jvb21SZXNwb25zZT17CiAgICAgIG5ldyBDbGFzc1Jvb21SZXNwb25zZShncm91cC5nZXRJZCwgZ3JvdXAuZ2V0TmFtZSwgbWFuYWdlcigpKQogICAgfQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>ClassRoomResponse.apply(classes)</text>
+        <text>(configs: Iterable[GradingConfig])</text>
       </register>
     </registers>
     <search>
