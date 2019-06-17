@@ -86,6 +86,12 @@
         <mark key="^" line="38" column="78" />
         <mark key="." line="38" column="78" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/test/scala/ng/acada/gen/test/ReportGenTest.scala" timestamp="1560737852179">
+        <mark key="[" line="17" column="149" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/quizgen/adt/HtmlGenerator.scala" timestamp="1560568479031">
         <mark key="[" line="96" column="29" />
         <mark key="]" line="96" column="29" />
@@ -448,7 +454,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/2019_06_15_2019_05_11_updates</text>
+        <text>e</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -475,7 +481,7 @@
         <text encoding="base64">aW1wb3J0IG5nLmFjYWRhLmRvY3BhcnNlci5Eb3R0ZWQ0T3B0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/2019_06_15_2019_05_11_updates</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
