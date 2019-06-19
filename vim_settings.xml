@@ -22,11 +22,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/package.scala" timestamp="1560910199951">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="39" />
-        <mark key="^" line="22" column="14" />
-        <mark key="." line="14" column="39" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/package.scala" timestamp="1560912726964">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/SchoolDTO.scala" timestamp="1560566187282">
         <mark key="[" line="23" column="48" />
@@ -256,11 +256,11 @@
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/UserJson.scala" timestamp="1560569081907" />
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/docparser/AnswerRegex.scala" timestamp="1560635732924" />
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/PDFReportGenerator.scala" timestamp="1560910237908">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="28" />
-        <mark key="^" line="23" column="28" />
-        <mark key="." line="23" column="28" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/PDFReportGenerator.scala" timestamp="1560912824981">
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="60" />
+        <mark key="^" line="26" column="60" />
+        <mark key="." line="26" column="60" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/converter/NuggetConverter.scala" timestamp="1560574744258">
         <mark key="[" line="29" column="0" />
@@ -397,40 +397,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBwbCh0ZXh0OiBTdHJpbmcsIGZvbnRTaXplOkludCwgZm9udDogUERGb250KTogUGFyYWdyYXBoID0gewoKICAgICAgdmFsIHBhcmFncmFwaCA9IG5ldyBQYXJhZ3JhcGgKICAgICAgcGFyYWdyYXBoLmFkZFRleHQodGV4dCwgZm9udFNpemUsIGZvbnQpCiAgICAgIHBhcmFncmFwaC5zZXRBbGlnbm1lbnQoQWxpZ25tZW50LkxlZnQpCiAgICAgIHBhcmFncmFwaAogICAgfQo=</text>
+        <text encoding="base64">ICAgIGRlZiBwYyh0ZXh0OiBTdHJpbmcsIGZvbnRTaXplOkludCwgZm9udDogUERGb250KTogUGFyYWdyYXBoID0gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgYWRkcmVzc1BnLmFkZChuZXcgSW5kZW50KDUwLCBTcGFjZVVuaXQucHQpKQo=</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmFkZChuYW1lLnRvUGFyYUNlbnRlcmVkKDEyLGhlbHZldGljYSkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>upperCase</text>
+        <text>Centered</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIGRvY3VtZW50ID0gbmV3IERvY3VtZW50KDQwLCA1MCwgNDAsIDYwKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBwbChhcmdzOiBBbnkqKTogUGFyYWdyYXBoID0gewogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3lzLmVycm9yKCJUT0RPIC0gSU1QTEVNRU5UIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWx2ZXRpY2EgPSBQRFR5cGUxRm9udC5IRUxWRVRJQ0EK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBmb250ID0gUERUcnVlVHlwZUZvbnQubG9hZFRURihkb2N1bWVudC5nZXRQRERvY3VtZW50LCAiQXJpYWwudHRmIikK</text>
+        <text encoding="base64">ICAgIHZhbCBmaXJzdE5hbWUgPSBzdHVkZW50UmVwb3J0LnB1cGlsUmVzdWx0LnB1cGlsLmZpcnN0TmFtZQogICAgCiAgICB2YWwgbGFzdE5hbWUgPSBzdHVkZW50UmVwb3J0LnB1cGlsUmVzdWx0LnB1cGlsLmxhc3ROYW1lCiAgICB2YWwgbmFtZSA9IHMiJGZpcnN0TmFtZSAkbGFzdE5hbWUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWx2ZXRpY2EgPSBQRFR5cGUxRm9udC5IRUxWRVRJQ0EK</text>
+        <text encoding="base64">ICAgIHZhbCBwdXBpbERlc1BnID0gbmV3IFBhcmFncmFwaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnJlZmxlY3QuaW50ZXJuYWwudXRpbC5GaWxlVXRpbHMK</text>
+        <text encoding="base64">ICAgIHB1cGlsRGVzUGcuYWRkVGV4dCgiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>upperCase</text>
+        <text>Centered</text>
       </register>
     </registers>
     <search>
