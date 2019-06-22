@@ -22,7 +22,7 @@
       <file name="$USER_HOME$/proj/CBTServer/service/pom.xml" timestamp="1561240596239">
         <mark key="'" line="88" column="46" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/WebSecurityConfig.scala" timestamp="1561241856723" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/WebSecurityConfig.scala" timestamp="1561245299994" />
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/GradingLevel.java" timestamp="1561219112384">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="41" />
