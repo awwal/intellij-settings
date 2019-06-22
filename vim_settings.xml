@@ -122,6 +122,7 @@
         <mark key="." line="33" column="27" />
         <mark key="^" line="32" column="35" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/WebMvcConfigurer.scala" timestamp="1561223815756" />
       <file name="$USER_HOME$/proj/CBTServer/generator/src/test/scala/ng.acada.docgen.test/NuggetTest.scala" timestamp="1560572410407">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
