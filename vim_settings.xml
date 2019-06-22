@@ -19,7 +19,7 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/GradingLevel.java" timestamp="1560481267758">
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/GradingLevel.java" timestamp="1561219112384">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="41" />
         <mark key="^" line="79" column="23" />
@@ -56,12 +56,12 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportTable.scala" timestamp="1561214133929">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="58" column="18" />
-        <mark key="]" line="58" column="18" />
-        <mark key="." line="58" column="18" />
-        <mark key="^" line="51" column="38" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportTable.scala" timestamp="1561219171494">
+        <mark key="'" line="152" column="0" />
+        <mark key="[" line="59" column="39" />
+        <mark key="]" line="59" column="39" />
+        <mark key="^" line="59" column="39" />
+        <mark key="." line="59" column="39" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/implicit/EntityDTOImplicit.scala" timestamp="1560483078836">
         <mark key="[" line="19" column="60" />
@@ -108,7 +108,7 @@
         <mark key="." line="70" column="80" />
         <mark key="^" line="70" column="79" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportADT.scala" timestamp="1561084557865">
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportADT.scala" timestamp="1561219198666">
         <mark key="[" line="8" column="77" />
         <mark key="]" line="8" column="100" />
         <mark key="." line="8" column="100" />
@@ -186,12 +186,12 @@
         <mark key="^" line="38" column="78" />
         <mark key="." line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/test/scala/ng/acada/gen/test/ReportGenTest.scala" timestamp="1561165148997">
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/test/scala/ng/acada/gen/test/ReportGenTest.scala" timestamp="1561219260728">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="46" column="70" />
-        <mark key="]" line="46" column="70" />
-        <mark key="." line="46" column="70" />
-        <mark key="^" line="46" column="86" />
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" timestamp="1560738602036">
         <mark key="[" line="27" column="0" />
@@ -247,6 +247,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="61" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/ng/acada/model/rest/GradingConfigDTO.scala" timestamp="1561219043002">
+        <mark key="[" line="5" column="79" />
+        <mark key="]" line="5" column="83" />
+        <mark key="." line="5" column="83" />
+        <mark key="^" line="5" column="83" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/GradingConfigDTO.scala" timestamp="1560564967790">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -286,6 +292,9 @@
         <mark key="[" line="128" column="53" />
         <mark key="]" line="128" column="53" />
         <mark key="." line="128" column="53" />
+      </file>
+      <file name="/fragment.java" timestamp="1561219106194">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/quizgen.scala" timestamp="1560571330951">
         <mark key="[" line="7" column="15" />
@@ -398,40 +407,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG5nLmFjYWRhLmdlbi5yZXBvcnRnZW4uUmVwb3J0QURULlN1YmplY3RSZXN1bHQK</text>
+        <text encoding="base64">ICAgIHZhbCBsZXZlbEMgPSBHcmFkaW5nTGV2ZWxEVE8oIkMiLCA3MCwgIkdvb2QiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBib3R0b21NYXJnaW4gPSA3MAo=</text>
+        <text encoding="base64">ICAgIHZhbCBoZWFkZXJSb3c6IFJvd1tQRFBhZ2VdID0gdGFibGUuY3JlYXRlUm93KDEwZikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBsZXZlbEMgPSBHcmFkaW5nTGV2ZWxEVE8oIkMiLCA3MCwgIkdvb2QiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCA9IFJlcG9ydFBERkNvbnRleHQoKQogICAgUmVwb3J0VGFibGUuY3JlYXRlKCxoZWx2ZXRpY2EsIHN0dWRlbnRSZXBvcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYWdlID0gcmVwb3J0UERGQ29udGV4dC5wYWdlCg==</text>
+        <text encoding="base64">ICAgIHZhbCBmb250ID0gcmVwb3J0UERGQ29udGV4dC5mb250Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgY3JlYXRlR3JhZGUoZm9udDogUERUeXBlMEZvbnQsIHN0dWRlbnRSZXBvcnQ6IFJlcG9ydEFEVC5TdHVkZW50UmVwb3J0LCBkb2M6IFBERG9jdW1lbnQsIAogICAgICAgICAgICAgICAgICBwYWdlOiBQRFBhZ2UsIG1hcmdpbjogSW50LCB5U3RhcnROZXdQYWdlOiBGbG9hdCwgdGFibGVXaWR0aDogRmxvYXQsIGRyYXdDb250ZW50OiBCb29sZWFuLCB5U3RhcnQ6IEZsb2F0LCBib3R0b21NYXJnaW46IEludCk6IEJhc2VUYWJsZSA9IHsKICAgIAogICAgCiAgICAgICAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkb2MgPSByZXBvcnRQREZDb250ZXh0LmRvYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgY3JlYXRlR3JhZGUoZm9udDogUERUeXBlMEZvbnQsIHN0dWRlbnRSZXBvcnQ6IFJlcG9ydEFEVC5TdHVkZW50UmVwb3J0LCBkb2M6IFBERG9jdW1lbnQsIHBhZ2U6IFBEUGFnZSwgbWFyZ2luOiBJbnQsIHlTdGFydE5ld1BhZ2U6IEZsb2F0LCB0YWJsZVdpZHRoOiBGbG9hdCwgZHJhd0NvbnRlbnQ6IEJvb2xlYW4sIHlTdGFydDogRmxvYXQsIGJvdHRvbU1hcmdpbjogSW50KTogX3Jvb3RfLmJlLnF1b2RsaWJldC5ib3hhYmxlLkJhc2VUYWJsZSA9ID8/PwogIHsKICAgIAogIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBib3R0b21NYXJnaW4gPSA3MAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgdHdvRHAobWFyazogRmxvYXQpOiBTdHJpbmcgPSBmIiRtYXJrJTIuMWYiCg==</text>
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCA9IFJlcG9ydFBERkNvbnRleHQoKQogICAgUmVwb3J0VGFibGUuY3JlYXRlKCxoZWx2ZXRpY2EsIHN0dWRlbnRSZXBvcnQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgdHdvRHAobWFyazogRmxvYXQpOiBTdHJpbmcgPSBmIiRtYXJrJTIuMWYiCg==</text>
+        <text encoding="base64">ICAgIHZhbCBwYWdlID0gcmVwb3J0UERGQ29udGV4dC5wYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3RUYWJsZS5kcmF3KCkK</text>
+        <text encoding="base64">ICBkZWYgY3JlYXRlR3JhZGUoZm9udDogUERUeXBlMEZvbnQsIHN0dWRlbnRSZXBvcnQ6IFJlcG9ydEFEVC5TdHVkZW50UmVwb3J0LCBkb2M6IFBERG9jdW1lbnQsIAogICAgICAgICAgICAgICAgICBwYWdlOiBQRFBhZ2UsIG1hcmdpbjogSW50LCB5U3RhcnROZXdQYWdlOiBGbG9hdCwgdGFibGVXaWR0aDogRmxvYXQsIGRyYXdDb250ZW50OiBCb29sZWFuLCB5U3RhcnQ6IEZsb2F0LCBib3R0b21NYXJnaW46IEludCk6IEJhc2VUYWJsZSA9IHsKICAgIAogICAgCiAgICAgICAgICAKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>10</text>
       </register>
     </registers>
     <search>
