@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.classpath;*.gitattributes;*.gitignore;*.hprof;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <removed_mapping ext="jsp" approved="true" type="JSP" />
+      <mapping ext="ts" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="Properties" />
       <removed_mapping ext="jsp" approved="true" type="JSP" />
     </extensionMap>
