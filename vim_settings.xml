@@ -229,12 +229,11 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ITextReport.scala" timestamp="1562018935550">
-        <mark key="'" line="58" column="42" />
-        <mark key="[" line="17" column="86" />
-        <mark key="]" line="17" column="86" />
-        <mark key="." line="17" column="86" />
-        <mark key="^" line="17" column="85" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ITextReport.scala" timestamp="1562020487379">
+        <mark key="'" line="63" column="42" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/converter/NuggetConverter.scala" timestamp="1560574744258">
         <mark key="[" line="29" column="0" />
@@ -415,40 +414,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGVtZW50KCJOYW1lIiwgZnVsbE5hbWUpICwK</text>
+        <text encoding="base64">ICAgIHRhYmxlLnNldFdpZHRoUGVyY2VudGFnZSg1MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvYy5hZGQoaW5zdFBhcmEpCg==</text>
+        <text encoding="base64">ICAgIGRvYy5hZGQobmV3IFBhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>normalItalic12</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRvYy5hZGQobmV3IFBhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhYmxlLnNldCg1MCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbnN0UGFyYSA9IG5ld1BhcmFncmFwaChuZXcgQ2h1bmsoIk5hbWU6ICAiLCBib2xkaXRhbGljMTIpLCBuZXcgQ2h1bmsoZnVsbE5hbWUsIG5vcm1hbEl0YWxpYzEyKSkKICAgIGluc3RQYXJhLnNldEFsaWdubWVudChFbGVtZW50LkFMSUdOX0xFRlQpCiAgICBpbnN0UGFyYS5zZXRTcGFjaW5nQWZ0ZXIoMThmKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB2YWx1ZSA9IHMiJGZpcnN0TmFtZSAkbGFzdE5hbWUiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGRvY3VtZW50LmFkZCggc05hbWUudG9QYXJhQ2VudGVyZWQoMjAsaGVsdmV0aWNhKSkKICAgIC8vICAgIGRvY3VtZW50LmFkZChtb3R0by50b1BhcmFDZW50ZXJlZCg4LGhlbHZldGljYSkpCiAgICAvLyAgICBkb2N1bWVudC5hZGQoYWRkcmVzcy50b1BhcmFDZW50ZXJlZCg4LGhlbHZldGljYSkpCiAgICAvLyAgICBkb2N1bWVudC5hZGQobmFtZS50b1BhcmFMZWZ0KDEyLGhlbHZldGljYSkpCgogICAgLy8gICAgUmVwb3J0VGFibGUuY3JlYXRlKGRvY3VtZW50LmdldFBERG9jdW1lbnQsIHN0dWRlbnRSZXBvcnQpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRvYy5hZGQoaW5zdFBhcmEpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBpbnN0UGFyYSA9IG5ld1BhcmFncmFwaChuZXcgQ2h1bmsoIk5hbWU6ICAiLCBib2xkaXRhbGljMTIpLCBuZXcgQ2h1bmsoZnVsbE5hbWUsIG5vcm1hbEl0YWxpYzEyKSkKICAgIGluc3RQYXJhLnNldEFsaWdubWVudChFbGVtZW50LkFMSUdOX0xFRlQpCiAgICBpbnN0UGFyYS5zZXRTcGFjaW5nQWZ0ZXIoMThmKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCB2YWx1ZSA9IHMiJGZpcnN0TmFtZSAkbGFzdE5hbWUiCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYW1lID0gcyJOYW1lOiAkZmlyc3ROYW1lICRsYXN0TmFtZSIK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvYy5hZGQobW90dG8udG9QYXJhZ3JhcGgobm9ybWFsMTIsIEVsZW1lbnQuQUxJR05fQ0VOVEVSKSkK</text>
+        <text encoding="base64">ICAgIC8vICAgIGRvY3VtZW50LmFkZCggc05hbWUudG9QYXJhQ2VudGVyZWQoMjAsaGVsdmV0aWNhKSkKICAgIC8vICAgIGRvY3VtZW50LmFkZChtb3R0by50b1BhcmFDZW50ZXJlZCg4LGhlbHZldGljYSkpCiAgICAvLyAgICBkb2N1bWVudC5hZGQoYWRkcmVzcy50b1BhcmFDZW50ZXJlZCg4LGhlbHZldGljYSkpCiAgICAvLyAgICBkb2N1bWVudC5hZGQobmFtZS50b1BhcmFMZWZ0KDEyLGhlbHZldGljYSkpCgogICAgLy8gICAgUmVwb3J0VGFibGUuY3JlYXRlKGRvY3VtZW50LmdldFBERG9jdW1lbnQsIHN0dWRlbnRSZXBvcnQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>normalItalic12</text>
+        <text>WidthPercentage</text>
       </register>
     </registers>
     <search>
