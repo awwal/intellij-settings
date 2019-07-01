@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/github/dhorions/boxable/1.5/boxable-1.5-sources.jar!/be/quodlibet/boxable/Row.java" timestamp="1561603827271" />
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/GradingConfig.java" timestamp="1560480994995">
         <mark key="[" line="47" column="32" />
         <mark key="]" line="47" column="32" />
@@ -46,7 +45,6 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/dhorions/boxable/1.5/boxable-1.5-sources.jar!/be/quodlibet/boxable/Table.java" timestamp="1561604328937" />
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/model/TypeShuffler.scala" timestamp="1560572217970">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="40" />
@@ -59,14 +57,13 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportTable.scala" timestamp="1561604387444">
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportTable.scala" timestamp="1561990628506">
         <mark key="'" line="156" column="0" />
         <mark key="[" line="39" column="100" />
         <mark key="]" line="39" column="101" />
         <mark key="." line="39" column="101" />
         <mark key="^" line="72" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/dhorions/boxable/1.5/boxable-1.5-sources.jar!/be/quodlibet/boxable/Cell.java" timestamp="1561603854044" />
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/implicit/EntityDTOImplicit.scala" timestamp="1560483078836">
         <mark key="[" line="19" column="60" />
         <mark key="]" line="19" column="60" />
@@ -109,12 +106,17 @@
         <mark key="." line="33" column="27" />
         <mark key="^" line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/ng/acada/model/rest/ExamInfoDTOBase.scala" timestamp="1561602037540" />
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/package.scala" timestamp="1560573113472">
         <mark key="[" line="33" column="15" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/AddingTable.java" timestamp="1561990658750">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="25" column="65" />
+        <mark key="^" line="25" column="65" />
       </file>
       <file name="$USER_HOME$/proj/model-tso-tsi/src/main/scala/tsi/G.scala" timestamp="1561353299225">
         <mark key="'" line="40" column="0" />
@@ -135,10 +137,13 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/CreateLandscapePDF.java" timestamp="1561989848994">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="54" />
+      </file>
       <file name="$USER_HOME$/proj/model-tso-tsi/src/main/scala/ng/acada/model/rest/QuizAttributeDTO.scala" timestamp="1561352317929">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/nl.codestar/scala-tsi_2.12/srcs/scala-tsi_2.12-0.1.3-sources.jar!/nl/codestar/scalatsi/TSType.scala" timestamp="1561353185013" />
       <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/SchoolDTO.scala" timestamp="1560568544595">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -189,24 +194,28 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/dhorions/boxable/1.5/boxable-1.5-sources.jar!/be/quodlibet/boxable/BaseTable.java" timestamp="1561603566071" />
       <file name="$USER_HOME$/proj/model-tso-tsi/src/main/scala/ng/acada/model/rest/QuizDTO.scala" timestamp="1561351993968">
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="48" />
         <mark key="^" line="14" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/PDFReportGenerator.scala" timestamp="1561604423171">
-        <mark key="[" line="38" column="75" />
-        <mark key="]" line="38" column="11" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/PDFReportGenerator.scala" timestamp="1561990226398">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="68" />
         <mark key="." line="38" column="84" />
         <mark key="^" line="38" column="11" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/pom.xml" timestamp="1561078372156">
+      <file name="$USER_HOME$/proj/CBTServer/generator/pom.xml" timestamp="1561990055042">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
         <mark key="^" line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ITextReport.scala" timestamp="1561990638519">
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="11" column="41" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/converter/NuggetConverter.scala" timestamp="1560574744258">
         <mark key="[" line="29" column="0" />
@@ -387,40 +396,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0LmdldERhdGFDZWxsVGVtcGxhdGVFdmVuTGlzdCgpLmZvckVhY2gobmV3IENvbnN1bWVyPENlbGw8UERQYWdlPj4oKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgUGRmUFRhYmxlIHRhYmxlID0gbmV3IFBkZlBUYWJsZSgzKTsKICAgICAgUGRmUENlbGwgY2VsbCA9IG5ldyBQZGZQQ2VsbChuZXcgUGhyYXNlKCJDZWxsIHdpdGggY29sc3BhbiAzIikpOwogICAgICBjZWxsLnNldENvbHNwYW4oMyk7CiAgICAgIGNlbGwuc2V0SG9yaXpvbnRhbEFsaWdubWVudChFbGVtZW50LkFMSUdOX0NFTlRFUik7CiAgICAgIHRhYmxlLmFkZENlbGwoY2VsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3VtICs9d2lkdGgK</text>
+        <text encoding="base64">ICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoREVTVCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgUGRmUFRhYmxlIHRhYmxlID0gbmV3IFBkZlBUYWJsZSgzKTsKICAgICAgUGRmUENlbGwgY2VsbCA9IG5ldyBQZGZQQ2VsbChuZXcgUGhyYXNlKCJDZWxsIHdpdGggY29sc3BhbiAzIikpOwogICAgICBjZWxsLnNldENvbHNwYW4oMyk7CiAgICAgIGNlbGwuc2V0SG9yaXpvbnRhbEFsaWdubWVudChFbGVtZW50LkFMSUdOX0NFTlRFUik7CiAgICAgIHRhYmxlLmFkZENlbGwoY2VsbCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0LmdldERhdGFDZWxsVGVtcGxhdGVFdmVuKCkuKG5ldyBDb25zdW1lcjxDZWxsPFBEUGFnZT4+KCkgewo=</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGRlc3QgPSAiQzovaXRleHRFeGFtcGxlcy9hZGRpbmdUYWJsZS5wZGYiOyAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGJlLnF1b2RsaWJldC5ib3hhYmxlLmRhdGF0YWJsZS51cGRhdGVDZWxsUHJvcGVydHk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pdGUK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdDMxID0gVFNUeXBlLmludGVyZmFjZSgnc3MnKVtTY2hvb2xTZXNzaW9uRFRPXQogIGltcGxpY2l0IHZhbCB0MzMgPSBUU1R5cGUuZnJvbUNhc2VDbGFzc1tTZWN0aW9uRFRPXQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">eHRwZGYua2VybmVsLnBkZi5QZGZEb2N1bWVudDsgCmltcG9ydCBjb20uaXRleHRwZGYua2VybmVsLnBkZi5QZGZXcml0ZXI7IAoKaW1wb3J0IGNvbS5pdGV4dHBkZi5sYXlvdXQuRG9jdW1lbnQ7IAppbXBvcnQgY29tLml0ZXh0cGRmLmxheW91dC5lbGVtZW50LkNlbGw7IAppbXBvcnQgY29tLml0ZXh0cGRmLmxheW91dC5lbGVtZW50LlRhYmxlOyAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdDMxID0gVFNUeXBlLmZyb21DYXNlQ2xhc3NbU2Nob29sU2Vzc2lvbkRUT10K</text>
+        <text encoding="base64">ICAgICAgc3VtICs9d2lkdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdDMyID0gVFNUeXBlLmZyb21DYXNlQ2xhc3NbU2Nob29sU3RhdHNEVE9dCg==</text>
+        <text encoding="base64">ICAgICAgICB0LmdldERhdGFDZWxsVGVtcGxhdGVFdmVuKCkuKG5ldyBDb25zdW1lcjxDZWxsPFBEUGFnZT4+KCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdDMzID0gVFNUeXBlLmZyb21DYXNlQ2xhc3NbU2VjdGlvbkRUT10K</text>
+        <text encoding="base64">aW1wb3J0IGJlLnF1b2RsaWJldC5ib3hhYmxlLmRhdGF0YWJsZS51cGRhdGVDZWxsUHJvcGVydHk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdDM0ID0gVFNUeXBlLmZyb21DYXNlQ2xhc3NbU3ViamVjdERUT10K</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdDMxID0gVFNUeXBlLmludGVyZmFjZSgnc3MnKVtTY2hvb2xTZXNzaW9uRFRPXQogIGltcGxpY2l0IHZhbCB0MzMgPSBUU1R5cGUuZnJvbUNhc2VDbGFzc1tTZWN0aW9uRFRPXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdDM0ID0gVFNUeXBlLmZyb21DYXNlQ2xhc3NbU3ViamVjdERUT10K</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdDMxID0gVFNUeXBlLmZyb21DYXNlQ2xhc3NbU2Nob29sU2Vzc2lvbkRUT10K</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
