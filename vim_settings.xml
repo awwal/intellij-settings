@@ -52,11 +52,11 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/package.scala" timestamp="1561992988930">
-        <mark key="[" line="36" column="10" />
-        <mark key="]" line="36" column="37" />
-        <mark key="." line="36" column="37" />
-        <mark key="^" line="36" column="37" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/package.scala" timestamp="1562013788118">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="43" column="3" />
+        <mark key="." line="43" column="3" />
+        <mark key="^" line="43" column="3" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportTable.scala" timestamp="1561992779196">
         <mark key="'" line="156" column="0" />
@@ -223,11 +223,11 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ITextReport.scala" timestamp="1561993348437">
-        <mark key="[" line="43" column="43" />
-        <mark key="]" line="44" column="41" />
-        <mark key="^" line="44" column="41" />
-        <mark key="." line="44" column="41" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ITextReport.scala" timestamp="1562013947574">
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="57" column="31" />
+        <mark key="^" line="57" column="31" />
+        <mark key="." line="57" column="31" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/converter/NuggetConverter.scala" timestamp="1560574744258">
         <mark key="[" line="29" column="0" />
@@ -408,40 +408,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuYWRkQ2VsbCggc2pyLmNsYXNzUmVzdWx0LmNsYXNzTG93LnRvT25lRFAudG9QaHJhc2UudG9DZWxsKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0b0NlbGw6IFBkZlBDZWxsID0gewogICAgICB2YWwgY2VsbCA9IG5ldyBQZGZQQ2VsbChwaHJhc2UpCiAgICAgIGNlbGwuc2V0VmVydGljYWxBbGlnbm1lbnQoRWxlbWVudC5BTElHTl9DRU5URVIpCiAgICAgIGNlbGwuc2V0SG9yaXpvbnRhbEFsaWdubWVudChFbGVtZW50LkFMSUdOX0NFTlRFUikKICAgICAgY2VsbAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCByb3dXaWR0aCA9IDEwMCAvIChuQ291bnQgKyAxKQo=</text>
+        <text encoding="base64">ICAgICAgY2VsbC5zZXRWZXJ0aWNhbEFsaWdubWVudChFbGVtZW50LkFMSUdOX0NFTlRFUikKICAgICAgY2VsbC5zZXRIb3Jpem9udGFsQWxpZ25tZW50KEVsZW1lbnQuQUxJR05fQ0VOVEVSKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2VsbC5zZXRWZXJ0aWNhbEFsaWdubWVudChFbGVtZW50LkFMSUdOX0NFTlRFUikKICAgICAgY2VsbC5zZXRIb3Jpem9udGFsQWxpZ25tZW50KEVsZW1lbnQuQUxJR05fQ0VOVEVSKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCByb3dXaWR0aCA9IDEwMCAvIChuQ291bnQgKyAxKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhYmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8KICAgICAgLy8gICAgICBzZXRTdWJqZWN0Um93QXR0cmlidXRlKGZvbnQsIHJvdy5jcmVhdGVDZWxsKHJvd1dpZHRoICogMiwgc2pyLnB1cGlsUmVzdWx0LnJlbWFyay50b1N0cmluZyksIENvbG9yLkdSRUVOKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLmFkZEhlYWRlclJvdyhoZWFkZXJSb3cpCg==</text>
+        <text encoding="base64">ICAgIHRhYmxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2V0U3ViamVjdFJvd0F0dHJpYnV0ZShmb250LCByb3cuY3JlYXRlQ2VsbChyb3dXaWR0aCwgc2pyLnN1YmplY3QpKQo=</text>
+        <text encoding="base64">ICAgICAgLy8KICAgICAgLy8gICAgICBzZXRTdWJqZWN0Um93QXR0cmlidXRlKGZvbnQsIHJvdy5jcmVhdGVDZWxsKHJvd1dpZHRoICogMiwgc2pyLnB1cGlsUmVzdWx0LnJlbWFyay50b1N0cmluZyksIENvbG9yLkdSRUVOKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJvdzogUm93W1BEUGFnZV0gPSB0YWJsZS5jcmVhdGVSb3coOGYpCg==</text>
+        <text encoding="base64">ICAgIHRhYmxlLmFkZEhlYWRlclJvdyhoZWFkZXJSb3cpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>Element.ALIGN_CENTER</text>
       </register>
     </registers>
     <search>
