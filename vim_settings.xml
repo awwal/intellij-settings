@@ -100,12 +100,11 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportADT.scala" timestamp="1562119837998">
-        <mark key="'" line="31" column="61" />
-        <mark key="[" line="20" column="76" />
-        <mark key="]" line="20" column="78" />
-        <mark key="." line="20" column="78" />
-        <mark key="^" line="20" column="78" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportADT.scala" timestamp="1562214780443">
+        <mark key="'" line="33" column="61" />
+        <mark key="[" line="27" column="71" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/package.scala" timestamp="1560568405542">
         <mark key="[" line="33" column="27" />
@@ -113,7 +112,7 @@
         <mark key="." line="33" column="27" />
         <mark key="^" line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/quizgen/DocumentFont.scala" timestamp="1562034568326">
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/quizgen/DocumentFont.scala" timestamp="1562212691530">
         <mark key="[" line="9" column="55" />
         <mark key="]" line="9" column="56" />
         <mark key="." line="9" column="56" />
@@ -189,11 +188,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="24" column="71" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/test/scala/ng/acada/gen/test/ReportGenTest.scala" timestamp="1562119932795">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="39" />
-        <mark key="." line="44" column="39" />
-        <mark key="^" line="62" column="51" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/test/scala/ng/acada/gen/test/ReportGenTest.scala" timestamp="1562215102487">
+        <mark key="[" line="86" column="50" />
+        <mark key="]" line="86" column="50" />
+        <mark key="." line="86" column="50" />
+        <mark key="^" line="85" column="15" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/quizgen/adt/HtmlGenerator.scala" timestamp="1560568479031">
         <mark key="[" line="96" column="29" />
@@ -232,12 +231,12 @@
         <mark key="." line="38" column="84" />
         <mark key="^" line="38" column="11" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" timestamp="1562207693375">
-        <mark key="'" line="191" column="0" />
-        <mark key="[" line="108" column="17" />
-        <mark key="]" line="108" column="17" />
-        <mark key="^" line="106" column="29" />
-        <mark key="." line="108" column="17" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" timestamp="1562215166538">
+        <mark key="'" line="229" column="0" />
+        <mark key="[" line="131" column="55" />
+        <mark key="]" line="131" column="54" />
+        <mark key="." line="131" column="54" />
+        <mark key="^" line="131" column="54" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/pom.xml" timestamp="1562119626864">
         <mark key="[" line="149" column="0" />
@@ -428,40 +427,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNlbGwodGFibGUsICJDbGFzcyBBdmVyYWdlIixBTElHTl9MRUZULCBzdHVkZW50UmVwb3J0LmNsYXNzQ29udGV4dC5jbGFzc0F2Z1RvdGFsU2NvcmUudG9PbmVEUCxBTElHTl9MRUZUKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBjbGFzc0hpZ2g6RmxvYXQgPSBhdmcrMTBmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNlbGwodGFibGUsICJUZXJtIixBTElHTl9MRUZULCBzIiR7dGVybS50b1VwcGVyQ2FzZX0iLEFMSUdOX0xFRlQpCg==</text>
+        <text encoding="base64">ICAgICB2YXIgdG90YWxTY29yZSA9MGYK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Class Average</text>
+        <text>LowAve</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNlbGwodGFibGUsICJTZXNzaW9uIixBTElHTl9MRUZULCBzIiR7c2Vzc2lvbi50b1VwcGVyQ2FzZX0iLEFMSUdOX0xFRlQpCg==</text>
+        <text encoding="base64">ICAgICAgIHZhbCBsID0gR3JhZGluZ0xldmVsRFRPKCIiLCAwZiwiIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNlbGwodGFibGUsICJBZG1pc3Npb24gTnVtYmVyIixBTElHTl9MRUZULCBhZG1pc3Npb25OYW1lLnRvVXBwZXJDYXNlLEFMSUdOX0xFRlQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgdmFsIGR1bW15ID0gICAgICAgR3JhZGluZ0xldmVsRFRPCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLnNldFRvdGFsV2lkdGgoQXJyYXlbRmxvYXRdKDMyLCAxNTAsIDMyLCA1MCkpCg==</text>
+        <text encoding="base64">ICAgICAgbGV2ZWxzICs9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLnNldAo=</text>
+        <text encoding="base64">ICAgICAgbGV2ZWxzLmFkZFN0cmluZygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAgICAgZ3JhZGVDb25maWcubGV2ZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAgIHRhYmxlLnNldFRvdGFsV2lkdGgoQXJyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAgICAgY2VsbC5zZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAgIC8vICAgIHZhbCBwYXJhZ3JhcGggPSBzIk1JRCBURVJNIFRFU1QgUkVTVUxUIEZPUiAkdGVybSwgJHNlc3Npb24gU0VTU0lPTiIudG9QYXJhZ3JhcGgobmV1dG9uQm9sZEZvbnQsIEVsZW1lbnQuQUxJR05fQ0VOVEVSKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Class Average</text>
+        <text>LowAve</text>
       </register>
     </registers>
     <search>
