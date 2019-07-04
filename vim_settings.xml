@@ -231,12 +231,12 @@
         <mark key="." line="38" column="84" />
         <mark key="^" line="38" column="11" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" timestamp="1562215166538">
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" timestamp="1562243857844">
         <mark key="'" line="229" column="0" />
-        <mark key="[" line="131" column="55" />
-        <mark key="]" line="131" column="54" />
-        <mark key="." line="131" column="54" />
-        <mark key="^" line="131" column="54" />
+        <mark key="[" line="264" column="39" />
+        <mark key="]" line="264" column="39" />
+        <mark key="^" line="264" column="37" />
+        <mark key="." line="264" column="39" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/pom.xml" timestamp="1562119626864">
         <mark key="[" line="149" column="0" />
@@ -427,40 +427,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBjbGFzc0hpZ2g6RmxvYXQgPSBhdmcrMTBmCg==</text>
+        <text encoding="base64">ICAgIHRhYmxlLmFkZENlbGwoc3VtbWFyeUNlbGwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICB2YXIgdG90YWxTY29yZSA9MGYK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LowAve</text>
+        <text>A</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHZhbCBsID0gR3JhZGluZ0xldmVsRFRPKCIiLCAwZiwiIikK</text>
+        <text encoding="base64">ICAgIHZhbCB0b3RhbFN1YmplY3QgPSByb3dzLmxlbmd0aAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgdmFsIGR1bW15ID0gICAgICAgR3JhZGluZ0xldmVsRFRPCg==</text>
+        <text encoding="base64">ICAgICB2YXIgdG90YWxTY29yZSA9MGYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGV2ZWxzICs9IAo=</text>
+        <text encoding="base64">ICAgICAgIHZhbCBsID0gR3JhZGluZ0xldmVsRFRPKCIiLCAwZiwiIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV2ZWxzLmFkZFN0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgdmFsIGR1bW15ID0gICAgICAgR3JhZGluZ0xldmVsRFRPCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZ3JhZGVDb25maWcubGV2ZWwK</text>
+        <text encoding="base64">ICAgICAgbGV2ZWxzICs9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLnNldFRvdGFsV2lkdGgoQXJyKQo=</text>
+        <text encoding="base64">ICAgICAgbGV2ZWxzLmFkZFN0cmluZygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2VsbC5zZXQK</text>
+        <text encoding="base64">ICAgICAgZ3JhZGVDb25maWcubGV2ZWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHZhbCBwYXJhZ3JhcGggPSBzIk1JRCBURVJNIFRFU1QgUkVTVUxUIEZPUiAkdGVybSwgJHNlc3Npb24gU0VTU0lPTiIudG9QYXJhZ3JhcGgobmV1dG9uQm9sZEZvbnQsIEVsZW1lbnQuQUxJR05fQ0VOVEVSKQo=</text>
+        <text encoding="base64">ICAgIHRhYmxlLnNldFRvdGFsV2lkdGgoQXJyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>LowAve</text>
+        <text>A</text>
       </register>
     </registers>
     <search>
