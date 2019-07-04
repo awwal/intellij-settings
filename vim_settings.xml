@@ -51,7 +51,7 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/package.scala" timestamp="1562120529412">
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/package.scala" timestamp="1562272926196">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="38" column="34" />
         <mark key="]" line="38" column="52" />
@@ -231,12 +231,12 @@
         <mark key="." line="38" column="84" />
         <mark key="^" line="38" column="11" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" timestamp="1562243857844">
-        <mark key="'" line="229" column="0" />
-        <mark key="[" line="264" column="39" />
-        <mark key="]" line="264" column="39" />
-        <mark key="^" line="264" column="37" />
-        <mark key="." line="264" column="39" />
+      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" timestamp="1562273042369">
+        <mark key="'" line="280" column="0" />
+        <mark key="[" line="196" column="46" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+        <mark key="^" line="196" column="26" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/pom.xml" timestamp="1562119626864">
         <mark key="[" line="149" column="0" />
@@ -324,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_05_11_updates.xml" />
       <jump line="231" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_05_11_updates.xml" />
       <jump line="234" column="15" filename="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_05_11_updates.xml" />
       <jump line="19" column="0" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExternalQuiz.java" />
@@ -424,43 +423,44 @@
       <jump line="61" column="79" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" />
       <jump line="92" column="6" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" />
       <jump line="189" column="0" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" />
+      <jump line="297" column="0" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLmFkZENlbGwoc3VtbWFyeUNlbGwpCg==</text>
+        <text encoding="base64">ICAgICAgY2VsbC5zZXRIb3Jpem9udGFsQWxpZ25tZW50KEFMSUdOX0NFTlRFUikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB0b3RhbFN1YmplY3QgPSByb3dzLmxlbmd0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICB2YXIgdG90YWxTY29yZSA9MGYK</text>
+        <text encoding="base64">ICAgICAgY2VsbC5zZXRIb3Jpem9udGFsQWxpZ25tZW50KEFMSUdOX0NFTlRFUikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHZhbCBsID0gR3JhZGluZ0xldmVsRFRPKCIiLCAwZiwiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgdmFsIGR1bW15ID0gICAgICAgR3JhZGluZ0xldmVsRFRPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV2ZWxzICs9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV2ZWxzLmFkZFN0cmluZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZ3JhZGVDb25maWcubGV2ZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLnNldFRvdGFsV2lkdGgoQXJyKQo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>CENTER</text>
       </register>
     </registers>
     <search>
