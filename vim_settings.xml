@@ -64,20 +64,6 @@
         <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" timestamp="1562467225725" />
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/package.scala" timestamp="1562272926196">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="38" column="34" />
-        <mark key="]" line="38" column="52" />
-        <mark key="." line="38" column="52" />
-        <mark key="^" line="38" column="52" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportTable.scala" timestamp="1562119560516">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="15" />
-        <mark key="]" line="74" column="15" />
-        <mark key="." line="74" column="15" />
-        <mark key="^" line="72" column="32" />
-      </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/implicit/EntityDTOImplicit.scala" timestamp="1560483078836">
         <mark key="[" line="19" column="60" />
         <mark key="]" line="19" column="60" />
@@ -113,12 +99,6 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ReportADT.scala" timestamp="1562214780443">
-        <mark key="'" line="33" column="61" />
-        <mark key="[" line="27" column="71" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/package.scala" timestamp="1560568405542">
         <mark key="[" line="33" column="27" />
         <mark key="]" line="33" column="27" />
@@ -143,13 +123,6 @@
         <mark key="." line="35" column="48" />
         <mark key="^" line="25" column="65" />
       </file>
-      <file name="$USER_HOME$/proj/model-tso-tsi/src/main/scala/tsi/G.scala" timestamp="1561353299225">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="7" column="86" />
-        <mark key="]" line="7" column="86" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="41" />
-      </file>
       <file name="$USER_HOME$/proj/model-tso-tsi/src/main/scala/ng/acada/model/rest/UserDTO.scala" timestamp="1561352178515">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -165,6 +138,10 @@
         <mark key="]" line="13" column="63" />
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/Group.java" timestamp="1562470217893">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/model-dto/src/main/scala/com/pureworks/cbt/rest/model/SchoolDTO.scala" timestamp="1560568544595">
         <mark key="[" line="8" column="0" />
@@ -187,6 +164,11 @@
         <mark key="]" line="37" column="55" />
         <mark key="^" line="38" column="78" />
         <mark key="." line="38" column="78" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ClassRoom.java" timestamp="1562470644708">
+        <mark key="'" line="52" column="33" />
+        <mark key="[" line="18" column="38" />
+        <mark key="^" line="83" column="11" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" timestamp="1560738602036">
         <mark key="[" line="27" column="0" />
@@ -224,10 +206,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ReportFromExternalQuizGen.scala" timestamp="1562467111155">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="56" column="87" />
-        <mark key="." line="56" column="87" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" timestamp="1562470106897" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ReportFromExternalQuizGen.scala" timestamp="1562470119572">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
         <mark key="^" line="46" column="15" />
       </file>
       <file name="$USER_HOME$/proj/model-tso-tsi/src/main/scala/ng/acada/model/rest/QuizDTO.scala" timestamp="1561351993968">
@@ -235,13 +218,6 @@
         <mark key="]" line="15" column="48" />
         <mark key="^" line="14" column="48" />
         <mark key="." line="15" column="48" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/PDFReportGenerator.scala" timestamp="1562119584818">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="39" column="37" />
-        <mark key="." line="38" column="84" />
-        <mark key="^" line="38" column="11" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" timestamp="1562466006779">
         <mark key="'" line="288" column="0" />
@@ -255,13 +231,6 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
         <mark key="^" line="148" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/ITextReport.scala" timestamp="1562119942006">
-        <mark key="'" line="188" column="6" />
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="6" />
-        <mark key="^" line="128" column="66" />
-        <mark key="." line="13" column="6" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/converter/NuggetConverter.scala" timestamp="1560574744258">
         <mark key="[" line="29" column="0" />
@@ -305,6 +274,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/User.java" timestamp="1562470627769">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="55" />
+      </file>
       <file name="$USER_HOME$/proj/model-tso-tsi/src/main/scala/Main.scala" timestamp="1561349946500">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -328,6 +301,11 @@
         <mark key="^" line="27" column="74" />
         <mark key="." line="27" column="74" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ReportGenTest.scala" timestamp="1562470127191">
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+      </file>
       <file name="/fragment.java" timestamp="1562466084484">
         <mark key="[" line="0" column="0" />
       </file>
@@ -346,8 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="15" filename="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_05_11_updates.xml" />
-      <jump line="19" column="0" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExternalQuiz.java" />
       <jump line="20" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" />
       <jump line="23" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/AccessCheckerService.scala" />
       <jump line="83" column="0" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExternalQuizResult.java" />
@@ -446,43 +422,45 @@
       <jump line="189" column="0" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" />
       <jump line="297" column="0" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" />
       <jump line="44" column="0" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/DBTest.scala" />
+      <jump line="53" column="19" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ClassRoom.java" />
+      <jump line="50" column="33" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/ClassRoom.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVzZXJEVE8uc2V0RW1haWxBZGRyZXNzKGZha2VyLmludGVybmV0KCkuZW1haWxBZGRyZXNzKHVzZXJEVE8uZ2V0Rmlyc3ROYW1lKSkK</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUob3B0aW9uYWwgPSBmYWxzZSxmZXRjaCA9IEZldGNoVHlwZS5MQVpZKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBxdWl6emVzID0gZXh0ZXJuYWxRdWl6U2VydmljZS5nZXRFeHRlcm5hbFF1aXp6ZXNGb3JDbGFzcyhjbGFzc0lkKQogICAgYXNzZXJ0RXF1YWxzKCJFeHBlY3RlZCB0d28gZXh0ZXJuYWwgcXVpeiBzaG91bGQgaGF2ZSBiZWVuIGNyZWF0ZWQiLCAyLCBxdWl6emVzLnNpemUpCg==</text>
+        <text encoding="base64">ICBATWFueVRvT25lCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBATWFueVRvT25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdHVkZW50ID0gY3JlYXRlU3R1ZGVudEZvckNsYXNzKFNjaG9vbElkLm9mKHMpLCBTb21lKGNsYXNzTmFtZSkpCgogICAgZW0uZmx1c2goKQogICAgdmFsIHNjb3JlID0gMTBmCiAgICBleHRlcm5hbFF1aXpTZXJ2aWNlLnNldEV4dGVybmFsUXVpelJlc3VsdChxdWl6MS5nZXRJZCwgRXh0ZXJuYWxRdWl6UmVzdWx0RFRPKHNjb3JlLCBzdHVkZW50LmdldElkKSkKCiAgICB2YWwgcmVzOiBzY2FsYS5PcHRpb25bRXh0ZXJuYWxRdWl6UmVzdWx0XSA9IGV4dGVybmFsUXVpelNlcnZpY2UuZ2V0UXVpelJlc3VsdChxdWl6MS5nZXRJZCwgc3R1ZGVudC5nZXRJZCkKICAgIGFzc2VydFRydWUoIlNob3VsZCBoYXZlIHJlc3VsdCIsIHJlcy5pc0RlZmluZWQpCiAgICBhc3NlcnRFcXVhbHMoc2NvcmUsIHJlcy5nZXQuZ2V0U2NvcmVkUG9pbnRzLCAwLjAwMDAxKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBATWFueVRvTWFueSgpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbGxlZ2FsU2NvcmUgPSAxMWYKICAgIHRyeSB7CiAgICAgIGV4dGVybmFsUXVpelNlcnZpY2Uuc2V0RXh0ZXJuYWxRdWl6UmVzdWx0KHF1aXoxLmdldElkLCBFeHRlcm5hbFF1aXpSZXN1bHREVE8oaWxsZWdhbFNjb3JlLCBzdHVkZW50LmdldElkKSkKICAgICAgZmFpbChzIkV4cGVjdGVkICRpbGxlZ2FsU2NvcmUgY2F1c2UgYW4gZXhjZXB0aW9uIHRvIGJlIHRocm93biIpCiAgICB9CiAgICBjYXRjaCB7CiAgICAgIGNhc2UgXzogRXhjZXB0aW9uID0+CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4dGVybmFsUXVpelNlcnZpY2Uuc2V0RXh0ZXJuYWxRdWl6UmVzdWx0KHF1aXoxLmdldElkLCBFeHRlcm5hbFF1aXpSZXN1bHREVE8oNWYsIHN0dWRlbnQuZ2V0SWQpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJEVE8uc2V0RW1haWxBZGRyZXNzKHVzZXJEVE8uZ2V0VXNlck5hbWUgKyAiQHRlc3QudGVzdCIpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIEdyb3VwLkdyb3VwVHlwZSB0eXBlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJEVE8uc2V0Rmlyc3ROYW1lKCJ0ZXN0IikKICAgIHVzZXJEVE8uc2V0TGFzdE5hbWUoImxhc3R0ZXN0IikK</text>
+        <text encoding="base64">ICBwdWJsaWMgIGVudW0gR3JvdXBUeXBlewogICAgU3R1ZGVudHMsVGVhY2hlcnMKICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJfdGVzdF9zY2hvb2xfIiArIFVVSUQucmFuZG9tVVVJRC50b1N0cmluZwo=</text>
+        <text encoding="base64">ICAgIHZhbCBxdWl6emVzID0gZXh0ZXJuYWxRdWl6U2VydmljZS5nZXRFeHRlcm5hbFF1aXp6ZXNGb3JDbGFzcyhjbGFzc0lkKQogICAgYXNzZXJ0RXF1YWxzKCJFeHBlY3RlZCB0d28gZXh0ZXJuYWwgcXVpeiBzaG91bGQgaGF2ZSBiZWVuIGNyZWF0ZWQiLCAyLCBxdWl6emVzLnNpemUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>student_class</text>
       </register>
     </registers>
     <search>
