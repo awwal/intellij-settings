@@ -32,7 +32,7 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/ui/view/ClassListings.scala" timestamp="1562517562803">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/ui/view/ClassListings.scala" timestamp="1562533538905">
         <mark key="[" line="151" column="60" />
         <mark key="]" line="151" column="74" />
         <mark key="." line="151" column="74" />
@@ -73,6 +73,7 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExamInfoService.scala" timestamp="1562533594343" />
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/model/TypeShuffler.scala" timestamp="1560572217970">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="40" />
@@ -257,7 +258,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" timestamp="1562532244666">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" timestamp="1562533524612">
         <mark key="[" line="452" column="26" />
         <mark key="]" line="452" column="42" />
         <mark key="." line="452" column="42" />
