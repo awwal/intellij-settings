@@ -28,11 +28,11 @@
         <mark key="." line="69" column="78" />
         <mark key="^" line="69" column="78" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/SwaggerConfig.scala" timestamp="1562548224465">
-        <mark key="[" line="17" column="107" />
-        <mark key="]" line="17" column="107" />
-        <mark key="." line="17" column="107" />
-        <mark key="^" line="17" column="60" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/SwaggerConfig.scala" timestamp="1562548851037">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="61" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2017-08-02T19:10:34Z_changelog.xml" timestamp="1562539219668" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" timestamp="1562546599249">
@@ -241,37 +241,37 @@
         <text encoding="base64">ICAgIHZhbCBhcGlJbmZvID0gbmV3IEFwaUluZm8oIkFjYWRhIENCVCIsICJUaGlzIGlzIENCVCIsICJBbGwgcmlnaHRzIHJlc2VydmVkIiwgImluZm9AbWFpbC5hY2FkYS5uZyIsIG51bGwsIG51bGwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICDCoC5wYXRocyhQYXRoU2VsZWN0b3JzLmFudCgiL2FwaS8qIikpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Iiwg</text>
+        <text>)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5hcGlJbmZvKGFwaUluZm8pCg==</text>
+        <text encoding="base64">ICAgIMKgLnBhdGhzKFBhdGhTZWxlY3RvcnMuYW50KCIvYXBpLyoiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlVGltZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogIAoKCg==</text>
+        <text encoding="base64">ICAgIC5wYXRocyhQYXRoU2VsZWN0b3JzLmFueSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHJlc3VsdC5hc1NjYWxhLm1hcChvID0+IG8uYXNJbnN0YW5jZU9mW0V4dGVybmFsUXVpel0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgc2V0UmVzdWx0VHJhbnNmb3JtZXIoQ3JpdGVyaWFTcGVjaWZpY2F0aW9uLkRJU1RJTkNUX1JPT1RfRU5USVRZKS5saXN0KCkK</text>
+        <text encoding="base64">ICAgIC5hcGlJbmZvKGFwaUluZm8pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8vICAgIHZhbCBzZXNzaW9uID0gZW0uZ2V0RGVsZWdhdGUuYXNJbnN0YW5jZU9mW1Nlc3Npb25dCiAgICAvLyAgICB2YWwgcmVzdWx0ID0gc2Vzc2lvbi5jcmVhdGVDcml0ZXJpYShjbGFzc09mW0V4dGVybmFsUXVpel0pCiAgICAvLyAgICAgIC5hZGQoUmVzdHJpY3Rpb25zLmVxKCJjbGFzc3Jvb20uaWQiLCBncm91cElkKSkKICAgIC8vICAgICAgLmFkZChSZXN0cmljdGlvbnMuZXEoInNjaG9vbC5pZCIsIHNjaG9vbElkLklkKSkKICAgIC8vICAgICAgLg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlVGltZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0dWRlbnRMaXN0LmdldENvbHVtbigiZ3JvdXAiKS5zZXRIZWFkZXJDYXB0aW9uKCJDbGFzcyIpCg==</text>
+        <text encoding="base64">CgogIAoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAud2hlcmUoc2Nob29sUHJlZGljYXRlKQo=</text>
+        <text encoding="base64">ICAgIC8vICAgIHJlc3VsdC5hc1NjYWxhLm1hcChvID0+IG8uYXNJbnN0YW5jZU9mW0V4dGVybmFsUXVpel0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Iiwg</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
