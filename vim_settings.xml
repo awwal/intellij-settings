@@ -33,20 +33,24 @@
         <mark key="." line="173" column="7" />
         <mark key="^" line="173" column="7" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/ui/view/StudentListing.scala" timestamp="1562728788926">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/ui/view/StudentListing.scala" timestamp="1562732256166">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
         <mark key="^" line="125" column="5" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ReportService.scala" timestamp="1562734382782">
+        <mark key="'" line="57" column="26" />
+        <mark key="[" line="93" column="40" />
+        <mark key="]" line="93" column="66" />
+        <mark key="." line="93" column="66" />
+        <mark key="^" line="93" column="66" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/ui/view/OtherUsersListing.scala" timestamp="1562728835835">
         <mark key="[" line="78" column="40" />
         <mark key="]" line="119" column="64" />
         <mark key="." line="78" column="44" />
         <mark key="^" line="119" column="64" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/public/swagger/index.html" timestamp="1562557766310">
-        <mark key="[" line="30" column="17" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" timestamp="1562730407213">
         <mark key="[" line="3" column="0" />
@@ -84,12 +88,12 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ReportServiceGenTest.scala" timestamp="1562723451602">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ReportServiceGenTest.scala" timestamp="1562734201673">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="68" column="49" />
-        <mark key="]" line="68" column="50" />
-        <mark key="^" line="64" column="11" />
-        <mark key="." line="68" column="50" />
+        <mark key="]" line="68" column="49" />
+        <mark key="^" line="68" column="54" />
+        <mark key="." line="68" column="49" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/converter/ModelConverter.scala" timestamp="1562725388562">
         <mark key="[" line="99" column="28" />
@@ -103,11 +107,11 @@
         <mark key="^" line="100" column="44" />
         <mark key="." line="100" column="44" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/GradingService.scala" timestamp="1562731235058">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="28" column="2" />
-        <mark key="." line="28" column="2" />
-        <mark key="^" line="28" column="2" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/GradingService.scala" timestamp="1562734454543">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/UserAccessTest.scala" timestamp="1562730053516">
         <mark key="[" line="43" column="40" />
@@ -144,11 +148,11 @@
         <mark key="." line="49" column="31" />
         <mark key="^" line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" timestamp="1562731381980">
-        <mark key="[" line="82" column="57" />
-        <mark key="]" line="82" column="57" />
-        <mark key="." line="82" column="57" />
-        <mark key="^" line="24" column="71" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" timestamp="1562734471367">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="62" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="88" column="36" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/School.java" timestamp="1562640743380">
         <mark key="[" line="81" column="0" />
@@ -156,11 +160,11 @@
         <mark key="^" line="80" column="3" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/UserJson.scala" timestamp="1562726528097">
-        <mark key="[" line="54" column="43" />
-        <mark key="]" line="54" column="43" />
-        <mark key="^" line="54" column="27" />
-        <mark key="." line="54" column="43" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/model/UserJson.scala" timestamp="1562733013470">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="20" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/QuestionService.scala" timestamp="1562539760869">
         <mark key="[" line="498" column="15" />
@@ -175,11 +179,12 @@
         <mark key="^" line="64" column="14" />
         <mark key="." line="64" column="14" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" timestamp="1562730117729">
-        <mark key="[" line="585" column="36" />
-        <mark key="]" line="585" column="36" />
-        <mark key="." line="585" column="36" />
-        <mark key="^" line="585" column="35" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" timestamp="1562732643253">
+        <mark key="'" line="602" column="39" />
+        <mark key="[" line="573" column="30" />
+        <mark key="]" line="573" column="38" />
+        <mark key="." line="573" column="38" />
+        <mark key="^" line="573" column="38" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/UserAssembler.scala" timestamp="1562729784095">
         <mark key="[" line="11" column="17" />
@@ -187,17 +192,22 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_07_09_classroom_updates.sql" timestamp="1562725118799">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="4" column="8" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_07_09_classroom_updates.sql" timestamp="1562732875927">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/PublicApiUserService.scala" timestamp="1562728919415">
-        <mark key="[" line="74" column="40" />
-        <mark key="]" line="74" column="40" />
-        <mark key="^" line="74" column="40" />
-        <mark key="." line="74" column="40" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/PublicApiUserService.scala" timestamp="1562733066690">
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="22" />
+        <mark key="." line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+      </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/ui/component/CBTUserEditForm.scala" timestamp="1562732179033">
+        <mark key="[" line="128" column="27" />
+        <mark key="]" line="128" column="27" />
+        <mark key="." line="128" column="27" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" timestamp="1562730899903">
         <mark key="'" line="290" column="0" />
@@ -211,9 +221,6 @@
         <mark key="]" line="25" column="104" />
         <mark key="^" line="25" column="82" />
         <mark key="." line="25" column="82" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562728849677">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/UserController.scala" timestamp="1562729905049">
         <mark key="[" line="57" column="38" />
@@ -239,6 +246,11 @@
         <mark key="." line="41" column="41" />
         <mark key="^" line="41" column="41" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" timestamp="1562733205111">
+        <mark key="'" line="136" column="13" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="40" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/SubjectTest.scala" timestamp="1562730043493">
         <mark key="[" line="23" column="43" />
         <mark key="." line="23" column="47" />
@@ -256,12 +268,12 @@
         <mark key="^" line="36" column="34" />
         <mark key="." line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" timestamp="1562730591864">
-        <mark key="'" line="172" column="25" />
-        <mark key="[" line="150" column="69" />
-        <mark key="]" line="150" column="69" />
-        <mark key="^" line="150" column="66" />
-        <mark key="." line="150" column="69" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExternalQuizService.scala" timestamp="1562733791830">
+        <mark key="'" line="191" column="25" />
+        <mark key="[" line="166" column="20" />
+        <mark key="]" line="166" column="27" />
+        <mark key="^" line="166" column="27" />
+        <mark key="." line="166" column="27" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/ExternalQuizServiceTest.scala" timestamp="1562545886181">
         <mark key="[" line="4" column="0" />
@@ -269,22 +281,15 @@
         <mark key="^" line="98" column="49" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1562643403469">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/DBTest.scala" timestamp="1562729976434">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/DBTest.scala" timestamp="1562734605334">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="123" column="43" />
-        <mark key="]" line="96" column="47" />
+        <mark key="[" line="174" column="38" />
+        <mark key="]" line="174" column="38" />
         <mark key="^" line="96" column="47" />
-        <mark key="." line="123" column="47" />
+        <mark key="." line="174" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/PDFReportGenerator.scala" />
-      <jump line="33" column="28" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/PDFReportGenerator.scala" />
-      <jump line="23" column="9" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/ReportADT.scala" />
-      <jump line="25" column="15" filename="$USER_HOME$/proj/CBTServer/generator/src/main/scala/ng/acada/reportgen/ReportADT.scala" />
       <jump line="44" column="43" filename="$USER_HOME$/proj/CBTServer/modelconverter/src/main/scala/ng/acada/model/converter/EntityDTOImplicit.scala" />
       <jump line="135" column="13" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
       <jump line="39" column="66" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SchoolController.scala" />
@@ -381,46 +386,50 @@
       <jump line="4" column="33" filename="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_07_09_classroom_updates.sql" />
       <jump line="192" column="0" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/User.java" />
       <jump line="53" column="37" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/AccessCheckerService.scala" />
+      <jump line="602" column="39" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" />
+      <jump line="56" column="32" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ReportService.scala" />
+      <jump line="136" column="13" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/SignupController.scala" />
+      <jump line="57" column="26" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ReportService.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihnbCkK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBsYXRNYXggPSAxMDAuMGYKICAgIGxldmVscy5mb3JlYWNoIHsgZ2wgPT4K</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKCJTaG91bGQgaGF2ZSBhbiBCIiwgbGV2ZWxCLCBtYXliZUxldmVsLmdldCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihnbCkK</text>
+        <text encoding="base64">ICAgIHZhbCBudW1iZXJPZlB1cGlsczogSW50ID0gZmV0Y2hOdW1iZXJPZlN0dWRlbnRzKGNsYXNzUm9vbUlkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXliZUxldmVsID0gc29ydGVkIC5maW5kKHNjb3JlID49IF8uZ2V0TWluU2NvcmUpCiAgICAvL1RPRE8KICAgIGlmKG1heWJlTGV2ZWwuaXNFbXB0eSl7CiAgICAgICAgU29tZShzb3J0ZWQuaGVhZCkKICAgIH0KICAgIGVsc2V7CgogICAgICBtYXliZUxldmVsCiAgICB9Cgo=</text>
+        <text encoding="base64">ICBkZWYgZmV0Y2hOdW1iZXJPZlN0dWRlbnRzKGNsYXNzUm9vbUlkOiBMb25nKTogSW50ID0gewogICAgMjAKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBsYXRNYXggPSAxMDAuMGYK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihnbCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdExpc3QuYXNTY2FsYSArKyB1c2VyLmdldEl0ZW1BY2Nlc3MK</text>
+        <text encoding="base64">ICAgIHZhbCBtYXliZUxldmVsID0gc29ydGVkIC5maW5kKHNjb3JlID49IF8uZ2V0TWluU2NvcmUpCiAgICAvL1RPRE8KICAgIGlmKG1heWJlTGV2ZWwuaXNFbXB0eSl7CiAgICAgICAgU29tZShzb3J0ZWQuaGVhZCkKICAgIH0KICAgIGVsc2V7CgogICAgICBtYXliZUxldmVsCiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBsYXRNYXggPSAxMDAuMGYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBjbGFzc1Jvb21zID0gdXNlclNlcnZpY2UuZ2V0Q2xhc3NGb3JTdHVkZW50KHUuZ2V0SWQpCiAgICB2YWwgY2xhc3NSb29tID0gY2xhc3NSb29tcy5oZWFkT3B0aW9uCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdExpc3QuYXNTY2FsYSArKyB1c2VyLmdldEl0ZW1BY2Nlc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChsaXN0LmlzRW1wdHkpIExpc3QuZW1wdHkKICAgIGVsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">TGlzdFtMb25nXSA9IHJlc3VsdExpc3QuYXNTY2FsYS5tYXAoXy5nZXRJZCkuYXNKYXZhCiAgICAvL1RPRE8gYXZvaWQgbmF0aXZlIHF1ZXJpZXMKICAgIGVtLmNyZWF0ZU5hdGl2ZVF1ZXJ5KCJkZWxldGUgZnJvbSB1c2VyX2l0ZW1fYWNjZXNzIHdoZXJlIGl0ZW1hY2Nlc3NfaWQgaW4gKD8xKSIpLnNldFBhcmFtZXRlcigxLCBpZHMpLmV4ZWN1dGVVcGRhdGUKCiAgICBmb3IgKGFjY2VzcyA8LSByZXN1bHRMaXN0LmFzU2NhbGEpIHsKICAgICAgZW0ucmVtb3ZlKGFjY2VzcykKICAgIH0KICAgIExPRy5pbmZvKHMiUmVtb3ZlIGFjY2VzcyBmcm9tIGFsbCB1c2VyIGZvciBleGFtSW5mbyAke2V4YW1JbmZvLmdldElkfSIpCiAgfQoKICBkZWYgZ2V0U2Nob29sR3JvdXAoc2lkOiBTY2hvb2xJZCk6IEl0ZXJhYmxlW0NsYXNzUm9vbV0gPSB7CiAgICB2YWwgdXNlciA9IFNlY3VyaXR5VXRpbHMuZ2V0Q3VycmVudExvZ2luVXNlcgoKICAgIGRlZiBpc0NsYXNzVGVhY2hlcihncm91cDogQ2xhc3NSb29tLCB1c2VyOiBVc2VyKTogQm9vbGVhbiA9IHsKICAgICAgZ3JvdXAuZ2V0Q2xhc3NUZWFjaGVycygpLmFzU2NhbGEubWFwKHUgPT4gdS5nZXRJZCkuY29udGFpbnModXNlci5nZXRJZCkKICAgIH0KCiAgICAvLyAgICBhc3NlcnQoYWNjZXNzQ2hlY2tlclNlcnZpY2UuY2FuVmlld1NjaG9vbEdyb3VwKFNlY3VyaXR5VXRpbHMuZ2V0Q3VycmVudExvZ2luVXNlcixzaWQpLCAiTm8gYWNjZXNzIHRvIHZpZXcgc2Nob29sIGNsYXNzZXMiKQogICAgdmFsIGNsYXNzUm9vbXMgPSBlbS5jcmVhdGVRdWVyeSgic2VsZWN0IGRpc3RpbmN0IGcgZnJvbSBDbGFzc1Jvb20gZyB3aGVyZSBnLnNjaG9vbC5pZD0/MSIsIGNsYXNzT2ZbQ2xhc3NSb29tXSkKICAgICAgLnNldFBhcmFtZXRlcigxLCBzaWQuSWQpLmdldFJlc3VsdExpc3QKICAgIGlmIChTZWN1cml0eVV0aWxzLmhhc1JvbGUodXNlciwgUm9sZS5TQ0hPT0xBRE1JTikgfHwgU2VjdXJpdHlVdGlscy5oYXNSb2xlKHVzZXIsIFJvbGUuQURNSU4pKSB7CiAgICAgIGNsYXNzUm9vbXMuYXNTY2FsYQogICAgfQogICAgZWxzZSB7CiAgICAgIGNsYXNzUm9vbXMuYXNTY2FsYS5maWx0ZXIoZ3JvdXAgPT4gaXNDbGFzc1RlYWNoZXIoZ3JvdXAsIHVzZXIpKQogICAgfQogIH0KCiAgQFRyYW5zYWN0aW9uYWwKICBkZWYgY3JlYXRlQ2xhc3NSb29tKHNpZDogU2Nob29sSWQsIGNsYXNzTmFtZTogU3RyaW5nKTogQ2xhc3NSb29tID0gewogICAgdmFsIGcgPSBuZXcgQ2xhc3NSb29tCiAgICBnLnNldE5hbWUoY2xhc3NOYW1lKQogICAgZy5zZXRTY2hvb2woZW0uZmluZChjbGFzc09mW1NjaG9vbF0sIHNpZC5JZCkpCiAgICBlbS5wZXJzaXN0KGcpCiAgICBMT0cuaW5mbyhzIk5ldyBncm91cCAkY2xhc3NOYW1lIGNyZWF0ZWQgZm9yICRzaWQiKQogICAgZwogIH0KCgogIGRlZiBnZXRDbGFzc1Jvb21Gb3JTY2hvb2woc2lkOiBTY2hvb2xJZCwgY2xhc3NOYW1lOiBTdHJpbmcpOiBzY2FsYS5PcHRpb25bQ2xhc3NSb29tXSA9IHsKICAgIHZhbCByZXN1bHRMaXN0ID0gZW0uY3JlYXRlUXVlcnkoInNlbGVjdCBnIGZyb20gQ2xhc3NSb29tIGcgd2hlcmUgZy5zY2hvb2wuaWQgPT8xIGFuZCBnLm5hbWU9PzIgIikKICAgICAgLnNldFBhcmFtZXRlcigxLCBzaWQuSWQpLnNldFBhcmFtZXRlcigyLCBjbGFzc05hbWUpLmdldFJlc3VsdExpc3QKICAgIGlmIChyZXN1bHRMaXN0LmlzRW1wdHkpIHJldHVybiBOb25lCiAgICBTb21lKHJlc3VsdExpc3QuaXRlcmF0b3IubmV4dC5hc0luc3RhbmNlT2ZbQ2xhc3NSb29tXSkKICB9CgogIGRlZiBnZXRDbGFzc1Jvb21Gb3JTY2hvb2woc2lkOiBTY2hvb2xJZCwgY2xhc3NJZDogTG9uZyk6IHNjYWxhLk9wdGlvbltDbGFzc1Jvb21dID0gewogICAgdmFsIHJlc3VsdExpc3QgPSBlbS5jcmVhdGVRdWVyeSgic2VsZWN0IGcgZnJvbSBDbGFzc1Jvb20gZyB3aGVyZSBnLnNjaG9vbC5pZCA9PzEgYW5kIGcuaWQ9PzIiKQogICAgICAuc2V0UGFyYW1ldGVyKDEsIHNpZC5JZCkuc2V0UGFyYW1ldGVyKDIsIGNsYXNzSWQpLmdldFJlc3VsdExpc3QKICAgIGlmIChyZXN1bHRMaXN0LmlzRW1wdHkpIHJldHVybiBOb25lCiAgICBTb21lKHJlc3VsdExpc3QuaXRlcmF0b3IubmV4dC5hc0luc3RhbmNlT2ZbQ2xhc3NSb29tXSkKICB9CgogIEBUcmFuc2FjdGlvbmFsCiAgZGVmIHVwZGF0ZVN0dWRlbnRVc2VySW5mbyh1c2VySWQ6IExvbmcsIHVzZXJEVE86IFVzZXJEVE8sIG5ld1Bhc3N3b3JkOiBTdHJpbmcsIHNjaG9vbDogU2Nob29sKTogVW5pdCA9IHsKICAgIHZhbCB1ID0gZW0uZmluZChjbGFzc09mW1VzZXJdLCB1c2VySWQpCiAgICBzZXRVc2VyQXR0cmlidXRlcyh1c2VyRFRPLCB1KQogICAgaWYgKG5ld1Bhc3N3b3JkICE9IG51bGwpIHNldFNhbHRBbmRQYXNzd29yZChuZXdQYXNzd29yZCwgdSkKICAgIHZhbCB1aSA9IHUuZ2V0VXNlckluZm8KICAgIHNldFVzZXJJbmZvKHVzZXJEVE8sIHVpKQogICAgdmFsIGdOYW1lID0gdXNlckRUTy5nZXRDbGFzc05hbWUKICAgIHZhbCBtYXliZUNsYXNzUm9vbSA9IGdldENsYXNzUm9vbUZvclNjaG9vbChTY2hvb2xJZC5vZihzY2hvb2wpLCBnTmFtZSkKICAgIGlmIChtYXliZUNsYXNzUm9vbS5pc0RlZmluZWQpIHsKICAgICAgLy9UT0RPIFJFTU9WRSBPTEQgQ0xBU1NST09NID8KICAgICAgdmFsIGNsYXNzUm9vbSA9IG1heWJlQ2xhc3NSb29tLmdldAogICAgICBjbGFzc1Jvb20uZ2V0U3R1ZGVudHMuYWRkKHUpCiAgICAgIGVtLm1lcmdlKGNsYXNzUm9vbSkKICAgIH0KICAgIExPRy5pbmZvKCJVcGRhdGVkIHVzZXIgaW5mbyAiICsgdXNlcklkICsgIiAiICsgdXNlckRUTykKICAgIGVtLm1lcmdlKHUpCiAgICBlbS5tZXJnZSh1aSkKICB9CgogIEBUcmFuc2FjdGlvbmFsCiAgZGVmIHVwZGF0ZVRlYWNoZXJJbmZvKHVzZXJJZDogTG9uZywgdXNlckRUTzogVXNlckRUTywgbmV3UGFzc3dvcmQ6IFN0cmluZywgc2Nob29sOiBTY2hvb2wpOiBVbml0ID0gewogICAgdmFsIHUgPSBlbS5maW5kKGNsYXNzT2ZbVXNlcl0sIHVzZXJJZCkKICAgIHNldFVzZXJBdHRyaWJ1dGVzKHVzZXJEVE8sIHUpCiAgICBpZiAobmV3UGFzc3dvcmQgIT0gbnVsbCkgc2V0U2FsdEFuZFBhc3N3b3JkKG5ld1Bhc3N3b3JkLCB1KQogICAgdmFsIHVpID0gdS5nZXRVc2VySW5mbwogICAgc2V0VXNlckluZm8odXNlckRUTywgdWkpCiAgICB2YWwgZ05hbWUgPSB1c2VyRFRPLmdldENsYXNzTmFtZQogICAgdmFsIG1heWJlQ2xhc3NSb29tID0gZ2V0Q2xhc3NSb29tRm9yU2Nob29sKFNjaG9vbElkLm9mKHNjaG9vbCksIGdOYW1lKQogICAgaWYgKG1heWJlQ2xhc3NSb29tLmlzRGVmaW5lZCkgewogICAgICAvL1RPRE8gUkVNT1ZFIE9MRCBDTEFTU1JPT00gPwogICAgICB2YWwgY2xhc3NSb29tID0gbWF5YmVDbGFzc1Jvb20uZ2V0CiAgICAgIGNsYXNzUm9vbS5nZXRDbGFzc1RlYWNoZXJzLmFkZCh1KQogICAgICBlbS5tZXJnZShjbGFzc1Jvb20pCiAgICB9CiAgICBlbS5tZXJnZSh1KQogICAgZW0ubWVyZ2UodWkpCiAgICBMT0cuaW5mbygiVXBkYXRlZCB0ZWFjaGVyIGluZm8gIiArIHVzZXJJZCArICIgIiArIHVzZXJEVE8pCiAgfQoKICBAVHJhbnNhY3Rpb25hbAogIGRlZiB1cGRhdGVOb25UZWFjaGluZ0luZm8odXNlcklkOiBMb25nLCB1c2VyRFRPOiBVc2VyRFRPLCBuZXdQYXNzd29yZDogU3RyaW5nLCBzY2hvb2w6IFNjaG9vbCk6IFVuaXQgPSB7CiAgICB2YWwgdSA9IGVtLmZpbmQoY2xhc3NPZltVc2VyXSwgdXNlcklkKQogICAgc2V0VXNlckF0dHJpYnV0ZXModXNlckRUTywgdSkKICAgIGlmIChuZXdQYXNzd29yZCAhPSBudWxsKSBzZXRTYWx0QW5kUGFzc3dvcmQobmV3UGFzc3dvcmQsIHUpCiAgICB2YWwgdWkgPSB1LmdldFVzZXJJbmZvCiAgICBzZXRVc2VySW5mbyh1c2VyRFRPLCB1aSkKICAgIHUuZ2V0VXNlclJvbGVzLmNsZWFyKCkKICAgIHZhbCByID0gZ2V0Um9sZSh1c2VyRFRPLmdldFJvbGUpCiAgICBpZiAociA9PSBudWxsKSB0aHJvdyBuZXcgQXBwU2VydmljZUV4Y2VwdGlvbigiTm9uIHN0YW5kYXJkIHJvbGUiICsgdXNlckRUTy5nZXRSb2xlKQogICAgdS5nZXRVc2VyUm9sZXMuYWRkKHIpCiAgICBlbS5tZXJnZSh1KQogICAgZW0ubWVyZ2UodWkpCgogICAgTE9HLmluZm8oIlVwZGF0ZWQgbm9uLXRlYWNoaW5nIGluZm8gIiArIHVzZXJJZCArICIgIiArIHVzZXJEVE8pCiAgfQoKICBAVHJhbnNhY3Rpb25hbAogIGRlZiBzZXRDbGFzc0FjY2Vzc1RvUXVpeihjbGFzc1Jvb21JZDogTG9uZywgc3ViamVjdEFjY2Vzczogc2NhbGEuY29sbGVjdGlvbi5NYXBbU3ViamVjdCwgQm9vbGVhbl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1aXpBY2NjZXNzOiBzY2FsYS5jb2xsZWN0aW9uLk1hcFtRdWl6LCBCb29sZWFuXSk6IFVuaXQgPSB7CiAgICB2YWwgY2xhc3NSb29tID0gZW0uZmluZChjbGFzc09mW0NsYXNzUm9vbV0sIGNsYXNzUm9vbUlkKQogICAgdXBkYXRlQ2xhc3NBY2Nlc3Moc3ViamVjdEFjY2VzcywgY2xhc3NSb29tLCBJdGVtVHlwZS5FeGFtU3ViamVjdCkKICAgIHVwZGF0ZUNsYXNzQWNjZXNzKHF1aXpBY2NjZXNzLCBjbGFzc1Jvb20sIEl0ZW1UeXBlLlF1aXopCiAgfQoKICBwcml2YXRlCiAgZGVmIHVwZGF0ZUNsYXNzQWNjZXNzKHN1YmplY3RBY2Nlc3M6IHNjYWxhLmNvbGxlY3Rpb24uTWFwW18gPDogSWRPYmplY3QsIEJvb2xlYW5dLCBjbGFzc1Jvb206IENsYXNzUm9vbSwgdHlwOiBJdGVtQWNjZXNzLkl0ZW1UeXBlKTogQ2xhc3NSb29tID0gewogICAgdmFsIGl0ZW1BY2Nlc3MgPSBjbGFzc1Jvb20uZ2V0SXRlbUFjY2Vzcy5hc1NjYWxhCiAgICB2YWwgb2xkQWNjZXNzT2ZUeXBlID0gaXRlbUFjY2Vzcy5maWx0ZXIoKGE6IEl0ZW1BY2Nlc3MpID0+IGEuZ2V0VHlwZSBlcSB0eXApCgogICAgaWYgKG9sZEFjY2Vzc09mVHlwZS5ub25FbXB0eSkgewogICAgICBvbGRBY2Nlc3NPZlR5cGUuZm9yZWFjaChvbGQgPT4gZW0ucmVtb3ZlKG9sZCkpCiAgICAgIHZhbCByZXRhaW5lZCA9IGl0ZW1BY2Nlc3MgLS0gb2xkQWNjZXNzT2ZUeXBlCiAgICAgIGNsYXNzUm9vbS5zZXRJdGVtQWNjZXNzKHJldGFpbmVkLmFzSmF2YSkKICAgICAgZW0ubWVyZ2UoY2xhc3NSb29tKQogICAgfQoKICAgIC8vICAgIHZhbCBzdWJqZWN0VG9SZW1vdmU6IFNlcVtMb25nXSA9IHN1YmplY3RBY2Nlc3MuZmlsdGVyKF8uXzIgPT0gZmFsc2UpLm1hcCB7IGNhc2UgKGssIF8pID0+IGsuZ2V0SWQgfS50b1NlcQoKICAgIC8vZml4bWUgdGhpcyBpcyByZWR1bmRhbnQgIQogICAgLy8gICAgdmFsIHJlbW92ZWQgPSBpdGVtQWNjZXNzLmZpbHRlcigoYTogSXRlbUFjY2VzcykgPT4gKGEuZ2V0VHlwZSBlcSB0eXApICYmIHN1YmplY3RUb1JlbW92ZS5jb250YWlucyhhLmdldFJlZklkKSkKICAgIC8vICAgIHJlbW92ZWQuZm9yZWFjaCB7IGFjY2VzcyA9PgogICAgLy8gICAgICBjbGFzc1Jvb20uZ2V0SXRlbUFjY2Vzcy5yZW1vdmUoYWNjZXNzKQogICAgLy8gICAgICBlbS5yZW1vdmUoYWNjZXNzKQogICAgLy8gICAgfQogICAgLy8gICAgZW0ubWVyZ2UoY2xhc3NSb29tKQoKICAgIHZhbCBuZXdBY2Nlc3M6IEl0ZXJhYmxlW0lkT2JqZWN0XSA9IHN1YmplY3RBY2Nlc3MuZmlsdGVyKF8uXzIgPT0gdHJ1ZSkubWFwIHsgY2FzZSAoaywgXykgPT4gayB9CiAgICBuZXdBY2Nlc3MuZm9yZWFjaCB7IGVzID0+CiAgICAgIHZhbCBhY2Nlc3MgPSBuZXcgSXRlbUFjY2VzcwogICAgICBhY2Nlc3Muc2V0VHlwZSh0eXApCiAgICAgIGFjY2Vzcy5zZXRSZWZJZChlcy5nZXRJZCkKICAgICAgZW0ucGVyc2lzdChhY2Nlc3MpCiAgICAgIGNsYXNzUm9vbS5nZXRJdGVtQWNjZXNzLmFkZChhY2Nlc3MpCiAgICB9CiAgICBMT0cuaW5mbygiVXBkYXRlZCBhY2Nlc3MgdG8gY2xhc3Nyb29tICIgKyBjbGFzc1Jvb20uZ2V0TmFtZSArICIgdHlwZSAiICsgdHlwICsgIiAiICsgc3ViamVjdEFjY2VzcykKICAgIGVtLm1lcmdlKGNsYXNzUm9vbSkKICB9CgogIEBUcmFuc2FjdGlvbmFsCiAgcHJpdmF0ZSBkZWYgc2V0QWNjZXNzVG9JdGVtKHVzZXJJZDogTG9uZywgbmV3QWNjZXNzZXM6IHNjYWxhLlByZWRlZi5NYXBbXyA8OiBJZE9iamVjdCwgQm9vbGVhbl0sIHR5cDogSXRlbUFjY2Vzcy5JdGVtVHlwZSk6IFVzZXIgPSB7CiAgICB2YWwgdXNlciA9IGVtLmZpbmQoY2xhc3NPZltVc2VyXSwgdXNlcklkKQogICAgSGliZXJuYXRlLmluaXRpYWxpemUodXNlci5nZXRJdGVtQWNjZXNzKQogICAgdmFsIGl0ZW1BY2Nlc3M6IG11dGFibGUuU2V0W0l0ZW1BY2Nlc3NdID0gdXNlci5nZXRJdGVtQWNjZXNzLmFzU2NhbGEKICAgIHZhbCBvbGRBY2Nlc3NPZlR5cGUgPSBpdGVtQWNjZXNzLmZpbHRlcigoYTogSXRlbUFjY2VzcykgPT4gYS5nZXRUeXBlIGVxIHR5cCkKCiAgICBpZiAob2xkQWNjZXNzT2ZUeXBlLm5vbkVtcHR5KSB7CiAgICAgIG9sZEFjY2Vzc09mVHlwZS5mb3JlYWNoKG9sZCA9PiBlbS5yZW1vdmUob2xkKSkKICAgICAgdmFsIHJldGFpbmVkID0gaXRlbUFjY2VzcyAtLSBvbGRBY2Nlc3NPZlR5cGUKICAgICAgdXNlci5zZXRJdGVtQWNjZXNzKHJldGFpbmVkLmFzSmF2YSkKICAgICAgZW0ubWVyZ2UodXNlcikKICAgIH0KCgogICAgdmFsIHRvUmVtb3ZlOiBTZXFbTG9uZ10gPSBuZXdBY2Nlc3Nlcy5maWx0ZXIoXy5fMiA9PSBmYWxzZSkubWFwIHsgY2FzZSAoaywgXykgPT4gay5nZXRJZCB9LnRvU2VxCgogICAgdmFsIHJlbW92ZWQgPSBpdGVtQWNjZXNzLmZpbHRlcigoYTogSXRlbUFjY2VzcykgPT4gKGEuZ2V0VHlwZSBlcSB0eXApICYmIHRvUmVtb3ZlLmNvbnRhaW5zKGEuZ2V0UmVmSWQpKQoKICAgIHJlbW92ZWQuZm9yZWFjaCB7IGFjY2VzcyA9PgogICAgICB1c2VyLmdldEl0ZW1BY2Nlc3MucmVtb3ZlKGFjY2VzcykKICAgICAgTE9HLmluZm8ocyJyZW1vdmluZyB1c2VyICR7dXNlci50b1N0cmluZ30gYWNjZXNzIHRvIGl0ZW0gJHt0eXAubmFtZSgpfSB3aXRoIGlkICR7YWNjZXNzLmdldElkfSAiKQogICAgICBlbS5yZW1vdmUoYWNjZXNzKQogICAgfQogICAgZW0ubWVyZ2UodXNlcikKCiAgICB2YWwgbmV3QWNjZXNzOiBpbW11dGFibGUuSXRlcmFibGVbSWRPYmplY3RdID0gbmV3QWNjZXNzZXMuZmlsdGVyKF8uXzIgPT0gdHJ1ZSkubWFwIHsgY2FzZSAoaywgXykgPT4gayB9CiAgICBuZXdBY2Nlc3MuZm9yZWFjaCB7IGVzID0+CiAgICAgIHZhbCBhY2Nlc3MgPSBuZXcgSXRlbUFjY2VzcwogICAgICBhY2Nlc3Muc2V0VHlwZSh0eXApCiAgICAgIGFjY2Vzcy5zZXRSZWZJZChlcy5nZXRJZCkKICAgICAgZW0ucGVyc2lzdChhY2Nlc3MpCiAgICAgIExPRy5pbmZvKHMiU2V0IHVzZXIgJHt1c2VyLnRvU3RyaW5nfSBhY2Nlc3MgdG8gaXRlbSAke3R5cC5uYW1lKCl9IHdpdGggaWQgJHtlcy5nZXRJZH0gIikKICAgICAgdXNlci5nZXRJdGVtQWNjZXNzLmFkZChhY2Nlc3MpCiAgICB9CgogICAgZW0ubWVyZ2UodXNlcikKICB9CgoKICBAVHJhbnNhY3Rpb25hbChyZWFkT25seSA9IHRydWUpCiAgZGVmIGdldFNjaG9vbE5vblRlYWNoaW5nKHBhZ2VhYmxlOiBQYWdlYWJsZSwgc2lkOiBTY2hvb2xJZCk6IFBhZ2VbVXNlcl0gPSB7CiAgICBnZXRTY2hvb2xVc2VyV2l0aFJvbGUocGFnZWFibGUsIHNpZCwgTGlzdHMubmV3QXJyYXlMaXN0KFJvbGUuVFlQSVNULCBSb2xlLlJFVklFV0VSLCBSb2xlLlNPTFZFUiwgUm9sZS5TQ0hPT0xBRE1JTikpCiAgfQoKICBAVHJhbnNhY3Rpb25hbAogIGRlZiByZXNldFBhc3N3b3JkKHVzZXJOYW1lOiBTdHJpbmcsIHBhc3N3b3JkOiBTdHJpbmcpOiBVbml0ID0gewogICAgaWYgKCFTZWN1cml0eVV0aWxzLmlzVXNlckluUm9sZShSb2xlLkFETUlOKSkgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiT25seSBhZG1pbnMgYXJlIGFsbG93ZWQiKQogICAgdmFsIHVzZXIgPSBsb2FkVXNlcih1c2VyTmFtZSkKICAgIGlmICh1c2VyID09IG51bGwpIHRocm93IG5ldyBBcHBTZXJ2aWNlRXhjZXB0aW9uKCJVc2VyIHdpdGggdXNlcm5hbWUgIiArIHVzZXJOYW1lICsgIiBub3QgZm91bmQiKQogICAgc2V0U2FsdEFuZFBhc3N3b3JkKHBhc3N3b3JkLCB1c2VyKQogICAgZW0ubWVyZ2UodXNlcikKICAgIExPRy5pbmZvKCJwYXNzd29yZCBjaGFuZ2VkIGZvciAiICsgdXNlck5hbWUpCiAgfQoKICBAVHJhbnNhY3Rpb25hbAogIGRlZiBzZXRDbGFzc1RlYWNoZXIodGVhY2hlcjogVXNlciwgdGhlQ2xhc3NJZDogTG9uZyk6IFVuaXQgPSB7CiAgICBhc3NlcnQoU2VjdXJpdHlVdGlscy5oYXNSb2xlKHRlYWNoZXIsIFJvbGUuVEVBQ0hFUiksIHMiJHRlYWNoZXIgaXMgbm90IGEgdGVhY2hlciIpCiAgICB2YWwgY2xhc3NSb29tID0gZW0uZmluZChjbGFzc09mW0NsYXNzUm9vbV0sIHRoZUNsYXNzSWQpCiAgICBjbGFzc1Jvb20uZ2V0Q2xhc3NUZWFjaGVycy5jbGVhcigpCiAgICBjbGFzc1Jvb20uZ2V0Q2xhc3NUZWFjaGVycy5hZGQodGVhY2hlcikKICAgIGVtLnBlcnNpc3QoY2xhc3NSb29tKQogIH0KCiAgZGVmIGdldENsYXNzRm9yU3R1ZGVudChzdHVkZW50SWQ6IExvbmcpOiBTZXFbQ2xhc3NSb29tXT0gewogICAgdmFsIGJ1aWxkZXIgPSBlbS5nZXRDcml0ZXJpYUJ1aWxkZXIKICAgIHZhbCBxdWVyeSA9IGJ1aWxkZXIuY3JlYXRlUXVlcnkoY2xhc3NPZltDbGFzc1Jvb21dKQogICAgdmFsIHJvb3QgPSBxdWVyeS5mcm9tKGNsYXNzT2ZbQ2xhc3NSb29tXSkKCiAgICB2YWwgY2xhc3NTdHVkZW50OiBTZXRKb2luW0NsYXNzUm9vbSwgVXNlcl0gPSByb290LmpvaW4oQ2xhc3NSb29tXy5zdHVkZW50cykKICAgIHZhbCBpZFByZWRpY2F0ZTogRXhwcmVzc2lvbltqYXZhLmxhbmcuQm9vbGVhbl0gPSBidWlsZGVyLmVxdWFsKHJvb3QuZ2V0KENsYXNzUm9vbV8uaWQpLCBzdHVkZW50SWQpCgogICAgcXVlcnkuc2VsZWN0KGNsYXNzU3R1ZGVudCkKICAgICAgLndoZXJlKGlkUHJlZGljYXRlKQoKCiAgICB2YWwgbGlzdCA9IGVtLmNyZWF0ZVF1ZXJ5KHF1ZXJ5KS5zZXRNYXhSZXN1bHRzKDEpLmdldFJlc3VsdExpc3QKICAgIGlmIChsaXN0LmlzRW1wdHkpIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbCBjbGFzc1Jvb21zID0gdXNlclNlcnZpY2UuZ2V0Q2xhc3NGb3JTdHVkZW50KHUuZ2V0SWQpCiAgICB2YWwgY2xhc3NSb29tID0gY2xhc3NSb29tcy5oZWFkT3B0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU29tZShsaXN0Lml0ZXJhdG9yKCkubmV4dCgpKQo=</text>
+        <text encoding="base64">ICAgIGlmIChsaXN0LmlzRW1wdHkpIExpc3QuZW1wdHkKICAgIGVsc2UK</text>
       </register>
     </registers>
     <search>
