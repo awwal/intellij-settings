@@ -57,9 +57,9 @@
         <mark key="." line="72" column="100" />
         <mark key="^" line="72" column="100" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" timestamp="1563037760448">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="51" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" timestamp="1563045630756">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="94" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/GradingTest.scala" timestamp="1562734471367">
         <mark key="[" line="89" column="0" />
@@ -147,12 +147,12 @@
         <mark key="." line="16" column="72" />
         <mark key="^" line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ReportController.scala" timestamp="1563038170339">
-        <mark key="'" line="51" column="22" />
-        <mark key="[" line="29" column="71" />
-        <mark key="]" line="29" column="71" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="52" column="3" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ReportController.scala" timestamp="1563045682289">
+        <mark key="'" line="55" column="22" />
+        <mark key="[" line="51" column="98" />
+        <mark key="]" line="51" column="85" />
+        <mark key="." line="51" column="85" />
+        <mark key="^" line="51" column="85" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/User.java" timestamp="1562725525288">
         <mark key="'" line="192" column="0" />
@@ -319,11 +319,11 @@
       <jump line="47" column="22" filename="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ReportController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgdmFyIGFjY2Vzc0NoZWNrZXJTZXJ2aWNlOiBBY2Nlc3NDaGVja2VyU2VydmljZSA9IF8K</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaXN0XD4=</text>
