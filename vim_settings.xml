@@ -24,6 +24,11 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/SchoolSession.java" timestamp="1563059684616">
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/ui/view/StudentListing.scala" timestamp="1562732256166">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
@@ -96,12 +101,12 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_07_09_classroom_updates.sql" timestamp="1563058809101">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/sql/2019_07_09_classroom_updates.sql" timestamp="1563060543974">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="75" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="49" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/PublicApiUserService.scala" timestamp="1562733066690">
         <mark key="[" line="47" column="12" />
@@ -166,7 +171,7 @@
         <mark key="^" line="57" column="83" />
         <mark key="." line="57" column="84" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/application.properties" timestamp="1563056338716">
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/application.properties" timestamp="1563060019503">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="16" column="23" />
         <mark key="." line="16" column="23" />
@@ -334,16 +339,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgY2xhc3Nyb29tIEFERCBDT0xVTU4gaW5hY3RpdmUgYm9vbGVhbiBOT1QgTlVMTCBERUZBVUxUICdmYWxzZSc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>migrate-ugroup-to-classroom</text>
+        <text encoding="base64">U0VUIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9ImNvbmZpZy9saXF1aWJhc2UvY2hhbmdlbG9nLzIwMTlfMDdfMDVfdWdyb3VwX3RvY2xhc3Nyb29tX3VwZGF0ZXMueG1sIiByZWxhdGl2ZVRvQ2hhbmdlbG9nRmlsZT0iZmFsc2UiLz4K</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgY2xhc3Nyb29tIEFERCBDT0xVTU4gaW5hY3RpdmUgYm9vbGVhbiBOT1QgTlVMTCBERUZBVUxUICdmYWxzZSc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
