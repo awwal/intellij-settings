@@ -81,12 +81,12 @@
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/EOTReportServiceGenTest.scala" timestamp="1563338643515">
-        <mark key="'" line="106" column="91" />
-        <mark key="[" line="66" column="18" />
-        <mark key="]" line="67" column="5" />
-        <mark key="." line="67" column="5" />
-        <mark key="^" line="67" column="5" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/EOTReportServiceGenTest.scala" timestamp="1563368754920">
+        <mark key="'" line="111" column="91" />
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="52" column="114" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="54" column="3" />
       </file>
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/resources/config/liquibase/changelog/2019_07_09_classroom_updates.xml" timestamp="1563058799214">
         <mark key="[" line="5" column="34" />
@@ -260,8 +260,8 @@
       <jump line="104" column="91" filename="$USER_HOME$/proj/CBTServer/service/src/test/scala/ng/acada/service/EOTReportServiceGenTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>85</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGUxID0gZXhhbUluZm9TZXJ2aWNlLmdldE9yQ3JlYXRlRXhhbUluZm8oIiIsIHNjaG9vbFNlc3Npb24uZ2V0TmFtZSwgc3ViamVjdE5hbWUsIGVtcHR5U2V0LCBTY2hvb2xJZC5vZihzKSkK</text>
       </register>
       <register name="-" type="4">
         <text>85</text>
@@ -270,7 +270,7 @@
         <text encoding="base64">XDxMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbWF0aHMgLT4gTWFya3MoMjAsIDg1KSwK</text>
+        <text encoding="base64">ICAgICAgdmFsIGUxID0gZXhhbUluZm9TZXJ2aWNlLmdldE9yQ3JlYXRlRXhhbUluZm8oIiIsIHNjaG9vbFNlc3Npb24uZ2V0TmFtZSwgc3ViamVjdE5hbWUsIGVtcHR5U2V0LCBTY2hvb2xJZC5vZihzKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZ2VvZ3JhcGh5IC0+IE1hcmtzKDEwLCA2OSksCg==</text>
