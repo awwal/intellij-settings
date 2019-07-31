@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" timestamp="1564541421090" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/ExamInfoService.scala" timestamp="1558753863700">
         <mark key="'" line="307" column="47" />
         <mark key="[" line="239" column="77" />
@@ -10,9 +11,6 @@
         <mark key="." line="239" column="83" />
         <mark key="^" line="315" column="113" />
       </file>
-      <file name="/UserController.scala" timestamp="1558780898864" />
-      <file name="$USER_HOME$/proj/CBTServer/service/src/main/java/com/pureworks/cbt/mathquill/MathQuillComponent.java" timestamp="1558781303056" />
-      <file name="/ExamRepository.scala" timestamp="1558780469290" />
       <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" timestamp="1558780810952">
         <mark key="'" line="131" column="25" />
         <mark key="[" line="13" column="35" />
@@ -20,12 +18,12 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="/SchoolRepository.scala" timestamp="1558780709361" />
-      <file name="/QuestionTextUtil.scala" timestamp="1558780630390" />
-      <file name="/TypeShuffler.scala" timestamp="1558780879741" />
-      <file name="/AccessSelection.scala" timestamp="1558780340228" />
-      <file name="/QuestionBankView.scala" timestamp="1558780585756" />
-      <file name="/ImageView.scala" timestamp="1558780517837" />
+      <file name="$USER_HOME$/proj/CBTServer/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" timestamp="1564541505012">
+        <mark key="[" line="612" column="34" />
+        <mark key="]" line="612" column="32" />
+        <mark key="." line="612" column="32" />
+        <mark key="^" line="612" column="32" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="251" column="0" filename="$USER_HOME$/proj/CBTServer/persistence/src/main/java/com/pureworks/cbt/persistence/model/Quiz.java" />
@@ -131,40 +129,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBsZXZlbERVcGRhdGVkID0gR3JhZGluZ0xldmVsRFRPKCJEIiwgNjAsICJGYWlyIikK</text>
+        <text encoding="base64">ICAgIGFzc2VydChhY2Nlc3NDaGVja2VyU2VydmljZS5jYW5TZXRDbGFzc1N0dWRlbnRzKFNjaG9vbElkLmFwcGx5KHNjaG9vbCksIGNsYXNzUm9vbSksICJBY2Nlc3MgZGVuaWVkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBnTGV2ZWxBID0gbWF5QmVMZXZlbEEuZ2V0Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNsYXNzUm9vbS5nZXRTdHVkZW50cy5jbGVhcigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.{CriteriaBuilder, CriteriaQuery}</text>
+        <text>accessCheckerService.canSetClassStudents(SchoolId.apply(school), classRoom), &quot;Access denied&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgYXBwcm94RXF1YWwoZ2V0TWluU2NvcmU6IEFueSA9PiBBbnksIG1pblNjb3JlOiBEb3VibGUsIGQ6IERvdWJsZSk6IF9yb290Xy5jb20ucHVyZXdvcmtzLmNidC5wZXJzaXN0ZW5jZS5tb2RlbC5HcmFkaW5nTGV2ZWwgPT4gQm9vbGVhbiA9ID8/Pwo=</text>
+        <text encoding="base64">ICAgIHZhbCBnTGV2ZWxBID0gbWF5QmVMZXZlbEEuZ2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB+PSh4OiBEb3VibGUsIHk6IERvdWJsZSwgcHJlY2lzaW9uOiBEb3VibGUpOiBCb29sZWFuID0gewogICAgICAgIGlmICgoeCAtIHkpLmFicyA8IHByZWNpc2lvbikgdHJ1ZSBlbHNlIGZhbHNlCiAgICB9Cg==</text>
+        <text encoding="base64">ICBkZWYgYXBwcm94RXF1YWwoZ2V0TWluU2NvcmU6IEFueSA9PiBBbnksIG1pblNjb3JlOiBEb3VibGUsIGQ6IERvdWJsZSk6IF9yb290Xy5jb20ucHVyZXdvcmtzLmNidC5wZXJzaXN0ZW5jZS5tb2RlbC5HcmFkaW5nTGV2ZWwgPT4gQm9vbGVhbiA9ID8/Pwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVtLmNsZWFyKCkK</text>
+        <text encoding="base64">ICAgIGRlZiB+PSh4OiBEb3VibGUsIHk6IERvdWJsZSwgcHJlY2lzaW9uOiBEb3VibGUpOiBCb29sZWFuID0gewogICAgICAgIGlmICgoeCAtIHkpLmFicyA8IHByZWNpc2lvbikgdHJ1ZSBlbHNlIGZhbHNlCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGVtLmNsZWFyKCkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLmFzSW5zdGFuY2VPZltMaXN0W0dyYWRpbmdMZXZlbENvbmZpZ11dCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAvLyAgICB2YWwgc2Vzc2lvbiA9IGVtLmdldERlbGVnYXRlLmFzSW5zdGFuY2VPZltTZXNzaW9uXQogICAgLy8gICAgdmFsIHJlc3VsdCA9IHNlc3Npb24uY3JlYXRlQ3JpdGVyaWEoY2xhc3NPZltHcmFkaW5nTGV2ZWxDb25maWddKQogICAgLy8gICAgICAuYWRkKFJlc3RyaWN0aW9ucy5lcSgic2Nob29sLmlkIiwgc2Nob29sSWQuSWQpKQogICAgLy8gICAgICAuY3JlYXRlQ3JpdGVyaWEoImdyYWRpbmdMZXZlbHMiLCBKb2luVHlwZS5JTk5FUl9KT0lOKQogICAgLy8gICAgICAuc2V0UmVzdWx0VHJhbnNmb3JtZXIoQ3JpdGVyaWFTcGVjaWZpY2F0aW9uLkRJU1RJTkNUX1JPT1RfRU5USVRZKS5saXN0KCkKICAgIC8vICAgIHJlc3VsdC5hc1NjYWxhLm1hcChyID0+IHIuYXNJbnN0YW5jZU9mW0dyYWRpbmdMZXZlbENvbmZpZ10pLnRvTGlzdA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZSA9ICJvcmcuaGliZXJuYXRlIiBsZXZlbD0iSU5GTyIgLz4K</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIDxQcm9wZXJ0aWVzPgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJsb2ctcGF0aCI+UHJvcGVydGllc0NvbmZpZ3VyYXRpb248L1Byb3BlcnR5PgogICAgPC9Qcm9wZXJ0aWVzPgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZSA9ICJvcmcuaGliZXJuYXRlLnRvb2wuaGJtMmRkbCIgbGV2ZWw9IkVSUk9SIiAvPgo=</text>
-      </register>
       <register name="-" type="4">
-        <text>.{CriteriaBuilder, CriteriaQuery}</text>
+        <text>accessCheckerService.canSetClassStudents(SchoolId.apply(school), classRoom), &quot;Access denied&quot;</text>
       </register>
     </registers>
     <search>
