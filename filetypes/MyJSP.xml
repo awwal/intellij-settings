@@ -16,7 +16,4 @@
     <keywords3 keywords="a;body;br;button;div;footer;form;h1;h2;h3;h4;h5;head;header;hr;html;i;img;input;label;li;meta;nav;noscript;ol;p;script;section;span;style;submit;table;td;textarea;th;title;tr;ul" />
     <keywords4 keywords="alert;boolean;case;char;confirm;console;continue;do;else;false;for;forms;function;if;length;let;return;this;thows;true;var;while;with" />
   </highlighting>
-  <extensionMap>
-    <mapping ext="jsp" />
-  </extensionMap>
 </filetype>
