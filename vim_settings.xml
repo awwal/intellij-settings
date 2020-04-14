@@ -1,6 +1,20 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDwiXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>10g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
@@ -57,7 +71,237 @@
         <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/repository/UserSpec.scala" timestamp="1585484927172">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="24" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/ImageExtractorView.scala" timestamp="1585492002570">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="^" line="216" column="26" />
+        <mark key="." line="216" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizViewUi.scala" timestamp="1586083983463">
+        <mark key="'" line="70" column="19" />
+        <mark key="[" line="78" column="39" />
+        <mark key="]" line="78" column="39" />
+        <mark key="^" line="78" column="38" />
+        <mark key="." line="78" column="39" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryQuestionView.scala" timestamp="1586083476238">
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="360" column="42" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" timestamp="1585497866089">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="287" column="21" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/PublicApiUserService.scala" timestamp="1585497546635">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="76" />
+        <mark key="." line="114" column="62" />
+        <mark key="^" line="114" column="43" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" timestamp="1586084274954">
+        <mark key="'" line="303" column="0" />
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="397" column="0" />
+        <mark key="^" line="288" column="27" />
+        <mark key="." line="397" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1585495504346">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" timestamp="1585497763833">
+        <mark key="'" line="462" column="5" />
+        <mark key="^" line="459" column="25" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" timestamp="1586084139621">
+        <mark key="'" line="88" column="75" />
+        <mark key="[" line="363" column="0" />
+        <mark key="]" line="363" column="0" />
+        <mark key="." line="363" column="0" />
+        <mark key="^" line="367" column="25" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/ContainerUtil.scala" timestamp="1585493910923">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="49" column="5" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/EntityManagerQuery.scala" timestamp="1586084147356">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="160" column="27" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/AccessCheckerService.scala" timestamp="1585485468204">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="85" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="87" column="26" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryUI.scala" />
+      <jump line="55" column="21" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/SubjectController.scala" />
+      <jump line="17" column="24" filename="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" />
+      <jump line="79" column="22" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ExamInfoService.scala" />
+      <jump line="37" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ExamInfoService.scala" />
+      <jump line="58" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/QuestionBankController.scala" />
+      <jump line="404" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryUI.scala" />
+      <jump line="208" column="38" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryUI.scala" />
+      <jump line="53" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/QuestionBankController.scala" />
+      <jump line="69" column="30" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/ApiPath.scala" />
+      <jump line="49" column="2" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/ApiPath.scala" />
+      <jump line="62" column="5" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/QuestionBankQuestionsController.scala" />
+      <jump line="60" column="44" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/QuestionBankQuestionsController.scala" />
+      <jump line="147" column="6" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/QuestionTest.scala" />
+      <jump line="76" column="23" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/web/integration/QuestionBankEndPointIntTest.scala" />
+      <jump line="23" column="26" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/web/integration/QuestionBankEndPointIntTest.scala" />
+      <jump line="161" column="0" filename="$USER_HOME$/proj/Acada/server/modelconverter/src/main/scala/ng/acada/converter/EntityDTOImplicit.scala" />
+      <jump line="216" column="32" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuestionBankService.scala" />
+      <jump line="119" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryUI.scala" />
+      <jump line="59" column="14" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/QuestionBankQuestionsController.scala" />
+      <jump line="59" column="37" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/QuestionController.scala" />
+      <jump line="221" column="40" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuestionBankService.scala" />
+      <jump line="109" column="70" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryQuestionView.scala" />
+      <jump line="28" column="10" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/logic/NuggetImportTest.scala" />
+      <jump line="104" column="45" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/QuestionBankExport.scala" />
+      <jump line="63" column="36" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/QuestionBankServiceTest.scala" />
+      <jump line="61" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" />
+      <jump line="26" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" />
+      <jump line="239" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" />
+      <jump line="296" column="4" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" />
+      <jump line="318" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" />
+      <jump line="126" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/SchoolController.scala" />
+      <jump line="33" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" />
+      <jump line="372" column="2" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" />
+      <jump line="133" column="72" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" />
+      <jump line="134" column="39" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/ClassRelatedTest.scala" />
+      <jump line="66" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" />
+      <jump line="49" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" />
+      <jump line="146" column="48" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/ClassRoomController.scala" />
+      <jump line="102" column="37" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" />
+      <jump line="161" column="2" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/SchoolController.scala" />
+      <jump line="37" column="33" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/SchoolServiceTest.scala" />
+      <jump line="34" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/SchoolService.scala" />
+      <jump line="153" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/SchoolController.scala" />
+      <jump line="154" column="8" filename="$USER_HOME$/proj/Acada/server/generator/src/test/scala/ng/acada/gen/test/ReportGenTest.scala" />
+      <jump line="20" column="64" filename="$USER_HOME$/proj/Acada/server/generator/src/test/scala/ng/acada/gen/test/ReportGenTest.scala" />
+      <jump line="21" column="54" filename="$USER_HOME$/proj/Acada/server/generator/src/test/scala/ng/acada/gen/test/ReportGenTest.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/proj/Acada/server/generator/src/test/scala/ng/acada/gen/test/ReportGenTest.scala" />
+      <jump line="120" column="5" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryUI.scala" />
+      <jump line="45" column="34" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizQuestionEditComponent.scala" />
+      <jump line="57" column="62" filename="$USER_HOME$/proj/Acada/server/service/src/main/java/com/pureworks/cbt/repository/QuestionSpec.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/java/com/pureworks/cbt/repository/QuestionSpec.java" />
+      <jump line="564" column="48" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuestionService.scala" />
+      <jump line="31" column="47" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/package.scala" />
+      <jump line="29" column="63" filename="$USER_HOME$/proj/Acada/server/modelconverter/src/main/scala/ng/acada/converter/NuggetConverter.scala" />
+      <jump line="37" column="4" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/AccessCheckerService.scala" />
+      <jump line="222" column="4" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/DBTest.scala" />
+      <jump line="223" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/DBTest.scala" />
+      <jump line="201" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/QuestionTest.scala" />
+      <jump line="208" column="17" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/QuestionTest.scala" />
+      <jump line="155" column="39" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/SubjectService.scala" />
+      <jump line="52" column="20" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/repository/QuestionSpec.scala" />
+      <jump line="27" column="18" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/QuestionQueryTest.scala" />
+      <jump line="93" column="47" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/QuizController.scala" />
+      <jump line="147" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/QuizServiceTest.scala" />
+      <jump line="77" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/DBTest.scala" />
+      <jump line="133" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/QuizServiceTest.scala" />
+      <jump line="98" column="43" filename="$USER_HOME$/proj/Acada/server/service/src/test/scala/ng/acada/service/QuizServiceTest.scala" />
+      <jump line="307" column="83" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" />
+      <jump line="214" column="4" filename="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/Quiz.java" />
+      <jump line="204" column="13" filename="$USER_HOME$/proj/Acada/server/generator/src/main/scala/ng/acada/gen/reportgen/StudentReportGenerator.scala" />
+      <jump line="184" column="9" filename="$USER_HOME$/proj/Acada/server/service/src/main/java/com/pureworks/cbt/ui/ApplicationUI.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" />
+      <jump line="188" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" />
+      <jump line="254" column="15" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" />
+      <jump line="303" column="38" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" />
+      <jump line="299" column="17" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" />
+      <jump line="18" column="39" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/logic/ExamQuestionState.scala" />
+      <jump line="40" column="30" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/PagingAndSortingRepositoryEntityGraph.scala" />
+      <jump line="318" column="31" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" />
+      <jump line="376" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" />
+      <jump line="26" column="6" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/EntityGraph.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/PagingAndSortingRepositoryEntityGraph.scala" />
+      <jump line="46" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/PagingAndSortingRepositoryEntityGraph.scala" />
+      <jump line="52" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.10.6.RELEASE/spring-data-jpa-1.10.6.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaSpecificationExecutor.java" />
+      <jump line="19" column="1" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/PagingAndSortingRepositoryEntityGraph.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/PagingAndSortingRepositoryEntityGraph.scala" />
+      <jump line="68" column="19" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizViewUi.scala" />
+      <jump line="291" column="3" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" />
+      <jump line="41" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/AccessCheckerService.scala" />
+      <jump line="305" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" />
+      <jump line="67" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" />
+      <jump line="180" column="43" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" />
+      <jump line="292" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" />
+      <jump line="189" column="0" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" />
+      <jump line="89" column="75" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" />
+      <jump line="462" column="11" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" />
+      <jump line="465" column="5" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>D</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwiXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc2NhbGFNYXA6IE1hcFtTdWJqZWN0LCBCb29sZWFuXSA9IGVzLm1hcChlcyA9PiAoZXMsIHRydWUpKS50b01hcAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IC8vICBAVHJhbnNhY3Rpb25hbChyZWFkT25seSA9IHRydWUpCiAgLy8gIGRlZiBnZXRRdWl6U2V0dGluZ3NGb3JVc2VyKHVzZXI6IFVzZXIsIHF1aXpJZDogTG9uZyk6IFF1aXpTZXR0aW5nc0RUTyA9IHsKICAvLyAgICB2YWwgcXVpeklkc0ZvclN0dWRlbnQgPSBhY2Nlc3NDaGVja2VyU2VydmljZS5nZXRRdWl6SWRzRm9yVXNlcih1c2VyKQogIC8vICAgIGlmICghcXVpeklkc0ZvclN0dWRlbnQuY29udGFpbnMocXVpeklkKSkgcmV0dXJuIG51bGwKICAvLyAgICB2YWwgcXVpeiA9IGVtLmZpbmQoY2xhc3NPZltRdWl6XSwgcXVpeklkKQogIC8vICAgIC8vdHJpZ2dlciBzaXplIGNvdW50CiAgLy8gICAgcXVpei5nZXRRdWVzdGlvbkluc3RhbmNlcy5zaXplCiAgLy8gICAgTW9kZWxDb252ZXJ0ZXIudG9RdWl6U2V0dGluZ3NEVE8ocXVpeikKICAvLyAgfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucG9pLnNzLmZvcm11bGEuZnVuY3Rpb25zLlQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyAgQFRyYW5zYWN0aW9uYWwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oInNhdmluZyIpCiAgICBwcmludGxuKGNsYXNzRmllbGQuZ2V0VmFsdWUpCiAgICBwcmludGxuKGNsYXNzRmllbGQuZ2V0Q29udmVydGVkVmFsdWUp</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTGlzdHMK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhbCBhY2Nlc3MgPSBNYXAoIFR1cGxlMihxdWl6IC0+IHRydWUpKQo=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDwiXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
