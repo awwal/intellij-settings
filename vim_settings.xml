@@ -75,11 +75,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/proj/Acada/server/modelconverter/src/main/scala/ng/acada/converter/EntityDTOImplicit.scala" timestamp="1588042978537">
-        <mark key="[" line="73" column="60" />
-        <mark key="]" line="73" column="65" />
-        <mark key="^" line="73" column="65" />
-        <mark key="." line="73" column="64" />
+      <file name="$USER_HOME$/proj/Acada/server/modelconverter/src/main/scala/ng/acada/converter/EntityDTOImplicit.scala" timestamp="1588043259816">
+        <mark key="[" line="71" column="17" />
+        <mark key="]" line="71" column="23" />
+        <mark key="^" line="71" column="23" />
+        <mark key="." line="71" column="22" />
       </file>
       <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ReportService.scala" timestamp="1587947025131">
         <mark key="[" line="58" column="117" />
@@ -270,11 +270,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Some</text>
       </register>
       <register name="-" type="4">
-        <text>classroom</text>
+        <text>Some</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
