@@ -88,22 +88,45 @@
         <mark key="." line="58" column="117" />
       </file>
       <file name="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/ItemAccess.java" timestamp="1587946361254" />
-      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryQuestionView.scala" timestamp="1586083476238">
-        <mark key="[" line="359" column="0" />
-        <mark key="]" line="360" column="42" />
-      </file>
       <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/QuizSettingsComponent.scala" timestamp="1585497866089">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="^" line="287" column="21" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/PublicApiUserService.scala" timestamp="1585497546635">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="76" />
-        <mark key="." line="114" column="62" />
-        <mark key="^" line="114" column="43" />
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/resources/application.properties" timestamp="1586863432913">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="41" />
+        <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" timestamp="1586084139621">
+        <mark key="'" line="88" column="75" />
+        <mark key="[" line="363" column="0" />
+        <mark key="]" line="363" column="0" />
+        <mark key="." line="363" column="0" />
+        <mark key="^" line="367" column="25" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/resources/config/liquibase/changelog/2020_04_26_scoring_update.xml" timestamp="1587951948512">
+        <mark key="[" line="7" column="62" />
+        <mark key="]" line="7" column="64" />
+        <mark key="." line="7" column="63" />
+        <mark key="^" line="7" column="64" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/WebMvcConfigurer.scala" timestamp="1586862337800">
+        <mark key="^" line="2" column="59" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/resources/config/liquibase/master.xml" timestamp="1587951644916">
+        <mark key="[" line="33" column="57" />
+        <mark key="]" line="33" column="71" />
+        <mark key="." line="33" column="70" />
+        <mark key="^" line="33" column="71" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryQuestionView.scala" timestamp="1586083476238">
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="360" column="42" />
+      </file>
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/resources/config/liquibase/changelog/2020_03_23_quizdate.xml" timestamp="1587951434264" />
       <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/QuizService.scala" timestamp="1586084274954">
         <mark key="'" line="303" column="0" />
         <mark key="[" line="397" column="0" />
@@ -117,35 +140,11 @@
         <mark key="." line="6" column="87" />
         <mark key="^" line="6" column="88" />
       </file>
-      <file name="/Dummy.scala" timestamp="1585495504346">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" timestamp="1585497763833">
-        <mark key="'" line="462" column="5" />
-        <mark key="^" line="459" column="25" />
-      </file>
-      <file name="$USER_HOME$/proj/Acada/server/service/src/main/resources/application.properties" timestamp="1586863432913">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/AssessmentScoring.java" timestamp="1587946286006">
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="34" column="33" />
-        <mark key="^" line="34" column="33" />
-        <mark key="." line="34" column="32" />
-      </file>
-      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" timestamp="1586084139621">
-        <mark key="'" line="88" column="75" />
-        <mark key="[" line="363" column="0" />
-        <mark key="]" line="363" column="0" />
-        <mark key="." line="363" column="0" />
-        <mark key="^" line="367" column="25" />
-      </file>
-      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/ContainerUtil.scala" timestamp="1585493910923">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="49" column="5" />
+      <file name="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/AssessmentScoring.java" timestamp="1587951603688">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="71" column="2" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/EntityManagerQuery.scala" timestamp="1586084147356">
         <mark key="[" line="9" column="0" />
@@ -153,12 +152,14 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="160" column="27" />
       </file>
-      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/WebMvcConfigurer.scala" timestamp="1586862337800">
-        <mark key="^" line="2" column="59" />
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/quiz/AddedQuestionTable.scala" timestamp="1587952154775">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="48" column="29" />
+        <mark key="^" line="48" column="29" />
+        <mark key="." line="48" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="26" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/ui/view/DataEntryUI.scala" />
       <jump line="55" column="21" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/rest/SubjectController.scala" />
       <jump line="17" column="24" filename="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" />
       <jump line="96" column="0" filename="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/ExamInfo.java" />
@@ -258,48 +259,49 @@
       <jump line="89" column="75" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ClassRoomService.scala" />
       <jump line="462" column="11" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" />
       <jump line="465" column="5" filename="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/UserService.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/AssessmentScoring.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>assessmentSource</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>assessmentSource</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnNldENhY2hlUGVyaW9kKFRpbWVVbml0LkRBWVMudG9TZWNvbmRzKDEpLmludFZhbHVlKCkpCg==</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9ImNvbmZpZy9saXF1aWJhc2UvY2hhbmdlbG9nLzIwMjBfMDNfMjNfcXVpemRhdGUueG1sIiByZWxhdGl2ZVRvQ2hhbmdlbG9nRmlsZT0iZmFsc2UiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDb21wcmVzcyB0aGUgcmVzcG9uc2Ugb25seSBpZiB0aGUgcmVzcG9uc2Ugc2l6ZSBpcyBhdCBsZWFzdCAxS0IK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICBhbHRlciB0YWJsZSBxdWl6IGRyb3AgY29sdW1uIG9wZW50aW1lOwogICAgICAgICAgICBhbHRlciB0YWJsZSBxdWl6IGRyb3AgY29sdW1uIGVuZHRpbWU7CiAgICAgICAgICAgIGFsdGVyIHRhYmxlIHF1aXogYWRkIGNvbHVtbiBvcGVudGltZSAgdGltZXN0YW1wKDYpOwogICAgICAgICAgICBhbHRlciB0YWJsZSBxdWl6IGFkZCBjb2x1bW4gZW5kdGltZSAgdGltZXN0YW1wKDYpOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUaGUgY29tbWEtc2VwYXJhdGVkIGxpc3Qgb2YgbWltZSB0eXBlcyB0aGF0IHNob3VsZCBiZSBjb21wcmVzc2VkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgbG9uZyBnZXRTb3VyY2VJZCgpIHsKICAgIHJldHVybiBzb3VyY2VJZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldFNvdXJjZUlkKGxvbmcgc291cmNlSWQpIHsKICAgIHRoaXMuc291cmNlSWQgPSBzb3VyY2VJZDsKICB9CgogIHB1YmxpYyBTb3VyY2VUeXBlIGdldFNvdXJjZVR5cGUoKSB7CiAgICByZXR1cm4gc291cmNlVHlwZTsKICB9CgogIHB1YmxpYyB2b2lkIHNldFNvdXJjZVR5cGUoU291cmNlVHlwZSBzb3VyY2VUeXBlKSB7CiAgICB0aGlzLnNvdXJjZVR5cGUgPSBzb3VyY2VUeXBlOwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBFbmFibGUgcmVzcG9uc2UgY29tcHJlc3Npb24K</text>
+        <text encoding="base64">IyBDb21wcmVzcyB0aGUgcmVzcG9uc2Ugb25seSBpZiB0aGUgcmVzcG9uc2Ugc2l6ZSBpcyBhdCBsZWFzdCAxS0IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnNldENhY2hlUGVyaW9kKDM2MDApCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyBUaGUgY29tbWEtc2VwYXJhdGVkIGxpc3Qgb2YgbWltZSB0eXBlcyB0aGF0IHNob3VsZCBiZSBjb21wcmVzc2VkCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC8vICBAVHJhbnNhY3Rpb25hbChyZWFkT25seSA9IHRydWUpCiAgLy8gIGRlZiBnZXRRdWl6U2V0dGluZ3NGb3JVc2VyKHVzZXI6IFVzZXIsIHF1aXpJZDogTG9uZyk6IFF1aXpTZXR0aW5nc0RUTyA9IHsKICAvLyAgICB2YWwgcXVpeklkc0ZvclN0dWRlbnQgPSBhY2Nlc3NDaGVja2VyU2VydmljZS5nZXRRdWl6SWRzRm9yVXNlcih1c2VyKQogIC8vICAgIGlmICghcXVpeklkc0ZvclN0dWRlbnQuY29udGFpbnMocXVpeklkKSkgcmV0dXJuIG51bGwKICAvLyAgICB2YWwgcXVpeiA9IGVtLmZpbmQoY2xhc3NPZltRdWl6XSwgcXVpeklkKQogIC8vICAgIC8vdHJpZ2dlciBzaXplIGNvdW50CiAgLy8gICAgcXVpei5nZXRRdWVzdGlvbkluc3RhbmNlcy5zaXplCiAgLy8gICAgTW9kZWxDb252ZXJ0ZXIudG9RdWl6U2V0dGluZ3NEVE8ocXVpeikKICAvLyAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyBFbmFibGUgcmVzcG9uc2UgY29tcHJlc3Npb24K</text>
       </register>
     </registers>
   </component>
