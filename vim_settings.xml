@@ -77,11 +77,11 @@
     <filemarks>
       <file name="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/AssessmentResult.java" timestamp="1589252908084" />
       <file name="$USER_HOME$/proj/Acada/server/persistence/target/generated-sources/annotations/com/pureworks/cbt/persistence/model/AssessmentConfig_.java" timestamp="1589274830456" />
-      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ReportService.scala" timestamp="1589276522423">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="59" column="62" />
+      <file name="$USER_HOME$/proj/Acada/server/service/src/main/scala/com/pureworks/cbt/service/ReportService.scala" timestamp="1589278236494">
+        <mark key="[" line="59" column="62" />
+        <mark key="]" line="59" column="74" />
+        <mark key="." line="59" column="73" />
+        <mark key="^" line="59" column="74" />
       </file>
       <file name="$USER_HOME$/proj/Acada/server/persistence/src/main/java/com/pureworks/cbt/persistence/model/Quiz.java" timestamp="1589276211943">
         <mark key="'" line="44" column="4" />
